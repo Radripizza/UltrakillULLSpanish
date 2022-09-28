@@ -1555,7 +1555,7 @@
         
         "subtitles_gabriel_taunt1": "La luz es la perfección",
         "subtitles_gabriel_taunt2": "Desafías a la luz",
-        "subtitles_gabriel_taunt3": "Un mero objetivo",
+        "subtitles_gabriel_taunt3": "Un mero objeto",
         "subtitles_gabriel_taunt4": "Ni. Siquiera. Mortal.",
         "subtitles_gabriel_taunt5": "Eres menos que nada",
         "subtitles_gabriel_taunt6": "Tonterías, máquina. Tonterías.",
@@ -1589,12 +1589,12 @@
         "subtitles_mandalore_attack1": "Automático completo",
         "subtitles_mandalore_attack2": "Automático más completo",
         
-        "subtitles_mandalore_phaseChangeFirst1": "<color=#FFC49E>¡A través de la magia de los druidas, aumenté mi velocidad!</color>",
+        "subtitles_mandalore_phaseChangeFirst1": "<color=#FFC49E>¡A través de la magia de los druidas, aumento mi velocidad!</color>",
         "subtitles_mandalore_phaseChangeFirst2": "<color=#9EE6FF>Solo golpéalo mierda</color>",
         "subtitles_mandalore_phaseChangeSecond1": "<color=#FFC49E>¡Siente mi máxima velocidad!</color>",
         "subtitles_mandalore_phaseChangeSecond2": "<color=#9EE6FF>Más despacio</color>",
         "subtitles_mandalore_phaseChangeThird1": "<color=#9EE6FF>¡Usa la arena!</color>",
-        "subtitles_mandalore_phaseChangeThird2": "<color=#FFC49E>¡Estoy alcanzando!</color>",
+        "subtitles_mandalore_phaseChangeThird2": "<color=#FFC49E>¡La estoy alcanzando!</color>",
         
         "subtitles_mandalore_defeated": "<color=#9EE6FF>Oh genial, ahora perdimos la pelea, fantástico</color>",
         
