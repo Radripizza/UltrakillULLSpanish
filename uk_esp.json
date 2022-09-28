@@ -801,7 +801,7 @@
 		"levelName_primeSecond": "???",
 		"levelName_primeThird": "???",
 
-		"levelName_cybergrind": "CIBER RUTINA",
+		"levelName_cybergrind": "CIBERRUTINA",
 		"levelName_sandbox": "SANDBOX"
 	},
 	"levelChallenges":{
@@ -839,72 +839,72 @@
 
 	},
 	"levelTips":{
-		"leveltips_preludeSecond1": "",
-		"leveltips_preludeSecond2": "",
+		"leveltips_preludeSecond1": "Las <color=orange>Armas Hitscan</color> como el Revólver hacen <color=orange>daño local.</color>.",
+		"leveltips_preludeSecond2": "Los <color=orange>HEADSHOTS</color> infligen <color=orange>2x</color> de daño y los <color=orange>disparo a los miembros</color> infligen <color=orange>1.5x</color> de daño.",
 
-		"leveltips_preludeThird1": "",
-		"leveltips_preludeThird2": "",
-		"leveltips_preludeThird3": "",
+		"leveltips_preludeThird1": "<color=orange>Impulso</color>: Totalmente invencible, cuesta estamina.",
+		"leveltips_preludeThird2": "<color=orange>Deslizar</color>: Mayor distancia, sin invencibilidad.",
+		"leveltips_preludeThird3": "<color=orange>Salto</color>: Rápidamente fuera del alcance cuerpo a cuerpo, menos control",
 
-		"leveltips_preludeFourth1": "",
-		"leveltips_preludeFourth2": "",
+		"leveltips_preludeFourth1": "<color=orange>Parry de Escopeta</color>:",
+		"leveltips_preludeFourth2": "Un disparo de escopeta a un <color=orange>Punto Blanco</color> en el <color%3Dorange>torso</color> justo antes de que caiga un ataque enemigo infligirá daño masivo.",
 
-		"leveltips_preludeFifth": "",
+		"leveltips_preludeFifth": "Las <Color=orange>Señales de sonido de ataque</color> te permite realizar un seguimiento de los enemigos que están fuera de tu visión.",
 
-		"leveltips_limboFirst": "",
+		"leveltips_limboFirst": "Algunos enemigos emiten <color=orange>sonidos inactivos</color> para facilitar su seguimiento.",
 
-		"leveltips_limboSecond": "",
+		"leveltips_limboSecond": "Utiliza los imanes del <color=cyan>ATTRACTOR NAILGUN</color> para formar <color=orange>orbes</color> concentrados de clavos que pueden <color=orange>desplazarse</color> utilizando la fuerza de tracción <color=orange>de otros imanes</color>.",
 
-		"leveltips_limboThird1": "",
-		"leveltips_limboThird2": "",
-		"leveltips_limboFourth": "",
+		"leveltips_limboThird1": "Los enemigos <color=orange>pueden dañar</color> a otros tipos de enemigos.",
+		"leveltips_limboThird2": "Con pensamientos y posicionamientos rápidos, los enemigos poderosos pueden convertirse en armas poderosas.",
+		"leveltips_limboFourth": "Los imanes del <color=cyan>ATTRACTOR NAILGUN</color> se pueden unir a los enemigos para que los objetivos móviles sean fáciles de golpear con clavos.",
 
-		"leveltips_lustFirst": "",
+		"leveltips_lustFirst": "Los enemigos <color=orange>gritan</color> cuando caen desde una altura <color=orange>fatal</color>.",
 
-		"leveltips_lustSecond1": "",
-		"leveltips_lustSecond2": "",
-		"leveltips_lustSecond3": "",
+		"leveltips_lustSecond1": "<color=orange>REBOTE DE SLAM</color>: ",
+		"leveltips_lustSecond2": "salta inmediatamente después de aterrizar de un <color=orange>PISOTON</color> para saltar más alto.",
+		"leveltips_lustSecond3": "Cuanto más largo sea el golpe en el suelo, mayor será el rebote.",
 
-		"leveltips_lustThird": "",
+		"leveltips_lustThird": "Todas las variaciones del <color=orange>RAILCANNON</color> comparten el mismo tiempo de reutilización. Elija sabiamente qué variación se adapta mejor a la situación.",
 
-		"leveltips_lustFourth1": "",
-		"leveltips_lustFourth2": "",
+		"leveltips_lustFourth1": "<color=orange>DESLIZAR</color> conservará el impulso anterior durante un breve período de tiempo.",
+		"leveltips_lustFourth2": "Encadena los <color=orange>SALTOS DESLIZADOS</color> rápidos después de un <color=cyan>SALTO IMPULSADO</color> te dará una velocidad sostenida increíble.",
 
-		"leveltips_gluttonyFirst": "",
-		"leveltips_gluttonySecond1": "",
-		"leveltips_gluttonySecond2": "",
+		"leveltips_gluttonyFirst": "Los <color=orange>Peligros ambientales</color> Como los líquidos dañinos también lastimarán a los enemigos.",
+		"leveltips_gluttonySecond1": "Si tienes problemas para mantenerte al día con un enemigo duro <color=orange>retrocede y observa</color>.",
+		"leveltips_gluttonySecond2": "Cada enemigo tiene su <color=orange>decir</color> y sus <color=orange>patrones</color> Y aprender eso puede ser la clave para la victoria.",
 
-		"leveltips_greedFirst": "",
-		"leveltips_greedSecond": "",
-		"leveltips_greedThird": "",
-		"leveltips_greedFourth": "",
+		"leveltips_greedFirst": "Las armas <color=orange>HITSCAN</color> se pueden usar para disparar la <color=cyan>GRANADA</color> de la escopeta en el aire para aumentar su daño y radio de explosión.",
+		"leveltips_greedSecond": "Los <color=orange>POWER-UPS</color> se pueden apilar.",
+		"leveltips_greedThird": "Golpear a un enemigo con solo el <color=orange>borde</color> de una <color=orange>explosión</color> lo lanzará sin causar mucho daño, lo que lo convierte en una herramienta arriesgada pero efectiva contra los <color=orange>Stalkers</color>.",
+		"leveltips_greedFourth": "Las <color=orange>monedas</color> aéreas se pueden disparar con cualquier arma <color=orange>hitscan</color>.",
 
-		"leveltips_primeFirst1": "",
-		"leveltips_primeFirst2": "",
+		"leveltips_primeFirst1": "Los <color=orange>Parries</color> se pueden utilizar como una poderosa herramienta de curación.",
+		"leveltips_primeFirst2": "Hacerle parry a cualquier proyectil o ataque cuerpo a cuerpo enemigo repondrá <color=red>completamente tu salud</color> hasta el límite de daño duro.",
         
-        "leveltips_wrathFirst": "",
-        "leveltips_wrathSecond": "",
-        "leveltips_wrathThird": "",
-        "leveltips_wrathFourth1": "",
-        "leveltips_wrathFourth2": "",
+        "leveltips_wrathFirst": "La caída <color=orange>bajo el agua</color> es lenta, pero un <color=orange>PISOTON</color> permite volver rápidamente al suelo.",
+        "leveltips_wrathSecond": "Al <color=orange>deslizarse</color> sobre el agua, <color=orange>se salta</color> sobre su superficie.",
+        "leveltips_wrathThird": "Si un enemigo es <color=orange>bendecido</color> por un <color=orange>ídolo</color>, se forma una conexión visible directa entre ambos, lo que permite <color=orange>localizar</color> y destruir fácilmente al protector.",
+        "leveltips_wrathFourth1": "Las <color=orange>explosiones</color> desvían <color=orange>proyectiles</color>.",
+        "leveltips_wrathFourth2": "Si una explosión se produce justo donde un enemigo dispara un proyectil, puede ser <color=orange>contraproducente</color> y <color=orange>golpealos</color> en su lugar.",
         
-        "leveltips_heresyFirst1": "",
-        "leveltips_heresyFirst2": "",
-        "leveltips_heresySecond1": "",
-        "leveltips_heresySecond2": "",
+        "leveltips_heresyFirst1": "El espacio de un <color=orange>gran</color> estadio puede utilizarse en beneficio propio.",
+        "leveltips_heresyFirst2": "El uso del entorno para <color=orange>romper la línea de visión</color> con los enemigos permite un respiro y tiempo para considerar la <color=orange>priorización de objetivos</color>.",
+        "leveltips_heresySecond1": "¡<color=orange>NO</color> DESPERDICIES LA ESTAMINA!",
+        "leveltips_heresySecond2": "Impulsarte <color=orange>innecesariamente</color> mientras se lucha contra enemigos muy <color=orange>agresivos</color> hará que no quede nada cuando más se necesite.",
 
-		"leveltips_cybergrind": "",
-        "leveltips_sandbox1": "",
-        "leveltips_sandbox2": ""
+		"leveltips_cybergrind": "Si vuela demasiado lejos de la arena, la sobrecarga del <color=lime>PUMP CHARGE</color> es una buena forma de regresar.",
+        "leveltips_sandbox1": "<color=orange>TRUCOS</color> se pueden habilitar en otros niveles ingresando",
+        "leveltips_sandbox2": "<color=orange>↑ ↑ ↓ ↓ ← → ← → B A</color>\n\nHabilitarlo trucos desactivará los rangos."
 	},
 	"shop":{
-        "shop_tipofthedayTitle": "",
-        "shop_tipoftheday": "",
-        "shop_weapons": "",
-        "shop_monsters": "",
-        "shop_cybergrind": "",
-        "shop_sandbox": "",
-        "shop_returnToMission": "",
+        "shop_tipofthedayTitle": "CONSEJO DEL DIA",
+        "shop_tipoftheday": "CONSEJO DEL DIA",
+        "shop_weapons": "ARMAS",
+        "shop_monsters": "ENEMIGOS",
+        "shop_cybergrind": "CIBERUTINA",
+        "shop_sandbox": "SANDBOX",
+        "shop_returnToMission": "VOLVER A LA MISIÓN",
         
         "shop_cybergrindDescription1": "",
         "shop_cybergrindDescription2": "",
