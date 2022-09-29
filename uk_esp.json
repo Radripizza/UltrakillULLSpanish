@@ -53,12 +53,12 @@
         "style_triplekill": "<color=orange>MUERTE TRIPLE</color>",
         
         "style_conductor": "<color=cyan>CONDUCTOR</color>",
-        "style_crushed": "TRITURADO",
+        "style_crushed": "APLASTADO",
         "style_fall": "CAÍDA",
         "style_minced": "<color=grey>PICADO</color>",
         "style_outofbounds": "<color=grey>FUERA DE LOS LIMITES</color>",
         "style_shredded": "TRITURADO",
-        "style_zapped": "EXAGERAR",
+        "style_zapped": "ELECTROCUTADO",
         
         "style_d": "",
         "style_c": "",
