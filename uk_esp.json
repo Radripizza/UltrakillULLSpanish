@@ -805,18 +805,18 @@
 		"levelName_sandbox": "SANDBOX"
 	},
 	"levelChallenges":{
-		"challenges_preludeFirst": "CONSIGUE 5 MUERTES CON UN SOLO PANEL DE VIDRIO",
-		"challenges_preludeSecond": "GANAR EL ENCUENTRO SECRETO",
+		"challenges_preludeFirst": "CONSIGUE 5 MUERTES ROMPIENDO UN SOLO PANEL DE VIDRIO",
+		"challenges_preludeSecond": "GANA EL ENCUENTRO SECRETO",
 		"challenges_preludeThird": "MATA SOLO A UN ENEMIGO",
-		"challenges_preludeFourth": "DESLICE INTERRUMPIDO POR 17 SEGUNDOS",
-		"challenges_preludeFifth": "NO INFLIGAS DAÑOS FATALES A NINGUN ENEMIGO",
+		"challenges_preludeFourth": "DESLIZATE ININTERRUMPIDO POR 17 SEGUNDOS",
+		"challenges_preludeFifth": "NO INFLIJAS DAÑO FATAL A NINGUN ENEMIGO",
 
 		"challenges_limboFirst": "COMPLETA EL NIVEL EN MENOS DE 10 SEGUNDOS",
-		"challenges_limboSecond": "NO AGARRAR CRANEOS",
-		"challenges_limboThird": "GANAR EL ENCUENTRO SECRETO",
-		"challenges_limboFourth": "NO AGARRAR CRANEOS",
+		"challenges_limboSecond": "NO AGARRES NINGUN CRANEO",
+		"challenges_limboThird": "GANA EL ENCUENTRO SECRETO",
+		"challenges_limboFourth": "NO AGARRES NINGUN CRANEO",
 
-		"challenges_lustFirst": "NO ABRIR NINGUNA PUERTA",
+		"challenges_lustFirst": "NO ABRAS NINGUNA PUERTA",
 		"challenges_lustSecond": "COMPLETA EL NIVEL EN MENOS DE 60 SEGUNDOS",
 		"challenges_lustThird": "NO TOQUES EL AGUA",
 		"challenges_lustFourth": "DESVIA UN GOLPE",
@@ -824,9 +824,9 @@
 		"challenges_gluttonyFirst": "MATA A UN MINDFLAYER CON ACIDO",
 		"challenges_gluttonySecond": "TIRA A GABRIEL AL FOSO",
 
-		"challenges_greedFirst": "NO ACTIVAR NINGUN ENEMIGO",
-		"challenges_greedSecond": "MATAR AL INSURGENTE EN MENOS DE 10 SEGUNDOS",
-		"challenges_greedThird": "NO RECOGER LA ANTORCHA",
+		"challenges_greedFirst": "NO ACTIVES NINGUN ENEMIGO",
+		"challenges_greedSecond": "MATA AL INSURGENTE EN MENOS DE 10 SEGUNDOS",
+		"challenges_greedThird": "NO RECOJAS LA ANTORCHA",
 		"challenges_greedFourth": "LLEGA A V2 EN MENOS DE 18 SEGUNDOS",
         
         "challenges_wrathFirst": "NO TOQUES EL AGUA",
@@ -834,8 +834,8 @@
 		"challenges_wrathThird": "NO TOQUES EL AGUA",
 		"challenges_wrathFourth": "LLEGA A LA SUPERFICIE EN MENOS DE 10 SEGUNDOS",
         
-        "challenges_heresyFirst": "GANAR EL ENCUENTRO SECRETO",
-		"challenges_heresySecond": "GOLPEA A GABRIEL EN EL TECHO"
+        "challenges_heresyFirst": "GANA EL ENCUENTRO SECRETO",
+		"challenges_heresySecond": "GOLPEA A GABRIEL CONTRA EL TECHO"
 
 	},
 	"levelTips":{
