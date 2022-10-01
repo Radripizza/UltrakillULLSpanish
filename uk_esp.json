@@ -1106,8 +1106,8 @@
 	},
     
     "cheats":{
-        "cheats_disclaimer1": "Habilitar trucos significa que no obtendras un rango al completar un nivel y no se guardará una puntuación alta en la Ciber Rutina",
-        "cheats_disclaimer2": "<color=green>Presiona <color=white>Ñ</color> o <color=white>Inicio</color> Después de habilitar los trucos para ver el menú.</color>",
+        "cheats_disclaimer1": "Habilitar trucos significa que NO obtendrás un rango al completar un nivel y no se guardará una puntuación alta en la Ciber Rutina",
+        "cheats_disclaimer2": "<color=green>Presiona <color=white>Ñ</color> o <color=white>Inicio</color> después de habilitar los trucos para ver el menú.</color>",
         "cheats_disclaimerYes": "ACTIVAR TRUCOS",
         "cheats_disclaimerNo": "CANCELAR",
         
@@ -1574,7 +1574,7 @@
         
         "subtitles_gabriel_phaseChange": "¡Suficiente!",
         
-        "subtitles_gabriel_defeated1": "Que..?",
+        "subtitles_gabriel_defeated1": "Qué..?",
         "subtitles_gabriel_defeated2": "¿Cómo es posible?",
         "subtitles_gabriel_defeated3": "Superado por esta...",
         "subtitles_gabriel_defeated4": "esta cosa..?",
@@ -1583,26 +1583,26 @@
         "subtitles_gabriel_defeated7": "Que tus males sean muchos",
         "subtitles_gabriel_defeated8": "y tus días pocos",
         
-        "subtitles_mandalore_intro1": "<color=#FFC49E>Finalmente, nuestro rompecabezas de espera ha terminado.</color>",
-        "subtitles_mandalore_intro2": "<color=#9EE6FF>¿Que?</color>",
+        "subtitles_mandalore_intro1": "<color=#FFC49E>Finalmente, hemos resuelto el puzzle de esperar.</color>",
+        "subtitles_mandalore_intro2": "<color=#9EE6FF>¿Qué?</color>",
         
-        "subtitles_mandalore_taunt1": "<color=#9EE6FF>Voy a envenenarte mierda</color>",
-        "subtitles_mandalore_taunt2": "<color=#9EE6FF>Voy a dispararte con un arma</color>",
-        "subtitles_mandalore_taunt3": "<color=#FFC49E>No te imaginas a lo que te enfrentarás aquí</color>",
+        "subtitles_mandalore_taunt1": "<color=#9EE6FF>Voy a envenenarte joder</color>",
+        "subtitles_mandalore_taunt2": "<color=#9EE6FF>Te voy a disparar con un arma</color>",
+        "subtitles_mandalore_taunt3": "<color=#FFC49E>Ni te imaginas a lo que te enfrentarás aquí</color>",
         "subtitles_mandalore_taunt4": "<color=#FFC49E>Mantén la calma</color>",
         "subtitles_mandalore_taunt5": "<color=#9EE6FF>¿Por qué estamos en el pasado?</color>",
         
-        "subtitles_mandalore_attack1": "Automático completo",
-        "subtitles_mandalore_attack2": "Automático más completo",
+        "subtitles_mandalore_attack1": "Automático Completo",
+        "subtitles_mandalore_attack2": "Atomáticamente Completo",
         
-        "subtitles_mandalore_phaseChangeFirst1": "<color=#FFC49E>¡A través de la magia de los druidas, aumento mi velocidad!</color>",
-        "subtitles_mandalore_phaseChangeFirst2": "<color=#9EE6FF>Solo golpéalo mierda</color>",
+        "subtitles_mandalore_phaseChangeFirst1": "<color=#FFC49E>¡Por la magia de los druidas, aumento mi velocidad!</color>",
+        "subtitles_mandalore_phaseChangeFirst2": "<color=#9EE6FF>Golpéalo y ya</color>",
         "subtitles_mandalore_phaseChangeSecond1": "<color=#FFC49E>¡Siente mi máxima velocidad!</color>",
         "subtitles_mandalore_phaseChangeSecond2": "<color=#9EE6FF>Más despacio</color>",
         "subtitles_mandalore_phaseChangeThird1": "<color=#9EE6FF>¡Usa la arena!</color>",
-        "subtitles_mandalore_phaseChangeThird2": "<color=#FFC49E>¡La estoy alcanzando!</color>",
+        "subtitles_mandalore_phaseChangeThird2": "<color=#FFC49E>¡Estoy llegando!</color>",
         
-        "subtitles_mandalore_defeated": "<color=#9EE6FF>Oh genial, ahora perdimos la pelea, fantástico</color>",
+        "subtitles_mandalore_defeated": "<color=#9EE6FF>Oh genial, hemos perdimos, fantástico</color>",
         
         "subtitles_minosPrime_intro1": "Ahh...",
         "subtitles_minosPrime_intro2": "Libre al fin",
@@ -1640,7 +1640,7 @@
         "subtitles_gabrielHeresy1": "Máquina, sé que estás aquí",
         "subtitles_gabrielHeresy2": "Puedo oler el hedor insolente de tus manos ensangrentadas",
         "subtitles_gabrielHeresy3": "Te espero abajo...",
-        "subtitles_gabrielHeresy4": "VEN A MI",
+        "subtitles_gabrielHeresy4": "VEN A MÍ",
         
         "subtitles_gabrielSecondIntro1": "El Limbo",
         "subtitles_gabrielSecondIntro2": "La Lujuria",
@@ -1658,24 +1658,24 @@
         "subtitles_gabrielSecondFight1": "Máquina",
         "subtitles_gabrielSecondFight2": "Te voy a cortar",
         "subtitles_gabrielSecondFight3": "Romperte en pedazos",
-        "subtitles_gabrielSecondFight4": "¡Extenderé la sangre de tu forma profana a través de las ESTRELLAS!",
+        "subtitles_gabrielSecondFight4": "¡Extenderé la sangre de tu profana forma a través de las ESTRELLAS!",
         "subtitles_gabrielSecondFight5": "¡Te aplastaré hasta que las mismas CHISPAS CLAMEN POR MISERICORDIA!",
-        "subtitles_gabrielSecondFight6": "Mis manos SE DELEITARAN ACABANDO CONTIGO...",
-        "subtitles_gabrielSecondFight7": "AQUI",
+        "subtitles_gabrielSecondFight6": "Mis manos SE DELEITARÁN ACABANDO CONTIGO...",
+        "subtitles_gabrielSecondFight7": "AQUÍ",
         "subtitles_gabrielSecondFight8": "Y",
         "subtitles_gabrielSecondFight9": "¡AHORA!",
         
         "subtitles_gabrielSecondPhaseChange": "¿¡ES LO MEJOR QUE TIENES!?",
         
-        "subtitles_gabrielSecondTaunt1": "NECESITAS. MAS. ¡PODER!",
+        "subtitles_gabrielSecondTaunt1": "NECESITAS. MÁS. ¡PODER!",
         "subtitles_gabrielSecondTaunt2": "¡Ven a por un poco de SANGRE!",
-        "subtitles_gabrielSecondTaunt3": "¿Qué es esta SENSACION?",
-        "subtitles_gabrielSecondTaunt4": "¡NADA MAS QUE CHATARRA!",
-        "subtitles_gabrielSecondTaunt5": "¡TE ESTAS OXIDANDO MAQUINA!",
-        "subtitles_gabrielSecondTaunt6": "¿¡ESTO ES CON LO QUE PERDI!?",
+        "subtitles_gabrielSecondTaunt3": "¿Qué es esta SENSACIÓN?",
+        "subtitles_gabrielSecondTaunt4": "¡NADA MÁS QUE CHATARRA!",
+        "subtitles_gabrielSecondTaunt5": "¡TE ESTAS OXIDANDO MÁQUINA!",
+        "subtitles_gabrielSecondTaunt6": "¿¡PERDÍ CONTRA ESTO!?",
         "subtitles_gabrielSecondTaunt7": "¡HORA DE CORREGIR MI ERROR!",
         "subtitles_gabrielSecondTaunt8": "¡ARREGLEMOS ESTO!",
-        "subtitles_gabrielSecondTaunt9": "¡TE MOSTRARE LA JUSTICIA DIVINA!",
+        "subtitles_gabrielSecondTaunt9": "¡TE MOSTRARÉ LA JUSTICIA DIVINA!",
         "subtitles_gabrielSecondTaunt10": "¡Vamos, máquina! ¡Lucha contra mí como un ANIMAL!",
         "subtitles_gabrielSecondTaunt11": "¡Nunca había tenido una pelea así!",
         "subtitles_gabrielSecondTaunt12": "¡Muéstrame para qué estás hecho!",
@@ -1685,14 +1685,14 @@
         "subtitles_gabrielSecondDefeated1": "¿¡Dos veces!?",
         "subtitles_gabrielSecondDefeated2": "Vencido por un objeto... ¡Dos veces!",
         "subtitles_gabrielSecondDefeated3": "Sólo he conocido el sabor de la victoria,",
-        "subtitles_gabrielSecondDefeated4": "Pero este sabor... Es-",
+        "subtitles_gabrielSecondDefeated4": "Pero este sabor... es-",
         "subtitles_gabrielSecondDefeated5": "¿Es esta mi sangre?",
         "subtitles_gabrielSecondDefeated6": "Nunca he conocido tal...",
         "subtitles_gabrielSecondDefeated7": "¿Tal… alivio…?",
         "subtitles_gabrielSecondDefeated8": "N-Necesito un tiempo para pensar...",
         "subtitles_gabrielSecondDefeated9": "Nos volveremos a encontrar, máquina",
         "subtitles_gabrielSecondDefeated10": "Que tus males sean muchos...",
-        "subtitles_gabrielSecondDefeated11": "y tus días pocos"
+        "subtitles_gabrielSecondDefeated11": "y tus días pocos."
         
     },
     
@@ -1702,7 +1702,7 @@
         "hud_majorAssists": "<color=#4C99E6>LAS AYUDAS MAYORES ESTAN HABILITADAS</color>",
         "hud_overhealOrb1": "Los <color=red>ORDES DE ALMAS ROJOS</color> dan <color=lime>200 DE VIDA</color>",
         "hud_overhealOrb2": "Esta sobrecarga no puede regenerarse con sangre",
-        "hud_itemGrabError": "<color=red>ERROR: LA PUERTA DE BLOQUEO SE CERRARIA</color>",
+        "hud_itemGrabError": "<color=red>ERROR: LA PUERTA DE BLOQUEO SE CERRARÍA</color>",
         "hud_levelStats1": "",
         "hud_levelStats2": "",
         "hud_outOfBounds": "Whoops, lo siento por eso.",
