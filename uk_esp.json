@@ -1159,35 +1159,35 @@
     },
     
     "enemybios":{
-        "enemyBios_filth_1": "",
-        "enemyBios_filth_2": "",
-        "enemyBios_filth_3": "",
-        "enemyBios_filth_4": "",
+        "enemyBios_filth_1": "Los Husks son manifestaciones físicas de las almas de los condenados.",
+        "enemyBios_filth_2": "Su forma física esta basada en el valor de su alma original, la cual es determinada por la fuerza de su voluntad y su prevalencia ante la conciencia púlica: las almas vivientes que los recuerdan.",
+        "enemyBios_filth_3": "los Filth son los Husks más débiles, cuyas almas fueron tan débiles e insignificantes como para formar un cuerpo físico completo.",
+        "enemyBios_filth_4": "Incluso entre los Husks, estos son los menos inteligentes, motivados solamente por el hambre",
         
-        "enemyBios_filth_strategy1": "",
-        "enemyBios_filth_strategy2": "",
+        "enemyBios_filth_strategy1": "La mayoría de las armas son capaces de fácilmente acabar con los Filth, pero sus poderosas mandíbulas y grandes números pueden abrumar un objetivo rápidamente si los subestiman.",
+        "enemyBios_filth_strategy2": "Los explosivos son la mejor forma de lidiar con aglomeraciones, pero cualquier arma que pueda darle a más de un objetivo será eficiente.",
         
-        "enemyBios_stray_1": "",
-        "enemyBios_stray_2": "",
-        "enemyBios_stray_3": "",
+        "enemyBios_stray_1": "Aunque su alta estatura pueda ser algo intimidante, los Strays le tienen miedo al peligro y tratarán de ubicarse a una distancia segura, atacando solo con proyectiles formados por Energía Infernal.",
+        "enemyBios_stray_2": "Pese a que controlar y manifestar esta energía es una tarea difícil, los Strays tienen una muy baja inteligencia y solo pueden hacerlo mediante su instinto.",
+        "enemyBios_stray_3": "No obstante, los humanos no fueron capaces de replicar este nivel de puntería y control, particularmente la habilidad del Stray de causar que los orbes de energía ignoren selectivamente a otros Husks.",
         
-        "enemyBios_stray_strategy1": "",
-        "enemyBios_stray_strategy2": "",
+        "enemyBios_stray_strategy1": "Muchas armas son efectivas contra ellos, pero un headshot de revolver es la forma más rápida y segura de eliminar un Stray.",
+        "enemyBios_stray_strategy2": "Debido a su naturaleza estática y baja cadencia de ataque, son un excelente blanco para deflectar proyectiles.",
         
-        "enemyBios_schism_1": "",
-        "enemyBios_schism_2": "",
+        "enemyBios_schism_1": "El resultado de dos almas intentando manifestarse un un mismo espacio, causando una amalgama de dos cuerpos físicos.",
+        "enemyBios_schism_2": "Debido a la masa corporal duplicada, son bastante resistentes al daño, pero tienen muy mal control motor y por ende no pueden apuntar con precisión, acudiendo a ráfagas de orbes de energía in la dirección general de su oponente.",
         
-        "enemyBios_schism_strategy1": "",
-        "enemyBios_schism_strategy2": "",
-        "enemyBios_schism_strategy3": "",
+        "enemyBios_schism_strategy1": "Los headshots con el revolver Piercer cargado son una herramienta eficiente para acabar rápidamente con los Schisms, aunque su cabeza descolocada hacen de apuntar algo dificil para los inexpertos.",
+        "enemyBios_schism_strategy2": "Un disparo singular a quemarropa con la escopeta Pump Charge cargada 2 veces puede matarlos instantáneamente.",
+        "enemyBios_schism_strategy3": "Debido a su mala puntería, no son blancos prioritarios, pero la mera cantidad de proyectiles pueden hacer que esqivarlos sea algo difícil en encuentros aglomerados.",
         
-        "enemyBios_soldier_1": "",
-        "enemyBios_soldier_2": "",
-        "enemyBios_soldier_3": "",
+        "enemyBios_soldier_1": "Los Soldados son una versión mejorada de los Strays, cuyos implantes tecnológicos fueron hurgados de máquinas rotas para canalizar Energía Infernal con mayor eficiencia.",
+        "enemyBios_soldier_2": "Este aumento de poder les da a los Soldados más confianza, causando que estos sean más agresivos que los Strays normales.",
+        "enemyBios_soldier_3": "A pesar de sus mejoras, su inteligencia permanece baja y todavía no se ha podido determinar quién o que los mejoró realmente.",
         
-        "enemyBios_soldier_strategy1": "",
-        "enemyBios_soldier_strategy2": "",
-        "enemyBios_soldier_strategy3": "",
+        "enemyBios_soldier_strategy1": "La escopeta es el arma a elegir contra los Soldados, siempre y cuando su uso sea audaz para no permitirles que se protejan con ataques cuerpo a cuerpo.",
+        "enemyBios_soldier_strategy2": "Como los Soldados cargan sus disparos en frente de ellos en vez de arriba, la carga es fácil de interrumpir mediante un disparo preciso de revolver para causar una muerte explosiva.",
+        "enemyBios_soldier_strategy3": "Gracias a sus mejoras, los Soldados son capaces de resistir explosiones normales casi sin daños. Las explosiones rojas, siendo estas las más poderosas, puede atravesar su armadura, y no las pueden bloquear si se encuentran en el aire.",
         
         "enemyBios_ferryman_1": "",
         "enemyBios_ferryman_2": "",
