@@ -2,7 +2,9 @@
 	"metadata": {
 		"langName": "te-mp",
 		"langAuthor": "Clearwater",
-		"langVersion": "0.1"
+		"langVersion": "0.1",
+
+        "minimumModVersion": "0.8.2"
 	},
     
 	"body": {
@@ -11,13 +13,13 @@
     
     "style":{
         "style_airslam": "PISOTÓN AÉREO",
-        "style_airshot": "<color=cyan>DISPARO AÉREO</color>",
-        "style_attraptor": "<color=cyan>ATRACTIVO</color>",
-        "style_arsenal": "<color=cyan>ARSENAL</color>",
+        "style_airshot": "DISPARO AÉREO",
+        "style_attraptor": "ATRACTIVO",
+        "style_arsenal": "ARSENAL",
         "style_bigheadshot": "GRAN HEADSHOT",
         "style_bigkill": "GRAN MATANZA",
         "style_bigfistkill": "GRAN GOLPE",
-        "style_bipolar": "<color=cyan>BIPOLAR</color>",
+        "style_bipolar": "BIPOLAR",
         "style_cannonballed": "BOLA DE CAÑON",
         "style_catapaulted": "CATAPULTADO",
         "style_chargeback": "CONTRACARGA",
@@ -25,42 +27,44 @@
         "style_criticalpunch": "GOLPE CRÍTICO",
         "style_disrespect": "FALTA DE RESPETO",
         "style_doublekill": "DOBLE MUERTE",
-        "style_downtosize": "<color=cyan>A LA MEDIDA</color>",
-        "style_enraged": "<color=red>ENFURECIDO</color>",
+        "style_downtosize": "A LA MEDIDA",
+        "style_enraged": "ENFURECIDO",
         "style_exploded": "EXPLOTADO",
-        "style_finishedoff": "<color=cyan>ACABADO</color>",
-        "style_fireworks": "<color=cyan>FUEGOS ARTIFICIALES</color>",
-        "style_fistfulofdollar": "<color=cyan>GOLPE DE DOLAR</color>",
+        "style_finishedoff": "ACABADO",
+        "style_fireworks": "FUEGOS ARTIFICIALES",
+        "style_fistfulofdollar": "GOLPE DE DOLAR",
         "style_fried": "FRITO",
         "style_friendlyfire": "FUEGO AMIGO",
         "style_groundslam": "PISOTÓN",
-        "style_halfoff": "<color=cyan>A LA MITAD</color>",
+        "style_halfoff": "A LA MITAD",
         "style_headshot": "HEADSHOT",
         "style_homerun": "HOMERUN",
-        "style_instakill": "<color=lime>MUERTE INSTANTÁNEA</color>",
-        "style_interruption": "<color=lime>INTERRUPCIÓN</color>",
+        "style_instakill": "MUERTE INSTANTÁNEA",
+        "style_interruption": "INTERRUPCIÓN",
         "style_kill": "MUERTE",
         "style_limbshot": "DISPARO A LOS MIEMBROS",
         "style_mauriced": "MAURICIDIO",
-        "style_multikill": "<color=orange>MUERTE MÚLTIPLE</color>",
-        "style_nailbombed": "<color=grey>BOMBA DE CLAVOS</color>",
-        "style_parry": "<color=lime>PARRY</color>",
-        "style_projectileboost": "<color=lime>IMPULSO DE PROYECTIL</color>",
-        "style_quickdraw": "<color=cyan>DESENFUNDADO RAPIDO</color>",
-        "style_ricoshot": "<color=cyan>RICOSHOT</color>",
-	"style_ricoshotUltra": "",
-        "style_ricoshotCounter": "",
+        "style_multikill": "MUERTE MÚLTIPLE",
+        "style_nailbombed": "BOMBA DE CLAVOS",
+        "style_parry": "PARRY",
+        "style_projectileboost": "IMPULSO DE PROYECTIL",
+        "style_quickdraw": "DESENFUNDADO RAPIDO",
+        "style_ricoshot": "RICOSHOT",
+        "style_ricoshotUltra": "ULTRA RICOSHOT",
+        "style_ricoshotCounter": "CONTRA RICOSHOT",
         "style_secret": "SECRETO",
         "style_splattered": "SALPICADERO",
-        "style_triplekill": "<color=orange>MUERTE TRIPLE</color>",
+        "style_triplekill": "MUERTE TRIPLE",
         
-        "style_conductor": "<color=cyan>CONDUCTOR</color>",
+        "style_conductor": "CONDUCTOR",
         "style_crushed": "APLASTADO",
         "style_fall": "CAÍDA",
-        "style_minced": "<color=grey>PICADO</color>",
-        "style_outofbounds": "<color=grey>FUERA DE LOS LIMITES</color>",
+        "style_minced": "PICADO",
+        "style_outofbounds": "FUERA DE LOS LIMITES",
         "style_shredded": "TRITURADO",
         "style_zapped": "ELECTROCUTADO",
+
+        "style_why": "¿Por qué estás generando enemigos aquí?",
         
         "style_d": "",
         "style_c": "",
@@ -75,8 +79,8 @@
         "style_weaponUsed": "USADO",
         "style_weaponStale": "DURO",
         "style_weaponDull": "TEDIOSO",
-	    
-	"stylemeter_multiplier": "<size=28>MULTIPLICADOR</size>"
+
+        "stylemeter_multiplier": "<size=28>MULTIPLICADOR</size>"
     },
     
     "cyberGrind":{
@@ -226,30 +230,45 @@
         "act2_intermission_second10": "Él sabía que las palabras por sí solas nunca influirían en las masas.",
         "act2_intermission_second11": "Eligió hacer algo drástico.",
         
-        "act2_intermission_third1": "La muerte tiñe el auditorio. Los cadáveres tirados del alguna vez poderoso consejo ahora esparcidos contra sus superficies, sus últimos respiros de vida goteando por la hoja disidente de la espada de Gabriel.",
-        "act2_intermission_third2": "El último consejero, ahora apoyado contra una pared, busca las palabras entre respiraciones aterrorizadas mientras la muerte se acerca con pasos medidos.",
+        "act2_intermission_third1": "La muerte tiñe el auditorio. ",
+        "act2_intermission_third2": "Los cadáveres tirados del alguna vez poderoso consejo ahora esparcidos contra sus superficies, sus últimos respiros de vida goteando por la hoja disidente de la espada de Gabriel.",
         
-        "act2_intermission_third3": "¡E-Espera! ¡N-No puedes hacer esto! ¡Nuestro estatus lo prohíbe!",
-        "act2_intermission_third4": "¡Somos la autoridad suprema, nuestra ley te lo ordena!",
-        "act2_intermission_third5": "Tú no ordenas nada. Tus palabras no tienen poder sobre mí ni sobre nadie más. Para que no creas realmente que puedes convencer a mi espada de que vuelva a su vaina.",
+        "act2_intermission_third3": "El último consejero, ahora apoyado contra una pared, busca las palabras entre respiraciones aterrorizadas mientras la muerte se acerca con pasos medidos.",
+        "act2_intermission_third4": "¡E-Espera! ¡N-No puedes hacer esto! ¡Nuestro estatus lo prohíbe!",
+        "act2_intermission_third5": "¡Somos la autoridad suprema, nuestra ley te lo ordena!",
         
-        "act2_intermission_fourth1": "¡P-Pero la gente está de nuestro lado! ¡Los ciudadanos del cielo saben que somos justos!",
-        "act2_intermission_fourth2": "Las masas solo te siguen por miedo y desesperación. Les mostraré que no hay nada que temer, porque no hay especie ni origen, rango investido o estatus sagrado que detenga el filo de una espada. ",
-        "act2_intermission_fourth3": "Todos sangramos la misma sangre, y los cojines de tus tronos te han hecho débil e impotente.",
+        "act2_intermission_third6": "Tú no ordenas nada. Tus palabras no tienen poder sobre mí ni sobre nadie más.",
+        "act2_intermission_third7": "Para que no creas realmente que puedes convencer a mi espada de que vuelva a su vaina.",
+        "act2_intermission_third8": "¡P-Pero la gente está de nuestro lado! ¡Los ciudadanos del cielo saben que somos justos!",
+        "act2_intermission_third9": "Las masas solo te siguen por miedo y desesperación.",
+        "act2_intermission_third10": "Les mostraré que no hay nada que temer, porque no hay especie ni origen, rango investido o estatus sagrado que detenga el filo de una espada.",
         
-        "act2_intermission_fourth4": "P-Por favor, Gabriel, ¡entra en razón! ¡El consejo sigue la voluntad del Padre!",
+        "act2_intermission_fourth1": "Todos sangramos la misma sangre, y los cojines de tus tronos te han hecho débil e impotente.",
+        "act2_intermission_fourth2": "P-Por favor, Gabriel, ¡entra en razón!",
+        "act2_intermission_fourth3": "¡El consejo sigue la voluntad del Padre!",
         
-        "act2_intermission_fourth5": "Buscas ir en contra de nuestro creador-",
+        "act2_intermission_fourth4": "Buscas ir en contra de nuestro creador-",
         
-        "act2_intermission_fourth6": "Acéptalo, hermano. Dios ha muerto. El fuego se ha extinguido. Estás persiguiendo fantasmas.",
-        "act2_intermission_fourth7": "La silueta de Gabriel ahora se eleva sobre el consejero, su sombra proyectada sobre un cadáver pronto sin vida.",
+        "act2_intermission_fourth5": "Acéptalo, hermano.",
         
-        "act2_intermission_fifth1": "Levanta su espada para el corte final mientras el llanto del suelo tartamudea su débil argumento final.",
+        "act2_intermission_fourth6": "Dios ha muerto.",
+        "act2_intermission_fourth7": "El fuego se ha extinguido.",
+        "act2_intermission_fourth8": "Estás persiguiendo fantasmas.",
+        "act2_intermission_fourth9": "La silueta de Gabriel ahora se eleva sobre el consejero",
+        "act2_intermission_fourth10": ", su sombra proyectada sobre un cadáver pronto sin vida.",
+        "act2_intermission_fourth11": "Levanta su espada para el corte final mientras el llanto del suelo tartamudea su débil argumento final.",
+        "act2_intermission_fourth12": "P-P-Pero la luz del Padre!",
+        "act2_intermission_fourth13": "Sin mí no puedes esperar volver a conectarte con él!",
+
+
+        "act2_intermission_fifth1": "S-S-Si me matas, estarás muerto en cuestión de horas!",
         
-        "act2_intermission_fifth2": "P-P-Pero la luz del Padre! Sin mí no puedes esperar volver a conectarte con él! S-S-Si me matas, estarás muerto en cuestión de horas!",
-        "act2_intermission_fifth3": "Lo sé.",
-        "act2_intermission_fifth4": "Un corte limpio y silencioso se desliza por el cuello del consejero, cortando su columna vertebral con elegancia y facilidad.",
-        "act2_intermission_fifth5": "Su cabeza cae al suelo de mármol, el resto de su cuerpo lo sigue poco después.",
+        "act2_intermission_fifth2": "Lo sé.",
+        "act2_intermission_fifth3": "Un corte limpio y silencioso se desliza por el cuello del consejero",
+        "act2_intermission_fifth4": ", cortando su columna vertebral con elegancia y facilidad.",
+        "act2_intermission_fifth5": "Su cabeza cae al suelo de mármol",
+        "act2_intermission_fifth6": ", el resto de su cuerpo lo sigue poco después.",
+
         
         "act2_intermission_sixth1": "Desprovisto de estatus pero rebosante de propósito, Gabriel dio un mensaje final a los ángeles reunidos a las puertas del auditorio antes de dejar el Cielo por última vez.",
         
@@ -257,15 +276,15 @@
         "act2_intermission_sixth3": "En el silencio, el mensaje resonó hasta los confines del cosmos.",
         
         "act1_intermission_tobecontinued": "CONTINUARA EN... <color=red>ACTO II: ODIO IMPERFECTO</color>",
-        "act1_intermission_tobecontinuedshadow": "CONTINUARA EN... <color=red>ACTO II: ODIO IMPERFECTO</color>",
+        "act1_intermission_tobecontinuedshadow": "CONTINUARA EN... ACTO II: ODIO IMPERFECTO",
         
         "act1_intermission_endof": "FIN DEL ACTO I",
         "act1_intermission_insertAct2": "INSERTE EL DISCO 2 PARA ACTO II: ODIO IMPERFECTO",
         "act1_intermission_insert": "INSERTAR",
         "act1_intermission_returnToMenu": "VOLVER AL MENU",
         
-        "act2_intermission_tobecontinued": "CONCLUIRÁ EN EL... ACTO III: <color=red><size=30>EL SUICIDIO DEL PUÑO DE DIOS</size></color>",
-        "act2_intermission_tobecontinuedshadow": "CONCLUIRÁ EN EL... ACTO III: <size=30>EL SUICIDIO DEL PUÑO DE DIOS</size>"
+        "act2_intermission_tobecontinued": "CONCLUIRÁ EN... ACTO III: <color=red><size=30>SUICIDIO DEL PUÑO DE DIOS</size></color>",
+        "act2_intermission_tobecontinuedshadow": "CONCLUIRÁ EN... ACTO III: <size=30>SUICIDIO DEL PUÑO DE DIOS</size>"
         
     },
 	"frontend": {
@@ -291,15 +310,12 @@
 		"difficulty_harmlessDescription1": "Enemigos y ataques absurdamente lentos.",
 		"difficulty_harmlessDescription2": "El daño sigue siendo alto, pero incluso una montaña podría esquivarlos.",
 		"difficulty_harmlessDescription3": "<color=lime>Recomendado para jugadores que desean una experiencia libre de estrés.</color>",
-		
 		"difficulty_lenientDescription1": "Altos daños, pero ataques más lentos con enemigos pasivos.",
 		"difficulty_lenientDescription2": "La tensión sigue siendo alta, pero el daño es más fácil de evitar.",
 		"difficulty_lenientDescription3": "<color=yellow>Recomendado para jugadores que tienen problemas para jugar en la dificultad estándar.</color>",
-		
 		"difficulty_standardDescription1": "Enemigos normales y alto daño.",
 		"difficulty_standardDescription2": "Los ataques son fáciles de evitar, pero un descuido resultará en una muerte rápida.",
 		"difficulty_standardDescription3": "<color=orange>Recomendado para jugadores nuevos.</color>",
-		
 		"difficulty_violentDescription1": "Enemigos rápidos, agresivos y un alto daño.",
 		"difficulty_violentDescription2": "Pensar rápido, aprovechar la movilidad y ser consciente de la situación es esencial.",
 		"difficulty_violentDescription3": "<color=red>Recomendado para jugadores que ya se han acostumbrado al ritmo y las mecánicas del juego.</color>",
@@ -322,6 +338,14 @@
 		"layer_wrath": "CIRCULO 5: IRA",
 		"layer_heresy": "CIRCULO 6: HEREJÍA",
 		"layer_prime": "SANTUARIOS PRIME"
+
+        "level_challenge": "D E S A F I O",
+		"level_challengeCompleted": "C O M P L E T O",
+
+        "level_fullIntroPrompt": "INTRO COMPLETA?",
+        "level_fullIntroPromptYes": "SI",
+        "level_fullIntroPromptNo": "NO",
+        "level_fullIntroPromptCancel": "CANCELAR"
 	},
     "visualnovel": {
         "visualnovel_introFirst1": "",
@@ -521,6 +545,7 @@
         "visualnovel_conclusion8": "",
         "visualnovel_conclusion9": "",
         "visualnovel_conclusion10": "",
+        "visualnovel_conclusion11": "",
         
         "visualnovel_conclusionPrompt1": "",
         "visualnovel_conclusionPrompt2": "",
@@ -761,7 +786,7 @@
         
         "pause_disableWindow": "<size=17>Este pop-up emergente se puede desactivar en el menú de opciones</size>"
 	},
-"levelNames": {
+	"levelNames": {
         "levelName_mainMenu": "MENU PRINCIPAL",
         
 		"levelName_preludeFirst": "EN EL FUEGO",
@@ -851,7 +876,7 @@
 		"leveltips_preludeThird3": "<color=orange>Salto</color>: Rápidamente fuera del alcance cuerpo a cuerpo, menos control",
 
 		"leveltips_preludeFourth1": "<color=orange>Parry de Escopeta</color>:",
-		"leveltips_preludeFourth2": "Un disparo de escopeta a un <color=orange>Punto Blanco</color> en el <color%3Dorange>torso</color> justo antes de que caiga un ataque enemigo infligirá daño masivo.",
+		"leveltips_preludeFourth2": "Un disparo de escopeta a un <color=orange>Punto Blanco</color> en el <color=orange>torso</color> justo antes de que caiga un ataque enemigo infligirá daño masivo.",
 
 		"leveltips_preludeFifth": "Las <Color=orange>Señales de sonido de ataque</color> te permite realizar un seguimiento de los enemigos que están fuera de tu visión.",
 
@@ -914,6 +939,11 @@
         "shop_cybergrindDescription2": "Un buen rendimiento da muchos <color=red>puntos</color>.",
         "shop_cybergrindDescription3": "<color=red>Se perderá el progreso de la misión actual.</color>",
         "shop_cybergrindEnter": "ENTRAR A CIBERUTINA",
+
+        "shop_sandboxTitle": "SANDBOX",
+        "shop_sandboxDescription1": "El <color=#4C99E6>Sandbox</color> Es un nivel vacío que se puede utilizar para practicar.",
+        "shop_sandboxDescription2": "<color=red>Se perderá el progreso de la misión actual.</color>",
+        "shop_sandboxEnter": "ENTRAR AL SANDBOX",
         
         "shop_back": "ATRÁS",
         "shop_weaponInfo": "INFO",
@@ -954,7 +984,7 @@
         
         "shop_railcannonElectric": "ELECTRIC",
         "shop_railcannonElectricDescription1": "Una perforacion poderosa e instantanea",
-        "shop_railcannonElectricDescription2": "<color%3Dorange>Perfora</color> <color=orange>todos</color> los enemigos. Presta atencion a tu <color=orange>posision</color> para aumentar la destruccion.",
+        "shop_railcannonElectricDescription2": "<color=orange>Perfora</color> <color=orange>todos</color> los enemigos. Presta atencion a tu <color=orange>posision</color> para aumentar la destruccion.",
         "shop_railcannonElectricDescription3": "No lo uses en el agua.",
         
         "shop_railcannonScrewdriver": "SCREWDRIVER",
@@ -979,7 +1009,7 @@
         
         "shop_armWhiplash": "GANCHO",
         "shop_armWhiplashDescription1": "Un cabrestante con lanza.",
-        "shop_armWhiplashDescription2": "<color%3Dorange>Manten</color> para tirarlo, <color%3Dorange>sueltalo</color> para jalarlo.\n\nPuedes tirar de los enemigos y articulos de la luz, iras hacia los enemigos pesados.",
+        "shop_armWhiplashDescription2": "<color=orange>Manten</color> para tirarlo, <color=orange>sueltalo</color> para jalarlo.\n\nPuedes tirar de los enemigos y articulos de la luz, iras hacia los enemigos pesados.",
         
         "shop_data": "DATOS",
         "shop_strategy": "ESTRATEGIA",
@@ -1040,6 +1070,11 @@
         "shop_loreRocketLauncher11": "Cuando se golpea con el gancho, un cohete se unirá a la lanza sin detener el lanzamiento. Si la lanza no choca con nada más, el cohete será arrastrado hacia atrás y explotará al chocar con el usuario.",
         "shop_loreRocketLauncher12": "Los enemigos ligeros estarán en el aire cuando sean atraídos por el gancho, lo que los convierte en objetivos muy fáciles de alcanzar para la bonificación de explosión del enemigo que cae. Sin embargo, esto requiere mucha distancia del objetivo si el usuario desea evitar el aumento del radio de la explosión.",
         "shop_loreRocketLauncher13": "Algunas máquinas, como la V1, son lo suficientemente livianas como para viajar en un cohete. Esto se puede lograr congelando un cohete con la variación Freezeframe y saltando sobre él. Incluso con el bajo peso, el cohete eventualmente perderá potencia, lo que hará que caiga gradualmente, pero cuando está bajo el agua, V1 es lo suficientemente liviano como para no causar esta caída."
+
+        "shop_colorsPreset": "PREDEFINIDA",
+        "shop_colorsCustom": "PERSONALIZADO",
+        "shop_colorsAlternative": "ALTERNATIVO",
+        "shop_colorsDone": "HECHO"
 	},
 	"enemyNames":{
 		"enemyname_filth": "FILTH",
@@ -1159,6 +1194,7 @@
     },
     
     "enemybios":{
+
         "enemyBios_filth_1": "Los Husks son manifestaciones físicas de las almas de los condenados.",
         "enemyBios_filth_2": "Su forma física esta basada en el valor de su alma original, el cual es determinado por la fuerza de su voluntad y su prevalencia ante la conciencia pública: las almas vivientes que los recuerdan.",
         "enemyBios_filth_3": "Los Filth son los Husks más débiles, cuyas almas fueron tan endebles e insignificantes como para formar un cuerpo físico completo.",
@@ -1204,7 +1240,7 @@
         "enemyBios_idol_1": "Aunque se puede confundir fácilmente de ser de origen divino, los ídolos se crearon utilizando el mismo proceso que otros demonios. A diferencia de sus parientes grandes, sus caparazones eran demasiado pequeños para contener una cantidad útil de masa infernal, creando vida, pero dejándola incapaz de moverse o actuar.",
         "enemyBios_idol_2": "Los ídolos originalmente no se veían divinos, pero Ferryman los esculpió minuciosamente en tales formas y los fue recolectando durante los viajes a través de las capas del infierno. Esto se hizo como un acto de compasión y como un tributo a los ángeles, particularmente a Gabriel, a quien Barquero cree que les concedió misericordia de manera similar.",
         "enemyBios_idol_3": "La proximidad cercana a la tela sagrada del Ferryman durante el largo y arduo proceso de tallado hizo que su poder sagrado se filtrara en ellos, permitiéndoles continuar la cadena de compasión protegiendo a otros del daño físico.",
-	"enemyBios_idol_4": "Es una suerte para ellos que Gabriel sea el único ángel del orden superior del cielo para velar sobre el infierno, ya que si el Consejo se hubiera enterado de tales seres, habrían sido etiquetados como perversiones de la forma divina y ordenados a ser destruidos por el Ferryman que con tanto amor les había garantizado una oportunidad en la vida",
+	    "enemyBios_idol_4": "Es una suerte para ellos que Gabriel sea el único ángel del orden superior del cielo para velar sobre el infierno, ya que si el Consejo se hubiera enterado de tales seres, habrían sido etiquetados como perversiones de la forma divina y ordenados a ser destruidos por el Ferryman que con tanto amor les había garantizado una oportunidad en la vida",
         
         "enemyBios_idol_strategy1": "",
         "enemyBios_idol_strategy2": "",
@@ -1236,7 +1272,7 @@
         
         "enemyBios_stalker_strategy1": "",
         "enemyBios_stalker_strategy2": "",
-	"enemyBios_stalker_strategy3": "",
+        "enemyBios_stalker_strategy3": "",
         
         "enemyBios_insurrectionist_1": "",
         "enemyBios_insurrectionist_2": "",
@@ -1355,6 +1391,8 @@
         "enemyBios_virtue_1": "",
         "enemyBios_virtue_2": "",
         "enemyBios_virtue_3": "",
+        "enemyBios_virtue_4": "",
+        "enemyBios_virtue_5": "",
         
         "enemyBios_virtue_strategy1": "",
         "enemyBios_virtue_strategy2": "",
@@ -1380,6 +1418,7 @@
         "enemyBios_minosPrime_5": "",
         "enemyBios_minosPrime_6": "",
         "enemyBios_minosPrime_7": "",
+        "enemyBios_minosPrime_8": "",
         
         "enemyBios_minosPrime_strategy1": "",
         "enemyBios_minosPrime_strategy2": ""
@@ -1394,9 +1433,9 @@
 		"tutorial_introCalibration2": "INICIANDO CALIBRACION",
 		"tutorial_introReminder": "<color=lime> AJUSTES PRIMARIOS ACTUALIZADOS</color> \n(<color=#4C99E6> OPCIONES DE ASISTENCIA</color> EN EL MENU DE PAUSA) \n\n<color=lime> TODOS LOS SISTEMAS OPERANDO</color>",
 		"tutorial_introLoadStatus": "CARGANDO ACTUALIZACION DE ESTADO",
-		"tutorial_introID1": "ID DE MAQUINA:",
+		"tutorial_introID1": "ID DE MAQUINA: ",
 		"tutorial_introID2": "V1",
-		"tutorial_introLocation1": "UBICACION:",
+		"tutorial_introLocation1": "UBICACION: ",
 		"tutorial_introLocation2": "CERCA DEL INFIERNO",
 		"tutorial_introObjective1": "OBJETIVO ACTUAL:",
 		"tutorial_introObjective2": "ENCONTRAR UN ARMA",
@@ -1694,7 +1733,7 @@
         "subtitles_gabrielSecondDefeated9": "Nos volveremos a encontrar, máquina",
         "subtitles_gabrielSecondDefeated10": "Que tus males sean muchos...",
         "subtitles_gabrielSecondDefeated11": "y tus días pocos."
-        
+                
     },
     
     "misc": {
@@ -1726,6 +1765,10 @@
 		"hellmap_wrath": "IRA",
 		"hellmap_heresy": "HEREJIA",
 		"hellmap_prime": "PRIME",
+        "hellmap_act1crescendo": "CRESCENDO",
+        "hellmap_act1climax": "CLIMAX",
+        "hellmap_act2crescendo": "CRESCENDO",
+        "hellmap_act2climax": "CLIMAX",
 
 		"hellmap_first": "PRIMERO",
 		"hellmap_second": "SEGUNDO",
@@ -1758,8 +1801,21 @@
         
         "weapons_unavailable": "NO DISPONIBLE",
         "weapons_alreadyBought": "YA OBTENIDO",
-	    
-	"pressToSkip": "Toca <color=orange>ESC</color> para omitir"
-	
+
+        "pressToSkip": "Toca <color=orange>ESC</color> para omitir"
+
+        "youDied1": "[ESTAS MUERTO]",
+        "youDied2": "PRESIONA [R] PARA REINICIAR",
+                
+        "classicHud_health": "SALUD",
+        "classicHud_stamina": "ESTAMINA",
+        "classicHud_weapon": "ARMA",
+        "classicHud_arm": "BRAZO",
+        "classicHud_railcannonMeter": "CARGA DE RAILCANNON",
+
+        "earlyAccessEnd1": "<size=48><b>GRACIAS POR JUGAR</b></size>",
+        "earlyAccessEnd2": "ACTO III: SUCIDIO DEL PUÑO DE DIOS actualmente está en desarrollo",
+        "earlyAccessEnd3": "Para noticias sobre su progreso, síganos en"
+
 	}
 }
