@@ -337,7 +337,7 @@
 		"layer_greed": "CIRCULO 4: CODICIA",
 		"layer_wrath": "CIRCULO 5: IRA",
 		"layer_heresy": "CIRCULO 6: HEREJÍA",
-		"layer_prime": "SANTUARIOS PRIME"
+		"layer_prime": "SANTUARIOS PRIME",
 
         "level_challenge": "D E S A F I O",
 		"level_challengeCompleted": "C O M P L E T O",
@@ -1069,7 +1069,7 @@
         "shop_loreRocketLauncher10": "Los cohetes son tirados por los imanes de la pistola de clavos Magnet, aunque no tan fuertes como los clavos. La precisión del seguimiento se puede aumentar congelando cohetes con la variación Freezeframe.",
         "shop_loreRocketLauncher11": "Cuando se golpea con el gancho, un cohete se unirá a la lanza sin detener el lanzamiento. Si la lanza no choca con nada más, el cohete será arrastrado hacia atrás y explotará al chocar con el usuario.",
         "shop_loreRocketLauncher12": "Los enemigos ligeros estarán en el aire cuando sean atraídos por el gancho, lo que los convierte en objetivos muy fáciles de alcanzar para la bonificación de explosión del enemigo que cae. Sin embargo, esto requiere mucha distancia del objetivo si el usuario desea evitar el aumento del radio de la explosión.",
-        "shop_loreRocketLauncher13": "Algunas máquinas, como la V1, son lo suficientemente livianas como para viajar en un cohete. Esto se puede lograr congelando un cohete con la variación Freezeframe y saltando sobre él. Incluso con el bajo peso, el cohete eventualmente perderá potencia, lo que hará que caiga gradualmente, pero cuando está bajo el agua, V1 es lo suficientemente liviano como para no causar esta caída."
+        "shop_loreRocketLauncher13": "Algunas máquinas, como la V1, son lo suficientemente livianas como para viajar en un cohete. Esto se puede lograr congelando un cohete con la variación Freezeframe y saltando sobre él. Incluso con el bajo peso, el cohete eventualmente perderá potencia, lo que hará que caiga gradualmente, pero cuando está bajo el agua, V1 es lo suficientemente liviano como para no causar esta caída.",
 
         "shop_colorsPreset": "PREDEFINIDA",
         "shop_colorsCustom": "PERSONALIZADO",
@@ -1560,7 +1560,7 @@
         "primeSanctum_first_secretText6": "<size=5><color=grey>[Nota: vete a la mierda tom, estoy jodidamente cansado de esta estúpida canción y de tener que escucharla todas las mañanas en tu intercomunicador de mierda]</color></size>",
         "primeSanctum_first_secretText7": "<size=17>Poco después, se abandonó el proyecto de exploración y excavación del infierno y este disco de vinilo siguió siendo el único material que se transfirió con éxito antes de que se perdiera la conexión entre la superficie y las terminales.</size>",
         "primeSanctum_first_secretText8": "<size=17>Los terminales ahora usan el registro para atraer a las máquinas a una relación simbiótica (Para obtener más información, consulte TERMINAL 02: <color=red>[LINK BORRADO]</color>). Sin embargo, los terminales solo reproducen secciones instrumentales cortas del disco original por razones indeterminadas.</size>.",
-        "primeSanctum_first_secretText9": "<size=17>Algunos investigadores han bromeado diciendo que quizás los terminales son simplemente \"demasiado tímidos para cantar\", aunque se han difundido rumores de mecánicos que, después de reparar una terminal defectuosa o rota, se dice que escuchó la terminal tocar una sección vocal cuando solo el mecánico estaba presente sin equipo de grabación, lo que hace que este sea un reclamo no verificable.\r\n\r\nFIN DE LOS DATOS 01. Para más información , ver <color=red>[LINK BORRADO]</color> y <color=red>[LINK BORRADO]</color></size>.",
+        "primeSanctum_first_secretText9": "<size=17>Algunos investigadores han bromeado diciendo que quizás los terminales son simplemente \"demasiado tímidos para cantar\", aunque se han difundido rumores de mecánicos que, después de reparar una terminal defectuosa o rota, se dice que escuchó la terminal tocar una sección vocal cuando solo el mecánico estaba presente sin equipo de grabación, lo que hace que este sea un reclamo no verificable.\r\n\r\nFIN DE LOS DATOS 01. Para más información , ver <color=red>[LINK BORRADO]</color> y <color=red>[LINK BORRADO]</color></size>."
     },
     "secretLevels":{
         "secretLevels_prelude_somethingWicked": "ALGO MALO",
@@ -1802,7 +1802,7 @@
         "weapons_unavailable": "NO DISPONIBLE",
         "weapons_alreadyBought": "YA OBTENIDO",
 
-        "pressToSkip": "Toca <color=orange>ESC</color> para omitir"
+        "pressToSkip": "Toca <color=orange>ESC</color> para omitir",
 
         "youDied1": "[ESTAS MUERTO]",
         "youDied2": "PRESIONA [R] PARA REINICIAR",
