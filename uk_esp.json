@@ -1,14 +1,13 @@
 {
 	"metadata": {
-		"langName": "te-mp",
-		"langAuthor": "Clearwater",
+		"langName": "ES-es",
+		"langAuthor": "Varios",
 		"langVersion": "0.1",
-
-        "minimumModVersion": "0.8.2"
+        	"minimumModVersion": "0.8.2"
 	},
     
 	"body": {
-		"bodyName": "A template file for translating. NOT MEANT TO BE USED AS-IS WITH UltrakULL. Make sure you edit the metadata to reflect the author and language changes!"
+		"bodyName": "N/A"
 	},
     
     "style":{
