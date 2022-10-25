@@ -79,7 +79,7 @@
         "style_weaponStale": "DURO",
         "style_weaponDull": "TEDIOSO",
 
-        "stylemeter_multiplier": "<size=28>MULTIPLICADOR</size>",
+        "stylemeter_multiplier": "<size=28>MULTIPLICADOR</size>"
     },
     
     "cyberGrind":{
@@ -131,7 +131,7 @@
         
         "cybergrind_wavesTitle": "OLEADAS",
         "cybergrind_wavesDescription1": "Seleccione para iniciar oleada",
-        "cybergrind_wavesDescription2": "<color=orange>(Para alcanzar oleadas más altas debe llegar por lo menos al doble de la oleada anterior)</color>",
+        "cybergrind_wavesDescription2": "<color=orange>(Para alcanzar oleadas más altas debe llegar por lo menos al doble de la oleada anterior)</color>"
     },
     
     "books":{
@@ -283,7 +283,7 @@
         "act1_intermission_returnToMenu": "VOLVER AL MENU",
         
         "act2_intermission_tobecontinued": "CONCLUIRÁ EN... ACTO III: <color=red><size=30>SUICIDIO DEL PUÑO DE DIOS</size></color>",
-        "act2_intermission_tobecontinuedshadow": "CONCLUIRÁ EN... ACTO III: <size=30>SUICIDIO DEL PUÑO DE DIOS</size>",
+        "act2_intermission_tobecontinuedshadow": "CONCLUIRÁ EN... ACTO III: <size=30>SUICIDIO DEL PUÑO DE DIOS</size>"
         
     },
 	"frontend": {
@@ -344,7 +344,7 @@
         "level_fullIntroPrompt": "INTRO COMPLETA?",
         "level_fullIntroPromptYes": "SI",
         "level_fullIntroPromptNo": "NO",
-        "level_fullIntroPromptCancel": "CANCELAR",
+        "level_fullIntroPromptCancel": "CANCELAR"
 	},
     "visualnovel": {
 	    
@@ -771,10 +771,10 @@
 	"save_deleteYes": "SI, <color=red>ELIMINAR</color>",
 	"save_deleteNo": "CANCELAR",
 	"save_close": "CERRAR",
-	"save_slotEmpty": "VACIO"
+	"save_slotEmpty": "VACIO",
 
         "language_title": "IDIOMAS",
-        "language_languages": "IDIOMAS",
+        "language_languages": "IDIOMAS"
 	},
 	"pauseMenu": {
 	"pause_title": "PAUSADO",
@@ -791,7 +791,7 @@
         "pause_restartConfirmYes": "SI",
         "pause_restartConfirmNo": "NO",
         
-        "pause_disableWindow": "<size=17>Este pop-up emergente se puede desactivar en el menú de opciones</size>",
+        "pause_disableWindow": "<size=17>Este pop-up emergente se puede desactivar en el menú de opciones</size>"
 	},
 	"levelNames": {
         "levelName_mainMenu": "MENU PRINCIPAL",
@@ -838,8 +838,8 @@
 	"levelName_primeThird": "???",
 
 	"levelName_cybergrind": "CIBERRUTINA",
-	"levelName_sandbox": "SANDBOX"
-	"levelName_tutorial": "TUTORIAL",
+	"levelName_sandbox": "SANDBOX",
+	"levelName_tutorial": "TUTORIAL"
 	},
 	"levelChallenges":{
 	"challenges_preludeFirst": "CONSIGUE 5 MUERTES ROMPIENDO UN SOLO PANEL DE VIDRIO",
@@ -872,7 +872,7 @@
 	"challenges_wrathFourth": "LLEGA A LA SUPERFICIE EN MENOS DE 10 SEGUNDOS",
         
         "challenges_heresyFirst": "GANA EL ENCUENTRO SECRETO",
-	"challenges_heresySecond": "GOLPEA A GABRIEL CONTRA EL TECHO",
+	"challenges_heresySecond": "GOLPEA A GABRIEL CONTRA EL TECHO"
 
 	},
 	"levelTips":{
@@ -932,7 +932,7 @@
 
 	"leveltips_cybergrind": "Si vuela demasiado lejos de la arena, la sobrecarga del <color=lime>PUMP CHARGE</color> es una buena forma de regresar.",
         "leveltips_sandbox1": "<color=orange>TRUCOS</color> se pueden habilitar en otros niveles ingresando",
-        "leveltips_sandbox2": "<color=orange>↑ ↑ ↓ ↓ ← → ← → B A</color>\n\nHabilitarlo trucos desactivará los rangos.",
+        "leveltips_sandbox2": "<color=orange>↑ ↑ ↓ ↓ ← → ← → B A</color>\n\nHabilitarlo trucos desactivará los rangos."
 	},
 	"shop":{
         "shop_tipofthedayTitle": "CONSEJO DEL DIA",
@@ -1083,7 +1083,7 @@
         "shop_colorsPreset": "PREDEFINIDA",
         "shop_colorsCustom": "PERSONALIZADO",
         "shop_colorsAlternative": "ALTERNATIVO",
-        "shop_colorsDone": "HECHO",
+        "shop_colorsDone": "HECHO"
 	},
 	"enemyNames":{
 	"enemyname_filth": "FILTH",
@@ -1199,7 +1199,7 @@
         "cheats_navmeshOutdated1": "NavMesh desactualizado.",
         "cheats_navmeshOutdated2": "Por favor reconstruya.",
         
-        "cheats_spawnerArmSlot": "Brazo de spawn en Slot 6",
+        "cheats_spawnerArmSlot": "Brazo de spawn en Slot 6"
     },
     
     "enemybios":{
@@ -1466,7 +1466,7 @@
 	"tutorial_shockwave2": "Manten para hacer una <color=orange>ONDA DE CHOQUE</color>.",
 	"tutorial_shockwave3": "(Consume <color=#00DFFF>2 DE ESTAMINA</color>)",
 	"tutorial_orb1": "La mayoría de los niveles tienen\n<color=cyan>ORBES DE ALMAS SECRETOS</color>.",
-	"tutorial_orb2": "Tócalos para obtener un <color=orange>BONO DE PUNTOS</color>.",
+	"tutorial_orb2": "Tócalos para obtener un <color=orange>BONO DE PUNTOS</color>."
 	},
 	"prelude":{
 	"prelude_first_openingCredits1": "<color=orange>NEW BLOOD</color> PRESENTA",
@@ -1490,7 +1490,7 @@
 	"prelude_third_shotgun3": "Manten presionado para cargarla a distancia.",
 	"prelude_third_shotgunPierce": "<color=cyan>ESCOPETA</color>: Fuego primario perfora enemigos más débiles",
 
-	"prelude_secret_somethingWicked": "Algo malo viene en camino.",
+	"prelude_secret_somethingWicked": "Algo malo viene en camino."
 	},
 	"act1":{
 	"act1_limboFirst_items1": "Agarra <color=orange>OBJETOS</color> con",
@@ -1520,7 +1520,7 @@
 
 	"act1_lustThird_water": "El agua ha sido drenada",
 
-	"act1_secret": "En algún lugar de las profundidades del Limbo, se pone en marcha un mecanismo.",
+	"act1_secret": "En algún lugar de las profundidades del Limbo, se pone en marcha un mecanismo."
 	},
 	"act2":{
 	"act2_greedSecond_sand": "LOS ENEMIGOS CUBIERTOS DE ARENA <color=red>NO SANGRAN</color>",
@@ -1560,7 +1560,7 @@
         "act2_wrathThird_soldierBlock": "Los soldados <color=orange>NO PUEDEN</color> bloquear explosiones mientras están en el <color=orange>AIRE</color>.\nDispara un cohete <color=orange>CERCA</color> de ellos para lanzarlos.",
         "act2_wrathThird_hank": "No pasa nada, pero estás seguro de que Hank Jr. y sus Hankcestros lo agradecerían... si no estuvieran muertos.",
         
-        "act2_secretNotReady": "SE SUPONE QUE NO DEBES ESTAR AQUI",
+        "act2_secretNotReady": "SE SUPONE QUE NO DEBES ESTAR AQUI"
 	},
     "primeSanctum":{
         "primeSanctum_first_secretText1": "DATOS TERMINALES 01 <color=red>[ENCRIPTADO]</color>",
@@ -1743,7 +1743,7 @@
         "subtitles_gabrielSecondDefeated8": "N-Necesito un tiempo para pensar...",
         "subtitles_gabrielSecondDefeated9": "Nos volveremos a encontrar, máquina",
         "subtitles_gabrielSecondDefeated10": "Que tus males sean muchos...",
-        "subtitles_gabrielSecondDefeated11": "y tus días pocos.",
+        "subtitles_gabrielSecondDefeated11": "y tus días pocos."
                 
     },
     
@@ -1827,7 +1827,7 @@
 
         "earlyAccessEnd1": "<size=48><b>GRACIAS POR JUGAR</b></size>",
         "earlyAccessEnd2": "ACTO III: SUCIDIO DEL PUÑO DE DIOS actualmente está en desarrollo",
-        "earlyAccessEnd3": "Para noticias sobre su progreso, síganos en",
+        "earlyAccessEnd3": "Para noticias sobre su progreso, síganos en"
 
 	}
 }
