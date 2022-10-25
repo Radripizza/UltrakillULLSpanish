@@ -348,55 +348,55 @@
 	},
     "visualnovel": {
 	    
-	"visualnovel_mirageName1": "",
-        "visualnovel_mirageName2": "",
-        "visualnovel_mirageName3": "",
+	"visualnovel_mirageName1": "ALGUIEN, NADA MAS",
+        "visualnovel_mirageName2": "LA CHICA MAS LINDA DEL BARRIO",
+        "visualnovel_mirageName3": "MIRAGE",
 	    
-        "visualnovel_introFirst1": "",
-        "visualnovel_introFirst2": "",
-        "visualnovel_introFirst3": "",
+        "visualnovel_introFirst1": "Pisadas fuertes, respiración irregular.",
+        "visualnovel_introFirst2": "No queda mucho tiempo.",
+        "visualnovel_introFirst3": "Probablemente ya sea tarde.",
         
-        "visualnovel_introFirst4": "",
+        "visualnovel_introFirst4": "Los caminos laberínticos de los giros bruscos arbitrarios se volvían extraños y más extraños mientras el pánico borraba los recuerdos una vez profundamente arraigados que generalmente me guiaban.",
         
-        "visualnovel_introFirst5": "",
-        "visualnovel_introFirst6": "",
+        "visualnovel_introFirst5": "Cada esquina era irreconocible.",
+        "visualnovel_introFirst6": "Cada línea recta era muy larga.",
         
-        "visualnovel_introFirst7": "",
+        "visualnovel_introFirst7": "La campana suena por mí.",
         
-        "visualnovel_introSecond1": "",
-        "visualnovel_introSecond2": "",
-        "visualnovel_introSecond3": "",
-        "visualnovel_introSecond4": "",
-        "visualnovel_introSecond5": "",
+        "visualnovel_introSecond1": "Modrí fuertemente la última de mis raciones, sostenida sólo por el blanco de mis dientes.",
+        "visualnovel_introSecond2": "Apenas se colgaba mientras yo miraba alrededor frenéticamente, esperando que los remanentes de mi memoria deteriorante encontraran una vista familiar que me llevaría a la salvación.",
+        "visualnovel_introSecond3": "Las puertas deben estar cerrándose en este momento.",
+        "visualnovel_introSecond4": "Los pocos faltantes apenas lográndolo.",
+        "visualnovel_introSecond5": "El resto de nosostros nunca tuvimos la oportunidad.",
         
-        "visualnovel_introSecond6": "",
-        "visualnovel_introSecond7": "",
-        "visualnovel_introSecond8": "",
+        "visualnovel_introSecond6": "De repente, desde un punto ciego, una figura me golpeó.",
+        "visualnovel_introSecond7": "No hubo tiempo para reaccionar mientras me derrumbaba contra el frío y duro piso.",
+        "visualnovel_introSecond8": "Luché para recuperar mis sentidos para ver por lo menos qué destino me esperaba en mis últimos momentos, pero incluso en este abismo de terror interminable, mi mente jamás pudiera haber imaginado el horror que presencié.",
         
-        "visualnovel_fallen1": "",
+        "visualnovel_fallen1": "Uff auch eso dolió.",
         
-        "visualnovel_fallenPromptFirst1": "",
-        "visualnovel_fallenPromptFirst2": "",
-        "visualnovel_fallenPromptFirst3": "",
+        "visualnovel_fallenPromptFirst1": "\"¿Quién eres?\"",
+        "visualnovel_fallenPromptFirst2": "\"¿Estás bien?\"",
+        "visualnovel_fallenPromptFirst3": "*Inquietarse nerviosamente y sudar profusamente*",
         
-        "visualnovel_fallenResponseFirst": "",
-        "visualnovel_fallenResponseSecond": "",
-        "visualnovel_fallenResponseThird1": "",
-        "visualnovel_fallenResponseThird2": "",
+        "visualnovel_fallenResponseFirst": "Sólo soy alguien que fue tropezada por un idiota decerebrado que ni siquiera tiene la decencia de preguntar si me encuentro bien o disculparse antes de comenzar una interrogación.",
+        "visualnovel_fallenResponseSecond": "Bueno me acaba de tirar un cabrón ciego por voluntad que le acaba de dar a mi falda una cubierta decorativa de tierra, así que sobre todo estoy jodidamente fantástica, aunque preferiría no estar en el piso ahora mismo.",
+        "visualnovel_fallenResponseThird1": "Ah genial acabo de ser golpeada por una fuente vibrante que no hace nada, que suerte la mía.",
+        "visualnovel_fallenResponseThird2": "Al menos me podrías ayudar a levantarme antes de que el resto de ti sea derretido por el sol o se martille a sí mismo hacia el centro de la tierra.",
         
         
-        "visualnovel_fallenPromptSecond1": "",
-        "visualnovel_fallenPromptSecond2": "",
-        "visualnovel_fallenPromptSecond3": "",
+        "visualnovel_fallenPromptSecond1": "*Ayudar a levantarla*",
+        "visualnovel_fallenPromptSecond2": "\"No con esa actitud.\"",
+        "visualnovel_fallenPromptSecond3": "\"Perdón, mi culpa.\"",
         
-        "visualnovel_fallenResponseFourth": "",
+        "visualnovel_fallenResponseFourth": "De acuerdo, de acuerdo.",
        
        
-        "visualnovel_kindFirst1": "",
-        "visualnovel_kindFirst2": "",
+        "visualnovel_kindFirst1": "*suspiro*",
+        "visualnovel_kindFirst2": "Ey, disculpame por ser tan ruda hacia tí, es simplemente que estoy realmente frustrada porque no solo llegaré tarde a la escuela, pero también logré perderme en el camino.",
         
-        "visualnovel_kindSecond": "",
-        "visualnovel_kindThird": "",
+        "visualnovel_kindSecond": "Aunque, por lo que veo, parece que estás en el mismo barco, y por un golpe de suerte único en la vida te has encontrado con la ~chica más linda del barrio~.",
+        "visualnovel_kindThird": "Así que ¿qué tal si tomas las riendas y nos sacas a los dos de este aprieto?",
         
         "visualnovel_rudeFirst1": "",
         "visualnovel_rudeFirst2": "",
