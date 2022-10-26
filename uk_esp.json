@@ -7,7 +7,7 @@
 	},
     
 	"body": {
-		"bodyName": "ULTRAKILL ahora es disfrutable en español!"
+		"bodyName": "Ahora ULTRAKILL se puede disfrutar en español!"
 	},
     
     "style":{
@@ -16,7 +16,7 @@
         "style_attraptor": "ATRACTIVO",
         "style_arsenal": "ARSENAL",
         "style_bigheadshot": "GRAN HEADSHOT",
-        "style_bigkill": "GRAN MATANZA",
+        "style_bigkill": "GRAN MUERTE",
         "style_bigfistkill": "GRAN GOLPE",
         "style_bipolar": "BIPOLAR",
         "style_cannonballed": "BOLA DE CAÑON",
@@ -47,37 +47,37 @@
         "style_nailbombed": "BOMBA DE CLAVOS",
         "style_parry": "PARRY",
         "style_projectileboost": "IMPULSO DE PROYECTIL",
-        "style_quickdraw": "DESENFUNDADO RAPIDO",
+        "style_quickdraw": "DESENFUNDADO RÁPIDO",
         "style_ricoshot": "RICOSHOT",
         "style_ricoshotUltra": "ULTRA RICOSHOT",
         "style_ricoshotCounter": "CONTRA RICOSHOT",
         "style_secret": "SECRETO",
-        "style_splattered": "SALPICADERO",
-        "style_triplekill": "MUERTE TRIPLE",
+        "style_splattered": "SALPICADO",
+        "style_triplekill": "TRIPLE MUERTE",
         
         "style_conductor": "CONDUCTOR",
         "style_crushed": "APLASTADO",
         "style_fall": "CAÍDA",
         "style_minced": "PICADO",
-        "style_outofbounds": "FUERA DE LOS LIMITES",
+        "style_outofbounds": "FUERA DE LOS LÍMITES",
         "style_shredded": "TRITURADO",
         "style_zapped": "ELECTROCUTADO",
 
-        "style_why": "¿Por qué estás generando enemigos aquí?",
+        "style_why": "¿Qué haces creando enemigos aquí?",
         
         "style_d": "DESTRUCTIVO",
-        "style_c": "CAOTICO",
+        "style_c": "CAÓTICO",
         "style_b": "BRUTAL",
-        "style_a": "ANARQUICO",
+        "style_a": "ANÁRQUICO",
         "style_s": "SUPREMO",
-        "style_ss": "SSADICO",
+        "style_ss": "SSÁDICO",
         "style_sss": "SSSUBLIME",
         "style_ultrakill": "ULTRAKILL",
         
         "style_weaponFresh": "FRESCO",
         "style_weaponUsed": "USADO",
-        "style_weaponStale": "DURO",
-        "style_weaponDull": "TEDIOSO",
+        "style_weaponStale": "ANTICUADO",
+        "style_weaponDull": "ABURRIDO",
 
         "stylemeter_multiplier": "<size=28>MULTIPLICADOR</size>"
     },
@@ -118,10 +118,10 @@
         "cybergrind_themesCustomGrid": "BLOQUES",
         "cybergrind_themesCustomGridGlow": "BRILLO DE BLOQUES",
         "cybergrind_themesCustomSkybox": "SKYBOX",
-        "cybergrind_themesCustomBack": "ATRAS",
+        "cybergrind_themesCustomBack": "ATRÁS",
         "cybergrind_themesCustomReload": "RECARGAR",
         "cybergrind_themesCustomBase": "BASE",
-        "cybergrind_themesCustomTopRow": "HILERA",
+        "cybergrind_themesCustomTopRow": "PRIMERA FILA",
         "cybergrind_themesCustomTop": "CIMA",
         "cybergrind_themesCustomGlowIntensity": "INTENSIDAD",
         
@@ -135,29 +135,29 @@
     },
     
     "books":{
-        "books_limboFourth1": "TEXTO ESCANEADO - PASAJE UNICO:",
+        "books_limboFourth1": "TEXTO ESCANEADO - PASAJE ÚNICO:",
         "books_limboFourth2": "... Mi mente está a la deriva con los tormentos eternos. Vistas espeluznantes pintadas en tonos insidiosos, paredes huecas que gritan al tacto. Suena una canción burlona a todas horas, incluso los sonidos de los pájaros son falsos. Todos los recordatorios de mi perdurable condenación.",
         "books_limboFourth3": "Gabriel, mi querido amigo, en penitencia sin fin he esperado tu abrazo en el Cielo. He sido tan fiel, aceptando mi destino, pero ¿con qué fin? Qué castigo es este, que voy a llevar las llaves de mi propia perdición sin esperanza de salvación... Estos cráneos se burlan con sus sonrisas diabólicas, voces parloteando, tentándome a sumergirme más profundamente en el Infierno... No lo haré. ",
         "books_limboFourth4": "Los he escondido entre los muebles, los libros y los mismos cimientos de este maldito lugar. Perdóname Gabriel, esperaré tu...",
         "books_limboFourth5": "TEXTO RESTANTE: IRRELEVANTE.",
         
-        "books_lustSecond1": "TEXTO ESCANEADO - GUION LEGIBLE:",
+        "books_lustSecond1": "TEXTO ESCANEADO - GUIÓN LEGIBLE:",
         "books_lustSecond2": "... Gabriel derribó a Minos, su carne desgarrada con torrentes de carmesí acumulando a sus pies mientras todos clamamos por claridad.",
         "books_lustSecond3": "Justicia, decretó Gabriel a todos, con nuestro gobernante justo retorciéndose en lamento de agonía, Hágase la voluntad del Señor.",
         "books_lustSecond4": "Observamos con horror como Minos yacía roto, ahora menguante, gritando desafiando la Voluntad de Dios, Gabriel.",
         "books_lustSecond5": "TEXTO RESTANTE: IRRELEVANTE.",
         
-        "books_greedSecond1": "TEXTO ESCANEADO - PASAJE UNICO:",
+        "books_greedSecond1": "TEXTO ESCANEADO - PASAJE ÚNICO:",
         "books_greedSecond2": "Han pasado días desde la última vez que vimos ángeles. Sin su opresión, no es necesario que sigamos con nuestro castigo. Incluso los más mansos de los condenados han abandonado su penitencia para tomar las armas. Todos pueden ver cómo nos han robado nuestras mentes, cuerpos y almas, dejándonos solo las esperanzas de una salvación que nunca llegará, pero ya no.",
         "books_greedSecond3": "El rey Sísifo ha actuado en secreto hasta ahora , acumulando un ejército cuya fuerza y número aumentan, pero ahora no hay necesidad de esconderse más. Hemos vivido a la sombra del cielo el tiempo suficiente para olvidar el sabor del miedo. Ahora los insurrectos de Sísifo se preparan para la guerra.",
         "books_greedSecond4": "He oído que Minos ha iniciado una revolución pacífica, pero nuestro rey Sísifo sabe que tal pacificidad no ganará el favor de nuestros crueles captores. El sabe que solo se puede luchar contra el poder con poder, y él nos conducirá a la libertad.",
         "books_greedSecond5": "Si supiéramos el sufrimiento que nos sobrevendrá a continuación...",
         "books_greedSecond6": "TEXTO RESTANTE: IRRELEVANTE.",
         
-        "books_greedThird1": "Dentro de la PIRAMIDE se encuentra la cámara de EL FELINO y EL ROEDOR",
-        "books_greedThird2": "Dentro de la CAMARA hay un charco de AGUA clara.",
+        "books_greedThird1": "Dentro de la PIRÁMIDE se encuentra la cámara de EL FELINO y EL ROEDOR",
+        "books_greedThird2": "Dentro de la CÁMARA hay un charco de AGUA clara.",
         "books_greedThird3": "Dentro del AGUA se encuentra un SECRETO...",
-        "books_greedThird4": "Pero solo aquellos que ejercen la magia <color=cyan>ELECTRICA</color> de los druidas pueden encontrarla.",
+        "books_greedThird4": "Pero solo aquellos que ejerzan la magia <color=cyan>ELÉCTRICA</color> de los druidas pueden encontrarla.",
         
         "books_wrathSecond1": "TEXTO ESCANEADO - ESCRITURA LEGIBLE:",
         "books_wrathSecond2": "EXTRACTO DEL DIARIO DEL BARQUERO",
@@ -665,17 +665,17 @@
 	"graphics_goreEnable": "HABILITAR SANGRE Y GORE",
 	"graphics_goreDisablePhysics": "CONGELAR LA FISICA DE GORE",
 	"graphics_goreBloodChance": "POSIBILIDAD DE MANCHA DE SANGRE",
-	"graphics_goreMaxGore": "GORE MAXIMO POR HABITACION",
+	"graphics_goreMaxGore": "GORE MÁXIMO POR HABITACION",
 
 	"audio_title": "AUDIO",
-	"audio_subtitles": "SUBTITULOS",
+	"audio_subtitles": "SUBTÍTULOS",
 	"audio_globalVolume": "VOLUMEN PRINCIPAL",
-	"audio_musicVolume": "VOLUMEN DE LA MUSICA",
+	"audio_musicVolume": "VOLUMEN DE LA MÚSICA",
 
 	"hud_title": "HUD",
 	"hud_type": "TIPO DE HUD",
 	"hud_typeNone": "NINGUNO",
-	"hud_typeStandard": "ESTANDAR",
+	"hud_typeStandard": "ESTÁNDAR",
 	"hud_typeClassicColor": "COLOR CLASICO",
 	"hud_typeClassicWhite": "BLANCO CLASICO",
 	"hud_hudElements": "ELEMENTOS DE HUD",
