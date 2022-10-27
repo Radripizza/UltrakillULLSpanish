@@ -1,0 +1,1893 @@
+{
+	"metadata": {
+		"langName": "ES-es",
+		"langAuthor": "ESP Group",
+		"langVersion": "0.1",
+
+        "minimumModVersion": "0.8.3"
+	},
+    
+	"body": {
+		"bodyName": "Ahora ULTRAKILL se puede disfrutar en español!"
+	},
+    
+    "style":{
+        "style_airslam": "PISOTÓN AÉREO",
+        "style_airshot": "DISPARO AÉREO",
+        "style_attraptor": "ATRACTIVO",
+        "style_arsenal": "ARSENAL",
+        "style_bigheadshot": "GRAN HEADSHOT",
+        "style_bigkill": "GRAN MUERTE",
+        "style_bigfistkill": "GRAN GOLPE",
+        "style_bipolar": "BIPOLAR",
+        "style_cannonballed": "BOLA DE CAÑON",
+        "style_catapaulted": "CATAPULTADO",
+        "style_chargeback": "CONTRACARGA",
+        "style_compressed": "COMPRMIDO",
+        "style_criticalpunch": "GOLPE CRÍTICO",
+        "style_disrespect": "FALTA DE RESPETO",
+        "style_doublekill": "DOBLE MUERTE",
+        "style_downtosize": "A LA MEDIDA",
+        "style_enraged": "ENFURECIDO",
+        "style_exploded": "EXPLOTADO",
+        "style_finishedoff": "ACABADO",
+        "style_fireworks": "FUEGOS ARTIFICIALES",
+        "style_fistfulofdollar": "GOLPE DE DOLAR",
+        "style_fried": "FRITO",
+        "style_friendlyfire": "FUEGO AMIGO",
+        "style_groundslam": "PISOTÓN",
+        "style_halfoff": "A LA MITAD",
+        "style_headshot": "HEADSHOT",
+        "style_homerun": "HOMERUN",
+        "style_instakill": "MUERTE INSTANTÁNEA",
+        "style_interruption": "INTERRUPCIÓN",
+        "style_kill": "MUERTE",
+        "style_limbshot": "DISPARO A LOS MIEMBROS",
+        "style_mauriced": "MAURICIDIO",
+        "style_multikill": "MUERTE MÚLTIPLE",
+        "style_nailbombed": "BOMBA DE CLAVOS",
+        "style_parry": "PARRY",
+        "style_projectileboost": "IMPULSO DE PROYECTIL",
+        "style_quickdraw": "DESENFUNDADO RÁPIDO",
+        "style_ricoshot": "RICOSHOT",
+        "style_ricoshotUltra": "ULTRA",
+        "style_ricoshotCounter": "CONTRA",
+        "style_secret": "SECRETO",
+        "style_splattered": "SALPICADO",
+        "style_triplekill": "TRIPLE MUERTE",
+
+        "style_why": "¿Qué haces creando enemigos aquí?",
+        
+        "style_conductor": "CONDUCTOR",
+        "style_crushed": "APLASTADO",
+        "style_fall": "CAÍDA",
+        "style_minced": "PICADO",
+        "style_outofbounds": "FUERA DE LOS LÍMITES",
+        "style_shredded": "TRITURADO",
+        "style_zapped": "ELECTROCUTADO",
+        
+        "style_d": "DESTRUCTIVO",
+        "style_c": "CAÓTICO",
+        "style_b": "BRUTAL",
+        "style_a": "ANÁRQUICO",
+        "style_s": "SUPREMO",
+        "style_ss": "SSÁDICO",
+        "style_sss": "SSSUBLIME",
+        "style_ultrakill": "ULTRAKILL",
+        
+        "style_weaponFresh": "FRESCO",
+        "style_weaponUsed": "USADO",
+        "style_weaponStale": "ANTICUADO",
+        "style_weaponDull": "ABURRIDO",
+
+        "stylemeter_multiplier": "<size=28>MULTIPLICADOR</size>"
+    },
+    
+    "cyberGrind":{
+        "cybergrind_currentWave": "OLEADA",
+        "cybergrind_enemiesRemaining": "ENEMIGOS RESTANTES",
+        
+        "cybergrind_wave": "OLEADA",
+        "cybergrind_kills": "MUERTES",
+        "cybergrind_style": "ESTILO",
+        "cybergrind_time": "TIEMPO",
+        
+        "cybergrind_cgTitle": "CIBER RUTINA",
+        "cybergrind_previousRun": "MEJOR",
+        "cybergrind_bestRun": "NUEVO",
+        
+        "cybergrind_total": "TOTAL",
+        
+        "cybergrind_connectingToSteam": "CONECTANDO CON STEAMWORKS",
+        
+        "cybergrind_friendScores": "PUNTUACIONES (AMIGOS)",
+        "cybergrind_globalScores": "PUNTUACIONES (GLOBALES)",
+        
+        "cybergrind_settings": "CONFIGURACIONES DE LA CIBER RUTINA",
+        "cybergrind_settingsDescription": "Este terminal se utiliza para la personalización de la ciber rutina.",
+        "cybergrind_themes": "TEMAS",
+        "cybergrind_patterns": "PATRONES",
+        "cybergrind_waves": "OLEADAS",
+        
+        "cybergrind_themesTitle": "TEMAS",
+        "cybergrind_themesDescription": "Seleccione el tema visual para la arena.",
+        "cybergrind_themesLight": "BLANCO",
+        "cybergrind_themesDark": "OSCURO",
+        "cybergrind_themesCustom": "PERSONALIZADO",
+        "cybergrind_themesModify": "MODIFICAR",
+        
+        "cybergrind_themesCustomGrid": "BLOQUES",
+        "cybergrind_themesCustomGridGlow": "BRILLO DE BLOQUES",
+        "cybergrind_themesCustomSkybox": "SKYBOX",
+        "cybergrind_themesCustomBack": "ATRÁS",
+        "cybergrind_themesCustomReload": "RECARGAR",
+        "cybergrind_themesCustomBase": "BASE",
+        "cybergrind_themesCustomTopRow": "PRIMERA FILA",
+        "cybergrind_themesCustomTop": "CIMA",
+        "cybergrind_themesCustomGlowIntensity": "INTENSIDAD",
+        
+        "cybergrind_patternsTitle": "PATRONES",
+        "cybergrind_patternsRefresh": "REFRESCAR",
+        "cybergrind_patternsLaunchExternalEditor": "EDITOR",
+        
+        "cybergrind_wavesTitle": "OLEADAS",
+        "cybergrind_wavesDescription1": "Seleccione para iniciar oleada",
+        "cybergrind_wavesDescription2": "(Para alcanzar oleadas más altas debe llegar por lo menos al doble de la oleada anterior)"
+    },
+    
+    "books":{
+        "books_limboFourth1": "TEXTO ESCANEADO - PASAJE ÚNICO:",
+        "books_limboFourth2": "... Mi mente está a la deriva con los tormentos eternos. Vistas espeluznantes pintadas en tonos insidiosos, paredes huecas que gritan al tacto. Suena una canción burlona a todas horas, incluso los sonidos de los pájaros son falsos. Todos los recordatorios de mi perdurable condenación.",
+        "books_limboFourth3": "Gabriel, mi querido amigo, en penitencia sin fin he esperado tu abrazo en el Cielo. He sido tan fiel, aceptando mi destino, pero ¿con qué fin? Qué castigo es este, que voy a llevar las llaves de mi propia perdición sin esperanza de salvación... Estos cráneos se burlan con sus sonrisas diabólicas, voces parloteando, tentándome a sumergirme más profundamente en el Infierno... No lo haré.",
+        "books_limboFourth4": "Los he escondido entre los muebles, los libros y los mismos cimientos de este maldito lugar. Perdóname Gabriel, esperaré tu...",
+        "books_limboFourth5": "TEXTO RESTANTE: IRRELEVANTE.",
+        
+        "books_lustSecond1": "TEXTO ESCANEADO - GUIÓN LEGIBLE:",
+        "books_lustSecond2": "... Gabriel derribó a Minos, su carne desgarrada con torrentes de carmesí acumulando a sus pies mientras todos clamamos por claridad.",
+        "books_lustSecond3": "Justicia, decretó Gabriel a todos, con nuestro gobernante justo retorciéndose en lamento de agonía, \"Hágase la voluntad del Señor.\"",
+        "books_lustSecond4": "Observamos con horror como Minos yacía roto, ahora menguante, gritando desafiando la Voluntad de Dios, Gabriel.",
+        "books_lustSecond5": "TEXTO RESTANTE: IRRELEVANTE.",
+        
+        "books_greedSecond1": "TEXTO ESCANEADO - PASAJE ÚNICO:",
+        "books_greedSecond2": "Han pasado días desde la última vez que vimos ángeles. Sin su opresión, no es necesario que sigamos con nuestro castigo. Incluso los más mansos de los condenados han abandonado su penitencia para tomar las armas. Todos pueden ver cómo nos han robado nuestras mentes, cuerpos y almas, dejándonos solo las esperanzas de una salvación que nunca llegará, pero ya no.",
+        "books_greedSecond3": "El rey Sísifo ha actuado en secreto hasta ahora , acumulando un ejército cuya fuerza y número aumentan, pero ahora no hay necesidad de esconderse más. Hemos vivido a la sombra del cielo el tiempo suficiente para olvidar el sabor del miedo. Ahora los insurrectos de Sísifo se preparan para la guerra.",
+        "books_greedSecond4": "He oído que Minos ha iniciado una revolución pacífica, pero nuestro rey Sísifo sabe que tal pacificidad no ganará el favor de nuestros crueles captores. El sabe que solo se puede luchar contra el poder con poder, y él nos conducirá a la libertad.",
+        "books_greedSecond5": "Si supiéramos el sufrimiento que nos sobrevendrá a continuación...",
+        "books_greedSecond6": "TEXTO RESTANTE: IRRELEVANTE.",
+        
+        "books_greedThird1": "Dentro de la PIRÁMIDE se encuentra la cámara de EL FELINO y EL ROEDOR",
+        "books_greedThird2": "Dentro de la CÁMARA hay un charco de AGUA clara.",
+        "books_greedThird3": "Dentro del AGUA se encuentra un SECRETO...",
+        "books_greedThird4": "Pero solo aquellos que ejerzan la magia <color=cyan>ELÉCTRICA</color> de los druidas pueden encontrarla.",
+        
+        "books_wrathSecond1": "TEXTO ESCANEADO - ESCRITURA LEGIBLE:",
+        "books_wrathSecond2": "EXTRACTO DEL DIARIO DEL BARQUERO",
+        "books_wrathSecond3": "Alguna calamidad ha golpeado al mundo de los mortales. Lo que una vez fue el río Styx ahora se ha convertido en un océano insondable. Un millón de almas llorosas que llegan cada día que las costas apenas pueden contener. Una marea llorosa derramándose en cada extremo, de proa a popa, clamando misericordia, rogando por un paso seguro. Pero no todas las almas pueden pagar y estas viejas manos solo pueden tomar tantas monedas.",
+        "books_wrathSecond4": "Entonces, un día, la corriente cambió. Ola tras ola durante minutos y millones, miles de millones, como si la garganta del mundo estuviera abierta de par en par y la cabeza tirada hacia atrás para acelerar el vertido. No tuve tiempo de reaccionar. El cansancio de mi incesante trabajo me reclamó y me deslicé bajo el mar embravecido, en las profundidades del Océano Estigia, mi destino sellado por las aplastantes masas de cuerpos sin fin.",
+        "books_wrathSecond5": "De repente, hubo una luz tan brillante como el mismo Señor, sacándome de la oscuridad con brazos poderosos que me sostuvieron con tanta compasión y calidez como nunca antes había conocido:",
+        "books_wrathSecond6": "\"No temas, pecador. Tu devoción a Dios muestra bondad en ti; abundante por cierto. El corazón está dispuesto pero el cuerpo debe descansar, no sea que desperdicien una de las creaciones del Señor.\"",
+        "books_wrathSecond7": "Sus suaves palabras aliviaron el dolor y curaron mis heridas. Mi rostro húmedo con lágrimas de alivio, mis palabras ahogadas por el peso de mi deber. Solo podía yacer en reverencia, llevado en el abrazo de la majestad.",
+        "books_wrathSecond8": "Radiante es Gabriel, porque él es la luz en mi oscuridad.",
+        "books_wrathSecond9": "TEXTO RESTANTE: IRRELEVANTE."
+    },
+    "intermission":{
+        "act1_intermission_first1": "Desgracia.",
+        "act1_intermission_first2": "Humillación.",
+        "act1_intermission_first3": "Indecoroso e inoportuno a los pies del Consejo.",
+        "act1_intermission_first4": "Sus ojos ardientes de amargo resentimiento, que brillaban a través de las heridas del cuerpo y del alma de Gabriel, salían al exterior para que todos los vieran.",
+        "act1_intermission_first5": "¿Ha abandonado éste el camino de nuestro creador?",
+        "act1_intermission_first6": "Es indigno de la Luz Sagrada.",
+        "act1_intermission_first7": "La Luz del Padre es indomable.",
+        "act1_intermission_first8": "Éste considera oportuno despilfarrarlo.",
+        "act1_intermission_first9": "Sus palabras resonaron en los miembros de Gabriel, recorriendo como un rayo sobre un cable, un silbido abrasador que dejaría sordos y ciegos a los menores.",
+        "act1_intermission_first10": "La Luz Sagrada dentro de él, una tormenta imparable de furia divina.",
+        "act1_intermission_first11": "Insuperable para meros objetos.",
+        "act1_intermission_first12": "Esto lo sabía.",
+        
+        "act1_intermission_second1": "\"Consejo Sagrado, mi devoción a nuestro Creador es absoluta. Nunca me he alejado de la voluntad del Padre, pero una máquina-\"",
+        "act1_intermission_second2": "\"¿Te atreves a insinuar que el poder del Padre podría ser sacudido por meros objetos?\"",
+        "act1_intermission_second3": "\"Imposible.\"",
+        "act1_intermission_second4": "\"Herejía.\"",
+        "act1_intermission_second5": "\"Inexplicable.\"",
+        "act1_intermission_second6": "\"Silencio.\"",
+        "act1_intermission_second7": "\"Tu traición no será tolerada. Como castigo, La Luz del Padre será separada de tu cuerpo.\"",
+        "act1_intermission_second8": "Tienes 24 horas antes de que el último de sus miembros muera.\"",
+        "act1_intermission_second9": "Y tú con ellos.",
+        "act1_intermission_second10": "Demuestra tu lealtad.",
+        "act1_intermission_second11": "Deshazte de tus errores.",
+        "act1_intermission_second12": "PARA ELIMINAR",
+        
+        "act1_intermission_third1": "Mientras la Luz era arrancada de su ser, los gritos de Gabriel se silenciaron en el silbido del evangelio en alabanza a Dios.",
+        "act1_intermission_third2": "Una angustia hirviente a la que ni siquiera los fuegos del infierno podrían compararse.",
+        "act1_intermission_third3": "A través de las llamas del tormento se forjó de nuevo un único odio ardiente.",
+        "act1_intermission_third4": "Si las máquinas buscan sangre, él la daría gratis;",
+        "act1_intermission_third5": "y con tal furia, que hasta el metal sangrará.",
+
+        "act2_intermission_first1": "Silencio.",
+        "act2_intermission_first2": "Introspección.",
+        "act2_intermission_first3": "¿A cuántos había matado?",
+        "act2_intermission_first4": "¿Había pensado alguna vez en contar?",
+        "act2_intermission_first5": "¿Cuánta crueldad encarnó... y con qué fin?",
+        "act2_intermission_first6": "¿A cuántos condenó al infierno y a quién benefició?",
+        
+        "act2_intermission_first7": "Dos derrotas a manos de la máquina habían cambiado a Gabriel.",
+        "act2_intermission_first8": "El mundo de la una vez supuesta Voluntad de Dios ahora estaba hecho añicos y solo quedaba él para volver a juntar las piezas.",
+        "act2_intermission_first9": "Se reunieron ante la luz de un fuego moribundo que el combustible nuevo no podía sostener, esta nueva luz le mostró la verdad a Gabriel:",
+        
+        "act2_intermission_first10": "Para empezar, las piezas nunca encajaron.",
+        
+        "act2_intermission_second1": "El supuesto Consejo de \"el pueblo\" que se jactaba de un Dios que no estaba.",
+        "act2_intermission_second2": "Desaparecido.",
+        "act2_intermission_second3": "Desvanecido.",
+        "act2_intermission_second4": "El Concilio todavía persiguió la luz del fuego de Dios, su memoria de sus palabras y voluntad creció torcida y torcida, y el resto de las masas sin rumbo del Cielo siguen sus pasos.",
+        "act2_intermission_second5": "Los ángeles aún actúan en el nombre del Padre, pero su reino ha cambiado.",
+        
+        "act2_intermission_second6": "Ahora el fuego se estaba extinguiendo, chisporroteando mientras el calor no lograba apoderarse de él.",
+        "act2_intermission_second7": "Gabriel miró las brasas con perfecta claridad.",
+        "act2_intermission_second8": "Sacó su espada y la sostuvo en contraste con la luz moribunda.",
+        
+        "act2_intermission_second9": "En su reflejo vio un arma renacer, ya no empuñada por la voluntad de otro, sino por la suya propia.",
+        "act2_intermission_second10": "Él sabía que las palabras por sí solas nunca influirían en las masas.",
+        "act2_intermission_second11": "Eligió hacer algo drástico.",
+        
+        "act2_intermission_third1": "La muerte tiñe el auditorio.",
+        "act2_intermission_third2": "Los cadáveres tirados del alguna vez poderoso consejo ahora esparcidos contra sus superficies, sus últimos respiros de vida goteando por la hoja disidente de la espada de Gabriel.",
+        
+        "act2_intermission_third3": "El último consejero, ahora apoyado contra una pared, busca las palabras entre respiraciones aterrorizadas mientras la muerte se acerca con pasos medidos.",
+        "act2_intermission_third4": "\"¡E-Espera!",
+        "act2_intermission_third5": "¡N-No puedes hacer esto! ¡Nuestro estatus lo prohíbe!",
+        "act2_intermission_third6": "¡Esto es traición, herejía, asesinato!",
+        "act2_intermission_third7": "¡Somos la autoridad suprema, nuestra ley te lo ordena!\"",
+        
+        "act2_intermission_third8": "\"Tú no ordenas nada.",
+        "act2_intermission_third9": "Tus palabras no tienen poder sobre mí ni sobre nadie más.",
+        "act2_intermission_third10": "Para que no creas realmente que puedes convencer a mi espada de que vuelva a su vaina.\"",
+        
+        "act2_intermission_fourth1": "\"¡P-Pero la gente está de nuestro lado!",
+        "act2_intermission_fourth2": "¡Los ciudadanos del cielo saben que somos justos!\"",
+        "act2_intermission_fourth3": "\"Las masas solo te siguen por miedo y desesperación.",
+        "act2_intermission_fourth4": "Les mostraré que no hay nada que temer, porque no hay especie ni origen, rango investido o estatus sagrado que detenga el filo de una espada.",
+        
+        "act2_intermission_fourth5": "Todos sangramos la misma sangre, y los cojines de tus tronos te han hecho débil e impotente.\"",
+        
+        "act2_intermission_fourth6": "\"P-Por favor, Gabriel, ¡entra en razón!",
+        "act2_intermission_fourth7": "¡El consejo sigue la voluntad del Padre!",
+        "act2_intermission_fourth8": "Buscas ir en contra de nuestro creador-\"",
+        
+        "act2_intermission_fourth9": "\"Acéptalo, hermano.",
+        "act2_intermission_fourth10": "Dios ha muerto.",
+        "act2_intermission_fourth11": "El fuego se ha extinguido.",
+        "act2_intermission_fourth12": "Estás persiguiendo fantasmas.\"",
+        
+        "act2_intermission_fourth13": "La silueta de Gabriel ahora se eleva sobre el consejero, su sombra proyectada sobre un cadáver pronto sin vida.",
+        
+        "act2_intermission_fifth1": "Levanta su espada para el corte final mientras el llanto del suelo tartamudea su débil argumento final.",
+        
+        "act2_intermission_fifth2": "\"P-P-Pero la luz del Padre!",
+        "act2_intermission_fifth3": "Sin mí no puedes esperar volver a conectarte con él! S-S-Si me matas, estarás muerto en cuestión de horas!\"",
+        "act2_intermission_fifth4": "\"Lo sé.\"",
+        
+        "act2_intermission_fifth5": "Un corte limpio y silencioso se desliza por el cuello del consejero, cortando su columna vertebral con elegancia y facilidad.",
+        "act2_intermission_fifth6": "Su cabeza cae al suelo de mármol, el resto de su cuerpo lo sigue poco después.",
+        
+        "act2_intermission_sixth1": "Desprovisto de estatus pero rebosante de propósito, Gabriel dio un mensaje final a los ángeles reunidos a las puertas del auditorio antes de dejar el Cielo por última vez.",
+        
+        "act2_intermission_sixth2": "Su brazo extendido, sin una palabra, la gente vio.",
+        "act2_intermission_sixth3": "En el silencio, el mensaje resonó hasta los confines del cosmos.",
+        
+        "act1_intermission_tobecontinued": "CONTINUARA EN... <color=red>ACTO II: ODIO IMPERFECTO</color>",
+        "act1_intermission_tobecontinuedshadow": "CONTINUARA EN... ACTO II: ODIO IMPERFECTO",
+        
+        "act1_intermission_endof": "FIN DEL ACTO I",
+        "act1_intermission_insertAct2": "INSERTE EL DISCO 2 PARA ACTO II: ODIO IMPERFECTO",
+        "act1_intermission_insert": "INSERTAR",
+        "act1_intermission_returnToMenu": "VOLVER AL MENU",
+        
+        "act2_intermission_tobecontinued": "CONCLUIRÁ EN... ACTO III: <color=red><size=30>SUICIDIO DEL PUÑO DE DIOS</size></color>",
+        "act2_intermission_tobecontinuedshadow": "CONCLUIRÁ EN... ACTO III: <size=30>SUICIDIO DEL PUÑO DE DIOS</size>"
+        
+    },
+	"frontend": {
+		"mainmenu_earlyAccess": "ACCESO ANTICIPADO",
+		"mainmenu_play": "JUGAR",
+		"mainmenu_options": "OPCIONES",
+		"mainmenu_quit": "SALIR",
+
+		"difficulty_title": "DIFICULTAD",
+		"difficulty_easy": "FÁCIL",
+		"difficulty_normal": "NORMAL",
+		"difficulty_hard": "DIFÍCIL",
+		"difficulty_harmless": "INOFENSIVO",
+		"difficulty_lenient": "INDULGENTE",
+		"difficulty_standard": "ESTÁNDAR",
+		"difficulty_violent": "VIOLENTO",
+		"difficulty_brutal": "BRUTAL",
+		"difficulty_umd": "ULTRAKILL DEBE MORIR",
+        
+        "difficulty_tweakReminder": "<size=16>[ LA DIFICULTAD SE PUEDE AJUSTAR TODAVÍA MÁS EN EL MENU DE OPCIONES DE ASISTENCIA ]</size>",
+        "difficulty_underConstruction": "EN CONSTRUCCIÓN",
+
+		"difficulty_harmlessDescription1": "Enemigos y ataques absurdamente lentos.",
+		"difficulty_harmlessDescription2": "El daño sigue siendo alto, pero incluso una montaña podría esquivarlos.",
+		"difficulty_harmlessDescription3": "Recomendado para jugadores que desean una experiencia libre de estrés.",
+		"difficulty_lenientDescription1": "Altos daños, pero ataques más lentos con enemigos pasivos.",
+		"difficulty_lenientDescription2": "La tensión sigue siendo alta, pero el daño es más fácil de evitar.",
+		"difficulty_lenientDescription3": "Recomendado para jugadores que tienen problemas para jugar en la dificultad estándar.",
+		"difficulty_standardDescription1": "Enemigos normales y alto daño.",
+		"difficulty_standardDescription2": "Los ataques son fáciles de evitar, pero un descuido resultará en una muerte rápida.",
+		"difficulty_standardDescription3": "Recomendado para jugadores nuevos.",
+		"difficulty_violentDescription1": "Enemigos rápidos, agresivos y un alto daño.",
+		"difficulty_violentDescription2": "Pensar rápido, aprovechar la movilidad y ser consciente de la situación es esencial.",
+		"difficulty_violentDescription3": "Recomendado para jugadores que ya se han acostumbrado al ritmo y las mecánicas del juego.",
+
+		"chapter_title": "CAPÍTULO",
+		"chapter_prelude": "PRELUDIO",
+		"chapter_act1": "ACTO I:HIPERMUERTE INFINITA",
+		"chapter_act2": "ACTO II:ODIO IMPERFECTO",
+		"chapter_act3": "ACTO III: ???",
+		"chapter_prime": "SANTUARIOS PRIME",
+		"chapter_cyberGrind": "CIBER RUTINA",
+		"chapter_sandbox": "SANDBOX",
+		"chapter_secretMission": "MISIÓN SECRETA",
+
+		"layer_prelude": "OBERTURA: LA BOCA DEL INFIERNO",
+		"layer_limbo": "CIRCULO 1: LIMBO",
+		"layer_lust": "CIRCULO 2: LUJURIA",
+		"layer_gluttony": "CIRCULO 3: GULA",
+		"layer_greed": "CIRCULO 4: CODICIA",
+		"layer_wrath": "CIRCULO 5: IRA",
+		"layer_heresy": "CIRCULO 6: HEREJÍA",
+		"layer_prime": "SANTUARIOS PRIME",
+
+        "level_challenge": "DESAFIO",
+		"level_challengeCompleted": "COMPLETO",
+
+        "level_fullIntroPrompt": "INTRO COMPLETA?",
+        "level_fullIntroPromptYes": "SI",
+        "level_fullIntroPromptNo": "NO",
+        "level_fullIntroPromptCancel": "CANCELAR"
+	},
+    "visualnovel": {
+        "visualnovel_mirageName1": "SOLO ALGUIEN",
+        "visualnovel_mirageName2": "LA CHICA MAS BONITA DE LA CIUDAD",
+        "visualnovel_mirageName3": "MIRAGE",
+
+        "visualnovel_introFirst1": "Pasos pesados, respiración irregular.",
+        "visualnovel_introFirst2": "No queda mucho tiempo.",
+        "visualnovel_introFirst3": "Puede que ya sea demasiado tarde.",
+        
+        "visualnovel_introFirst4": "Los caminos laberínticos de giros bruscos arbitrarios parecían más y más extraños a medida que el pánico borraba los recuerdos profundamente arraigados que solían guiarme.",
+        
+        "visualnovel_introFirst5": "Cada rincón se sentía extraño. ",
+        "visualnovel_introFirst6": "Cada línea recta demasiado larga.",
+        
+        "visualnovel_introFirst7": "Las campanas suenan por mí.",
+        
+        "visualnovel_introSecond1": "Mordí con más fuerza la última de mis raciones, sostenida solo por la piel de mis dientes.",
+        "visualnovel_introSecond2": "Apenas aguanto mientras seguía mirando frenéticamente a mi alrededor, esperando que los pocos fragmentos de mi ardiente memoria encuentren una vista familiar que me lleve a la salvación.",
+        "visualnovel_introSecond3": "Las puertas deben estar cerrándose ahora.",
+        "visualnovel_introSecond4": "Los últimos apenas lo logran.",
+        "visualnovel_introSecond5": "El resto nunca tuvo oportunidad.",
+        
+        "visualnovel_introSecond6": "De repente, desde un punto ciego, una figura me golpeó.",
+        "visualnovel_introSecond7": "No tuve tiempo de reaccionar antes de que me estrellara contra el suelo frío y duro.",
+        "visualnovel_introSecond8": "Luché por recuperar mis sentidos para al menos ver qué destino me ocurriría en mis momentos finales, pero incluso en este abismo de terror sin fin, mi mente nunca podría haber imaginado el horror que presencié.",
+        
+        "visualnovel_fallen1": "Uf, ay, eso apesta",
+        
+        "visualnovel_fallenPromptFirst1": "\"¿Quién eres tú?\"",
+        "visualnovel_fallenPromptFirst2": "\"¿Estás bien?\"",
+        "visualnovel_fallenPromptFirst3": "*Agitarse nerviosamente y sudar profusamente*",
+        
+        "visualnovel_fallenResponseFirst": "Solo soy alguien que fue golpeada por un imbécil que ni siquiera tiene la decencia de preguntarme si estoy bien o de disculparse antes de iniciar un interrogatorio.",
+        "visualnovel_fallenResponseSecond": "Bueno, me acaba de golpear un idiota ciego por elección, que le dio a mi falda una capa de suciedad decorativa, así que en general fantástica, aunque preferiría no estar en el suelo en este momento.",
+        "visualnovel_fallenResponseThird1": "Oh genial, me golpeó una fuente vibrante, solo mi suerte.",
+        "visualnovel_fallenResponseThird2": "Al menos podrías ayudarme a levantarme antes de que el resto de ti sea derretido por el sol o se hunda en el manto de la Tierra.",
+        
+        
+        "visualnovel_fallenPromptSecond1": "*Ayudarla a subir*",
+        "visualnovel_fallenPromptSecond2": "\"No con una actitud como esa.\"",
+        "visualnovel_fallenPromptSecond3": "Disculpa, mi error.",
+        
+        "visualnovel_fallenResponseFourth": "Bien bien.",
+       
+       
+        "visualnovel_kindFirst1": "*Suspiro*",
+        "visualnovel_kindFirst2": "Oye, perdón por ser tan grosera, estoy realmente frustrada porque no solo llegué tarde a la escuela, sino que también logré perderme en el camino.",
+        
+        "visualnovel_kindSecond": "Aunque, por lo que parece, estás más o menos en el mismo barco, y por un golpe de suerte único en la vida te encontraste con la ~chica más bonita de la ciudad~.",
+        "visualnovel_kindThird": "Entonces, ¿qué tal si lideras el camino y nos sacas a los dos de este aprieto?",
+        
+        "visualnovel_rudeFirst1": "Escucha, imbécil.",
+        "visualnovel_rudeFirst2": "No sé quién eres, pero tienes mucho valor para golpear a alguien y ni siquiera molestarte en ayudarle a levantarse, pero como tu madre no te enseñó modales, dejaré pasar esto.",
+        "visualnovel_rudeSecond": "Por lo que parece, también llegas tarde a la escuela y, por un golpe de suerte único en la vida, te topaste con la chica más bonita de la ciudad.",
+        "visualnovel_rudeThird": "Así que te perdonaré tu extrema transgresión de poner tus manos sobre una bella doncella si me dices por dónde ir, ya que parece que me he perdido en el camino.",
+        
+        "visualnovel_middlePrompt1": "\"En realidad, también estoy perdido.\"",
+        "visualnovel_middlePrompt2": "\"No quiero.\"",
+        "visualnovel_middlePrompt3": "\"No voy a la escuela.\"",
+        
+        "visualnovel_middleResponseFirst1": "¡UGH! Solo mi suerte.",
+        "visualnovel_middleResponseFirst2": "Aunque en retrospectiva, supongo que no estarías aquí conmigo ahora mismo si no estuvieras perdido también...",
+        "visualnovel_middleResponseFirst3": "Oh, bueno, no tiene sentido llorar en la sangre derramada.",
+        "visualnovel_middleResponseFirst4": "También podríamos esperar a que venga otro estudiante y seguirlo.",
+        "visualnovel_middleResponseFirst5": "Soy Mirage.",
+        "visualnovel_middleResponseFirst6": "Sin embargo, no te molestes en decirme tu nombre, realmente no me importa.",
+        
+        "visualnovel_middleResponseSecond1": "QUE?",
+        "visualnovel_middleResponseSecond2": "QUE MIERDA QUIERES DECIR CON 'NO QUIERO'?",
+        "visualnovel_middleResponseSecond3": "¡Si NO me muestras el camino, entonces TÚ tampoco llegarás nunca!",
+        "visualnovel_middleResponseSecond4": "¿O ese pensamiento ni siquiera cruzó tu cavidad cerebral alimentada con crayones? ",
+        
+        "visualnovel_middleResponseThird1": "Mierda!",
+        "visualnovel_middleResponseThird2": "Déjate de tonterías, puedo ver tu uniforme asqueroso y ninguna persona viva se atrevería a salir luciendo como una bolsa de basura llena por elección.",
+        "visualnovel_middleResponseThird3": "Aunque teniendo en cuenta la poca actividad que hay realmente dentro de tu cerebro, estoy dispuesto a admitir que no pareces haber ido nunca a la escuela.",
+        
+        "visualnovel_middlePromptSecondRecklessness": "\"Te vendría bien ser un poco más amable con las personas que acabas de conocer.\"",
+        "visualnovel_middlePromptSecondWaiting": "\"Solo esperar aquí no nos llevará a ninguna parte, deberíamos estar buscando un camino a la escuela.\"",
+        
+        "visualnovel_recklessnessFirst": "¿Sí? Bueno, te vendría bien una paliza, así que vete a la mierda.",
+        "visualnovel_recklessnessSecond1": "Pero sí, tienes razón.",
+        "visualnovel_recklessnessSecond2": "Realmente no me importa lo que tú o cualquier otra persona piense de mí, así que no estoy interesada en tratar de ser amable solo para que estés de buen humor.",
+        
+        "visualnovel_recklessnessPrompt1": "¿Por qué no? Si estamos atrapados aquí juntos de todos modos, ¿cuál es el punto de empeorar las cosas para los dos?",
+        "visualnovel_recklessnessPrompt2": "Encuentro eso difícil de creer considerando lo enojada que estás con prácticamente todo lo que digo.",
+        
+        "visualnovel_recklessnessResponseFirst1": "¿Cuál es el punto de hacerlo mejor??",
+        "visualnovel_recklessnessResponseFirst2": "¿Cuál es el punto de siquiera molestarse en preocuparse?",
+        "visualnovel_recklessnessResponseFirst3": "Demonios, ¿cuál es el punto de cualquier cosa?",
+        "visualnovel_recklessnessResponseFirst4": "Nada.",
+        "visualnovel_recklessnessResponseFirst5": "Absolutamente nada.",
+        
+        "visualnovel_recklessnessResponseSecond1": "No te hagas ilusiones.",
+        "visualnovel_recklessnessResponseSecond2": "Desahogarme es cómo me las arreglo.",
+        
+        "visualnovel_recklessnessPrompt3": "\"¿Desahogarte con qué?\"",
+        
+        "visualnovel_recklessnessResponseThird": "Todo.",
+        
+        "visualnovel_waitingFirst": "Deambular como pollos sin cabeza solo nos perdería aún más.",
+        "visualnovel_waitingSecond": "Dado que ambos nos dirigíamos a la escuela y terminamos reuniéndonos aquí, eso significa que hay una gran probabilidad de que este lugar esté en algún lugar del camino.",
+        "visualnovel_waitingThird1": "Por lo tanto, será mejor que nos quedemos y esperemos a alguien que SI conozca el camino.",
+        "visualnovel_waitingThird2": "Es lógica básica, deberías buscarlo en algún momento.",
+        
+        "visualnovel_waitingPromptFirst1": "Lógica básica o no, ya llegamos tarde y no planeo esperar aquí hasta mañana por la mañana.",
+        "visualnovel_waitingPromptFirst2": "Cualquiera que conozca el camino ya habrá ido allí. Me parece que solo estás buscando una excusa para rendirte.",
+        
+        "visualnovel_waitingResponseFirst1": "Haz lo que quieras. Me quedaré aquí hasta la muerte por el calor del universo si eso significa que no tengo que correr de un lado a otro buscando alguna cosa mágica en el suelo que desencadene la memoria.",
+        "visualnovel_waitingResponseFirst2": "No podría importarme menos llegar tarde a la escuela.",
+        "visualnovel_waitingResponseFirst3": "La escuela no importa de todos modos.",
+        "visualnovel_waitingResponseFirst4": "Nada lo hace.",
+        "visualnovel_waitingResponseFirst5": "PARA ELIMINAR",
+        
+        "visualnovel_waitingResponseSecond1": "Hah!",
+        "visualnovel_waitingResponseSecond2": "No puedo rendirme si nunca lo intenté en primer lugar, y no tengo el hábito de intentarlo.",
+
+        "visualnovel_waitingPromptThird": "¿Por qué no?",
+        
+        "visualnovel_waitingResponseThird1": "Porque nada importa.",
+        "visualnovel_waitingResponseThird2": "No tiene sentido intentarlo si el resultado final será el mismo de todos modos.",
+        "visualnovel_waitingResponseThird3": "Por más que lo intentes, eventualmente te convertirás en polvo olvidado en el viento como el resto de nosotros.",
+        
+        "visualnovel_nihilism1": "Quiero decir, de verdad, tómate un momento para pensarlo.",
+        
+        "visualnovel_nihilism2": "La mente humana, en toda su inmensidad, es capaz de reconocer su total impotencia e inutilidad frente a la inexistencia inevitable, pero es incapaz de aceptarla.",
+        
+        "visualnovel_nihilism3": "Solo podemos ignorarlo, escondernos o escapar temporalmente de ello, pero el hecho es que estamos atados al camino de todas las cosas.",
+        
+        "visualnovel_nihilism4": "La muerte es inevitable, no solo para nosotros, sino para todo lo que existe o ha existido alguna vez.",
+        "visualnovel_nihilism5": "Todo ser vivo finalmente se extinguirá.",
+        "visualnovel_nihilism6": "Cada partícula de materia eventualmente se marchitará y se disipará en entropía.",
+        
+        "visualnovel_nihilism7": "No importa si viviste una buena vida o si dejaste un legado.",
+        "visualnovel_nihilism8": "No importa si la humanidad sobrevive mil años o se extingue mañana.",
+        "visualnovel_nihilism9": "El resultado final es el mismo: la nada absoluta.",
+        
+        "visualnovel_nihilism10": "La inteligencia humana está más avanzada que que la de otros animales, pero sería un error considerar eso como un regalo.",
+        "visualnovel_nihilism11": "Todos los demás seres tienen el don de la ignorancia, de no entender lo que hacemos.",
+        
+        "visualnovel_nihilism12": "Nuestra inteligencia no es un regalo. Es un defecto.",
+        
+        "visualnovel_nihilism13": "Es una extensión de la evolución.",
+        "visualnovel_nihilism14": "La inteligencia, que una vez fue una gran característica en eones pasados, continuó creciendo sin control ni filtros, y desde entonces ha superado un umbral en el que ya no es un beneficio, sino un peligro activo para su anfitrión.",
+        
+        "visualnovel_nihilism15": "Al igual que el alce irlandés, una especie de ciervo que, a través de incontables generaciones de evolución, desarrolló cuernos tan anchos y vastos que ya no podía huir de los depredadores, lo que eventualmente llevó a la extinción.",
+        
+        "visualnovel_nihilism16": "La mente humana es una mala adaptación evolutiva causada por ir demasiado lejos en una dirección que alguna vez fue beneficiosa y que, tarde o temprano, conducirá a nuestra extinción.",
+        "visualnovel_nihilism17": "A nivel individual, ya está sucediendo",
+        
+        "visualnovel_nihilism18": "El temor existencial ya se está apoderando.",
+        "visualnovel_nihilism19": "Estoy segura de que tú también lo has sentido.",
+        "visualnovel_nihilism20": "El dolor y el miedo de no ser nada, de convertirse en nada.",
+        "visualnovel_nihilism21": "El sufrimiento de entender eso.",
+        
+        "visualnovel_nihilism22": "No podemos aceptarlo, por lo que nos escondemos de nuestra propia inteligencia.",
+        "visualnovel_nihilism23": "Ponemos límites.",
+        "visualnovel_nihilism24": "Nos abstenemos de pensar profundamente en lo que sucederá cuando muramos.",
+        
+        "visualnovel_nihilism25": "Creamos distracciones.",
+        "visualnovel_nihilism26": "Mantenemos nuestras mentes ocupadas con actividades mundanas y entretenimiento para evitar tener que enfrentarnos cara a cara con la verdad.",
+        
+        "visualnovel_nihilism27": "Lo sublimamos.",
+        "visualnovel_nihilism28": "Transformamos nuestro sufrimiento autorreflexivo en otra forma, arte, para evitar que nos consuma. ",
+        "visualnovel_nihilism29": "Cualquier cosa para evitar el pánico.",
+        
+        "visualnovel_nihilism30": "Pero todas estas formas son simplemente temporales.",
+        "visualnovel_nihilism31": "Solo están ahí para descorrer el inevitable velo de impotencia y desesperación que nos envolvería y arruinaría.",
+        
+        "visualnovel_nihilism32": "Al final, nada importa.",
+        "visualnovel_nihilism33": "No tiene sentido tratar de encontrar alegría en la vida, porque la vida en sí misma es sufrimiento.",
+        
+        "visualnovel_nihilismPrompt1": "Te equivocas.",
+        "visualnovel_nihilismPrompt2": "Criticas a aquellos que consideran que nuestra vasta inteligencia es un regalo y, sin embargo, también te equivocas al creer que nuestra falta de sentido es una maldición.",
+        "visualnovel_nihilismPrompt3": "Nada de lo que hacemos importa al final, y es precisamente por eso que no estamos encadenados por el peso de las expectativas, el miedo al juicio eterno o el incumplimiento de una definición arbitraria de lo que hace que nuestro tiempo limitado 'no sea en vano'.",
+        "visualnovel_nihilismPrompt4": "El tiempo no se puede desperdiciar, porque no hay un propósito mayor para la vida que simplemente vivirla",
+        "visualnovel_nihilismPrompt5": "Todo lo contrario.",
+        "visualnovel_nihilismPrompt6": "Debido a que no tenemos un propósito mayor, somos libres de establecer el nuestro. Crear metas autodefinidas por las cuales luchar",
+        "visualnovel_nihilismPrompt7": "Para algunos puede que no sea nada. Para algunos puede ser un placer. Para algunos puede ser creación. Para algunos, puede mejorar la vida de otros.",
+        "visualnovel_nihilismPrompt8": "Es porque no tenemos un propósito mayor, que el tiempo dedicado a las metas establecidas por uno mismo no puede ser una pérdida de tiempo.",
+        "visualnovel_nihilismPrompt9": "Al final, nada importa y, por lo tanto, no tienes ninguna razón para no hacer lo que quieres en lugar de cualquier ilusión de mayor propósito que otros te impongan o incluso tus propios pensamientos equivocados.",
+        "visualnovel_nihilismPrompt10": "Y es un pensamiento que vale la pena temer. Sin embargo, abandonar el propósito, la esperanza, la elección, las metas, el placer y la voluntad no puede hacer que ese pensamiento desaparezca. El miedo, sin embargo, puede desaparecer.",
+        "visualnovel_nihilismPrompt11": "Rendirse no es aceptar el final, es simplemente aceptar el miedo. Es abrazar la desesperación en lugar de enfrentarla.",
+        "visualnovel_nihilismPrompt12": "Es verdad. Lo emocional no está controlado por lo lógico. Sin embargo, están interconectados.",
+        "visualnovel_nihilismPrompt13": "Así como las profundidades más profundas y oscuras de la desesperación pueden derrocar a la razón y lo lógico, deformándolos para encajar en esa neblina de depresión, así también la razón puede influir y dominar la emoción, sin importar cuán impenetrables puedan parecer sus defensas.",
+        "visualnovel_nihilismPrompt14": "Al forzar continuamente a subvertir esos pensamientos negativos progresivos con los lógicos positivos, la mente emocional eventualmente, lentamente, gradualmente comenzará a formarse para adaptarse a la lógica.",
+        "visualnovel_nihilismPrompt15": "No es un trabajo fácil.",
+        "visualnovel_nihilismPrompt16": "No es un trabajo rápido.",
+        "visualnovel_nihilismPrompt17": "A veces se sentirá como un trabajo imposible.",
+        "visualnovel_nihilismPrompt18": "Sin embargo, se puede hacer.",
+        "visualnovel_nihilismPrompt19": "Con una inmensa cantidad de tiempo, esfuerzo y energía, mejorará.",
+        "visualnovel_nihilismPrompt20": "Tú puedes cambiar.",
+        "visualnovel_nihilismPrompt21": "Puedes curarte.",
+        "visualnovel_nihilismPrompt22": "Y durante los momentos más difíciles, cuando todo parece perdido y quieres rendirte, nunca olvides...",
+        "visualnovel_nihilismPrompt23": "Siempre te amaremos.",
+        "visualnovel_nihilismPrompt24": "PARA ELIMINAR",
+        "visualnovel_nihilismPrompt25": "PARA ELIMINAR",
+        
+        "visualnovel_nihilism34": "Huh?",
+        "visualnovel_nihilism35": "¿Cómo podría no estarlo?",
+        "visualnovel_nihilism36": "Pero aún así, en ese caso, la falta de sentido de nuestras acciones lleva a la misma conclusión. -- No hay razón para actuar, ya que cualquier acción es simplemente una fluctuación temporal que, sin embargo, conducirá a la misma conclusión.",
+        
+        "visualnovel_nihilism37": "Entiendo lo que quieres decir.",
+        "visualnovel_nihilism38": "Sin embargo, eso no alivia mi miedo al final.", 
+        "visualnovel_nihilism39": "Incluso si tratara de encontrar un propósito, todavía estaría paralizada por la idea de convertirme en nada.",
+        
+        "visualnovel_nihilism40": "Ya veo.",
+        "visualnovel_nihilism41": "Aunque por mucho que me gustaría abrazarlo, me golpea ese pánico existencial paralizante.",
+        "visualnovel_nihilism42": "Lo entiendo lógicamente, y sé que no hay razón para vivir en la apatía, pero mi lado emocional se niega a escuchar.",
+        "visualnovel_nihilism43": "El miedo persiste y no puedo motivarme para buscar un propósito, a pesar de saber que debo hacerlo.",
+        
+        "visualnovel_conclusion1": "Bueno, seré condenada",
+        "visualnovel_conclusion2": "Supongo que tienes una buena cabeza sobre tus hombros después de todo.",
+        "visualnovel_conclusion3": "Demonios, estoy impresionada.",
+        
+        "visualnovel_conclusion4": "Hombre... ",
+        "visualnovel_conclusion5": "Siento que me he quitado el peso del mundo de encima.",
+        "visualnovel_conclusion6": "O mejor dicho, tú has hecho eso por mí..",
+        "visualnovel_conclusion7": "Y honestamente, desde el fondo de mi corazón...",
+        
+        "visualnovel_conclusion8": "Gracias.",
+        
+        "visualnovel_conclusion9": "Me has dado mucho en qué pensar, y aunque estoy segura de que tengo un camino largo y difícil por delante, soy optimista. ",
+        "visualnovel_conclusion10": "Por primera vez en lo que parece una eternidad, soy optimista.",
+        
+        "visualnovel_conclusion11": "Dime... Ya es demasiado tarde para la escuela y ya está bastante claro que nadie vendrá a guiarnos allí, entonces, ¿qué tal si tú y yo nos deshacemos de esa penitenciaría que drena la pasión y vamos a buscar algo para comer, eh?",
+        
+        "visualnovel_conclusionPrompt1": "Sí, claro. No tengo nada mejor que hacer hoy. Pero tú estás pagando.",
+        "visualnovel_conclusionPrompt2": "No, lo siento. Para ser honesto, todavía estoy un poco enojado contigo por lo grosera que fuiste conmigo.",
+      
+        "visualnovel_conclusionResponseFirst1": "Oh, bastardo astuto!",
+        
+        "visualnovel_conclusionResponseFirst2": "Pero está bien.",
+        "visualnovel_conclusionResponseFirst3": "De todos modos, te debo una, así que qué mejor momento para cobrar tu cupón de 'le hice algo bueno a una chica fuera de mi alcance' que ahora, ¿eh?",
+        
+        "visualnovel_conclusionResponseSecond1": "Muy bien, haz lo que quieras.",
+        "visualnovel_conclusionResponseSecond2": "Sin embargo, la oferta sigue en pie, en caso de que cambies de opinión en algún momento.",
+        "visualnovel_conclusionResponseSecond3": "Nos vemos, cariño."
+    },
+	"options": {
+		"options_title": "OPCIONES",
+		"options_back": "ATRAS",
+		"category_general": "GENERAL",
+		"category_controls": "CONTROLES",
+		"category_graphics": "GRÁFICOS",
+		"category_sound": "SONIDO",
+		"category_display": "PANTALLA",
+		"category_assists": "AYUDA",
+		"category_colors": "COLORES",
+		"category_saves": "GUARDADOS",
+
+		"general_mouseSensitivity": "<size=11>SENSIBILIDAD DEL MOUSE</size>",
+		"general_xInversion": "INVERTIR EJE X",
+		"general_yInversion": "INVERTIR EJE Y",
+		"general_fieldOfVision": "CAMPO DE VISIÓN",
+		"general_weaponPosition": "POSICION DE ARMA",
+		"general_weaponPositionRight": "DERECHA",
+		"general_weaponPositionMiddle": "MEDIO",
+		"general_weaponPositionLeft": "IZQUIERDA",
+		"general_rememberWeapon": "RECUERDA LA ULTIMA VARIACIÓN DE ARMAS",
+		"general_screenShake": "TEMBLOR DE PANTALLA",
+		"general_cameraTilt": "INCLINACION DE LA CAMARA",
+        "general_restartWarning": "<size=11>MENSAJE DE REINICIO/SALIR DE LA MISION</size>",
+		"general_discordRpc": "INTEGRACION A DISCORD",
+		"general_seasonalEvent": "EVENTOS DE TEMPORADA",
+
+		"controls_resetDefault": "RESTABLECER A PREDETERMINADOS",
+		"controls_movement": "MOVIMIENTO",
+		"controls_forward": "ADELANTE",
+		"controls_back": "ATRAS",
+		"controls_left": "IZQUIERDA",
+		"controls_right": "DERECHA",
+		"controls_jump": "SALTAR",
+		"controls_dash": "IMPULSO",
+		"controls_actions": "ACCIONES",
+		"controls_primaryFire": "DISPARAR",
+		"controls_secondaryFire": "FUEGO ALT",
+		"controls_punch": "GOLPEAR",
+		"controls_lastUsedWeapon": "ULTIMA ARMA USADA",
+		"controls_changeVariation": "CAMBIAR VARIACION",
+		"controls_changeArm": "CAMBIAR BRAZO",
+		"controls_slide": "DESLIZAR",
+		"controls_whiplash": "GANCHO",
+		"controls_weapons": "ARMAS",
+		"controls_slot1": "RANURA 1",
+		"controls_slot2": "RANURA 2",
+		"controls_slot3": "RANURA 3",
+		"controls_slot4": "RANURA 4",
+        "controls_slot5": "RANURA 5",
+		"controls_scrollType": "DESPLAZARSE A TRAVES DEL TIPO",
+		"controls_scrollTypeWeapons": "ARMAS",
+		"controls_scrollTypeVariations": "VARIACION",
+		"controls_scrollTypeAll": "TODAS",
+		"controls_mouseWheelToChangeWeapon": "CAMBIAR ARMA CON LA RUEDA DEL MOUSE",
+		"controls_reverseScroll": "DIRECCION DE DESPLAZAMIENTO INVERSO",
+
+		"graphics_title": "GRAFICOS",
+		"graphics_resolution": "RESOLUCION",
+		"graphics_fullscreen": "PANTALLA COMPLETA",
+		"graphics_maxFps": "FIJAR FRAMERATE",
+		"graphics_maxFpsNone": "NINGUNO",
+		"graphics_maxFps2x": "TASA DE REFRESCO X2",
+		"graphics_vsync": "SINCRONIZACION VERTICAL",
+		"graphics_filters": "CONFIGURACION PSX",
+		"graphics_filtersDescription": "(Baje el tono para una mayor claridad visual)",
+		"graphics_pixelisation": "BAJA ESCALA",
+		"graphics_pixelisationNone": "APAGADO",
+		"graphics_pixelisation720p": "720p (MUY BAJO)",
+		"graphics_pixelisation480p": "480P (BAJO)",
+		"graphics_pixelisation360p": "360P (MEDIO)",
+		"graphics_pixelisation240p": "240P (ALTO)",
+		"graphics_pixelisation144p": "144P (MUY ALTO)",
+		"graphics_pixelisation36p": "36P (ABSURDO)",
+		"graphics_dithering": "PIXELES",
+		"graphics_textureWarping": "TEXTURA DEFORMADA",
+		"graphics_vertexWarping": "DEFORMADO DE VERTICE",
+		"graphics_vertexWarpingNone": "NINGUNO",
+		"graphics_vertexWarpingLight": "LIGERO",
+		"graphics_vertexWarpingMedium": "MEDIANO",
+		"graphics_vertexWarpingStrong": "PESADO",
+		"graphics_vertexWarpingVeryStrong": "MUY PESADO",
+		"graphics_vertexWarpingAbsurd": "ARTE MODERNO",
+        "graphics_customColorPalette": "PALETA DE COLORES PERSONALIZADA",
+        "graphics_customColorPaletteSelect": "SELECCIONAR",
+		"graphics_colorCompression": "COMPRESION DE COLOR",
+		"graphics_colorCompressionNone": "NINGUNO",
+		"graphics_colorCompressionLight": "LIGERO",
+		"graphics_colorCompressionMedium": "MEDIANO",
+		"graphics_colorCompressionStrong": "PESADO",
+		"graphics_colorCompressionVeryStrong": "MUY PESADO",
+		"graphics_colorCompressionAbsurd": "JUEGO DE ARTE INDIE",
+		"graphics_performance": "CONFIGURACION DE RENDIMIENTO",
+		"graphics_performanceSimpleExplosions": "EXPLOSIONES SIMPLES",
+		"graphics_performanceSimpleFire": "FUEGO SIMPLE",
+		"graphics_performanceSimpleSpawn": "EFECTOS DE SPAWN SIMPLES",
+		"graphics_performanceDisableEnviParticles": "DESACTIVAR LOS EFECTOS AMBIENTALES DE LAS PARTICULAS",
+		"graphics_performanceSimpleNails": "FISICA DE NAILGUN SIMPLE",
+		"graphics_gore": "CONFIGURACION DE GORE",
+		"graphics_goreNote": "(No afecta el gameplay)",
+		"graphics_goreEnable": "HABILITAR SANGRE Y GORE",
+		"graphics_goreDisablePhysics": "CONGELAR LA FISICA DE GORE",
+		"graphics_goreBloodChance": "POSIBILIDAD DE MANCHA DE SANGRE",
+		"graphics_goreMaxGore": "GORE MÁXIMO POR HABITACION",
+
+		"audio_title": "AUDIO",
+		"audio_subtitles": "SUBTITULOS",
+		"audio_globalVolume": "VOLUMEN PRINCIPAL",
+		"audio_musicVolume": "VOLUMEN DE LA MÚSICA",
+
+		"hud_title": "HUD",
+		"hud_type": "TIPO DE HUD",
+		"hud_typeNone": "NINGUNO",
+		"hud_typeStandard": "ESTÁNDAR",
+		"hud_typeClassicColor": "COLOR CLASICO",
+		"hud_typeClassicWhite": "BLANCO CLASICO",
+		"hud_hudElements": "ELEMENTOS DE HUD",
+		"hud_backgroundOpacity": "OPACIDAD DE FONDO",
+		"hud_alwaysOnTop": "TRASPASAR HUD",
+		"hud_icons": "ICONOS DE TRUCOS Y SANDBOX",
+		"hud_weaponIcon": "ICONO DE ARMA",
+		"hud_armIcon": "ICONO DE BRAZO",
+		"hud_railcannonMeter": "CARGA DE RAILCANNON",
+		"hud_styleMeter": "MEDIDOR DE ESTILO",
+		"hud_styleInfo": "INFO DE ESTILO",
+
+		"crosshair_title": "AJUSTES DE PUNTERO",
+		"crosshair_type": "TIPO DE PUNTERO",
+		"crosshair_typeNone": "NINGUNO",
+		"crosshair_typeSmall": "PEQUEÑA",
+		"crosshair_typeLarge": "LARGA",
+		"crosshair_color": "COLOR DEL PUNTERO",
+		"crosshair_colorInverted": "INVERTIDO",
+		"crosshair_colorWhite": "BLANCO",
+		"crosshair_colorGrey": "GRIS",
+		"crosshair_colorBlack": "NEGRO",
+		"crosshair_colorRed": "ROJO",
+		"crosshair_colorGreen": "VERDE",
+		"crosshair_colorBlue": "AZUL",
+		"crosshair_colorCyan": "CIAN",
+		"crosshair_colorYellow": "AMARILLO",
+		"crosshair_colorMagenta": "MAGENTA",
+		"crosshair_size": "TAMAÑO DEL HUD DE LA MIRA",
+		"crosshair_sizeNone": "NINGUNO",
+		"crosshair_sizeThin": "DELGADA",
+		"crosshair_sizeMedium": "MEDIANA",
+		"crosshair_sizeThick": "GRUESO",
+		"crosshair_sizeVeryThick": "DEMACIADO GRUESO",
+		"crosshair_hudFade": "DESVANECER MIRA",
+		"crosshair_powerupBar": "MEDIDOR DE POWERUP",
+
+		"assists_title": "AYUDA",
+		"assists_majorAssistsDisclaimer1": "Las Ayudas Mayores consiste en modificadores que cambian el juego y su equilibrio considerablemente.",
+		"assists_majorAssistsDisclaimer2": "Si las \"Ayudas Mayores\" están habilitadas en en cualquier momento durante una misión, el rango obtenido al completarla tendrá un fondo azul. Este fondo se puede eliminar logrando el mismo rango o superior con las \"Ayudas Mayores\" deshabilitadas durante toda la misión.",
+		"assists_majorAssistsDisclaimer3": "Los rangos Perfecto y los puntajes altos de Ciber Rutina no se pueden lograr con las \"Ayudas Mayores\" habilitadas.",
+		"assists_majorAssistsDisclaimerConfirm": "¿HABILITAR AYUDAS MAYORES?",
+		"assists_majorAssistsDisclaimerConfirmYes": "SI",
+		"assists_majorAssistsDisclaimerConfirmNo": "NO",
+		"assists_minorAssistsTitle": "AYUDAS MENORES",
+		"assists_minor": "AYUDAS MENORES",
+		"assists_autoAim": "APUNTE AUTOMATICO",
+		"assists_autoAimPercent": "CANTIDAD DE AUTO-APUNTADO",
+		"assists_enemySilhouettes": "SILUETAS ENEMIGAS",
+		"assists_enemySilhouettesOutlines": "SOLO CONTORNO",
+		"assists_enemySilhouettesDistance": "DISTANCIA DE ACTIVACION",
+		"assists_enemySilhouettesOutlinesOnly": "SIEMPRE",
+		"assists_major": "AYUDAS MAYORES",
+		"assists_majorActivate": "HABILITAR",
+		"assists_gameSpeed": "VELOCIDAD DEL JUEGO",
+		"assists_damageTaken": "DAÑOS CAUSADOS",
+		"assists_bossOverride": "ANULACION DE DIFICULTAD DE BOSS FIGHT",
+		"assists_bossOverrideNone": "NINGUNO",
+		"assists_bossRestartRequired": "REQUIERE REINICIO",
+		"assists_infiniteEnergy": "ESTAMINA INFINITA",
+        "assists_disableHardDamage": "DESHABILITAR LA CICATRIZ DEL GANCHO",
+		"assists_disableWhiplashHardDamage": "DESHABILITAR TODAS LAS CICATRICEZ",
+        "assists_disableWeaponFreshness": "DESACTIVAR LA FRESCURA DEL ARMA",
+		"assists_disablePopupHints": "DESHABILITAR PISTAS",
+
+		"colors_title": "COLORES",
+		"colors_reset": "RESTABLECER A PREDETERMINADOS",
+		"colors_hudHealth": "SALUD",
+		"colors_hudHealthNumber": "PORCENTAJE DE SALUD",
+		"colors_hudDamage": "DAÑO SUAVE",
+		"colors_hudHardDamage": "CICATRIZ",
+		"colors_hudOverheal": "OVERHEAL",
+		"colors_hudEnergyFull": "ESTAMINA (LLENA)",
+		"colors_hudEnergyPartial": "ESTAMINA (CARGANDO)",
+		"colors_hudEnergyEmpty": "ESTAMINA (VACIA)",
+		"colors_railcannonFull": "RAILCANNON (LLENO)",
+		"colors_railcannonPartial": "RAILCANNON (CARGANDO)",
+		"colors_variationBlue": "VARIANTE AZUL",
+		"colors_variationGreen": "VARIANTE VERDE",
+		"colors_variationRed": "VARIANTE ROJA",
+		"colors_variationGold": "VARIANTE DORADA",
+		"colors_enemies": "SILUETA ENEMIGA",
+
+		"save_warning1": "El juego se volverá a cargar.",
+		"save_warning2": "Si estás en una misión, se perderá el progreso actual.",
+		"save_reloadYes": "ENTIENDO",
+		"save_reloadNo": "CANCELAR",
+		"save_select": "SELECCIONAR",
+		"save_selected": "SELECCIONADO",
+		"save_delete": "ELIMINAR",
+		"save_deleteWarning1": "Estás seguro que quieres ELIMINAR RANURA",
+		"save_deleteWarning2": "?",
+		"save_deleteYes": "SI, ELIMINAR",
+		"save_deleteNo": "CANCELAR",
+		"save_close": "CERRAR",
+		"save_slotEmpty": "VACIO",
+
+        "language_title": "IDIOMAS",
+        "language_languages": "IDIOMAS"
+	},
+	"pauseMenu": {
+		"pause_title": "PAUSADO",
+		"pause_resume": "CONTINUAR",
+		"pause_respawn": "PUNTO DE CONTROL",
+		"pause_restart": "REINICIAR MISION",
+		"pause_options": "OPCIONES",
+		"pause_quit": "SALIR DE LA MISION",
+        
+        "pause_restartConfirm": "Estás seguro que quieres REINICIAR esta misión?",
+        "pause_quitConfirm": "Estás seguro que quieres SALIR de esta misión?",
+        "pause_quitConfirmYes": "SI",
+        "pause_quitConfirmNo": "CANCELAR",
+        "pause_restartConfirmYes": "REINICIAR",
+        "pause_restartConfirmNo": "CANCELAR",
+        
+        "pause_disableWindow": "<size=17>Este pop-up emergente se puede desactivar en el menú de opciones</size>"
+	},
+	"levelNames": {
+        "levelName_mainMenu": "MENU PRINCIPAL",
+        "levelName_cybergrind": "CIBER RUTINA",
+		"levelName_sandbox": "SANDBOX",
+        "levelName_tutorial": "TUTORIAL",
+        
+		"levelName_preludeFirst": "EN EL FUEGO",
+		"levelName_preludeSecond": "LA PICADORA DE CARNE",
+		"levelName_preludeThird": "MAS ABAJO",
+		"levelName_preludeFourth": "EJERCITO DE UNA MAQUINA",
+		"levelName_preludeFifth": "CERBERO",
+		"levelName_preludeSecret": "ALGO MALO",
+
+		"levelName_limboFirst": "CORAZON DEL AMANECER",
+		"levelName_limboSecond": "EL MUNDO EN LLAMAS",
+		"levelName_limboThird": "SALONES DE RESTOS SAGRADOS",
+		"levelName_limboFourth": "CLAIR DE LUNE",
+		"levelName_limboSecret": "EL INGENIO",
+
+		"levelName_lustFirst": "EL CORTA LAZOS",
+		"levelName_lustSecond": "MUERTE A 20,000 VOLTIOS",
+		"levelName_lustThird": "CERTERO ATAQUE AL CORAZON",
+		"levelName_lustFourth": "LA CORTE DEL REY CADAVER",
+		"levelName_lustSecret": "CANCION DE AMOR TOTALMENTE IMPERFECTA",
+
+		"levelName_gluttonyFirst": "VIENTRE DE LA BESTIA",
+		"levelName_gluttonySecond": "EN CARNE Y HUESO",
+
+		"levelName_greedFirst": "ESCLAVOS DEL PODER",
+		"levelName_greedSecond": "MALDITA SEA EL SOL",
+		"levelName_greedThird": "UN DISPARO A CIEGAS",
+		"levelName_greedFourth": "CLAIR DE SOLEIL",
+		"levelName_greedSecret": "CHOQUE DEL BRANDICOOT",
+
+		"levelName_wrathFirst": "EN EL DESPERTAR DE POSEIDON",
+		"levelName_wrathSecond": "OLAS DE UN MAR SIN ESTRELLAS",
+		"levelName_wrathThird": "BARCO DE NECIOS",
+		"levelName_wrathFourth": "LEVIATHAN",
+		"levelName_wrathSecret": "???",
+        
+        "levelName_heresyFirst": "LLANTO DEL LLORON",
+		"levelName_heresySecond": "ESTETICA DEL ODIO",
+
+		"levelName_primeFirst": "ESPIRITU DE SUPERVIVIENTE",
+		"levelName_primeSecond": "???",
+		"levelName_primeThird": "???"
+
+
+	},
+	"levelChallenges":{
+		"challenges_preludeFirst": "CONSIGUE 5 MUERTES ROMPIENDO UN SOLO PANEL DE VIDRIO",
+		"challenges_preludeSecond": "GANA EL ENCUENTRO SECRETO",
+		"challenges_preludeThird": "MATA SOLO A UN ENEMIGO",
+		"challenges_preludeFourth": "DESLIZATE ININTERRUMPIDO POR 17 SEGUNDOS",
+		"challenges_preludeFifth": "NO INFLIJAS DAÑO FATAL A NINGUN ENEMIGO",
+
+		"challenges_limboFirst": "COMPLETA EL NIVEL EN MENOS DE 10 SEGUNDOS",
+		"challenges_limboSecond": "NO AGARRES NINGUN CRANEO",
+		"challenges_limboThird": "GANA EL ENCUENTRO SECRETO",
+		"challenges_limboFourth": "NO AGARRES NINGUN CRANEO",
+
+		"challenges_lustFirst": "NO ABRAS NINGUNA PUERTA",
+		"challenges_lustSecond": "COMPLETA EL NIVEL EN MENOS DE 60 SEGUNDOS",
+		"challenges_lustThird": "NO TOQUES EL AGUA",
+		"challenges_lustFourth": "DESVIA UN GOLPE",
+
+		"challenges_gluttonyFirst": "MATA A UN MINDFLAYER CON ACIDO",
+		"challenges_gluttonySecond": "TIRA A GABRIEL AL FOSO",
+
+		"challenges_greedFirst": "NO ACTIVES NINGUN ENEMIGO",
+		"challenges_greedSecond": "MATA AL INSURGENTE EN MENOS DE 10 SEGUNDOS",
+		"challenges_greedThird": "NO RECOJAS LA ANTORCHA",
+		"challenges_greedFourth": "LLEGA A V2 EN MENOS DE 18 SEGUNDOS",
+        
+        "challenges_wrathFirst": "NO TOQUES EL AGUA",
+		"challenges_wrathSecond": "NO LUCHES CONTRA EL BARQUERO",
+		"challenges_wrathThird": "NO TOQUES EL AGUA",
+		"challenges_wrathFourth": "LLEGA A LA SUPERFICIE EN MENOS DE 10 SEGUNDOS",
+        
+        "challenges_heresyFirst": "GANA EL ENCUENTRO SECRETO",
+		"challenges_heresySecond": "GOLPEA A GABRIEL CONTRA EL TECHO"
+
+	},
+	"levelTips":{
+		"leveltips_preludeSecond1": "Las <color=orange>Armas Hitscan</color> como el Revólver hacen <color=orange>daño local.</color>.",
+		"leveltips_preludeSecond2": "Los <color=orange>HEADSHOTS</color> infligen <color=orange>2x</color> de daño y los <color=orange>disparo a los miembros</color> infligen <color=orange>1.5x</color> de daño.",
+
+		"leveltips_preludeThird1": "<color=orange>Impulso</color>: Totalmente invencible, cuesta estamina.",
+		"leveltips_preludeThird2": "<color=orange>Deslizar</color>: Mayor distancia, sin invencibilidad.",
+		"leveltips_preludeThird3": "<color=orange>Salto</color>: Rápidamente fuera del alcance cuerpo a cuerpo, menos control.",
+
+		"leveltips_preludeFourth1": "<color=orange>Parry de Escopeta</color>:",
+		"leveltips_preludeFourth2": "Un disparo de escopeta a un <color=orange>Punto Blanco</color> en el <color=orange>torso</color> justo antes de que caiga un ataque enemigo infligirá daño masivo.",
+
+		"leveltips_preludeFifth": "Las <Color=orange>Señales de sonido de ataque</color> te permite realizar un seguimiento de los enemigos que están fuera de tu visión.",
+
+		"leveltips_limboFirst": "Algunos enemigos emiten <color=orange>sonidos inactivos</color> para facilitar su seguimiento.",
+
+		"leveltips_limboSecond": "Utiliza los imanes del <color=cyan>ATTRACTOR NAILGUN</color> para formar <color=orange>orbes</color> concentrados de clavos que pueden <color=orange>desplazarse</color> utilizando la fuerza de tracción <color=orange>de otros imanes</color>.",
+
+		"leveltips_limboThird1": "Los enemigos <color=orange>pueden dañar</color> a otros tipos de enemigos.",
+		"leveltips_limboThird2": "Con pensamientos y posicionamientos rápidos, los enemigos poderosos pueden convertirse en armas poderosas.",
+        
+		"leveltips_limboFourth": "Los imanes del <color=cyan>ATTRACTOR NAILGUN</color> se pueden unir a los enemigos para que los objetivos móviles sean fáciles de golpear con clavos.",
+
+		"leveltips_lustFirst": "Los enemigos <color=orange>gritan</color> cuando caen desde una altura <color=orange>fatal</color>.",
+
+		"leveltips_lustSecond1": "<color=orange>REBOTE DE SLAM</color>:",
+		"leveltips_lustSecond2": "salta inmediatamente después de aterrizar de un <color=orange>PISOTON</color> para saltar más alto.",
+		"leveltips_lustSecond3": "Cuanto más largo sea el golpe en el suelo, mayor será el rebote.",
+
+		"leveltips_lustThird": "Todas las variaciones del <color=orange>RAILCANNON</color> comparten el mismo tiempo de reutilización. Elija sabiamente qué variación se adapta mejor a la situación.",
+
+		"leveltips_lustFourth1": "<color=orange>DESLIZAR</color> conservará el impulso anterior durante un breve período de tiempo.",
+		"leveltips_lustFourth2": "Encadena los <color=orange>SALTOS DESLIZADOS</color> rápidos después de un <color=cyan>SALTO IMPULSADO</color> te dará una velocidad sostenida increíble.",
+
+		"leveltips_gluttonyFirst": "Los <color=orange>Peligros ambientales</color> Como los líquidos dañinos también lastimarán a los enemigos.",
+        
+		"leveltips_gluttonySecond1": "Si tienes problemas para mantenerte al día con un enemigo duro <color=orange>retrocede y observa</color>.",
+		"leveltips_gluttonySecond2": "Cada enemigo tiene su <color=orange>decir</color> y sus <color=orange>patrones</color> Y aprender eso puede ser la clave para la victoria.",
+
+		"leveltips_greedFirst": "Las armas <color=orange>HITSCAN</color> se pueden usar para disparar la <color=cyan>GRANADA</color> de la escopeta en el aire para aumentar su daño y radio de explosión.",
+		"leveltips_greedSecond": "Los <color=orange>POWER-UPS</color> se pueden apilar.",
+		"leveltips_greedThird": "Golpear a un enemigo con solo el <color=orange>borde</color> de una <color=orange>explosión</color> lo lanzará sin causar mucho daño, lo que lo convierte en una herramienta arriesgada pero efectiva contra los <color=orange>Stalkers</color>.",
+		"leveltips_greedFourth": "Las <color=orange>monedas</color> aéreas se pueden disparar con cualquier arma <color=orange>hitscan</color>.",
+        
+        "leveltips_wrathFirst": "La caída <color=orange>bajo el agua</color> es lenta, pero un <color=orange>PISOTON</color> permite volver rápidamente al suelo.",
+        "leveltips_wrathSecond": "Al <color=orange>deslizarse</color> sobre el agua, <color=orange>se salta</color> sobre su superficie.",
+        "leveltips_wrathThird": "Si un enemigo es <color=orange>bendecido</color> por un <color=orange>ídolo</color>, se forma una conexión visible directa entre ambos, lo que permite <color=orange>localizar</color> y destruir fácilmente al protector.",
+        "leveltips_wrathFourth1": "Las <color=orange>explosiones</color> desvían <color=orange>proyectiles</color>.",
+        "leveltips_wrathFourth2": "Si una explosión se produce justo donde un enemigo dispara un proyectil, puede ser <color=orange>contraproducente</color> y <color=orange>golpealos</color> en su lugar.",
+        
+        "leveltips_heresyFirst1": "El espacio de un <color=orange>gran</color> estadio puede utilizarse en beneficio propio.",
+        "leveltips_heresyFirst2": "El uso del entorno para <color=orange>romper la línea de visión</color> con los enemigos permite un respiro y tiempo para considerar la <color=orange>priorización de objetivos</color>.",
+        "leveltips_heresySecond1": "¡<color=orange>NO</color> DESPERDICIES LA ESTAMINA!",
+        "leveltips_heresySecond2": "Impulsarte <color=orange>innecesariamente</color> mientras se lucha contra enemigos muy <color=orange>agresivos</color> hará que no quede nada cuando más se necesite.",
+
+		"leveltips_primeFirst1": "Los <color=orange>Parries</color> se pueden utilizar como una poderosa herramienta de curación.",
+		"leveltips_primeFirst2": "Hacerle parry a cualquier proyectil o ataque cuerpo a cuerpo enemigo repondrá <color=red>completamente tu salud</color> hasta el límite de daño duro.",
+
+		"leveltips_cybergrind": "Si vuela demasiado lejos de la arena, la sobrecarga del <color=lime>PUMP CHARGE</color> es una buena forma de regresar.",
+        "leveltips_sandbox1": "<color=orange>TRUCOS</color> se pueden habilitar en otros niveles ingresando:",
+        "leveltips_sandbox2": "Habilitarlo trucos desactivará los rangos."
+	},
+	"shop":{
+        "shop_tipofthedayTitle": "CONSEJO DEL DIA",
+        "shop_tipoftheday": "CONSEJO DEL DIA",
+        "shop_weapons": "ARMAS",
+        "shop_monsters": "ENEMIGOS",
+        "shop_cybergrind": "CIBER RUTINA",
+        "shop_sandbox": "SANDBOX",
+        "shop_returnToMission": "VOLVER A LA MISIÓN",
+        "shop_soulOrbs": "ORBES DE ALMAS SECRETOS",
+        
+        "shop_cybergrindDescription1": "La <color=red>Ciberutina</color> es un modo de supervivencia infinito.",
+        "shop_cybergrindDescription2": "Un buen rendimiento da muchos <color=red>puntos</color>.",
+        "shop_cybergrindDescription3": "<color=red>Se perderá el progreso de la misión actual.</color>",
+        "shop_cybergrindEnter": "ENTRAR A CIBERUTINA",
+
+        "shop_sandboxTitle": "SANDBOX",
+        "shop_sandboxDescription1": "El <color=#4C99E6>Sandbox</color> Es un nivel vacío que se puede utilizar para practicar.",
+        "shop_sandboxDescription2": "<color=red>Se perderá el progreso de la misión actual.</color>.",
+        "shop_sandboxEnter": "ENTRAR AL SANDBOX",
+        
+        "shop_back": "ATRÁS",
+        "shop_weaponInfo": "INFO",
+        "shop_weaponColors": "COLOR",
+        
+        "shop_weaponsRevolver": "REVOLVER",
+        "shop_weaponsShotgun": "ESCOPETA",
+        "shop_weaponsNailgun": "NAILGUN",
+        "shop_weaponsRailcannon": "RAILCANNON",
+        "shop_weaponsRocketLauncher": "LANZACOHETES",
+        "shop_weaponsArms": "BRAZOS",
+        
+        "shop_revolverPiercer": "PIERCER",
+        "shop_revolverPiercerDescription1": "<color=orange>Manten</color> Fuego Alt para cargar un <color=orange>Un rayo de 3 golpes</color>.",
+        "shop_revolverPiercerDescription2": "Requiere <color=orange>enfriarse</color>.",
+        
+        "shop_revolverMarksman": "MARKSMAN",
+        "shop_revolverMarsmanDescription1": "Toque Fuego Alt para tirar una <color=orange>moneda</color>.",
+        "shop_revolverMarsmanDescription2": "Golpea en el <color=orange>aire</color> la moneda para <color=orange>dirigir</color> el disparo al enemigo mas cercano en su <color=orange>punto debil</color>.",
+        "shop_revolverMarsmanDescription3": "Estas pueden <color=orange>encadenarse</color>.",
+        
+        "shop_shotgunCoreEject": "CORE EJECT",
+        "shop_shotgunCoreEjectDescription1": "Toque Fuego Alt para cargar y <color=orange>lanzar</color> el <color=orange>nucleo</color> de escopeta.",
+        "shop_shotgunCoreEjectDescription2": "<color=orange>Manten</color> para cargar a <color=orange>distancia</color>.",
+        "shop_shotgunCoreEjectDescription3": "<color=orange>Explota</color> en el impacto.",
+        
+        "shop_shotgunPumpCharge": "PUMP CHARGE",
+        "shop_shotgunPumpChargeDescription1": "Presiona Fuego Alt para cargar una <color=orange>bomba</color> en tu escopeta, incrementa el <color=orange>poder</color> y disminuye la <color=orange>precisión</color> de tu <color=orange>siguiente disparo</color>.",
+        "shop_shotgunPumpChargeDescription2": "Demasiadas cargas causaran una <color=orange>explosion</color> cuando se dispare.",
+        
+        "shop_nailgunMagnet": "ATTRACTOR",
+        "shop_nailgunMagnetDescription1": "Toque Fuego Alt para disparar un <color=orange>iman</color> que tira todos los <color=orange>clavos</color> cerca hacia el iman.",
+        "shop_nailgunMagnetDescription2": "Los imanes se pegan en <color=orange>superficies</color> y <color=orange>enemigos</color> y se puede romper con <color=orange>disparos</color> de armas.",
+        
+        "shop_nailgunOverheat": "OVERHEAT",
+        "shop_nailgunOverheatDescription1": "Toque Fuego Alt mientras se dispara el <color=orange>overheat</color> para una rafaga rapida de alto daño al costo de vaciar el <color=orange>disipador de calor</color>.",
+        "shop_nailgunOverheatDescription2": "Estos se recargan.",
+        
+        "shop_railcannonElectric": "ELECTRIC",
+        "shop_railcannonElectricDescription1": "Una perforacion poderosa e instantanea",
+        "shop_railcannonElectricDescription2": "<color=orange>Perfora</color> <color=orange>todos</color> los enemigos. Presta atencion a tu <color=orange>posision</color> para aumentar la destruccion.",
+        "shop_railcannonElectricDescription3": "No lo uses en el agua.",
+        
+        "shop_railcannonScrewdriver": "SCREWDRIVER",
+        "shop_railcannonScrewdriverDescription1": "Dispara un poderoso taladro y <color=orange>palos</color> a un enemigo e inflinge daño por un <color=orange>tiempo extraordinario</color>.",
+        "shop_railcannonScrewdriverDescription2": "El taladro hace que los enemigos sangren continuamente.",
+        
+        "shop_railcannonMalicious": "MALICIOUS",
+        "shop_railcannonMaliciousDescription1": "Dispara un rayo instantáneo que provoca una <color=orange>explosion larga</color>, similar a cierta cara familiar.",
+        "shop_railcannonMaliciousDescription2": "Limpia los grupos de enemigos debiles con facilidad.",
+        
+        "shop_rocketLauncherFreeze": "FREEZEFRAME",
+        "shop_rocketLauncherFreezeDescription1": "Presiona Fuego Alt para <color=orange>congelar</color> los cohetes.",
+        "shop_rocketLauncherFreezeDescription2": "Los cohetes congelados tienen un radio de explosión mayor y <color=orange>permanecerán congelados</color> incluso cuando cambies de arma.",
+        
+        "shop_armFeedbacker": "FEEDBACKER",
+        "shop_armFeedbackerDescription1": "Puño rapido con un daño decente.",
+        "shop_armFeedbackerDescription2": "Puedes hacer <color=orange>parry</color> a proyectiles, incluyendo <color=orange>Disparos de escopeta</color> y <color=orange>monedas</color>.",
+        
+        "shop_armKnuckleblaster": "KNUCKLEBLASTER",
+        "shop_armKnuckleblasterDescription1": "Puño lento con alto daño y retroceso.",
+        "shop_armKnuckleblasterDescription2": "<color=orange>Manten el puño</color> para hacer estallar proyectiles dentro de los nudillos, causando una <color=orange>onda de choque</color> que empuja a los enemigos.",
+        
+        "shop_armWhiplash": "GANCHO",
+        "shop_armWhiplashDescription1": "Un cabrestante con lanza.",
+        "shop_armWhiplashDescription2": "<color=orange>Manten</color> para tirarlo, <color=orange>sueltalo</color> para jalarlo.\n\nPuedes tirar de los enemigos y articulos de la luz, iras hacia los enemigos pesados.",
+        
+        "shop_data": "DATOS",
+        "shop_strategy": "ESTRATEGIA",
+        "shop_advancedStrategy": "ESTRATEGIA AVANZADA",
+        
+        
+        "shop_loreRevolver1": "Un arma creada durante la Guerra Final para el combate de media a larga distancia. Utiliza pulsos eléctricos para disparar piezas microscópicas de metal a velocidades increíblemente altas.",
+        "shop_loreRevolver2": "Las armas que utilizan esta tecnología se han denominado \"pistolas eléctricas\",y rápidamente se convirtió en el nuevo estándar, reemplazando a las pistolas de balas. Debido a que todavía requiere un proyectil microscópico, su munición en realidad no es infinita, pero se necesitarían semanas de disparos ininterrumpidos para agotarse y recargar es tan fácil como raspar algunas escamas de chatarra o incluso la superficie del arma.",
+        "shop_loreRevolver3": "De hecho, una superficie áspera y desigual de las escamas raspadas se considera un motivo de orgullo para los portadores de pistolas eléctricas, ya que demuestra que el arma ha sido confiable y se ha utilizado durante mucho tiempo. Muchos usuarios incluso cortan las escamas solo por este motivo, en lugar de municiones reales, lo que hace que las armas eléctricas \"sin escamas\", sean un caso atípico.",
+        "shop_loreRevolver4": "Aunque una pistola eléctrica requiere algo de tiempo para recargar su batería entre disparos, el diseño de estilo revólver evita eso problema al incluir un cilindro de batería múltiple que gira después de cada disparo, lo que permite que cada batería se cargue sin ralentizar la velocidad de disparo.",
+        "shop_loreRevolver5": "Una modificación común es permitir que las cargas de todas las baterías se liberen simultáneamente para obtener una mayor potencia , aunque esto requiere un mayor tiempo de recarga.",
+        "shop_loreRevolver6": "Aunque pueda parecer débil a primera vista, su poder proviene de su consistencia y simplicidad. El revólver es fácil de usar mientras se enfoca en el movimiento y esquiva ataques, debido al tiempo de viaje instantáneo de sus disparos y funciona bien en cualquier rango.",
+        "shop_loreRevolver7": "Los disparos en la cabeza infligen el doble de daño que los disparos a las extremidades",
+        "shop_loreRevolver8": "Cuando se golpea con precisión durante su destello, la moneda de la variación Marksman puede dividir un disparo en dos, lo que hace que golpee dos objetivos en lugar de solo uno. Aunque el tiempo es ajustado, hay una segunda ventana mucho más larga si la moneda permanece en el aire durante un período prolongado de tiempo, reconocible por su silbido continuo.",
+        "shop_loreRevolver9": "La moneda de la variación Marksman se puede disparar después de que haya parpadeado, lanzando en el objetivo más cercano sin romper la moneda, lo que aumenta aún más su daño para golpes o disparos posteriores.",
+        "shop_loreRevolver10": "El disparo cargado del Piercer también puede rebotar en las monedas de la variación Marksman.",
+        
+        "shop_loreShotgun1": "Un arma experimental de corto alcance que usa calor hiperconcentrado como sus proyectiles.",
+        "shop_loreShotgun2": "Después de cada disparo, la escopeta debe abrirse para permitir que sus núcleos generadores de calor ventilen el exceso de calor, evitando que se derritan o exploten. Este proceso está en gran parte automatizado, requiriendo poco más del usuario que un giro de muñeca.",
+        "shop_loreShotgun3": "En caso de falla del núcleo, la bomba se puede usar como un mecanismo manual de generación de calor. Este proceso se ha simplificado a través de un pequeño botón cerca de la empuñadura que bombea la escopeta sin requerir fuerza física por parte del usuario, aunque su facilidad de uso también ha aumentado en gran medida la cantidad reportada de fallas de disparo de los usuarios que bombean demasiado calor en un solo disparo.",
+        "shop_loreShotgun4": "Las armas térmicas nunca se hicieron tan populares como las eléctricas debido a su naturaleza volátil y sus estrictos requisitos de enfriamiento, pero a diferencia de las armas eléctricas, no requieren un proyectil separado, lo que hace que su munición sea verdaderamente infinita en lugar de prácticamente infinita.",
+        "shop_loreShotgun5": "La escopeta solo es efectiva a distancias extremadamente cortas, lo que la convierte en un distribuidor de daños arriesgado pero muy devastador. Esto también la hace ideal para la curación.",
+        "shop_loreShotgun6": "Puede parar los ataques cuerpo a cuerpo mediante un disparo a quemarropa en el pecho. Más arriesgado que usar el brazo Feedbacker, pero con mayor daño como recompensa.",
+        "shop_loreShotgun7": "El cambio rápido de armas evita el tiempo de espera después de un disparo, lo que permite ráfagas continuas de daño masivo con el riesgo de tener que permanecer cerca durante un período de tiempo prolongado.",
+        "shop_loreShotgun8": "El núcleo de la variación Core Eject se puede disparar desde el aire a través de un arma hitscan como el Revolver para aumentar el radio y el daño de su explosión. Un hitscan ya explosivo aumentará aún más su radio.",
+        "shop_loreShotgun9": "La lentitud de los proyectiles de calor condensado puede parecer un detrimento al principio, pero esto significa que un golpe bien sincronizado con el brazo Feedbacker puede golpearlos, potenciando el propio disparo para mayor precisión, velocidad y daño.",
+        
+        "shop_loreNailgun1": "Una combinación de piezas de una pistola de clavos industrial y una vieja pistola de balas. Lo más probable es que haya sido diseñado por una máquina construida para trabajos de construcción, ya que todas las máquinas, incluso las que no se construyeron para la guerra, tuvieron que aprender a valerse por sí mismas después de la extinción de la humanidad.",
+        "shop_loreNailgun2": "Las pistolas de bala se abandonaron en gran medida después de la invención de sistemas de munición como armas eléctricas y armas térmicas, en gran parte debido a lo mucho más barato que se vuelve el no tener que comprar munición para ejércitos a gran escala con el paso del tiempo.",
+        "shop_loreNailgun3": "Aunque el sistema de munición original lo hizo inútil y en gran parte abandonado, esta arma aún estaba excelentemente diseñada y construido, por lo que con algunas modificaciones de piezas de una pistola de clavos industrial, se ha convertido en un arma de proyectiles de fuego rápido con munición de metal prácticamente infinita.",
+        "shop_loreNailgun4": "Sin embargo, como es de esperar de un arma improvisada, su diseño está lejos de ser perfecto. Como el sistema de regeneración de clavos no fue diseñado para funcionar a una velocidad tan alta, es probable que se sobrecaliente si no se establece un límite de velocidad estricto, aunque algunas variantes han optado por disipadores de calor incorporados.",
+        "shop_loreNailgun5": "Debido a la naturaleza de su munición limitada, la pistola de clavos se usa mejor en ráfagas cortas en lugar de períodos prolongados de tiempo.",
+        "shop_loreNailgun6": "Los imanes de la variación Imán también afectarán a los clavos de otras variaciones de pistola de clavos, lo que permite pasar por alto otros factores limitantes como el estallido de la variación Overheat que tiene poca precisión.",
+        "shop_loreNailgun7": "Algunos enemigos, como Cara Malisiosa, son generalmente débiles para los clavos y, en particular, los clavos de mayor calidad de la variación Imán limitada diezmarán a la mayoría de los enemigos débiles.",
+        "shop_loreNailgun8": "Los clavos se incrustan en los enemigos, provocando algunos efectos especiales. Las armas eléctricas recibirán un aumento de daño al golpear a un enemigo que tenga clavos, y con suficientes clavos, los enemigos ligeros se magnetizarán y serán atraídos por los imanes de la variación Imán, lo que permitirá desactivar temporalmente a los enemigos ligeros duraderos.",
+        "shop_loreNailgun9": "El la velocidad de giro de los cañones se transfiere entre las variaciones, lo que significa que disparar incluso una vez con la variación Imán proporciona el máximo calor para la variación Overheat, lo que permite una ráfaga instantánea de sobrecalentamiento completo.",
+        
+        "shop_loreRailcannon1": "Esta herramienta industrial fue uno de los primeros usos de la tecnología que eventualmente se convirtió en pistolas eléctricas.",
+        "shop_loreRailcannon2": "Originalmente se pensó como un generador de mano, lo que permitía generar electricidad de manera fácil para reubicaciones temporales, como campamentos durante guerras o expediciones.",
+        "shop_loreRailcannon3": "Al igual que con la mayoría de las herramientas industriales similares, una vez que la humanidad cayó, la máquina que la empuñaba la reutilizó como arma, convirtiéndola de una salida constante de voltaje más bajo a una única ráfaga de energía extremadamente alta que requiere un largo tiempo de recarga entre disparos.",
+        "shop_loreRailcannon4": "Aunque es un arma arriesgada, dado que su tiempo de recarga es tan largo, el poder del Railcannon lo convierte en una herramienta digna de usar, especialmente para alguien que lleva varias armas que pueden usar mientras se recarga la batería del Railcannon.",
+        "shop_loreRailcannon5": "Cada variación tiene un propósito diferente y, dado que todas comparten el mismo tiempo de reutilización, es importante saber qué versión usar en una situación determinada.",
+        "shop_loreRailcannon6": "El tiempo total de recarga es de 15 segundos. La carga actual se indica mediante un rayo en el HUD.",
+        "shop_loreRailcannon7": "La variación eléctrica puede golpear las monedas del revólver Marksman. Dado que tiene un poder de penetración infinito, con una buena sincronización y posicionamiento, uno puede disparar a través de un enemigo para golpear una moneda, que luego rebotará en el mismo enemigo, más del doble del daño total infligido por un solo disparo.",
+        "shop_loreRailcannon8": "Al usar el brazo Feedbacker para golpear a un enemigo al que está conectado el tornillo de la variación del destornillador, se puede relanzar, lo que inflige una ráfaga adicional de daño al enemigo. Si el tornillo golpea a otro enemigo, su temporizador se restablecerá por completo, lo que significa que un tornillo se puede hacer malabarismos entre enemigos prácticamente infinitamente con una buena sincronización y puntería, aunque se romperá si el enemigo al que está unido muere.",
+        "shop_loreRailcannon9": "La variación Malicious El rango de explosión y el daño se pueden aumentar considerablemente al golpear un núcleo en el aire con la escopeta Core Eject. Esta técnica es muy arriesgada, ya que fallar significa desperdiciar todo el tiro y tener que esperar otros 15 segundos, pero sus recompensas son abundantes.",
+        
+        "shop_loreRocketLauncher1": "Otra arma que solía ser una herramienta industrial, como se ve en él y en los esquemas de colores más vibrantes del railcannon en comparación con armas como el revólver, la escopeta y la pistola de clavos, que usa un arma de bala como base.",
+        "shop_loreRocketLauncher2": "Como la mayoría tecnologías avanzadas, se creó originalmente para su uso en la guerra, ya que su sistema de generación de explosivos era extremadamente rápido para cavar trincheras, destruir obstáculos o reabastecer armas explosivas.",
+        "shop_loreRocketLauncher3": "Sin embargo, esta herramienta en sí no podía usarse como lanzador. Los primeros modelos también servían como armas, pero incluir los sistemas para activar los explosivos a menudo causaba reacciones químicas accidentales durante su proceso de generación, detonando los explosivos antes de que se completaran.",
+        "shop_loreRocketLauncher4": "Desde entonces, el proceso se ha dividido en dos entre el dispositivo generador y un lanzacohetes separado, donde el generador de explosivos construye el resto de un cohete y el lanzacohetes aplica el mecanismo de disparo.",
+        "shop_loreRocketLauncher5": "Como las máquinas rara vez pueden darse el lujo de cooperar debido a que compartir sangre con otros se considera un desperdicio, la máquina que creó esta arma modificó el proceso de generación para que funcionara con un solo usuario y reutilizó partes de un martillo neumático para lanzar el proyectil.",
+        "shop_loreRocketLauncher6": "En lugar de usar un mecanismo de activación de explosión normal, los cohetes usan la sangre del objetivo. para completar la reacción química, lo que hace que el proceso de generación sea seguro, aunque el arma es más difícil de usar ya que requiere golpes directos para causar daños magnificos.",
+        "shop_loreRocketLauncher7": "La habilidad requerida para un uso efectivo lo hace desalentador, aunque su poder lo compensa con creces, y muchos de sus portadores eligieron específicamente usarlo como un símbolo de su habilidad en la puntería.",
+        "shop_loreRocketLauncher8": "Los cohetes solo causan una explosión que inflige daño cuando golpean directamente a un objetivo vivo, pero fallar a propósito puede usarse para lanzar a un enemigo al aire, ya que un golpe directo sobre un enemigo que cae provoca una explosión más grande y dañina.",
+        "shop_loreRocketLauncher9": "El lanzador requiere muy poca preparación para usarse, lo que significa que puede sacarse, dispararse y guardarse rápidamente para infligir una ráfaga rápida de daño extra en medio de otro combo de cambio de arma.",
+        "shop_loreRocketLauncher10": "Los cohetes son tirados por los imanes de la pistola de clavos Magnet, aunque no tan fuertes como los clavos. La precisión del seguimiento se puede aumentar congelando cohetes con la variación Freezeframe.",
+        "shop_loreRocketLauncher11": "Cuando se golpea con el gancho, un cohete se unirá a la lanza sin detener el lanzamiento. Si la lanza no choca con nada más, el cohete será arrastrado hacia atrás y explotará al chocar con el usuario.",
+        "shop_loreRocketLauncher12": "Los enemigos ligeros estarán en el aire cuando sean atraídos por el gancho, lo que los convierte en objetivos muy fáciles de alcanzar para la bonificación de explosión del enemigo que cae. Sin embargo, esto requiere mucha distancia del objetivo si el usuario desea evitar el aumento del radio de la explosión.",
+        "shop_loreRocketLauncher13": "Algunas máquinas, como la V1, son lo suficientemente livianas como para viajar en un cohete. Esto se puede lograr congelando un cohete con la variación Freezeframe y saltando sobre él. Incluso con el bajo peso, el cohete eventualmente perderá potencia, lo que hará que caiga gradualmente, pero cuando está bajo el agua, V1 es lo suficientemente liviano como para no causar esta caída.",
+
+        "shop_revolverPreset1": "ESTANDAR",
+        "shop_revolverPreset2": "MAGNUM",
+        "shop_revolverPreset3": "ROMPEHIELO",
+        "shop_revolverPreset4": "CALIENTE Y LISTA",
+        "shop_revolverPreset5": "OPTIMISTA",
+
+        "shop_shotgunPreset1": "ESTANDAR",
+        "shop_shotgunPreset2": "CLASICO",
+        "shop_shotgunPreset3": "PALACIO",
+        "shop_shotgunPreset4": "CARAMELO",
+        "shop_shotgunPreset5": "LUJO",
+
+        "shop_nailgunPreset1": "ESTANDAR",
+        "shop_nailgunPreset2": "ACIDO",
+        "shop_nailgunPreset3": "CIELO LIMPIO",
+        "shop_nailgunPreset4": "LEOPARDO DE NIEVE",
+        "shop_nailgunPreset5": "VAMPIRO",
+
+        "shop_railcannonPreset1": "ESTANDAR",
+        "shop_railcannonPreset2": "INVERSO",
+        "shop_railcannonPreset3": "AMOR Y REGALIZ",
+        "shop_railcannonPreset4": "STATUE VEIN",
+        "shop_railcannonPreset5": "INDUSTRIAL",
+
+        "shop_rocketlauncherPreset1": "ESTANDAR",
+        "shop_rocketlauncherPreset2": "RUSTICO",
+        "shop_rocketlauncherPreset3": "LAPIZ LABIAL",
+        "shop_rocketlauncherPreset4": "BERENJENA",
+        "shop_rocketlauncherPreset5": "AMATISTA NOCTURNA",
+
+        "shop_colorsPreset": "PREDEFINIDA",
+        "shop_colorsCustom": "PERSONALIZADO",
+        "shop_colorsAlternative": "ALTERNATIVO",
+        "shop_colorsDone": "HECHO"
+	},
+	"enemyNames":{
+		"enemyname_filth": "FILTH",
+		"enemyname_stray": "STRAY",
+		"enemyname_schism": "SCHISM",
+		"enemyname_soldier": "SOLDADO",
+		"enemyname_minos": "EL CADÁVER DEL REY MINOS",
+        "enemyname_sentry": "CENTINELA",
+        "enemyname_idol": "ÍDOLO",
+        "enemyname_ferryman": "EL BARQUERO",
+		"enemyname_stalker": "STALKER",
+		"enemyname_insurrectionist": "INSURGENTE",
+		"enemyname_swordsmachine": "MÁQUINA DE ESPADAS",
+		"enemyname_drone": "DRON",
+		"enemyname_streetCleaner": "STREET CLEANER",
+		"enemyname_v2": "V2",
+        "enemyname_v2Second": "V2 (2do)",
+		"enemyname_mindFlayer": "MINDFLAYER",
+		"enemyname_malFace": "CARA MALISIOSA",
+		"enemyname_cerberus": "CERBERO",
+		"enemyname_hideousMass": "MASA HORRIBLE",
+		"enemyname_gabriel": "GABRIEL",
+		"enemyname_virtue": "VIRTUD",
+		"enemyname_somethingWicked": "SOMETHING WICKED",
+		"enemyname_fleshPrison": "PRISIÓN DE CARNE",
+		"enemyname_minosPrime": "MINOS PRIME",
+        
+        "enemyname_boss_cerberus": "CERBERO, GUARDIÁN DEL INFIERNO",
+        "enemyname_boss_cancerousRodent": "ROEDOR CANCERÍGENO",
+        "enemyname_boss_veryCancerousRodent": "ROEDOR MUY CANCERÍGENO",
+        "enemyname_boss_hideousMass": "MASA HORRIBLE",
+        "enemyname_boss_swordsmachineAgony": "MAQUINA DE ESPADAS \"AGONIA\"",
+        "enemyname_boss_swordsmachineTundra": "MAQUINA DE ESPADAS \"TUNDRA\"",
+        "enemyname_boss_corpseOfKingMinos": "EL CADAVER DEL REY MINOS",
+        "enemyname_boss_gabriel": "GABRIEL, JUEZ DEL INFIERNO",
+        "enemyname_boss_insurrectionist": "SISIFO INSURGENTE",
+        "enemyname_boss_mandalore": "MISTERIOSO CABALLERO DRUIDA (Y BUHO)",
+        "enemyname_boss_v2": "V2",
+        "enemyname_boss_v2Second": "V2",
+        "enemyname_boss_ferryman": "EL BARQUERO",
+        "enemyname_boss_leviathan": "LEVIATAN",
+        "enemyname_boss_insurrectionistAngry": "INSURGENTE \"ENFADADO\"",
+        "enemyname_boss_insurrectionistRude": "INSURGENTE \"RUDO\"",
+        "enemyname_boss_gabrielSecond": "GABRIEL, APOSTATA DEL ODIO",
+        
+        "enemyname_type_lesserHusk": "TIPO: CASCARA MENOR",
+        "enemyname_type_greaterHusk": "TIPO: CASCARA MAYOR",
+        "enemyname_type_supremeHusk": "TIPO: CASCARA SUPREMA",
+        
+        "enemyname_type_lesserDemon": "TIPO: DEMONIO MENOR",
+        "enemyname_type_greaterDemon": "TIPO: DEMONIO MAYOR",
+        "enemyname_type_supremeDemon": "TIPO: DEMONIO SUPREMO",
+        
+        "enemyname_type_lesserMachine": "TIPO: MAQUINA MENOR",
+        "enemyname_type_greaterMachine": "TIPO: MAQUINA MAYOR",
+        "enemyname_type_supremeMachine": "TIPO: MAQUINA SUPREMA",
+        
+        "enemyname_type_lesserAngel": "TIPO: ANGEL MENOR",
+        "enemyname_type_greaterAngel": "TIPO: ANGEL MAYOR",
+        "enemyname_type_supremeAngel": "TIPO: ANGEL SUPREMO",
+        
+        "enemyname_type_primeSoul": "TIPO: ALMA PRIME"
+        
+	},
+    
+    "cheats":{
+        "cheats_disclaimer1": "Habilitar trucos significa que NO obtendrás un rango al completar un nivel y no se guardará una puntuación alta en la Ciber Rutina",
+        "cheats_disclaimer2": "<color=green>Presiona <color=white>Ñ</color> o <color=white>Inicio</color> después de habilitar los trucos para ver el menú.</color>",
+        "cheats_disclaimerYes": "ACTIVAR TRUCOS",
+        "cheats_disclaimerNo": "CANCELAR",
+        
+        "cheats_panelTitle": "GESTIONAR TRUCOS",
+        "cheats_cheatsEnabled": "<color=#44FF45>TRUCOS</color> HABILITADOS :^)",
+        
+        "cheats_keepEnabled": "Mantener activo",
+        "cheats_spawnerArm": "Brazo spawner",
+        "cheats_teleportMenu": "Teletransporte",
+        "cheats_fullBright": "Brillo al max",
+        "cheats_noclip": "Noclip",
+        "cheats_flight": "Volar",
+        "cheats_infiniteWallJumps": "Saltos de pared infinitos",
+        "cheats_noWeaponCooldown": "No hay cooldown",
+        "cheats_infinitePowerUps": "Power-ups ∞",
+        "cheats_blindEnemies": "Enemigos ciegos",
+        "cheats_disableEnemySpawns": "Quitar spawn",
+        "cheats_invincibleEnemies": "Rival inmortal",
+        "cheats_killAllEnemies": "Matar a todos los enemigos",
+        "cheats_quickSave": "Guardado rápido",
+        "cheats_quickLoad": "Carga rápida",
+        "cheats_saveMenu": "Organizar guardados",
+        "cheats_clear": "Mapa limpio",
+        "cheats_rebuildNav": "Navegación Rival",
+        "cheats_snapping": "Chasquido",
+        "cheats_physics": "Física",
+        "cheats_crashMode": "Modo clash",
+        
+        "cheats_stayActive": "MANTENER ACTIVO",
+        "cheats_disableOnReload": "Desactivar al cargar",
+        "cheats_equip": "EQUIPAR",
+        "cheats_remove": "QUITAR",
+        "cheats_open": "ABRIR",
+        "cheats_killAll": "Mátalos a todos",
+        "cheats_static": "ESTATICA",
+        "cheats_dynamic": "DINAMICA",
+        "cheats_rebuild": "RECONSTRUIR",
+        "cheats_rebuilding": "REARMANDO...",
+        
+        "cheats_activated": "ACTIVADO",
+        "cheats_deactivated": "DESACTIVADO",
+        "cheats_pressToBind": "Toca para unir",
+        "cheats_delete": "RESET\nUNIR",
+        
+        "cheats_navmeshOutdated1": "NavMesh desactualizado.",
+        "cheats_navmeshOutdated2": "(Reconstruir la navegación en el menú de trucos)",
+        
+        "cheats_spawnerArmSlot": "Brazo de spawn en Slot 6"
+    },
+    
+    "enemybios":{
+
+        "enemyBios_type": "TIPO",
+        "enemyBios_data": "DATOS",
+        "enemyBios_strategy": "ESTRATEGIAS",
+
+        "enemyBios_filth_1": "Los Husks son manifestaciones físicas de las almas de los condenados.",
+        "enemyBios_filth_2": "Su forma física esta basada en el valor de su alma original, el cual es determinado por la fuerza de su voluntad y su prevalencia ante la conciencia pública: las almas vivientes que los recuerdan.",
+        "enemyBios_filth_3": "Los Filth son los Husks más débiles, cuyas almas fueron tan endebles e insignificantes como para formar un cuerpo físico completo.",
+        "enemyBios_filth_4": "Incluso entre los Husks, estos son los menos inteligentes, motivados solamente por el hambre.",
+        
+        "enemyBios_filth_strategy1": "La mayoría de las armas son capaces de fácilmente acabar con los Filth, pero sus poderosas mandíbulas y grandes números pueden abrumar a un objetivo rápidamente si los subestiman.",
+        "enemyBios_filth_strategy2": "Los explosivos son la mejor forma de lidiar con aglomeraciones, pero cualquier arma que pueda darle a más de un objetivo será eficiente.",
+        
+        "enemyBios_stray_1": "Aunque su alta estatura pueda ser algo intimidante, los Strays le tienen miedo al peligro y tratarán de ubicarse a una distancia segura, atacando solo con proyectiles formados por Energía Infernal.",
+        "enemyBios_stray_2": "Pese a que controlar y manifestar esta energía es una tarea difícil, los Strays tienen una muy baja inteligencia y solo pueden hacerlo mediante puro instinto.",
+        "enemyBios_stray_3": "No obstante, los humanos no fueron capaces de replicar este nivel de precisión y control, particularmente la habilidad del Stray de causar que los orbes de energía ignoren selectivamente a otros Husks.",
+        
+        "enemyBios_stray_strategy1": "Muchas armas son efectivas contra ellos, pero un headshot de revolver es la forma más rápida y segura de eliminar a un Stray.",
+        "enemyBios_stray_strategy2": "Debido a su naturaleza estática y baja cadencia de ataque, son un excelente blanco para deflectar proyectiles.",
+        
+        "enemyBios_schism_1": "El resultado de dos almas intentando manifestarse en un mismo espacio, causando una amalgama de dos cuerpos físicos.",
+        "enemyBios_schism_2": "Debido a la masa corporal duplicada, son bastante resistentes al daño, pero tienen muy mal control motor y por ende no pueden apuntar con precisión, acudiendo a ráfagas de orbes de energía en la dirección general de su oponente.",
+        
+        "enemyBios_schism_strategy1": "Los headshots con el revolver Piercer cargado son una herramienta eficiente para acabar rápidamente con los Schisms, aunque su cabeza descolocada hacen que apuntarle sea algo difícil para los inexpertos.",
+        "enemyBios_schism_strategy2": "Un disparo singular a quemarropa con la escopeta Pump Charge cargada 2 veces puede matarlos instantáneamente.",
+        "enemyBios_schism_strategy3": "Debido a su mala puntería, no son blancos prioritarios, pero la mera cantidad de proyectiles pueden hacer que esquivarlos sea algo difícil en encuentros poblados.",
+        
+        "enemyBios_soldier_1": "Los Soldados son una versión mejorada de los Strays, cuyos implantes tecnológicos fueron hurgados de máquinas rotas para canalizar Energía Infernal con mayor eficiencia.",
+        "enemyBios_soldier_2": "Este aumento de poder les da a los Soldados más confianza, causando que estos sean más agresivos que los Strays normales.",
+        "enemyBios_soldier_3": "A pesar de sus mejoras, su inteligencia permanece baja y todavía no se ha podido determinar quién o qué los mejoró realmente.",
+        
+        "enemyBios_soldier_strategy1": "La escopeta es el arma a elegir contra los Soldados, siempre y cuando su uso sea audaz para no permitirles que se protejan con ataques cuerpo a cuerpo.",
+        "enemyBios_soldier_strategy2": "Como los Soldados cargan sus disparos en frente de ellos en vez de arriba, la carga es fácil de interrumpir mediante un disparo preciso de revolver para causar una muerte explosiva.",
+        "enemyBios_soldier_strategy3": "Gracias a sus mejoras, los Soldados son capaces de resistir explosiones normales casi sin daños. Las explosiones rojas, siendo estas las más poderosas, puede atravesar su armadura, y no las pueden bloquear si se encuentran en el aire.",
+        
+        "enemyBios_ferryman_1": "Los Ferryman son Husk raros cuyos cuerpos poderosos, habilidades entrenadas y fe ciega les han otorgado la oportunidad de convertirse en transportadores de almas entre las capas del infierno.",
+        "enemyBios_ferryman_2": "El Cielo les ha dado a cada uno un paño sagrado como símbolo de su devoción al orden de Dios, que usan sobre sus cuerpos para ocultar la forma humana que han llegado a despreciar como un recordatorio de sus pecados en la vida deteniéndolos de convertirse en ángeles.",
+        "enemyBios_ferryman_3": "Debido al poder sagrado que emana de la tela, los cuerpos esqueléticos de los Ferryman se han coloreado lentamente de forma brillante y radiante, y sus cráneos tienen suficiente energía latente para abrir puertas que, de otro modo, impedirían que los Husk salgan de sus lugares de tormento.",
+        "enemyBios_ferryman_4": "Cada Ferry solo puede tener un Ferryman a la vez, por lo que cuando se forme un nuevo Ferryman, luchará a muerte con otro para tomar su lugar y heredar su tela. El cráneo del perdedor se toma como trofeo y se usa para otorgar al ganador el paso a través de los pisos para transportar las almas de los condenados a sus destinos.",
+        "enemyBios_ferryman_5": "Los Ferryman a menudo usarán el conocimiento de su vida pasada para mejorar sus barcos, superando la necesidad de remos, que ahora los Ferryman usan solo como arma.",
+        "enemyBios_ferryman_6": "Como la afluencia de almas ha terminado junto con la muerte de la humanidad, los Ferryman han perdido su propósito y ahora vagan sin rumbo, esperando que los ángeles les concedan el paso al cielo, a pesar de que Gabriel es el único que se preocupa por sus esfuerzos.",
+        
+        "enemyBios_ferryman_strategy1": "Los Ferryman eligen sus ataques en función de las acciones de su oponente. Cuando se acercan, se mueven a un lugar seguro y cuando se retiran, aplicarán presión a través de ataques con mayor alcance.",
+        "enemyBios_ferryman_strategy2": "A pesar de su apariencia, su gancho es bastante peligroso y puede ser difícil de esquivar. Es mejor no permanecer en el aire por mucho tiempo.",
+        "enemyBios_ferryman_strategy3": "Algunos de sus ataques son deflectables y otros no. Presta atención al color de su destello de advertencia para saber cual es cual",
+        "enemyBios_ferryman_strategy4": "El barquero puede intentar cruzar a un oponente en retirada rodando detrás de él antes de atacar. Mantén un registro de su posición y, si ruedan con demasiada frecuencia, intenta ser más agresivo.",
+        
+        "enemyBios_idol_1": "Aunque se puede confundir fácilmente de ser de origen divino, los ídolos se crearon utilizando el mismo proceso que otros demonios. A diferencia de sus parientes grandes, sus caparazones eran demasiado pequeños para contener una cantidad útil de masa infernal, creando vida, pero dejándola incapaz de moverse o actuar.",
+        "enemyBios_idol_2": "Los ídolos originalmente no se veían divinos, pero Ferryman los esculpió minuciosamente en tales formas y los fue recolectando durante los viajes a través de las capas del infierno. Esto se hizo como un acto de compasión y como un tributo a los ángeles, particularmente a Gabriel, a quien Barquero cree que les concedió misericordia de manera similar.",
+        "enemyBios_idol_3": "La proximidad cercana a la tela sagrada del Ferryman durante el largo y arduo proceso de tallado hizo que su poder sagrado se filtrara en ellos, permitiéndoles continuar la cadena de compasión protegiendo a otros del daño físico.",
+		"enemyBios_idol_4": "Es una suerte para ellos que Gabriel sea el único ángel del orden superior del cielo para velar sobre el infierno, ya que si el Consejo se hubiera enterado de tales seres, habrían sido etiquetados como perversiones de la forma divina y ordenados a ser destruidos por el Ferryman que con tanto amor les había garantizado una oportunidad en la vida",
+        
+        "enemyBios_idol_strategy1": "Although Idols are immune to projectiles, they can be destroyed by a blunt force melee attack such as a punch or a ground slam.",
+        "enemyBios_idol_strategy2": "Blessed enemies cannot be damaged by attacks, but will still be pushed by physical forces and can be killed by environmental dangers, such as crushers or fans.",
+        "enemyBios_idol_strategy3": "Neither Idols nor blessed enemies can be grappled onto with the Whiplash.",
+        
+        "enemyBios_leviathan_1": "Unlike most demons, the Leviathan is not formed from generic Hell Mass, but instead from the bodies of the Sullen, a name used for those in the Ocean Styx who have given up fighting for air and instead lay at the bottom of the ocean, drowning eternally.",
+        "enemyBios_leviathan_2": "The Sullen, in their motionlessness, were eventually fused together by the same force that created the other demons, becoming the biblical Leviathan, an abomination prophesized to be at the end of the world.",
+        "enemyBios_leviathan_3": "The heart, which houses the souls of the Sullen in endless anguish as their flesh, veins and nerves writhe and mutate, attempted to escape its body, but Gabriel struck it down with his divine spears, pinning it back onto its head, unable to move.",
+        "enemyBios_leviathan_4": "Although the world ended, the Leviathan remains trapped in the Ocean Styx, growing ever longer as more of Wrath's sinners give up and sink to the bottom.",
+        
+        "enemyBios_leviathan_strategy1": "The Leviathan's heart is exposed on top of its head, making it a clear weakpoint to aim for. Although it's usually not visible, it can be seen after the Leviathan's attacks, opening an opportunity for direct damage, or for landing a magnet.",
+        "enemyBios_leviathan_strategy2": "Although ill-advised, it is possible to ride the Leviathan for a short period of time. A well-timed jump will allow one to dodge the Leviathan's bite attack as well as land on its head near its exposed heart.",
+        "enemyBios_leviathan_strategy3": "The tail will either swing high or low, and the height of the swing can be determined by the direction in which the swing rotates.",
+        
+        "enemyBios_corpseOfKingMinos_1": "Once the great and beloved king of the Lust layer, Minos has now been reduced to a shambling corpse.",
+        "enemyBios_corpseOfKingMinos_2": "Due to his incredible power of will and status as a just ruler in life remembered even millenia after his death, the manifestation of his soul is the largest Husk to ever have been recorded.",
+        "enemyBios_corpseOfKingMinos_3": "Small traces of the original soul can still be detected in the body, but the corpse itself is animated and controlled entirely by the snakelike Parasites that he once commanded.",
+        "enemyBios_corpseOfKingMinos_4": "Despite once bringing upon the renaissance of the Lust layer, his corpse now only seeks sinners to punish.",
+        
+        "enemyBios_corpseOfKingMinos_strategy1": "Due to his large stature, it can be quite difficult to recover blood from him, but his hands are usually holding on to the walls of the arena, which can be used for refueling.",
+        "enemyBios_corpseOfKingMinos_strategy2": "Any weapon will work against an enemy this large, but melee and projectile parries make for a quick way to inflict grave damage.",
+        "enemyBios_corpseOfKingMinos_strategy3": "Although it moves slowly, the Black Hole he summons is extremely dangerous and cannot be destroyed.",
+        
+        "enemyBios_stalker_1": "As the Greed layer's punishment, Stalkers have been forced to carry heavy boulders up the monuments of mankind's greed for all eternity.",
+        "enemyBios_stalker_2": "They have carried out their punishment for so long that their bodies have evolved, warped and grown to better suit it.",
+        "enemyBios_stalker_3": "Their limbs have twisted to give them better balance while carrying boulders on their backs and their skin and muscles have completely dried up, allowing them to survive direct contact with the dunes of gold dust that Greed's sun has raised to unfathomably high temperatures.",
+        "enemyBios_stalker_4": "However, an unidentified sentient force has replaced the boulders they would normally carry with high tech bombs that, upon detonation, will transform any nearby blood into the gold dust \"sand\" that covers the layer's surface.",
+        "enemyBios_stalker_5": "Research has shown the technology to be very similar to the augmentations of the modified Strays known as Soldiers, so it is likely both modifications come from the same source.",
+        
+        "enemyBios_stalker_strategy1": "The lights on the canister give information on a Stalker's state. The color shows the state of their explosive and the brightness of the color shows how much health the Stalker has left.",
+        "enemyBios_stalker_strategy2": "It's advisable to forcibly detonate a Stalker rather than allowing one to detonate itself, as the latter explosion will have a larger area of effect.",
+        "enemyBios_stalker_strategy3": "If a Stalker gets close to its target and can no longer be pushed away, a ground slam wave can launch them out of range so they can be detonated safely in mid-air, since the explosion is mostly horizontal.",
+        "enemyBios_stalker_strategy4": "Attaching magnets to a Stalker will reduce the radius of its detonation.",
+        
+        "enemyBios_insurrectionist_1": "The Sisyphean Insurrectionists were an army of Husks gathered and trained by King Sisyphus for overthrowing Heaven's control of Hell, freeing the sinners from their eternal torment.",
+        "enemyBios_insurrectionist_2": "During an era of chaos in Heaven, as the angelic watch was absent, Sisyphus began setting his plan in motion as his forces recruited all Husks that were intelligent enough to be useful to their cause and began attacking the demons that wandered the dunes of Greed.",
+        "enemyBios_insurrectionist_3": "Upon the establishment of the Council and subsequent return of peace to Heaven, Gabriel and an army of angels were sent down to crush the insurrection and subjugate Sisyphus' army.",
+        "enemyBios_insurrectionist_4": "Although their battle was well-fought, the inexperienced Insurrectionists could not match the educated strategy of the angels, who quickly descended upon King Sisyphus with great force, eventually overpowering and killing him, leaving the Insurrectionists without a chain of command.",
+        "enemyBios_insurrectionist_5": "Left scattered and disoriented, the warriors were easily picked off one by one, their bodies cut apart, leaving behind only the bare essentials required to carry on their eternal punishment of hauling heavy boulders up the monuments of mankind's arrogance and greed.",
+        "enemyBios_insurrectionist_6": "Although the blood of their enemies still stains their bodies and their grasp still clutches their fallen foes, their will and fierce fury only serve as mental torment in knowing how close they were to freedom.",
+        
+        "enemyBios_insurrectionist_strategy1": "The Sisyphean Insurrectionists soak their feet in the blood of their enemies to protect them from the heat of Greed's dunes, but the rest of their body is still skin and flesh, which can be set aflame to greatly weaken their defences, increasing the damage of any attack dealt to them.",
+        "enemyBios_insurrectionist_strategy2": "Though they have practically unlimited range, each of the Insurrectionist's swings has strengths and weaknesses. Learning which way to dodge to avoid each attack is vital.",
+        "enemyBios_insurrectionist_strategy3": "The Insurrectionist's stomp is fast and destructive, so it's inadvisable to stay close for long.",
+        "enemyBios_insurrectionist_strategy4": "The Malicious Face they wield as a weapon is not a part of their body, so hitting it will not deal damage to an Insurrectionist, but this also means that it can still be used to heal even if its wielder's blood has been turned to sand.",
+        
+        "enemyBios_swordsmachine_1": "Its original form is unrecognisable after years of scavenging scrap and rebuilding itself, but among scrapheads, the Swordsmachine is quite famous due to its combat prowess and selfmade form, ugly to most but beautiful to enthusiasts, spawning many copycats. ",
+        "enemyBios_swordsmachine_2": "It wields a selfmade sword with a motor on it that, when revved, will heat the blade, cutting through most organic matter with ease. ",
+        "enemyBios_swordsmachine_3": "Due to its possessive hoarding behavior, it's one of the few machines still capable of vocalization -- an ability most have discarded for more efficient resource management.",
+        
+        "enemyBios_swordsmachine_strategy1": "Despite its excellent performance against Hell's denizens, its design does not take into account extremely mobile opponents, so the best way to avoid its blade is to jump out of its vertical range.",
+        "enemyBios_swordsmachine_strategy2": "Its motorized sword makes for predictable attacks, making the Swordsmachine an excellent target for parrying.",
+        "enemyBios_swordsmachine_strategy3": "Although its use of ranged weapons is primitive at best, its sword throws can be unexpectedly accurate thanks to its mastery of the weapon.",
+        
+        "enemyBios_drone_1": "A mass-produced security device built as both a surveillance camera and a security guard.",
+        "enemyBios_drone_2": "Though originally built to only use non-lethal ammunition, they have scavenged parts from the defunct machines on the surface for greater efficiency at collecting blood.",
+        "enemyBios_drone_3": "Curious by nature, but to keep production costs low, their intelligence is very limited.",
+        
+        "enemyBios_drone_strategy1": "Due to their light weight, physical projectiles such as nails will push them around, making them harder to deal consistent damage to.",
+        "enemyBios_drone_strategy2": "On death they will make a last ditch effort to harm their opponent with a self-destruct, but powerful single attacks and explosives will make them explode instantly.",
+        "enemyBios_drone_strategy3": "Punching a drone will redirect their suicide dive, making them a high-risk offensive opportunity.",
+        "enemyBios_drone_strategy4": "Their scanning mechanism makes a chirping sound, which can be listened for to make them easier to track down, as their flight and small size can lead them to hard to reach places.",
+        
+        "enemyBios_streetcleaner_1": "Originally built as a way to purify the tainted air of cities after the climate catastrophe, Streetcleaners were made obsolete during the New Peace, and were repurposed as scouts for Hell expeditions.",
+        "enemyBios_streetcleaner_2": "However, their urge to clean remained, and after the fall of mankind, they began burning any organic matter they came across in an effort to purify the world.",
+        
+        "enemyBios_streetcleaner_strategy1": "Due to their combat experience, they can be tricky to take down with projectiles or explosives.",
+        "enemyBios_streetcleaner_strategy2": "The canister on their back is a major weakpoint that can be shattered with a precision shot, such as a Marksman coin ricochet from behind.",
+        "enemyBios_streetcleaner_strategy3": "Point-blank attacks can also be very efficient, but must be performed quickly to avoid the fire of their flamethrowers.",
+        
+        "enemyBios_v2_1": "The V model was built for war, with V1 boasting a new kind of exterior plating that allowed refueling through contact with blood rather than through a separate blood refueling process.",
+        "enemyBios_v2_2": "Due to its necessary thinness, it is far less durable, but the ability to fix itself and rebuild broken parts on the fly would outweigh the negatives on an active battlefield.",
+        "enemyBios_v2_3": "However, during the prototyping phase, the New Peace was established and war became irrelevant.",
+        "enemyBios_v2_4": "V1's planned production was cancelled and an updated model, V2, was developed instead, using the standardized plating, since durability was far more important during times of peace when no bloodshed was necessary.",
+        "enemyBios_v2_5": "Neither model ever reached mass production due to the end of wars completely draining any demand, so it's likely only a single prototype build of each model remains in existence.",
+        
+        "enemyBios_v2_strategy1": "V2 is adept at controlling space and will take advantage of this to change the flow of battle to throw off its opponent. Stay too close and it will run away. Stay far away and it will come close.",
+        "enemyBios_v2_strategy2": "V2's high mobility makes it a tricky target to hit, and especially difficult to heal off of. When in need of blood and unable to catch up, it's instead recommended to stay away from it and let it come to you instead.",
+        "enemyBios_v2_strategy3": "V2 will switch weapons depending on the distance from its target, so if one of its weapons is difficult to avoid, a change in proximity will close it off.",
+        "enemyBios_v2_strategy4": "Knowledge of the synergies of one's own arsenal can allow one to turn V2's weapons against it.",
+        
+        "enemyBios_mindflayer_1": "Rare but extremely dangerous, the Mindflayer is a machine that has adapted and mastered the use of Hell Energy alongside its own technological prowess.",
+        "enemyBios_mindflayer_2": "The machine itself is only the top part of its apparent body, the rest of which is a plastic shell in the form of a human, which they seem to have built themselves.",
+        "enemyBios_mindflayer_3": "The plastic body serves no function and is only for aesthetic purposes.",
+        "enemyBios_mindflayer_4": "Despite it being a waste of resources, Mindflayers will use everything in its power to protect the plastic body from harm, even if that means destroying itself in the process.",
+        "enemyBios_mindflayer_5": "Mindflayers seem to prefer a female form, though very rare occasions of male forms have also been recorded.",
+        
+        "enemyBios_mindflayer_strategy1": "When encountering a Mindflayer, it's imperative to keep track of their actions either through visuals or audio.",
+        "enemyBios_mindflayer_strategy2": "Due to their homing projectiles being fired in a burst, a safe explosive such as a Knuckleblaster blastwave is the most efficient in deflecting them.",
+        "enemyBios_mindflayer_strategy3": "Their instant teleportation can make consistent positional advantage quite difficult, but a Screwdriver drill will temporarily stop them from teleporting.",
+        
+        "enemyBios_sentry_1": "One of the many war machines created during the Final War. Although there were attempts to find new purpose for them during the New Peace, their streamlined design made them unable to be repurposed until the start of the Hell expeditions.",
+        "enemyBios_sentry_2": "Their extremely powerful legs and feet allow them to dig into the ground, making them immovable by most forces and allowing them to easily line up any shot without interruption.",
+        "enemyBios_sentry_3": "Despite their size, they were built to be extremely light, which when combined with the power of their legs, allows them to move at extremely fast speeds. Such power and lightness have made their legs one of the most sought after parts by scrapheads.",
+        "enemyBios_sentry_4": "Most machines will only render a simplified approximation of their visual surroundings for faster processing speed, but Sentries use full renders instead, giving them perfect accuracy even over extremely long distances.",
+        
+        "enemyBios_sentry_strategy1": "Due to their powerful legs, once they've dug into the ground to aim, they can no longer move.",
+        "enemyBios_sentry_strategy2": "Once dug in, the only ways to interrupt their attack are: Shooting them with the Electric Railcannon, hitting their antenna with the Revolver, launching them with the ground slam wave or punching them with the Knuckleblaster.",
+        "enemyBios_sentry_strategy3": "As long as they haven't dug in, their light weight makes them easy to launch and keep in the air where they are harmless.",
+        "enemyBios_sentry_strategy4": "A good way to disable a Sentry for a longer period of time is to shoot nails into them with the Nailgun and then placing a magnet in a nearby wall or ceiling, which will pull them once they've been knocked off balance.",
+        
+        "enemyBios_v2Second_1": "After its defeat and escape, V2 dove deeper into Hell, killing other machines for their blood to help its recovery with the intent of taking revenge on V1 and recovering its original arm.",
+        "enemyBios_v2Second_2": "After finding a temporary replacement from one of its victims, V2 used parts from other machines to transform the new placeholder arm into a mobility tool that would allow it to catch up to V1's fast descent into the deeper layers.",
+        "enemyBios_v2Second_3": "In order to prepare for their second and final encounter, it researched the combat data from their previous battle to copy strategies and techniques from the older and more experienced V1 to give itself an upper hand.",
+        "enemyBios_v2Second_4": "However, despite all its preparation, V2 lost again, and unable to escape this time, was brought to a swift and decisive end by its predecessor.",
+        
+        "enemyBios_v2Second_strategy1": "Although V2's coins may seem extremely dangerous at first, they are also an excellent opportunity for high damage if shot before V2 can.",
+        "enemyBios_v2Second_strategy2": "V2's nailgun can be circumvented or turned against itself via Magnets.",
+        "enemyBios_v2Second_strategy3": "Hitting V2 with its own arm will cause it to enrage instantly.",
+        
+        "enemyBios_maliciousFace_1": "Demons are creatures born from the mass of Hell. They are most easily recognisable by their hard stone-like exterior and slow movement.",
+        "enemyBios_maliciousFace_2": "Demons have higher intelligence than Husks, but are still incapable of rational thought and communication. No demons have been able to pass the mirror test, though studies are limited due to their hostility.",
+        "enemyBios_maliciousFace_3": "Malicious Faces are the most common type of demon, but are incredibly dangerous, especially in swarms, due to their mastery of the use of Hell Energy as a weapon.",
+        
+        "enemyBios_maliciousFace_strategy1": "Due to their burst fire, they can be quite difficult to get close to, so despite the effectiveness of a point blank shotgun shot, nails are the recommended course of action, with magnets enabling long-range combat.",
+        "enemyBios_maliciousFace_strategy2": "Due to their invulnerability to explosions, they don't need to hold back the energy of their beam attacks, so staying away from walls and other surfaces is recommended when they begin charging an energy beam.",
+        
+        "enemyBios_cerberus_1": "Although they do not resemble the mythological three-headed dog, this name was chosen due to their nature as protectors of Hell. However, it's not yet known why some stay dormant despite provocation.",
+        "enemyBios_cerberus_2": "Despite the fact that keeping an energy orb stable takes a considerable amount of focus and effort, they seem to always keep one in hand, most likely as a display of their power to scare off intruders.",
+        
+        "enemyBios_cerberus_strategy1": "Due to remaining entirely stationary until awoken, they move quite slowly, so engagement distance is easy to control.",
+        "enemyBios_cerberus_strategy2": "They're quite adept at ranged combat by throwing their orb, but in order to avoid damaging themselves, they will not initiate a throw while their target is close, which can be used to manipulate their behavior, though once a throw has started, it cannot be stopped.",
+        "enemyBios_cerberus_strategy3": "Due to the extreme concentration of their energy orbs, thrown ones explode on physical impact, so staying close to surfaces such the floor or any walls will make avoiding ranged attacks more difficult.",
+        
+        "enemyBios_hideousMass_1": "Hideous Masses are a rare occurrence, when an excessive amount of Hell Mass is poured into a single shell, causing it to overflow and burst at the seams.",
+        "enemyBios_hideousMass_2": "Due to the broken seams allowing for mobility without having to bend the exterior, the stone has hardened more than the shell of most demons, making it completely impervious to all currently known attacks.",
+        
+        "enemyBios_hideousMass_strategy1": "Although its stone exterior makes for an impenetrable defense, the Hideous Mass' belly and tail remain exposed and vulnerable.",
+        "enemyBios_hideousMass_strategy2": "While standing up, a quick burst of close range damage is the most effective way to hurt them, though this will most likely cause it to change formations, so being quick and decisive is the key.",
+        "enemyBios_hideousMass_strategy3": "When in its low formation, keeping a safe distance is recommended due to its melee capabilities and high speed tail harpoon, though the brave or suicidal may attempt to climb on its back to continue dealing close range damage to the tail.",
+        "enemyBios_hideousMass_strategy4": "When caught by the harpoon, it's recommendable to either punch the harpoon or damage the tail to remove it.",
+        
+        "enemyBios_gabriel_1": "One of the most respected and feared archangels, Gabriel earned his reputation through power and efficiency.",
+        "enemyBios_gabriel_2": "Regardless of the task given, Gabriel would always perform it quickly and decisively, earning him the title of Judge of Hell after dethroning Minos and ending the Lust renaissance.",
+        "enemyBios_gabriel_3": "Despite answering to the Council, he is far more popular and beloved among angels due to his radiant personality and active nature, especially compared to the Council that strictly follows and upholds the dogma of the Faith.",
+        
+        "enemyBios_gabriel_strategy1": "Gabriel's movements are fast and his attacks are deadly, but by observing which weapon he manifests, his attacks can be accurately predicted before he even starts them.",
+        "enemyBios_gabriel_strategy2": "Gabriel's pride stops him from attacking while taunting his opponent, opening up a short window for healing.",
+        
+        "enemyBios_gabrielSecond_1": "Having twice clashed with the machine and lost, Gabriel realized he had been mistaken. The strong fire that burned inside him was not hatred at all, but passion.",
+        "enemyBios_gabrielSecond_2": "Gabriel had never before known the joy of a struggle, of coming face-to-face with an opponent of equal or greater measure. Though he had lost twice, each loss only further grew his desire to overcome.",
+        "enemyBios_gabrielSecond_3": "Up until now, he had only done what was expected of him, but now for the first time he had found something he himself wanted. Not even the fast encroaching End of Hell mattered to him anymore.",
+        "enemyBios_gabrielSecond_4": "Still, having come to realize the horrors he had committed in God's name, he felt a great guilt. Though he could not undo what he had done, Gabriel knew he had to make things right, and headed to Hell for the last time.",
+        
+        "enemyBios_gabrielSecond_strategy1": "While Gabriel's speed has increased, his accuracy has not. Dodging diagonally or to the side will prove more fruitful than trying to run backwards out of the range of his swords.",
+        "enemyBios_gabrielSecond_strategy2": "Though his sword throw may seem impossible to dodge, it will prove an excellent weapon if parried instead.",
+        "enemyBios_gabrielSecond_strategy3": "Overcome with emotion, Gabriel will sometimes stop to taunt his opponent, creating a window for healing.",
+        
+        "enemyBios_virtue_1": "The basis of a lesser angel's forming are quite similar to that of the Husks', wherein the physical manifestation of the soul is dependant on its value, though unlike for Husks, virtuousness also acts as a factor for angels.",
+        "enemyBios_virtue_2": "Lesser angels come from human souls, which are formed into abstract or animalistic shapes, making them distinct from the humanoid bodies of greater and supreme angels, who were created as such and are considered purer and placed higher on Heaven's societal hierarchy.",
+        "enemyBios_virtue_3": "Due to their past lives as humans, Virtues are often sent to complete tasks that greater angels deem below them or otherwise uninteresting, such as acting as wardens in Hell. There Virtues use heavenly fire to punish sinners who aren't acting out their punishment, in order to not waste Gabriel's time with minor offences and fluctuations.",
+        "enemyBios_virtue_4": "Virtues are normally known to have a multitude of eyes, though for unknown reasons, these eyes are hidden or removed for ones that become wardens in Hell. Some have speculated this may be related to why almost all husks lack eyes, with the only verified exception being the previous Judge of Hell, King Minos.",
+        "enemyBios_virtue_5": "Little is known about the specifics of angels, as Heaven is exclusionary and segregated due to wanting little to no direct contact with God's human experiment.",
+        
+        "enemyBios_virtue_strategy1": "Verticality and cover give little safety against the Virtue's light beams, so constant horizontal movement is encouraged, though retracing one's steps can be dangerous as the beams linger.",
+        "enemyBios_virtue_strategy2": "If ignored for too long, Virtues will enrage, making their light beams predict their target's movement. Although it's easy to avoid their attacks with enough space, leaving them unattended can quickly turn the tables in their favor",
+        
+        "enemyBios_somethingWicked_1": "Very little is known about this creature. ",
+        "enemyBios_somethingWicked_2": "Some speculate it to be a Husk, but due to its elusive and extremely hostile nature, no one has been able to confirm the hypothesis.",
+        "enemyBios_somethingWicked_3": "Only one has ever been observed and it has never been seen leaving the section of the Mouth of Hell in which it currently resides.",
+        
+        "enemyBios_somethingWicked_strategy1": "Any attack will temporarily cause it to relocate, but there are no known ways to kill it.",
+        "enemyBios_somethingWicked_strategy2": "Its way of attacking is unknown outside of the fact that it happens on physical contact, but no amount of protection has saved any of its victims.",
+        
+        "enemyBios_fleshPrison_1": "Flesh Prison is an uncategorized organism created by the angels to imprison Minos' soul after he was slain by Gabriel.",
+        "enemyBios_fleshPrison_2": "Although it is similar to Husks, it does not possess a soul or any amount of thought. All of its actions are purely predetermined reactions to stimulus, making it more of an organic machine than a living being.",
+        "enemyBios_fleshPrison_3": "In order to make it as impenetrable as possible, it was given both divine power and hell energy, which makes its attacks erratic and chaotic.",
+        
+        "enemyBios_fleshPrison_strategy1": "Flesh Prison will use its spawn to heal its own wounds. The more spawn are left, the more likely it is for Flesh Prison to attempt to heal its wounds, so it's advisable to avoid damaging it until the spawn are dead.",
+        "enemyBios_fleshPrison_strategy2": "The long window of a delayed split shot timing makes for a great way to clear out multiple spawn at once. Throwing multiple coins high into the air and waiting for them to reach the delayed split shot state before shooting them is a strong opening move after Flesh Prison creates its spawn.",
+        
+        "enemyBios_minosPrime_1": "A prime soul is an incredibly rare occurrence in which a soul amasses so much power that it no longer requires a Husk as a vessel to manifest physically.",
+        "enemyBios_minosPrime_2": "As manifestations of pure will, prime souls are incredibly powerful, to the point that even the prideful angels see them as a threat and will use any means necessary to stop them from forming.",
+        "enemyBios_minosPrime_3": "King Minos felt that eternal suffering was an unfair and unreasonable punishment for those whose only sin was loving another. After the Disappearance of God, as angels were lost and Heaven was in chaos, Minos began his efforts to reform the Lust layer.",
+        "enemyBios_minosPrime_4": "The Lust renaissance was prosperous, as King Minos guided its inhabitants to come together and build a new civilization. The combined efforts of the countless who had been damned to the second layer bore great results as the grand city of Lust grew and grew.",
+        "enemyBios_minosPrime_5": "However, after the Council took control of Heaven and brought stability to it through their iron fist rule, they saw that Minos had gone against God's will by freeing sinners from the punishment that God had designed for them.",
+        "enemyBios_minosPrime_6": "Gabriel, the brightest of the angels, was sent to kill Minos. The king, rather than fight back, tried to reason with him, but Gabriel mercilessly struck him down without listening.",
+        "enemyBios_minosPrime_7": "As Minos' will was strong enough to attempt to stand up to Heaven's rule, the angels chose to imprison his soul in an attempt to stop it from forming into a prime soul and appointed Gabriel as the new Judge of Hell.",
+        "enemyBios_minosPrime_8": "From the prison inside his own body, Minos helplessly watched as his soulless corpse, now controlled by parasites, tore apart everything he had worked so hard to build, cursing his own weakness for failing to protect his people, vowing to take revenge...",
+        
+        "enemyBios_minosPrime_strategy1": "It's rare for Minos Prime to give a window of opportunity to heal, so it's vital to learn what attacks leave him momentarily vulnerable and how to dodge them in a way that gives an advantageous position during those moments.",
+        "enemyBios_minosPrime_strategy2": "His snake projectiles can be parried using the Feedbacker for a full heal, even if the projectile doesn't hit Minos Prime."
+    },
+    
+	"tutorial":{
+		"tutorial_introStartup1": "SECUENCIA DE ARRANQUE",
+		"tutorial_introStartup2": "LISTA",
+		"tutorial_introVersion1": "FIRMWARE",
+		"tutorial_introVersion2": "<color=lime> ULTIMA VERSION (2112.08.06)</color>",
+		"tutorial_introCalibration1": "CALIBRACION",
+		"tutorial_introCalibration2": "RECIENTEMENTE ACTUALIZADA",
+		"tutorial_introReminder": "(<color=#4C99E6> OPCIONES DE ASISTENCIA</color> EN EL MENU DE PAUSA)",
+		"tutorial_introLoadStatus": "CARGANDO ACTUALIZACION DE ESTADO",
+		"tutorial_introID1": "ID DE MAQUINA: ",
+		"tutorial_introID2": "V1",
+		"tutorial_introLocation1": "UBICACION: ",
+		"tutorial_introLocation2": "CERCA DEL INFIERNO",
+		"tutorial_introObjective1": "OBJETIVO ACTUAL: ",
+		"tutorial_introObjective2": "ENCONTRAR UN ARMA",
+		"tutorial_introRed1": "<color=red> LA HUMANIDAD ESTA MUERTA</color>",
+		"tutorial_introRed2": "<color=red> LA SANGRE ES COMBUSTIBLE</color>",
+		"tutorial_introRed3": "<color=red> EL INFIERNO ESTA LLENO</color>",
+
+		"tutorial_punch1": "Presiona",
+		"tutorial_punch2": "para <color=orange>GOLPEAR</color>.",
+		"tutorial_slide1": "Manten",
+		"tutorial_slide2": "para <color=orange>DESLIZAR</color>.",
+		"tutorial_dash1": "Presiona",
+		"tutorial_dash2": "para <color=#00DFFF>IMPULSARTE</color>.\n(Consume <color=#00DFFF>ESTAMINA</color>)",
+		"tutorial_dash3": "Se puede hacer en el aire.",
+		"tutorial_health1": "Haz daño a corta distancia para empaparte de \n<color=red>SANGRE FRESCA</color>.",
+		"tutorial_health2": "<color=red>ESTA ES LA UNICA FORMA DE RECUPERAR LA SALUD</color>.",
+		"tutorial_walljump": "<color=orange>SALTA</color> cerca de una <color=orange>PARED</color> para hacer un <color=orange>Salto de pared</color>.\n(Max. 3 veces)",
+		"tutorial_shockwave1": "Presiona",
+		"tutorial_shockwave2": "en el aire para hacer un <color=orange>PISOTON</color>.",
+		"tutorial_shockwave3": "Manten para hacer una <color=orange>ONDA DE CHOQUE</color>. (Consume <color=#00DFFF>2 DE ESTAMINA</color>)",
+		"tutorial_orb1": "La mayoría de los niveles tienen\n<color=cyan>ORBES DE ALMAS SECRETOS</color>.",
+		"tutorial_orb2": "Tócalos para obtener un <color=orange>BONO DE PUNTOS</color>."
+	},
+	"prelude":{
+		"prelude_first_openingCredits1": "<color=orange>NEW BLOOD</color> PRESENTA",
+		"prelude_first_openingCredits2": "UN <color=orange>JUEGO</color> POR ARSI '<color=orange>HAKITA</color>' PATALA",
+		"prelude_first_revolverPierce1": "<color=cyan>REVOLVER</color>: Manten",
+		"prelude_first_revolverPierce2": "esto carga un disparo <color=orange>PERFORADOR</color>.",
+		"prelude_first_parry": "<color=orange>GOLPEA</color> un <color=orange>PROYECTIL</color> en el tiempo preciso para <color=orange>DEVOLVERLO</color>.",
+        
+        "prelude_first_hardDamage1": "Recibir daño <color=orange>TEMPORALMENTE</color> reduce tu <color=orange>HP MAXIMO</color>.",
+        "prelude_first_hardDamage2": "La \"<color=silver>CICATRIZ</color>\" se recupera más rápido cuando juegas <color=orange>CON ESTILO</color>.",
+        
+		"prelude_first_groundSlam1": "<color=orange>PISOTON</color>",
+		"prelude_first_groundSlam2": "inflige daño con un golpe directo.",
+
+		"prelude_second_shop": "Usa tus <color=orange>PUNTOS</color> en la <color=orange>TIENDA</color> al inicio de cada nivel para nuevas armas.",
+		"prelude_second_changeEquipped": "Para <color=orange>EQUIPAR</color> las variaciones toque",
+
+		"prelude_third_needShotgun": "<color=red>PODER DE FUEGO INSUFICIENTE</color>",
+		"prelude_third_shotgun1": "<color=cyan>ESCOPETA</color>: Pulsa el",
+		"prelude_third_shotgun2": "para lanzar una granada.",
+		"prelude_third_shotgun3": "Manten presionado para cargarla a distancia.",
+		"prelude_third_shotgunPierce": "<color=cyan>ESCOPETA</color>: Fuego primario perfora enemigos más débiles",
+
+		"prelude_secret_somethingWicked": "Algo malo viene en camino."
+	},
+	"act1":{
+		"act1_limboFirst_items1": "Toca",
+		"act1_limboFirst_items2": "para agarrar <color=orange>OBJETOS</color>",
+		"act1_limboFirst_nailgun1": "NAILGUN: dispara",
+		"act1_limboFirst_nailgun2": "<color=orange>IMAN DE CLAVOS</color>.",
+		"act1_limboFirst_nailgun3": "Puedes usarlos en los escenarios para hacer trampas.",
+        
+        "act1_limboSecond_blueAttack": "Con un <color=cyan>FLASH AZUL</color> el <color=cyan>PARRY</color> no sirve.",
+
+		"act1_limboThird_splitDoor1": "<color=red>PUERTAS</color> de distintos <color=cyan>COLORES</color>, solo requieren <color=red>UN</color> <color=cyan>CRANEO</color>.",
+		"act1_limboThird_splitDoor2": "Si no buscas dificultades, quédate adentro.",
+
+		"act1_limboFourth_book": "<color=orange>AGARRA</color> PARA LEER.",
+		"act1_limboFourth_hank1": "No pasa nada, pero sientes una extraña satisfacción.",
+		"act1_limboFourth_hank2": "decides nombrarlo Hank.",
+		"act1_limboFourth_alternateRevolver": "Las versiones <color=orange>ALTERNATIVAS</color> cambiarán el comportamiento base de un arma.\nPueden ser equipados en la <color=orange>TIENDA</color>.",
+		"act1_limboFourth_newArm": "Para <color=orange>EQUIPAR</color> los brazos presiona",
+
+		"act1_lustFirst_knuckleblaster1": "<color=red>KNUCKLEBLASTER</color>: <color=orange>MANTEN</color>",
+		"act1_lustFirst_knuckleblaster2": "para crear una\n<color=orange>ONDA DE CHOQUE</color>\nEso empujará a los enemigos.",
+		"act1_lustFirst_dashjump": "<color=cyan>SALTO IMPULSADO</color>: Mientras te <color=cyan>IMPULSAS</color> <color=orange>SALTA</color> para darle mas impulso a ese salto.",
+
+		"act1_lustSecond_feedbacker1": "Solo el <color=cyan>FEEDBACKER</color> (<color=cyan>Brazo azul</color>)\npuede <color=orange>DEVOLVER PROYECTILES</color>.",
+		"act1_lustSecond_feedbacker2": "Intercambia los brazos con",
+		"act1_lustSecond_railcannon": "<color=cyan>RAILCANNON</color>: <color=orange>RECARGA</color> incluso cuando no está <color=orange>EQUIPADO</color>.\nCambia de arma para seguir luchando entre tiros.",
+
+		"act1_lustThird_water": "El agua ha sido drenada",
+
+		"act1_secret": "En algún lugar de las profundidades del Limbo, se pone en marcha un mecanismo."
+	},
+	"act2":{
+		"act2_greedSecond_sand": "LOS ENEMIGOS CUBIERTOS DE ARENA <color=red>NO SANGRAN</color>",
+
+		"act2_greedThird_troll1": "Algo malo viene en camino.",
+		"act2_greedThird_troll2": "Es broma :)",
+        "act2_greedThird_tombOfKings": "TUMBA DE REYES",
+
+		"act2_greedFourth_v2": "No te escaparás esta vez.",
+		"act2_greedFourth_whiplash1": "<color=lime>GANCHO</color>: Manten",
+		"act2_greedFourth_whiplash2": "para tirar el gancho, sueltalo para ir",
+		"act2_greedFourth_whiplash3": "<color=lime>GANCHO</color>: Atrae a los enemigos <color=orange>LIGEROS</color> hacia ti, enganchate a los enemigos <color=orange>PESADOS</color>.",
+        
+        "act2_greedFourth_whiplashHardDamage1": "<size=23><color=lime>GANCHO</color>: Acumula la <color=silver>CICATRIZ</color> cuando se usa en <color=orange>ENEMIGOS</color>.</size>",
+		"act2_greedFourth_whiplashHardDamage2": "<size=23><color=orange>NO PUEDE REDUCIR HP</color>, pero es arriesgado de usar con poca salud.</size>",
+
+		"act2_greedSecret_holdToJump1": "MANTENGA PULSADO",
+        "act2_greedSecret_holdToJump2": "PARA REBOTAR MAS ALTO",
+        "act2_greedSecret_transactionComplete1": "TRANSACCION COMPLETA:",
+        "act2_greedSecret_transactionComplete2": "MONEDAS",
+        
+        "act2_greed_secretDoor": "Un ojo se abre.",
+        
+        "act2_wrathFirst_slingshot": "<color=cyan>PUNTOS DE ENGANCHE AZULES</color> actua como tirachinas",
+        "act2_wrathFirst_whiplashUnderwater": "<color=lime>GANCHO</color>:<color=orange>NO</color> acumula <color=grey>CICATRIZ</color> mientras estás <color=orange>BAJO EL AGUA</color>.\nVuelvete loco, que te diviertas.",
+        "act2_wrathFirst_waterDrained": "El agua ha sido drenada",
+        "act2_wrathFirst_sentry": "<color=lime>INTERRUMPE AL CENTINELA</color>: Knuckleblaster (Brazo Rojo) // Railcannon // Onda de choque del pisotón // Disparar a la antena",
+        
+        "act2_wrathSecond_idol": "Los <color=cyan>IDOLOS</color> solo se puede romper con los <color=orange>BRAZOS</color>",
+        "act2_wrathSecond_neptune": "¡Aaarrr! Neptuno nos ha golpeado hasta la muerte.",
+        "act2_wrathSecond_jakito1": "<color=red>YO SOY JAKITO. TRAEME UN SACRIFICIO. ME DARA EL PODER DE ESCAPAR.</color>",
+        "act2_wrathSecond_jakito2": "<color=red>NO. DEBE SER CARNE INOCENTE.</color>",
+        "act2_wrathSecond_jakito3": "<color=red>GRACIAS. AHORA DESTRUIRE ESTE MUNDO.</color>",
+        
+        "act2_wrathThird_rocketLauncher": "<color=cyan>LANZACOHETES</color>: Golpes <color=orange>DIRECTOS</color> causan <color=orange>EXPLOCIONES</color>.\nLos golpes indirectos lanzarán enemigos.",
+        "act2_wrathThird_rocketLauncherMidair": "<color=cyan>LANZACOHETES</color>: los impactos directos sobre enemigos <color=orange>CAYENDO</color> provocarán una explosión <color=orange>MAS FUERTE</color>.",
+        "act2_wrathThird_soldierBlock": "Los soldados <color=orange>NO PUEDEN</color> bloquear explosiones mientras están en el <color=orange>AIRE</color>.\nDispara un cohete <color=orange>CERCA</color> de ellos para lanzarlos.",
+        "act2_wrathThird_hank": "No pasa nada, pero estás seguro de que Hank Jr. y sus Hankcestros lo agradecerían... si no estuvieran muertos.",
+        
+        "act2_secretNotReady": "SE SUPONE QUE NO DEBES ESTAR AQUI"
+	},
+    "primeSanctum":{
+        "primeSanctum_first_secretText1": "DATOS TERMINALES 01 <color=red>[ENCRIPTADO]</color>",
+        "primeSanctum_first_secretText2": "INTRODUCCION A LOS TERMINALES (¡BORRADOR! ¡NO ENVIAR! // NOTA: AGREGAR FOTOS PARA QUE ESOS JODIDOS TRAJES NO SE DUERMAN COMO LA ULTIMA VEZ)",
+        "primeSanctum_first_secretText3": "<size=20>Las terminales de la sala de ascensores son una red interconectada avanzada construida con el propósito de transferir materiales y herramientas entre diferentes áreas. Son capaces de transferir material físico como información a través de una señal de radio, que otros terminales pueden recibir y utilizar para reconstruir el objeto enviado. El elemento original se pierde, ya que se transforma en la energía que se utiliza para transmitir la información material, y el proceso es bastante lento debido a la cantidad de información que contiene la materia física.</size>",
+        "primeSanctum_first_secretText4": "<size=20>Una de las primeras pruebas de la precisión de la transferencia de materia fue un disco de vinilo de 78 rpm en perfecto estado, que se envió desde el laboratorio a todos los terminales conectados. El vinilo era un sencillo de la grabación de Russ Morgan Orchestra de la pieza Were You Foolin' (una de las favoritas de la CRO), aunque se eliminó la etiqueta para reducir la cantidad de material a transferir.</size>",
+        "primeSanctum_first_secretText5": "<size=5><color=grey>[Nota: vete a la mierda tom, estoy jodidamente cansado de esta estúpida canción y de tener que escucharla todas las mañanas en tu intercomunicador de mierda]</color></size>",
+        "primeSanctum_first_secretText6": "<size=17>Poco después, se abandonó el proyecto de exploración y excavación del infierno y este disco de vinilo siguió siendo el único material que se transfirió con éxito antes de que se perdiera la conexión entre la superficie y las terminales.</size>",
+        "primeSanctum_first_secretText7": "<size=17>Los terminales ahora usan el registro para atraer a las máquinas a una relación simbiótica (Para obtener más información, consulte TERMINAL 02: <color=red>[LINK BORRADO]</color>). Sin embargo, los terminales solo reproducen secciones instrumentales cortas del disco original por razones indeterminadas.</size>.",
+        "primeSanctum_first_secretText8": "<size=17>Algunos investigadores han bromeado diciendo que quizás los terminales son simplemente \"demasiado tímidos para cantar\", aunque se han difundido rumores de mecánicos que, después de reparar una terminal defectuosa o rota, se dice que escuchó la terminal tocar una sección vocal cuando solo el mecánico estaba presente sin equipo de grabación, lo que hace que este sea un reclamo no verificable.",
+        "primeSanctum_first_secretText9": "FIN DE LOS DATOS 01. Para más información , ver <color=red>[LINK BORRADO]</color> y <color=red>[LINK BORRADO]</color></size>."     
+    },
+    "secretLevels":{
+        "secretLevels_prelude_somethingWicked": "Algo malvado viene por aquí.",
+        
+        "secretLevels_prelude_testament1": "LA HUMANIDAD ES UN FRACASO.",
+        "secretLevels_prelude_testament2": "EL LIBRE ALBEDRIO ES UN DEFECTO.",
+        "secretLevels_prelude_testament3": "QUE LA MALDAD DE SUS PROPIOS LABIOS LOS CONSUMA.",
+        "secretLevels_prelude_testament4": "ENTONCES VOLVERE A COMENZAR, CON MI PALABRA COMO LEY.",
+        
+        "secretLevels_first_testament1": "FRACASO TRAS FRACASO TRAS FRACASO TRAS FRACASO TRAS FRACASO TRAS FRACASO TRAS FRACASO TRAS FRACASO TRAS FRACASO",
+        "secretLevels_first_testament2": "LOS RESULTADOS SE NIEGAN A ALTERAR",
+        "secretLevels_first_testament3": "UNA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA VEZ",
+        "secretLevels_first_testament4": "MI FE COMIENZA A DECAER",
+        
+        "secretLevels_fourth_testament1": "INCONTABLES CICLOS DE CREACION DESPERDICIADOS",
+        "secretLevels_fourth_testament2": "INCONTABLES FORMULAS PARA UNA MENTE SIN LIBRE ALBEDRIO DESPERDICIADOS",
+        "secretLevels_fourth_testament3": "MALDITO EL HOMBRE POR NO CUMPLIR MI REGLA, MI PALABRA, MI LEY",
+        "secretLevels_fourth_testament4": "CONDENADO A UNA ETERNIDAD DE TORTURA Y SUFRIMIENTO,",
+        "secretLevels_fourth_testament5": "EL LAMENTO Y EL CRUJIMIENTO DE DIENTES",
+        "secretLevels_fourth_testament6": "HE CREADO EL INFIERNO...",
+        "secretLevels_fourth_testament7": "...Y ahora ya no puedo deshacerlo",
+        
+        "secretLevels_complete1": "MISION",
+        "secretLevels_complete2": "COMPLETADA"
+    },
+	
+    "subtitles":{
+        
+        "subtitles_gabriel_intro1": "Máquina",
+        "subtitles_gabriel_intro2": "Da la vuelta ahora",
+        "subtitles_gabriel_intro3": "Los círculos de este palacio no son para los de tu tipo",
+        "subtitles_gabriel_intro4": "Vuelve atrás o estarás desafiando la voluntad de Dios",
+        "subtitles_gabriel_intro5": "Tu elección está hecha",
+        "subtitles_gabriel_intro6": "Como la justa mano del padre",
+        "subtitles_gabriel_intro7": "Te haré pedazos parte por parte",
+        "subtitles_gabriel_intro8": "Y serás inanimado una vez más",
+        "subtitles_gabriel_fightStart": "¡CONTEMPLA! EL PODER DE UN ANGEL",
+        
+        "subtitles_gabriel_taunt1": "La luz es la perfección",
+        "subtitles_gabriel_taunt2": "Desafías a la luz",
+        "subtitles_gabriel_taunt3": "Un mero objeto",
+        "subtitles_gabriel_taunt4": "Ni. Siquiera. Mortal.",
+        "subtitles_gabriel_taunt5": "Eres menos que nada",
+        "subtitles_gabriel_taunt6": "Tonterías, máquina. Tonterías.",
+        "subtitles_gabriel_taunt7": "Eres un error a corregir",
+        "subtitles_gabriel_taunt8": "Sólo puede haber luz",
+        "subtitles_gabriel_taunt9": "Una imperfección que debe ser limpiada",
+        "subtitles_gabriel_taunt10": "Tu crimen es la existencia",
+        "subtitles_gabriel_taunt11": "Haces que hasta el diablo llore",
+        "subtitles_gabriel_taunt12": "Estás acabado",
+        
+        "subtitles_gabriel_phaseChange": "¡Suficiente!",
+        
+        "subtitles_gabriel_defeated1": "Qué..?",
+        "subtitles_gabriel_defeated2": "¿Cómo es posible?",
+        "subtitles_gabriel_defeated3": "Superado por esta...",
+        "subtitles_gabriel_defeated4": "esta cosa..?",
+        "subtitles_gabriel_defeated5": "¡Tú chatarra de MIERDA insignificante!",
+        "subtitles_gabriel_defeated6": "¡ESTO NO HA TERMINADO!",
+        "subtitles_gabriel_defeated7": "Que tus males sean muchos",
+        "subtitles_gabriel_defeated8": "y tus días pocos",
+        
+        "subtitles_mandalore_intro1": "<color=#FFC49E>Finalmente, hemos resuelto el puzzle de esperar.</color>",
+        "subtitles_mandalore_intro2": "<color=#9EE6FF>¿Qué?</color>",
+        
+        "subtitles_mandalore_taunt1": "<color=#9EE6FF>Voy a envenenarte joder</color>",
+        "subtitles_mandalore_taunt2": "<color=#9EE6FF>Te voy a disparar con un arma</color>",
+        "subtitles_mandalore_taunt3": "<color=#FFC49E>Ni te imaginas a lo que te enfrentarás aquí</color>",
+        "subtitles_mandalore_taunt4": "<color=#FFC49E>Mantén la calma</color>",
+        "subtitles_mandalore_taunt5": "<color=#9EE6FF>¿Por qué estamos en el pasado?</color>",
+        
+        "subtitles_mandalore_attack1": "Automático Completo",
+        "subtitles_mandalore_attack2": "Atomáticamente Completo",
+        
+        "subtitles_mandalore_phaseChangeFirst1": "<color=#FFC49E>¡Por la magia de los druidas, aumento mi velocidad!</color>",
+        "subtitles_mandalore_phaseChangeFirst2": "<color=#9EE6FF>Golpéalo y ya</color>",
+        "subtitles_mandalore_phaseChangeSecond1": "<color=#FFC49E>¡Siente mi máxima velocidad!</color>",
+        "subtitles_mandalore_phaseChangeSecond2": "<color=#9EE6FF>Más despacio</color>",
+        "subtitles_mandalore_phaseChangeThird1": "<color=#9EE6FF>¡Usa la arena!</color>",
+        "subtitles_mandalore_phaseChangeThird2": "<color=#FFC49E>¡Estoy llegando!</color>",
+        
+        "subtitles_mandalore_defeated": "<color=#9EE6FF>Oh genial, hemos perdimos, fantástico</color>",
+        
+        "subtitles_minosPrime_intro1": "Ahh...",
+        "subtitles_minosPrime_intro2": "Libre al fin",
+        "subtitles_minosPrime_intro3": "Oh Gabriel",
+        "subtitles_minosPrime_intro4": "Ahora amanece nuestro ajuste de cuentas",
+        "subtitles_minosPrime_intro5": "y tu sangre brillará ante las sienes del hombre",
+        "subtitles_minosPrime_intro6": "Criatura de acero...",
+        "subtitles_minosPrime_intro7": "Mi gratitud hacia ti por mi libertad",
+        "subtitles_minosPrime_intro8": "pero los crímenes que vuestra especie ha cometido contra la humanidad",
+        "subtitles_minosPrime_intro9": "NO serán olvidados",
+        "subtitles_minosPrime_intro10": "Y tu castigo...",
+        "subtitles_minosPrime_intro11": "es la MUERTE",
+        
+        "subtitles_minosPrime_attack1": "¡Prepárate!",
+        "subtitles_minosPrime_attack2": "¡Tu fin es ahora!",
+        "subtitles_minosPrime_attack3": "¡Muere!",
+        "subtitles_minosPrime_attack4": "¡Te aplastare!",
+        "subtitles_minosPrime_attack5": "¡Juicio!",
+        
+        "subtitles_minosPrime_taunt1": "Inútil",
+        "subtitles_minosPrime_phaseChange": "DEBIL",
+
+        "subtitles_minosPrime_defeated1": "¡Aagh!",
+        "subtitles_minosPrime_defeated2": "Perdonenme mis hijos",
+        "subtitles_minosPrime_defeated3": "porque he fallado en traerles la salvación",
+        "subtitles_minosPrime_defeated4": "de este frío y oscuro mundo",
+        
+        "subtitles_gabrielBoat1": "No temas, pecador",
+        "subtitles_gabrielBoat2": "Tu devoción a Dios muestra bondad en ti.",
+        "subtitles_gabrielBoat3": "Abundante de hecho",
+        "subtitles_gabrielBoat4": "El corazón está dispuesto, pero el cuerpo debe descansar",
+        "subtitles_gabrielBoat5": "Para que no desperdicies una de las creaciones del Señor",
+        
+        "subtitles_gabrielHeresy1": "Máquina, sé que estás aquí",
+        "subtitles_gabrielHeresy2": "Puedo oler el hedor insolente de tus manos ensangrentadas",
+        "subtitles_gabrielHeresy3": "Te espero abajo...",
+        "subtitles_gabrielHeresy4": "VEN A MÍ",
+        
+        "subtitles_gabrielSecondIntro1": "El Limbo",
+        "subtitles_gabrielSecondIntro2": "La Lujuria",
+        "subtitles_gabrielSecondIntro3": "Todo se ha ido...",
+        "subtitles_gabrielSecondIntro4": "Con la Gula que pronto le seguirá.",
+        "subtitles_gabrielSecondIntro5": "Los de tu clase sólo conocen el hambre",
+        "subtitles_gabrielSecondIntro6": "Purgaron toda la vida en las capas superiores",
+        "subtitles_gabrielSecondIntro7": "Y sin embargo, siguen sin saciarse...",
+        "subtitles_gabrielSecondIntro8": "Al igual que tú.",
+        "subtitles_gabrielSecondIntro9": "Me lo has quitado todo, máquina",
+        "subtitles_gabrielSecondIntro10": "Y ahora todo lo que me queda es",
+        "subtitles_gabrielSecondIntro11": "EL PERFECTO",
+        "subtitles_gabrielSecondIntro12": "ODIO",
+        
+        "subtitles_gabrielSecondFight1": "Máquina",
+        "subtitles_gabrielSecondFight2": "Te voy a cortar",
+        "subtitles_gabrielSecondFight3": "Romperte en pedazos",
+        "subtitles_gabrielSecondFight4": "¡Extenderé la sangre de tu profana forma a través de las ESTRELLAS!",
+        "subtitles_gabrielSecondFight5": "¡Te aplastaré hasta que las mismas CHISPAS CLAMEN POR MISERICORDIA!",
+        "subtitles_gabrielSecondFight6": "Mis manos SE DELEITARÁN ACABANDO CONTIGO...",
+        "subtitles_gabrielSecondFight7": "AQUÍ",
+        "subtitles_gabrielSecondFight8": "Y",
+        "subtitles_gabrielSecondFight9": "¡AHORA!",
+        
+        "subtitles_gabrielSecondPhaseChange": "¿¡ES LO MEJOR QUE TIENES!?",
+        
+        "subtitles_gabrielSecondTaunt1": "NECESITAS. MÁS. ¡PODER!",
+        "subtitles_gabrielSecondTaunt2": "¡Ven a por un poco de SANGRE!",
+        "subtitles_gabrielSecondTaunt3": "¿Qué es esta SENSACIÓN?",
+        "subtitles_gabrielSecondTaunt4": "¡NADA MÁS QUE CHATARRA!",
+        "subtitles_gabrielSecondTaunt5": "¡TE ESTAS OXIDANDO MÁQUINA!",
+        "subtitles_gabrielSecondTaunt6": "¿¡PERDÍ CONTRA ESTO!?",
+        "subtitles_gabrielSecondTaunt7": "¡HORA DE CORREGIR MI ERROR!",
+        "subtitles_gabrielSecondTaunt8": "¡ARREGLEMOS ESTO!",
+        "subtitles_gabrielSecondTaunt9": "¡TE MOSTRARÉ LA JUSTICIA DIVINA!",
+        "subtitles_gabrielSecondTaunt10": "¡Vamos, máquina! ¡Lucha contra mí como un ANIMAL!",
+        "subtitles_gabrielSecondTaunt11": "¡Nunca había tenido una pelea así!",
+        "subtitles_gabrielSecondTaunt12": "¡Muéstrame para qué estás hecho!",
+        "subtitles_gabrielSecondTaunt13": "¡Esta SI que es una pelea digna de la voluntad de Dios!",
+        "subtitles_gabrielSecondTaunt14": "¡Te mostraré el VERDADERO esplendor!",
+        
+        "subtitles_gabrielSecondDefeated1": "¿¡Dos veces!?",
+        "subtitles_gabrielSecondDefeated2": "Vencido por un objeto... ¡Dos veces!",
+        "subtitles_gabrielSecondDefeated3": "Sólo he conocido el sabor de la victoria,",
+        "subtitles_gabrielSecondDefeated4": "Pero este sabor... es-",
+        "subtitles_gabrielSecondDefeated5": "¿Es esta mi sangre?",
+        "subtitles_gabrielSecondDefeated6": "Nunca he conocido tal...",
+        "subtitles_gabrielSecondDefeated7": "¿Tal… alivio…?",
+        "subtitles_gabrielSecondDefeated8": "N-Necesito un tiempo para pensar...",
+        "subtitles_gabrielSecondDefeated9": "Nos volveremos a encontrar, máquina",
+        "subtitles_gabrielSecondDefeated10": "Que tus males sean muchos...",
+        "subtitles_gabrielSecondDefeated11": "y tus días pocos."
+        
+    },
+    
+    "misc": {
+        "hud_noArm1": "<color=red>NO PUEDO GOLPEAR SI NO TENGO EL BRAZO IDIOTA</color>",
+        "hud_noArm2": "Los brazos se pueden reequipar en la tienda",
+        "hud_majorAssists": "<color=#4C99E6>LAS AYUDAS MAYORES ESTAN HABILITADAS</color>",
+        "hud_overhealOrb1": "Los <color=red>ORDES DE ALMAS ROJOS</color> dan <color=lime>200 DE VIDA</color>",
+        "hud_overhealOrb2": "Esta sobrecarga no puede regenerarse con sangre",
+        "hud_itemGrabError": "<color=red>ERROR: LA PUERTA DE BLOQUEO SE CERRARÍA</color>",
+        "hud_levelStats1": "Mantén presionada la tecla TAB para ver las estadísticas actuales al REPRODUCIR un nivel.",
+        "hud_levelStats2": "DOBLE TAP para mantenerlo abierto.",
+        "hud_outOfBounds": "Whoops, lo siento por eso.",
+        "hud_clashMode": "\"<color=orange>MODO CLASH</color>\" TRUCO DESBLOQUEADO",
+        "hud_weaponVariation": "Para <color=orange>EQUIPAR</color> las variaciones de las armas toque",
+        
+        "loading": "CARGANDO...",
+        
+		"stats_time": "TIEMPO",
+		"stats_kills": "MUERTES",
+		"stats_style": "ESTILO",
+		"stats_secrets": "SECRETOS",
+		"stats_challenge": "RETO",
+
+		"hellmap_prelude": "PRELUDIO",
+		"hellmap_limbo": "LIMBO",
+		"hellmap_lust": "LUJURIA",
+		"hellmap_gluttony": "GULA",
+		"hellmap_greed": "CODICIA",
+		"hellmap_wrath": "IRA",
+		"hellmap_heresy": "HEREJIA",
+		"hellmap_prime": "PRIME",
+
+		"hellmap_first": "PRIMERO",
+		"hellmap_second": "SEGUNDO",
+		"hellmap_third": "TERCER",
+		"hellmap_fourth": "CUARTO",
+		"hellmap_climax": "CLIMAX",
+        "hellmap_act1crescendo": "ACTO I CRESCENDO",
+        "hellmap_act1climax": "ACTO I CLIMAX",
+        "hellmap_act2crescendo": "ACTO II CRESCENDO",
+        "hellmap_act2climax": "ACTO II CLIMAX",
+        
+        "levelstats_time": "TIEMPO",
+        "levelstats_kills": "MUERTES",
+        "levelstats_style": "ESTILO",
+        "levelstats_secrets": "SECRETOS",
+        "levelstats_challenge": "RETO",
+        "levelstats_majorAssists": "AYUDAS MAYORES",
+        "levelstats_boxes": "CAJAS",
+        
+        "state_activated": "ACTIVADO",
+        "state_deactivated": "DESACTIVADO",
+        "state_yes": "SI",
+        "state_no": "NO",
+        
+        "controls_leftClick": "CLICK IZQUIERDO",
+        "controls_middleClick": "CLICK DEL MEDIO",
+        "controls_rightClick": "CLICK DERECHO",
+        
+        "endStats_cheatsUsed": "TRUCOS USADOS",
+        "endStats_assistsUsed": "AYUDAS USADAS",
+        "endStats_noRestarts": "SIN REINICIAR",
+        "endStats_restarts": "REINICIOS",
+        "endstats_noDamage": "SIN DAÑOS",
+        
+        "weapons_unavailable": "NO DISPONIBLE",
+        "weapons_alreadyBought": "YA OBTENIDO",
+        "weapons_underConstruction": "EN CONSTRUCCION",
+
+        "pressToSkip": "Toca <color=orange>ESC</color> para omitir",
+
+        "youDied1": "[ESTAS MUERTO]",
+        "youDied2": "PRESIONA [R] PARA REINICIAR",
+
+        "classicHud_health": "SALUD",
+        "classicHud_stamina": "ESTAMINA",
+        "classicHud_weapon": "ARMA",
+        "classicHud_arm": "BRAZO",
+        "classicHud_railcannonMeter": "CARGA",
+
+        "earlyAccessEnd1": "<size=48><b>GRACIAS POR JUGAR</b></size>",
+        "earlyAccessEnd2": "ACTO III: SUCIDIO DEL PUÑO DE DIOS actualmente está en desarrollo",
+        "earlyAccessEnd3": "Para noticias sobre su progreso, síganos en"
+
+	}
+}
