@@ -2,9 +2,9 @@
 	"metadata": {
 		"langName": "ES-es",
 		"langAuthor": "ESP Group",
-		"langVersion": "0.1",
+		"langVersion": "1.0",
 
-        "minimumModVersion": "0.8.3"
+        "minimumModVersion": "0.9.0"
 	},
     
 	"body": {
@@ -136,6 +136,10 @@
     },
     
     "books":{
+        "books_scanning": "ESCANEANDO...",
+        "books_pressToClose1": "PULSA",
+        "books_pressToClose2": "PARA CERRAR.",
+		
         "books_limboFourth1": "TEXTO ESCANEADO - PASAJE ÚNICO:",
         "books_limboFourth2": "... Mi mente está a la deriva con los tormentos eternos. Vistas espeluznantes pintadas en tonos insidiosos, paredes huecas que gritan al tacto. Suena una canción burlona a todas horas, incluso los sonidos de los pájaros son falsos. Todos los recordatorios de mi perdurable condenación.",
         "books_limboFourth3": "Gabriel, mi querido amigo, en penitencia sin fin he esperado tu abrazo en el Cielo. He sido tan fiel, aceptando mi destino, pero ¿con qué fin? Qué castigo es este, que voy a llevar las llaves de mi propia perdición sin esperanza de salvación... Estos cráneos se burlan con sus sonrisas diabólicas, voces parloteando, tentándome a sumergirme más profundamente en el Infierno... No lo haré.",
@@ -283,29 +287,32 @@
         "act1_intermission_insert": "INSERTAR",
         "act1_intermission_returnToMenu": "VOLVER AL MENU",
         
-        "act2_intermission_tobecontinued": "CONCLUIRÁ EN... ACTO III: <color=red><size=30>SUICIDIO DEL PUÑO DE DIOS</size></color>",
-        "act2_intermission_tobecontinuedshadow": "CONCLUIRÁ EN... ACTO III: <size=30>SUICIDIO DEL PUÑO DE DIOS</size>"
+        "act2_intermission_tobecontinued": "CONCLUIRÁ EN... ACTO III: <color=red>SUICIDIO DEL PUÑO DE DIOS</color>",
+        "act2_intermission_tobecontinuedshadow": "CONCLUIRÁ EN... ACTO III: SUICIDIO DEL PUÑO DE DIOS"
         
     },
 	"frontend": {
 		"mainmenu_earlyAccess": "ACCESO ANTICIPADO",
+        "mainmenu_halloween": "FELIZ HALLOWEEN",
+        "mainmenu_easter": "FELICES PASCUAS",
+        "mainmenu_christmas": "FELIZ NAVIDAD",
 		"mainmenu_play": "JUGAR",
 		"mainmenu_options": "OPCIONES",
 		"mainmenu_quit": "SALIR",
 
 		"difficulty_title": "DIFICULTAD",
-		"difficulty_easy": "FÁCIL",
+		"difficulty_easy": "F<size=23>Á</size>CIL",
 		"difficulty_normal": "NORMAL",
-		"difficulty_hard": "DIFÍCIL",
+		"difficulty_hard": "DIF<size=23>Í</size>CIL",
 		"difficulty_harmless": "INOFENSIVO",
 		"difficulty_lenient": "INDULGENTE",
-		"difficulty_standard": "ESTÁNDAR",
+		"difficulty_standard": "EST<size=28>Á</size>NDAR",
 		"difficulty_violent": "VIOLENTO",
 		"difficulty_brutal": "BRUTAL",
 		"difficulty_umd": "ULTRAKILL DEBE MORIR",
         
-        "difficulty_tweakReminder": "<size=16>[ LA DIFICULTAD SE PUEDE AJUSTAR TODAVÍA MÁS EN EL MENU DE OPCIONES DE ASISTENCIA ]</size>",
-        "difficulty_underConstruction": "EN CONSTRUCCIÓN",
+        "difficulty_tweakReminder": "<size=16>[ LA DIFICULTAD SE PUEDE AJUSTAR TODAVÍA MÁS EN EL MENU DE OPCIONES DE AYUDA ]</size>",
+        "difficulty_underConstruction": "EN CONSTRUCCI<size=55>Ó</size>N",
 
 		"difficulty_harmlessDescription1": "Enemigos y ataques absurdamente lentos.",
 		"difficulty_harmlessDescription2": "El daño sigue siendo alto, pero incluso una montaña podría esquivarlos.",
@@ -541,8 +548,6 @@
         "visualnovel_nihilismPrompt21": "\"Puedes curarte.\"",
         "visualnovel_nihilismPrompt22": "\"Y durante los momentos más difíciles, cuando todo parece perdido y quieres rendirte, nunca olvides...\"",
         "visualnovel_nihilismPrompt23": "\"Siempre te amaremos.\"",
-        "visualnovel_nihilismPrompt24": "\"Siempre te amaremos.\"",
-        "visualnovel_nihilismPrompt25": "\"Siempre te amaremos.\"",
         
         "visualnovel_nihilism34": "\nHuh?",
         "visualnovel_nihilism35": "\n¿Cómo podría no estarlo?",
@@ -637,9 +642,9 @@
         "controls_slot5": "RANURA 5",
 		"controls_scrollType": "DESPLAZARSE A TRAVES DEL TIPO",
 		"controls_scrollTypeWeapons": "ARMAS",
-		"controls_scrollTypeVariations": "VARIACION",
-		"controls_scrollTypeAll": "TODAS",
-		"controls_mouseWheelToChangeWeapon": "CAMBIAR ARMA CON LA RUEDA DEL MOUSE",
+		"controls_scrollTypeVariations": "VARIACIONES",
+		"controls_scrollTypeAll": "AMBAS COSAS",
+		"controls_mouseWheelToChangeWeapon": "CAMBIAR ARMAS CON LA RUEDA DEL MOUSE",
 		"controls_reverseScroll": "DIRECCION DE DESPLAZAMIENTO INVERSO",
 
 		"graphics_title": "GRAFICOS",
@@ -738,7 +743,7 @@
 
 		"assists_title": "AYUDA",
 		"assists_majorAssistsDisclaimer1": "Las Ayudas Mayores consiste en modificadores que cambian el juego y su equilibrio considerablemente.",
-		"assists_majorAssistsDisclaimer2": "Si las \"Ayudas Mayores\" están habilitadas en en cualquier momento durante una misión, el rango obtenido al completarla tendrá un fondo azul. Este fondo se puede eliminar logrando el mismo rango o superior con las \"Ayudas Mayores\" deshabilitadas durante toda la misión.",
+		"assists_majorAssistsDisclaimer2": "Si las \"Ayudas Mayores\" están habilitadas en cualquier momento durante una misión, el rango obtenido al completarla tendrá un fondo azul. Este fondo se puede eliminar logrando el mismo rango o superior con las \"Ayudas Mayores\" deshabilitadas durante toda la misión.",
 		"assists_majorAssistsDisclaimer3": "Los rangos Perfecto y los puntajes altos de Ciber Rutina no se pueden lograr con las \"Ayudas Mayores\" habilitadas.",
 		"assists_majorAssistsDisclaimerConfirm": "¿HABILITAR AYUDAS MAYORES?",
 		"assists_majorAssistsDisclaimerConfirmYes": "SI",
@@ -853,7 +858,7 @@
 		"levelName_wrathFirst": "EN EL DESPERTAR DE POSEIDON",
 		"levelName_wrathSecond": "OLAS DE UN MAR SIN ESTRELLAS",
 		"levelName_wrathThird": "BARCO DE NECIOS",
-		"levelName_wrathFourth": "LEVIATHAN",
+		"levelName_wrathFourth": "LEVIATAN",
 		"levelName_wrathSecret": "???",
         
         "levelName_heresyFirst": "LLANTO DEL LLORON",
@@ -1154,7 +1159,7 @@
 		"enemyname_insurrectionist": "INSURGENTE",
 		"enemyname_swordsmachine": "MÁQUINA DE ESPADAS",
 		"enemyname_drone": "DRON",
-		"enemyname_streetCleaner": "STREET CLEANER",
+		"enemyname_streetCleaner": "STREETCLEANER",
 		"enemyname_v2": "V2",
         "enemyname_v2Second": "V2 (2do)",
 		"enemyname_mindFlayer": "MINDFLAYER",
@@ -1501,7 +1506,14 @@
 		"tutorial_introVersion2": "ULTIMA VERSION (2112.08.06)",
 		"tutorial_introCalibration1": "CALIBRACION",
 		"tutorial_introCalibration2": "RECIENTEMENTE ACTUALIZADA",
+        "tutorial_recalibrationPrompt": "REALIZAR RECALIBRACION?",
+        "tutorial_calibrationAudio": "AUDIO",
+        "tutorial_calibrationVideo": "VIDEO",
+        "tutorial_calibrationMechanics": "MECANICAS",
+        "tutorial_calibrationComplete1": "CALIBRACION COMPLETA",
+        "tutorial_calibrationComplete2": "AJUSTES PRIMARIOS ACTUALIZADOS",
 		"tutorial_introReminder": "OPCIONES DE ASISTENCIA EN EL MENU DE PAUSA",
+        "tutorial_systemsOperational": "ALL SYSTEMS OPERATIONAL",
 		"tutorial_introLoadStatus": "CARGANDO ACTUALIZACION DE ESTADO",
 		"tutorial_introID1": "ID DE MAQUINA",
 		"tutorial_introID2": "V1",
@@ -1513,6 +1525,21 @@
 		"tutorial_introRed2": "LA SANGRE ES COMBUSTIBLE",
 		"tutorial_introRed3": "EL INFIERNO ESTA LLENO",
 
+        "tutorial_audioCalibrationTitle": "CALIBRACION MANUAL DE AUDIO",
+        "tutorial_audioCalibrationWarning1": "EL VOLUMEN MAESTRO ESTA APAGADO.",
+        "tutorial_audioCalibrationWarning2": "NO TENDRAS AUDIO.",
+        "tutorial_audioCalibrationWarning3": "¿ESTA BIEN?",
+        "tutorial_audioCalibrationWarningPromptYes": "CONTINUAR SIN SONIDO",
+        "tutorial_audioCalibrationWarningPromptNo": "CANCELAR",
+
+        "tutorial_videoCalibrationTitle": "CALIBRACION MANUAL DE VIDEO:",
+        "tutorial_videoCalibrationPcDescription": "SUAVE, CLARO, FACIL DE LEER",
+        "tutorial_videoCalibrationPsxDescription": "ASPERO, PIXELEADO, DEFORMADO",
+
+        "tutorial_controllerCalibrationTitle": "MANDO DETECTADO",
+        "tutorial_controllerCalibrationSubtitle": "<color=#4C99E6>APUNTE AUTOMATICO</color> RECOMENDADO",
+        "tutorial_controllerCalibrationTooltip": "APUNTE AUTOMATICO TAMBIEN SE PUEDE MODIFICAR EN EL MENU DE <color=#4C99E6>AYUDA</color>",
+		
 		"tutorial_punch1": "Presiona",
 		"tutorial_punch2": "para <color=orange>GOLPEAR</color>.",
 		"tutorial_slide1": "Manten",
@@ -1532,6 +1559,7 @@
 	"prelude":{
 		"prelude_first_openingCredits1": "<color=orange>NEW BLOOD</color> PRESENTA",
 		"prelude_first_openingCredits2": "UN <color=orange>JUEGO</color> POR ARSI '<color=orange>HAKITA</color>' PATALA",
+        "prelude_first_pipeClip": "\"CLIP DE TUBERIAS VIVE.\"$T. HAKITA",
 		"prelude_first_revolverPierce1": "<color=cyan>REVOLVER</color>: Manten",
 		"prelude_first_revolverPierce2": "esto carga un disparo <color=orange>PERFORADOR</color>.",
 		"prelude_first_parry": "<color=orange>GOLPEA</color> un <color=orange>PROYECTIL</color> en el tiempo preciso para <color=orange>DEVOLVERLO</color>.",
@@ -1543,6 +1571,7 @@
 		"prelude_first_groundSlam2": "inflige daño con un golpe directo.",
 
 		"prelude_second_shop": "Usa tus <color=orange>PUNTOS</color> en la <color=orange>TIENDA</color> al inicio de cada nivel para nuevas armas.",
+        "prelude_second_doorClip": "\"WHAT'S UPDOOR?\"$T. HAKITA",
 		"prelude_second_changeEquipped": "Para <color=orange>EQUIPAR</color> las variaciones toque",
 
 		"prelude_third_needShotgun": "<color=red>PODER DE FUEGO INSUFICIENTE</color>",
@@ -1826,7 +1855,7 @@
 		"stats_kills": "MUERTES",
 		"stats_style": "ESTILO",
 		"stats_secrets": "SECRETOS",
-		"stats_challenge": "RETO",
+		"stats_challenge": "DESAFIO",
 
 		"hellmap_prelude": "PRELUDIO",
 		"hellmap_limbo": "LIMBO",
@@ -1851,7 +1880,7 @@
         "levelstats_kills": "MUERTES",
         "levelstats_style": "ESTILO",
         "levelstats_secrets": "SECRETOS",
-        "levelstats_challenge": "RETO",
+        "levelstats_challenge": "DESAFIO",
         "levelstats_majorAssists": "AYUDAS MAYORES",
         "levelstats_boxes": "CAJAS",
         
