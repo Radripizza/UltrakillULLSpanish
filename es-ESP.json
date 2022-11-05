@@ -1050,7 +1050,7 @@
         
         "shop_armWhiplash": "GANCHO",
         "shop_armWhiplashDescription1": "Un cabrestante con lanza.",
-        "shop_armWhiplashDescription2": "<color=orange>Mantén</color> para tirarlo, <color=orange>suéltado</color> para jalarlo.\n\nPuedes tirar de los enemigos y articulos de la luz, iras hacia los enemigos pesados.",
+        "shop_armWhiplashDescription2": "<color=orange>Mantén</color> para tirarlo, <color=orange>suéltalo</color> para jalarlo.\n\nPuedes tirar de los enemigos y articulos de la luz, iras hacia los enemigos pesados.",
         
         "shop_data": "DATOS",
         "shop_strategy": "ESTRATEGIA",
@@ -1507,7 +1507,7 @@
 		"tutorial_introVersion2": "ULTIMA VERSIÓN (2112.08.06)",
 		"tutorial_introCalibration1": "CALIBRACIÓN",
 		"tutorial_introCalibration2": "RECIENTEMENTE ACTUALIZADA",
-        "tutorial_recalibrationPrompt": "¿REALIZAR RECALIBRACIÓN",
+        "tutorial_recalibrationPrompt": "¿REALIZAR RECALIBRACIÓN?",
         "tutorial_calibrationAudio": "AUDIO",
         "tutorial_calibrationVideo": "VIDEO",
         "tutorial_calibrationMechanics": "MECÁNICAS",
@@ -1515,7 +1515,7 @@
         "tutorial_calibrationComplete2": "AJUSTES PRIMARIOS ACTUALIZADOS",
 		"tutorial_introReminder": "OPCIONES DE ASISTENCIA EN EL MENÚ DE PAUSA",
         "tutorial_systemsOperational": "TODOS LOS SISTEMAS OPERANDO",
-		"tutorial_introLoadStatus": "CARGANDO ACTUALIZACION DE ESTADO",
+		"tutorial_introLoadStatus": "CARGANDO ACTUALIZACIÓN DE ESTADO",
 		"tutorial_introID1": "ID DE MÁQUINA",
 		"tutorial_introID2": "V1",
 		"tutorial_introLocation1": "UBICACIÓN",
@@ -1528,7 +1528,7 @@
 
         "tutorial_audioCalibrationTitle": "CALIBRACIÓN MANUAL DE AUDIO",
         "tutorial_audioCalibrationWarning1": "EL VOLUMEN ESTÁ SILENCIADO.",
-        "tutorial_audioCalibrationWarning2": "NO TENDRAS AUDIO.",
+        "tutorial_audioCalibrationWarning2": "NO TENDRÁS AUDIO.",
         "tutorial_audioCalibrationWarning3": "¿ESTÁ BIEN?",
         "tutorial_audioCalibrationWarningPromptYes": "CONTINUAR SIN SONIDO",
         "tutorial_audioCalibrationWarningPromptNo": "CANCELAR",
@@ -1622,7 +1622,7 @@
 
 		"act2_greedFourth_v2": "No te escaparás esta vez.",
 		"act2_greedFourth_whiplash1": "<color=lime>GANCHO</color>: Mantén",
-		"act2_greedFourth_whiplash2": "para tirar el gancho, suéltado para ir",
+		"act2_greedFourth_whiplash2": "para tirar el gancho, suéltalo para ir",
 		"act2_greedFourth_whiplash3": "<color=lime>GANCHO</color>: Atrae a los enemigos <color=orange>LIGEROS</color> hacia ti, engánchate a los enemigos <color=orange>PESADOS</color>.",
         
         "act2_greedFourth_whiplashHardDamage1": "<size=23><color=lime>GANCHO</color>: Acumula la <color=silver>CICATRIZ</color> cuando se usa en <color=orange>ENEMIGOS</color>.</size>",
@@ -1665,7 +1665,7 @@
         "primeSanctum_first_secretText9": "FIN DE LOS DATOS 01. Para más información , ver <color=red>[LINK BORRADO]</color> y <color=red>[LINK BORRADO]</color></size>."     
     },
     "secretLevels":{
-        "secretLevels_prelude_somethingWicked": "Algo malvado viene por aquí.",
+        "secretLevels_prelude_somethingWicked": "Algo malo viene en camino.",
         
         "secretLevels_prelude_testament1": "LA HUMANIDAD ES UN FRACASO.",
         "secretLevels_prelude_testament2": "EL LIBRE ALBEDRIO ES UN DEFECTO.",
