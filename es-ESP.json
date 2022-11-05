@@ -311,7 +311,7 @@
 		"difficulty_brutal": "BRUTAL",
 		"difficulty_umd": "ULTRAKILL DEBE MORIR",
         
-        "difficulty_tweakReminder": "<size=16>[ LA DIFICULTAD SE PUEDE AJUSTAR TODAVÍA MÁS EN EL MENU DE OPCIONES DE AYUDA ]</size>",
+        "difficulty_tweakReminder": "<size=16>[ LA DIFICULTAD SE PUEDE AJUSTAR TODAVÍA MÁS EN EL MENÚ DE OPCIONES DE AYUDA ]</size>",
         "difficulty_underConstruction": "EN CONSTRUCCI<size=55>Ó</size>N",
 
 		"difficulty_harmlessDescription1": "Enemigos y ataques absurdamente lentos.",
@@ -346,10 +346,10 @@
 		"layer_heresy": "CIRCULO 6: HEREJÍA",
 		"layer_prime": "SANTUARIOS PRIME",
 
-        "level_challenge": "DESAFIO",
+        "level_challenge": "DESAFÍO",
 		"level_challengeCompleted": "COMPLETO",
 
-        "level_fullIntroPrompt": "INTRO COMPLETA?",
+        "level_fullIntroPrompt": "INTRO\n COMPLETA?",
         "level_fullIntroPromptYes": "SI",
         "level_fullIntroPromptNo": "NO",
         "level_fullIntroPromptCancel": "CANCELAR"
@@ -397,7 +397,7 @@
         "visualnovel_fallenPromptSecond3": "\"Disculpa, mi error.\"",
         
         "visualnovel_fallenResponseFourth": "\nBien bien.",
-        "visualnovel_fallenResponseFifth": "UGH.",
+		"visualnovel_fallenResponseFifth": "UGH.",
        
        
         "visualnovel_kindFirst1": "\n*Suspiro*",
@@ -614,7 +614,7 @@
 		"general_rememberWeapon": "RECUERDA LA ULTIMA VARIACIÓN DE ARMAS",
 		"general_screenShake": "TEMBLOR DE PANTALLA",
 		"general_cameraTilt": "INCLINACION DE LA CAMARA",
-        "general_restartWarning": "<size=11>MENSAJE DE REINICIO/SALIR DE LA MISION</size>",
+        "general_restartWarning": "<size=11>MENSAJE DE REINICIO/SALIR DE LA MISIÓN</size>",
 		"general_discordRpc": "INTEGRACION A DISCORD",
 		"general_seasonalEvent": "EVENTOS DE TEMPORADA",
 
@@ -655,7 +655,7 @@
 		"graphics_maxFpsNone": "NINGUNO",
 		"graphics_maxFps2x": "TASA DE REFRESCO X2",
 		"graphics_vsync": "SINCRONIZACION VERTICAL",
-		"graphics_filters": "CONFIGURACION PSX",
+		"graphics_filters": "CONFIGURACIÓN PSX",
 		"graphics_filtersDescription": "(Baje el tono para una mayor claridad visual)",
 		"graphics_pixelisation": "BAJA ESCALA",
 		"graphics_pixelisationNone": "APAGADO",
@@ -706,7 +706,7 @@
 		"hud_typeNone": "NINGUNO",
 		"hud_typeStandard": "ESTÁNDAR",
 		"hud_typeClassicColor": "COLOR CLÁSICO",
-		"hud_typeClassicWhite": "BLANCO CLASICO",
+		"hud_typeClassicWhite": "BLANCO CLÁSICO",
 		"hud_hudElements": "ELEMENTOS DE HUD",
 		"hud_backgroundOpacity": "OPACIDAD DE FONDO",
 		"hud_alwaysOnTop": "TRASPASAR HUD",
@@ -862,7 +862,7 @@
 		"levelName_wrathFourth": "LEVIATÁN",
 		"levelName_wrathSecret": "???",
         
-        	"levelName_heresyFirst": "LLANTO DEL LLORÓN",
+        "levelName_heresyFirst": "LLANTO DEL LLORÓN",
 		"levelName_heresySecond": "ESTÉTICAS DEL ODIO",
 
 		"levelName_primeFirst": "ESPÍRITU DE SUPERVIVIENTE",
@@ -896,12 +896,12 @@
 		"challenges_greedThird": "NO RECOJAS LA ANTORCHA",
 		"challenges_greedFourth": "LLEGA A V2 EN MENOS DE 18 SEGUNDOS",
         
-        	"challenges_wrathFirst": "NO TOQUES EL AGUA",
+        "challenges_wrathFirst": "NO TOQUES EL AGUA",
 		"challenges_wrathSecond": "NO LUCHES CONTRA EL BARQUERO",
 		"challenges_wrathThird": "NO TOQUES EL AGUA",
 		"challenges_wrathFourth": "LLEGA A LA SUPERFICIE EN MENOS DE 10 SEGUNDOS",
         
-        	"challenges_heresyFirst": "GANA EL ENCUENTRO SECRETO",
+        "challenges_heresyFirst": "GANA EL ENCUENTRO SECRETO",
 		"challenges_heresySecond": "GOLPEA A GABRIEL CONTRA EL TECHO"
 
 	},
@@ -930,7 +930,7 @@
 		"leveltips_lustFirst": "Los enemigos <color=orange>gritan</color> cuando caen desde una altura <color=orange>fatal</color>.",
 
 		"leveltips_lustSecond1": "<color=orange>REBOTE DE SLAM</color>:",
-		"leveltips_lustSecond2": "salta inmediatamente después de aterrizar de un <color=orange>PISOTON</color> para saltar más alto.",
+		"leveltips_lustSecond2": "salta inmediatamente después de aterrizar de un <color=orange>PISOTÓN</color> para saltar más alto.",
 		"leveltips_lustSecond3": "Cuanto más largo sea el golpe en el suelo, mayor será el rebote.",
 
 		"leveltips_lustThird": "Todas las variaciones del <color=orange>RAILCANNON</color> comparten el mismo tiempo de reutilización. Elija sabiamente qué variación se adapta mejor a la situación.",
@@ -948,7 +948,7 @@
 		"leveltips_greedThird": "Golpear a un enemigo con solo el <color=orange>borde</color> de una <color=orange>explosión</color> lo lanzará sin causar mucho daño, lo que lo convierte en una herramienta arriesgada pero efectiva contra los <color=orange>Stalkers</color>.",
 		"leveltips_greedFourth": "Las <color=orange>monedas</color> aéreas se pueden disparar con cualquier arma <color=orange>hitscan</color>.",
         
-        "leveltips_wrathFirst": "La caída <color=orange>bajo el agua</color> es lenta, pero un <color=orange>PISOTON</color> permite volver rápidamente al suelo.",
+        "leveltips_wrathFirst": "La caída <color=orange>bajo el agua</color> es lenta, pero un <color=orange>PISOTÓN</color> permite volver rápidamente al suelo.",
         "leveltips_wrathSecond": "Al <color=orange>deslizarse</color> sobre el agua, <color=orange>se salta</color> sobre su superficie.",
         "leveltips_wrathThird": "Si un enemigo es <color=orange>bendecido</color> por un <color=orange>ídolo</color>, se forma una conexión visible directa entre ambos, lo que permite <color=orange>localizar</color> y destruir fácilmente al protector.",
         "leveltips_wrathFourth1": "Las <color=orange>explosiones</color> desvían <color=orange>proyectiles</color>.",
@@ -998,7 +998,7 @@
         "shop_weaponsArms": "BRAZOS",
         
         "shop_revolverPiercer": "PIERCER",
-        "shop_revolverPiercerDescription1": "<color=orange>Manten</color> Fuego Alt para cargar un <color=orange>Un rayo de 3 golpes</color>.",
+        "shop_revolverPiercerDescription1": "<color=orange>Mantén</color> Fuego Alt para cargar un <color=orange>Un rayo de 3 golpes</color>.",
         "shop_revolverPiercerDescription2": "Requiere <color=orange>enfriarse</color>.",
         
         "shop_revolverMarksman": "MARKSMAN",
@@ -1008,7 +1008,7 @@
         
         "shop_shotgunCoreEject": "CORE EJECT",
         "shop_shotgunCoreEjectDescription1": "Toque Fuego Alt para cargar y <color=orange>lanzar</color> el <color=orange>nucleo</color> de escopeta.",
-        "shop_shotgunCoreEjectDescription2": "<color=orange>Manten</color> para cargar a <color=orange>distancia</color>.",
+        "shop_shotgunCoreEjectDescription2": "<color=orange>Mantén</color> para cargar a <color=orange>distancia</color>.",
         "shop_shotgunCoreEjectDescription3": "<color=orange>Explota</color> en el impacto.",
         
         "shop_shotgunPumpCharge": "PUMP CHARGE",
@@ -1046,11 +1046,11 @@
         
         "shop_armKnuckleblaster": "KNUCKLEBLASTER",
         "shop_armKnuckleblasterDescription1": "Puño lento con alto daño y retroceso.",
-        "shop_armKnuckleblasterDescription2": "<color=orange>Manten el puño</color> para hacer estallar proyectiles dentro de los nudillos, causando una <color=orange>onda de choque</color> que empuja a los enemigos.",
+        "shop_armKnuckleblasterDescription2": "<color=orange>Mantén el puño</color> para hacer estallar proyectiles dentro de los nudillos, causando una <color=orange>onda de choque</color> que empuja a los enemigos.",
         
         "shop_armWhiplash": "GANCHO",
         "shop_armWhiplashDescription1": "Un cabrestante con lanza.",
-        "shop_armWhiplashDescription2": "<color=orange>Manten</color> para tirarlo, <color=orange>sueltalo</color> para jalarlo.\n\nPuedes tirar de los enemigos y articulos de la luz, iras hacia los enemigos pesados.",
+        "shop_armWhiplashDescription2": "<color=orange>Mantén</color> para tirarlo, <color=orange>suéltado</color> para jalarlo.\n\nPuedes tirar de los enemigos y articulos de la luz, iras hacia los enemigos pesados.",
         
         "shop_data": "DATOS",
         "shop_strategy": "ESTRATEGIA",
@@ -1119,7 +1119,7 @@
         "shop_revolverPreset5": "OPTIMISTA",
 
         "shop_shotgunPreset1": "ESTÁNDAR",
-        "shop_shotgunPreset2": "CLASICO",
+        "shop_shotgunPreset2": "CLÁSICO",
         "shop_shotgunPreset3": "PALACIO",
         "shop_shotgunPreset4": "CARAMELO",
         "shop_shotgunPreset5": "LUJO",
@@ -1199,9 +1199,9 @@
         "enemyname_type_greaterDemon": "TIPO: DEMONIO MAYOR",
         "enemyname_type_supremeDemon": "TIPO: DEMONIO SUPREMO",
         
-        "enemyname_type_lesserMachine": "TIPO: MAQUINA MENOR",
-        "enemyname_type_greaterMachine": "TIPO: MAQUINA MAYOR",
-        "enemyname_type_supremeMachine": "TIPO: MAQUINA SUPREMA",
+        "enemyname_type_lesserMachine": "TIPO: MÁQUINA MENOR",
+        "enemyname_type_greaterMachine": "TIPO: MÁQUINA MAYOR",
+        "enemyname_type_supremeMachine": "TIPO: MÁQUINA SUPREMA",
         
         "enemyname_type_lesserAngel": "TIPO: ÁNGEL MENOR",
         "enemyname_type_greaterAngel": "TIPO: ÁNGEL MAYOR",
@@ -1507,7 +1507,7 @@
 		"tutorial_introVersion2": "ULTIMA VERSIÓN (2112.08.06)",
 		"tutorial_introCalibration1": "CALIBRACIÓN",
 		"tutorial_introCalibration2": "RECIENTEMENTE ACTUALIZADA",
-        "tutorial_recalibrationPrompt": "¿REALIZAR RECALIBRACIÓN?",
+        "tutorial_recalibrationPrompt": "¿REALIZAR RECALIBRACIÓN",
         "tutorial_calibrationAudio": "AUDIO",
         "tutorial_calibrationVideo": "VIDEO",
         "tutorial_calibrationMechanics": "MECÁNICAS",
@@ -1515,8 +1515,8 @@
         "tutorial_calibrationComplete2": "AJUSTES PRIMARIOS ACTUALIZADOS",
 		"tutorial_introReminder": "OPCIONES DE ASISTENCIA EN EL MENÚ DE PAUSA",
         "tutorial_systemsOperational": "TODOS LOS SISTEMAS OPERANDO",
-		"tutorial_introLoadStatus": "CARGANDO ACTUALIZACIÓN DE ESTADO",
-		"tutorial_introID1": "ID DE MAQUINA",
+		"tutorial_introLoadStatus": "CARGANDO ACTUALIZACION DE ESTADO",
+		"tutorial_introID1": "ID DE MÁQUINA",
 		"tutorial_introID2": "V1",
 		"tutorial_introLocation1": "UBICACIÓN",
 		"tutorial_introLocation2": "CERCA DEL INFIERNO",
@@ -1528,17 +1528,17 @@
 
         "tutorial_audioCalibrationTitle": "CALIBRACIÓN MANUAL DE AUDIO",
         "tutorial_audioCalibrationWarning1": "EL VOLUMEN ESTÁ SILENCIADO.",
-        "tutorial_audioCalibrationWarning2": "NO TENDRÁS AUDIO.",
+        "tutorial_audioCalibrationWarning2": "NO TENDRAS AUDIO.",
         "tutorial_audioCalibrationWarning3": "¿ESTÁ BIEN?",
         "tutorial_audioCalibrationWarningPromptYes": "CONTINUAR SIN SONIDO",
         "tutorial_audioCalibrationWarningPromptNo": "CANCELAR",
 
-        "tutorial_videoCalibrationTitle": "CALIBRACIÓN MANUAL DE VIDEO:",
+        "tutorial_videoCalibrationTitle": "CALIBRACIÓN MANUAL DE VIDEO",
         "tutorial_videoCalibrationPcDescription": "SUAVE, CLARO, FÁCIL DE LEER",
         "tutorial_videoCalibrationPsxDescription": "ÁSPERO, PIXELADO, DEFORMADO",
 
         "tutorial_controllerCalibrationTitle": "MANDO DETECTADO",
-        "tutorial_controllerCalibrationSubtitle": "<color=#4C99E6>APUNTE AUTOMATICO</color> RECOMENDADO",
+        "tutorial_controllerCalibrationSubtitle": "<color=#4C99E6>APUNTE AUTOMÁTICO</color> RECOMENDADO",
         "tutorial_controllerCalibrationTooltip": "EL APUNTE AUTOMÁTICO TAMBIÉN SE PUEDE MODIFICAR EN EL MENÚ DE <color=#4C99E6>AYUDA</color>",
 		
 		"tutorial_punch1": "Presiona",
@@ -1550,9 +1550,9 @@
 		"tutorial_dash3": "Se puede hacer en el aire.",
 		"tutorial_health1": "Haz daño a corta distancia para empaparte de \n<color=red>SANGRE FRESCA</color>.",
 		"tutorial_health2": "<color=red>ESTA ES LA ÚNICA FORMA DE RECUPERAR LA SALUD</color>.",
-		"tutorial_walljump": "<color=orange>SALTA</color> cerca de una <color=orange>PARED</color> para hacer un <color=orange>Salto de pared</color>.\n(Max. 3 veces)",
+		"tutorial_walljump": "<color=orange>SALTA</color> cerca de una <color=orange>PARED</color> para hacer un <color=orange>SALTO DE PARED</color>.\n(Max. 3 veces)",
 		"tutorial_shockwave1": "Presiona",
-		"tutorial_shockwave2": "en el aire para hacer un <color=orange>PISOTON</color>.",
+		"tutorial_shockwave2": "en el aire para hacer un <color=orange>PISOTÓN</color>.",
 		"tutorial_shockwave3": "Mantén para hacer una <color=orange>ONDA DE CHOQUE</color>. (Consume <color=#00DFFF>2 DE ESTAMINA</color>)",
 		"tutorial_orb1": "La mayoría de los niveles tienen\n<color=cyan>ORBES DE ALMAS SECRETOS</color>.",
 		"tutorial_orb2": "Tócalos para obtener un <color=orange>BONO DE PUNTOS</color>."
@@ -1622,7 +1622,7 @@
 
 		"act2_greedFourth_v2": "No te escaparás esta vez.",
 		"act2_greedFourth_whiplash1": "<color=lime>GANCHO</color>: Mantén",
-		"act2_greedFourth_whiplash2": "para tirar el gancho, suéltalo para ir",
+		"act2_greedFourth_whiplash2": "para tirar el gancho, suéltado para ir",
 		"act2_greedFourth_whiplash3": "<color=lime>GANCHO</color>: Atrae a los enemigos <color=orange>LIGEROS</color> hacia ti, engánchate a los enemigos <color=orange>PESADOS</color>.",
         
         "act2_greedFourth_whiplashHardDamage1": "<size=23><color=lime>GANCHO</color>: Acumula la <color=silver>CICATRIZ</color> cuando se usa en <color=orange>ENEMIGOS</color>.</size>",
@@ -1647,7 +1647,7 @@
         "act2_wrathSecond_jakito3": "<color=red>GRACIAS. AHORA DESTRUIRÉ ESTE MUNDO.</color>",
         
         "act2_wrathThird_rocketLauncher": "<color=cyan>LANZACOHETES</color>: Golpes <color=orange>DIRECTOS</color> causan <color=orange>EXPLOCIONES</color>.\nLos golpes indirectos lanzarán enemigos.",
-        "act2_wrathThird_rocketLauncherMidair": "<color=cyan>LANZACOHETES</color>: los impactos directos sobre enemigos <color=orange>CAYENDO</color> provocarán una explosión <color=orange>MAS FUERTE</color>.",
+        "act2_wrathThird_rocketLauncherMidair": "<color=cyan>LANZACOHETES</color>: los impactos directos sobre enemigos <color=orange>CAYENDO</color> provocarán una explosión <color=orange>MÁS FUERTE</color>.",
         "act2_wrathThird_soldierBlock": "Los soldados <color=orange>NO PUEDEN</color> bloquear explosiones mientras están en el <color=orange>AIRE</color>.\nDispara un cohete <color=orange>CERCA</color> de ellos para lanzarlos.",
         "act2_wrathThird_hank": "No pasa nada, pero estás seguro de que Hank Jr. y sus Hankcestros lo agradecerían... si no estuvieran muertos.",
         
@@ -1665,7 +1665,7 @@
         "primeSanctum_first_secretText9": "FIN DE LOS DATOS 01. Para más información , ver <color=red>[LINK BORRADO]</color> y <color=red>[LINK BORRADO]</color></size>."     
     },
     "secretLevels":{
-        "secretLevels_prelude_somethingWicked": "Algo malo viene por aquí.",
+        "secretLevels_prelude_somethingWicked": "Algo malvado viene por aquí.",
         
         "secretLevels_prelude_testament1": "LA HUMANIDAD ES UN FRACASO.",
         "secretLevels_prelude_testament2": "EL LIBRE ALBEDRIO ES UN DEFECTO.",
@@ -1699,7 +1699,7 @@
         "subtitles_gabriel_intro6": "Como la justa mano del padre",
         "subtitles_gabriel_intro7": "Te haré pedazos parte por parte",
         "subtitles_gabriel_intro8": "Y te volverás inanimado una vez más",
-        "subtitles_gabriel_fightStart": "¡CONTEMPLA! EL PODER DE UN ANGEL",
+        "subtitles_gabriel_fightStart": "¡CONTEMPLA! EL PODER DE UN ÁNGEL",
         
         "subtitles_gabriel_taunt1": "La luz es la perfección",
         "subtitles_gabriel_taunt2": "Desafías a la luz",
@@ -1762,7 +1762,7 @@
         "subtitles_minosPrime_attack2": "¡Tu final está aquí!",
         "subtitles_minosPrime_attack3": "¡Muere!",
         "subtitles_minosPrime_attack4": "¡Te aplastaré!",
-        "subtitles_minosPrime_attack5": "¡Justicio!",
+        "subtitles_minosPrime_attack5": "¡Justicia!",
         
         "subtitles_minosPrime_taunt1": "Inútil",
         "subtitles_minosPrime_phaseChange": "DÉBIL",
@@ -1856,7 +1856,7 @@
 		"stats_kills": "MUERTES",
 		"stats_style": "ESTILO",
 		"stats_secrets": "SECRETOS",
-		"stats_challenge": "DESAFIO",
+		"stats_challenge": "DESAFÍO",
 
 		"hellmap_prelude": "PRELUDIO",
 		"hellmap_limbo": "LIMBO",
@@ -1869,7 +1869,7 @@
 
 		"hellmap_first": "PRIMERO",
 		"hellmap_second": "SEGUNDO",
-		"hellmap_third": "TERCER",
+		"hellmap_third": "TERCERO",
 		"hellmap_fourth": "CUARTO",
 		"hellmap_climax": "CLIMAX",
         "hellmap_act1crescendo": "ACTO I CRESCENDO",
