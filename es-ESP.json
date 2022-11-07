@@ -20,7 +20,7 @@
         "style_bigkill": "GRAN MUERTE",
         "style_bigfistkill": "GRAN GOLPE",
         "style_bipolar": "BIPOLAR",
-        "style_cannonballed": "BOLA DE CAÑON",
+        "style_cannonballed": "BOLA DE CAÑÓN",
         "style_catapaulted": "CATAPULTADO",
         "style_chargeback": "CONTRACARGA",
         "style_compressed": "COMPRMIDO",
@@ -32,7 +32,7 @@
         "style_exploded": "EXPLOTADO",
         "style_finishedoff": "ACABADO",
         "style_fireworks": "FUEGOS ARTIFICIALES",
-        "style_fistfulofdollar": "GOLPE DE DOLAR",
+        "style_fistfulofdollar": "PUÑADO DE DÓLAR",
         "style_fried": "FRITO",
         "style_friendlyfire": "FUEGO AMIGO",
         "style_groundslam": "PISOTÓN",
@@ -141,7 +141,7 @@
         "books_pressToClose2": "PARA CERRAR.",
 		
         "books_limboFourth1": "TEXTO ESCANEADO - PASAJE ÚNICO:",
-        "books_limboFourth2": "... Mi mente está a la deriva con los tormentos eternos. Vistas espeluznantes pintadas en tonos insidiosos, paredes huecas que gritan al tacto. Suena una canción burlona a todas horas, incluso los sonidos de los pájaros son falsos. Todos los recordatorios de mi perdurable condenación.",
+        "books_limboFourth2": "... Mi mente está a la deriva con los eternos tormentos. Vistas espeluznantes pintadas en tonos insidiosos, paredes huecas que gritan al tacto. Suena una canción burlona a todas horas, incluso los sonidos de los pájaros son falsos. Todos los recordatorios de mi perdurable condenación.",
         "books_limboFourth3": "Gabriel, mi querido amigo, en penitencia sin fin he esperado tu abrazo en el Cielo. He sido tan fiel, aceptando mi destino, pero ¿con qué fin? Qué castigo es este, que voy a llevar las llaves de mi propia perdición sin esperanza de salvación... Estos cráneos se burlan con sus sonrisas diabólicas, voces parloteando, tentándome a sumergirme más profundamente en el Infierno... No lo haré.",
         "books_limboFourth4": "Los he escondido entre los muebles, los libros y los mismos cimientos de este maldito lugar. Perdóname Gabriel, esperaré tu...",
         "books_limboFourth5": "TEXTO RESTANTE: IRRELEVANTE.",
@@ -203,9 +203,9 @@
         
         "act1_intermission_third1": "Mientras la Luz era arrancada de su ser, los gritos de Gabriel se silenciaron en el silbido del evangelio en alabanza a Dios.",
         "act1_intermission_third2": "Una angustia hirviente a la que ni siquiera los fuegos del infierno podrían compararse.",
-        "act1_intermission_third3": "A través de las llamas del tormento se forjó de nuevo un único odio ardiente.",
+        "act1_intermission_third3": "A través de las llamas del tormento se forjó un único odio ardiente.",
         "act1_intermission_third4": "Si las máquinas buscan sangre, él la daría gratis;",
-        "act1_intermission_third5": "y con tal furia, que hasta el metal sangrará.",
+        "act1_intermission_third5": "y con tal furia, hasta el metal sangrará.",
 
         "act2_intermission_first1": "Silencio.",
         "act2_intermission_first2": "Introspección.",
@@ -223,19 +223,19 @@
         "act2_intermission_second1": "El supuesto Consejo de \"el pueblo\" que se jactaba de un Dios que no estaba.",
         "act2_intermission_second2": "Desaparecido.",
         "act2_intermission_second3": "Desvanecido.",
-        "act2_intermission_second4": "El Concilio todavía persiguió la luz del fuego de Dios, su memoria de sus palabras y voluntad creció torcida y torcida, y el resto de las masas sin rumbo del Cielo siguen sus pasos.",
+        "act2_intermission_second4": "El Consejo todavía persiguió la luz del fuego de Dios, su memoria de sus palabras y voluntad creció torcida y torcida, y el resto de las masas sin rumbo del Cielo siguen sus pasos.",
         "act2_intermission_second5": "Los ángeles aún actúan en el nombre del Padre, pero su reino ha cambiado.",
         
         "act2_intermission_second6": "Ahora el fuego se estaba extinguiendo, chisporroteando mientras el calor no lograba apoderarse de él.",
         "act2_intermission_second7": "Gabriel miró las brasas con perfecta claridad.",
         "act2_intermission_second8": "Sacó su espada y la sostuvo en contraste con la luz moribunda.",
         
-        "act2_intermission_second9": "En su reflejo vio un arma renacer, ya no empuñada por la voluntad de otro, sino por la suya propia.",
+        "act2_intermission_second9": "En su reflejo vió un arma renacer, ya no empuñada por la voluntad de otro, sino por la suya propia.",
         "act2_intermission_second10": "Él sabía que las palabras por sí solas nunca influirían en las masas.",
         "act2_intermission_second11": "Eligió hacer algo drástico.",
         
         "act2_intermission_third1": "La muerte tiñe el auditorio.",
-        "act2_intermission_third2": "Los cadáveres tirados del alguna vez poderoso consejo ahora esparcidos contra sus superficies, sus últimos respiros de vida goteando por la hoja disidente de la espada de Gabriel.",
+        "act2_intermission_third2": "Los cadáveres esparcidos del alguna vez poderoso consejo ahora yacen contra sus superficies, sus últimos respiros de vida goteando por la hoja disidente de la espada de Gabriel.",
         
         "act2_intermission_third3": "El último consejero, ahora apoyado contra una pared, busca las palabras entre respiraciones aterrorizadas mientras la muerte se acerca con pasos medidos.",
         "act2_intermission_third4": "\"¡E-Espera!",
@@ -252,7 +252,7 @@
         "act2_intermission_fourth3": "\"Las masas solo te siguen por miedo y desesperación.",
         "act2_intermission_fourth4": "Les mostraré que no hay nada que temer, porque no hay especie ni origen, rango investido o estatus sagrado que detenga el filo de una espada.",
         
-        "act2_intermission_fourth5": "Todos sangramos la misma sangre, y los cojines de tus tronos te han hecho débil e impotente.\"",
+        "act2_intermission_fourth5": "Todos sangramos la misma sangre, y los cojines de vuestros tronos os han hecho débil e impotente.\"",
         
         "act2_intermission_fourth6": "\"P-Por favor, Gabriel, ¡entra en razón!",
         "act2_intermission_fourth7": "¡El consejo sigue la voluntad del Padre!",
@@ -283,7 +283,7 @@
         "act1_intermission_tobecontinuedshadow": "CONTINUARÁ EN... ACTO II: ODIO IMPERFECTO",
         
         "act1_intermission_endof": "FIN DEL ACTO I",
-        "act1_intermission_insertAct2": "INSERTE EL DISCO 2 PARA EL ACTO II: ODIO IMPERFECTO",
+        "act1_intermission_insertAct2": "INSERTE EL DISCO 2 PARA JUGAR EL ACTO II: ODIO IMPERFECTO",
         "act1_intermission_insert": "INSERTAR",
         "act1_intermission_returnToMenu": "VOLVER AL MENÚ",
         
