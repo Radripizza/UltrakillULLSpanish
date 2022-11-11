@@ -1370,20 +1370,20 @@
         "enemyBios_swordsmachine_strategy2": "Su espada motorizada hace que los ataques sean predecibles, lo que convierte a Swordsmachine en un excelente objetivo para reflejarlos.",
         "enemyBios_swordsmachine_strategy3": "Aunque su uso de armas a distancia es primitivo en el mejor de los casos, sus lanzamientos de espada pueden ser inesperadamente precisos gracias a su dominio del arma.",
         
-        "enemyBios_drone_1": "A mass-produced security device built as both a surveillance camera and a security guard.",
-        "enemyBios_drone_2": "Though originally built to only use non-lethal ammunition, they have scavenged parts from the defunct machines on the surface for greater efficiency at collecting blood.",
-        "enemyBios_drone_3": "Curious by nature, but to keep production costs low, their intelligence is very limited.",
+        "enemyBios_drone_1": "Un dispositivo de seguridad producido en masa construido como una cámara de vigilancia y una guardia segura.",
+        "enemyBios_drone_2": "Aunque originalmente se construyeron para usar solo munición no letal, han extraído partes de las máquinas desaparecidas en la superficie para una mayor eficiencia en la recolección de sangre.",
+        "enemyBios_drone_3": "Curioso por naturaleza, pero para mantener bajos los costos de producción, su inteligencia es muy limitada.",
         
-        "enemyBios_drone_strategy1": "Due to their light weight, physical projectiles such as nails will push them around, making them harder to deal consistent damage to.",
-        "enemyBios_drone_strategy2": "On death they will make a last ditch effort to harm their opponent with a self-destruct, but powerful single attacks and explosives will make them explode instantly.",
-        "enemyBios_drone_strategy3": "Punching a drone will redirect their suicide dive, making them a high-risk offensive opportunity.",
-        "enemyBios_drone_strategy4": "Their scanning mechanism makes a chirping sound, which can be listened for to make them easier to track down, as their flight and small size can lead them to hard to reach places.",
+        "enemyBios_drone_strategy1": "Debido a su peso ligero, los proyectiles físicos, como los clavos, los empujarán, lo que hará que sea más difícil infligirles daño constante.",
+        "enemyBios_drone_strategy2": "Al morir, harán un último esfuerzo para dañar a su oponente con una autodestrucción, pero poderosos ataques individuales y explosivos los harán explotar instantáneamente.",
+        "enemyBios_drone_strategy3": "Golpear a un dron redirigirá su inmersión suicida, lo que los convierte en una oportunidad ofensiva de alto riesgo.",
+        "enemyBios_drone_strategy4": "Su mecanismo de escaneo emite un pitido, que se puede escuchar para que sea más fácil rastrearlos, ya que su vuelo y su pequeño tamaño pueden llevarlos a lugares de difícil acceso.",
         
-        "enemyBios_streetcleaner_1": "Originally built as a way to purify the tainted air of cities after the climate catastrophe, Streetcleaners were made obsolete during the New Peace, and were repurposed as scouts for Hell expeditions.",
-        "enemyBios_streetcleaner_2": "However, their urge to clean remained, and after the fall of mankind, they began burning any organic matter they came across in an effort to purify the world.",
+        "enemyBios_streetcleaner_1": "Originalmente construidos como una forma de purificar el aire contaminado de las ciudades después de la catástrofe climática, los Streetcleaners quedaron obsoletos durante la Nueva Paz y se reutilizaron como exploradores para las expediciones del Infierno.",
+        "enemyBios_streetcleaner_2": "Sin embargo, su impulso por limpiar permaneció, y después de la caída de la humanidad, comenzaron a incendiar cualquier tipo de materia orgánica que encontran en un esfuerzo por purificar el mundo.",
         
-        "enemyBios_streetcleaner_strategy1": "Due to their combat experience, they can be tricky to take down with projectiles or explosives.",
-        "enemyBios_streetcleaner_strategy2": "The canister on their back is a major weakpoint that can be shattered with a precision shot, such as a Marksman coin ricochet from behind.",
+        "enemyBios_streetcleaner_strategy1": "Debido a su experiencia en combate, pueden ser difíciles de derribar con proyectiles o explosivos.",
+        "enemyBios_streetcleaner_strategy2": "El  en su espalda es un punto débil importante que puede romperse con un disparo de precisión, como una moneda Marksman que rebota desde atrás.",
         "enemyBios_streetcleaner_strategy3": "Point-blank attacks can also be very efficient, but must be performed quickly to avoid the fire of their flamethrowers.",
         
         "enemyBios_v2_1": "The V model was built for war, with V1 boasting a new kind of exterior plating that allowed refueling through contact with blood rather than through a separate blood refueling process.",
