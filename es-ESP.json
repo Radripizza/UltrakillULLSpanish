@@ -3,13 +3,51 @@
 		"langName": "ES-es",
 		"langAuthor": "ESP Group",
 		"langVersion": "1.0",
+        "langDisplayName": "Español",
 
-        "minimumModVersion": "0.9.0"
+        "minimumModVersion": "0.9.2"
 	},
     
 	"body": {
 		"bodyName": "Ahora ULTRAKILL se puede disfrutar en español!"
 	},
+
+    "credits":{
+        "credits_title": "ULTRAKILL",
+        "credits_createdBy": "UN JUEGO CREADO POR <color=orange>ARSI \"HAKITA\" PATALA</color>",
+
+        "credits_helpedByTitle": "CON LA AYUDA DE:",
+        "credits_helpedBy1": "<color=orange>DAVE OSHRY</color> (PRODUCTOR EJECUTIVO)",
+        "credits_helpedBy2": "<color=orange>PITR</color> (PROGRAMADOR)",
+        "credits_helpedBy3": "<color=orange>RYANN VICTORIA</color> <size=18>(ARTISTA 3D Y PROGRAMADOR DE SHADERS)</size>",
+        "credits_helpedBy4": "<color=orange>SAMUEL JAMES BRYAN</color> (ARTISTA 3D)",
+        "credits_helpedBy5": "<color=orange>BIGROCKBMP</color> (ARTISTA CONCEPTUAL)",
+        "credits_helpedBy6": "<color=orange>JERICHO_RUS</color> <size=18>(ILUSTRADOR, ARTISTA DE CONCEPTOS Y TEXTURAS)</size>",
+        "credits_helpedBy7": "<color=orange>FRANCIS XIE</color> (ARTISTA DE CONCEPTO Y TEXTURAS)",
+
+        "credits_contributionsTitle": "CON CONTRIBUCIONES ADICIONALES DE:",
+        "credits_contributions1": "<color=orange>MAXIMILIAN OVESSON</color> (ARTISTA DE LA IU)",
+        "credits_contributions2": "<color=orange>JACOB H.H.R.</color> (ESCRITOR [PROSA Y DIALOGO])",
+        "credits_contributions3": "<color=orange>FLYINGDOG</color> (ARTISTA 3D)",
+        "credits_contributions4": "<color=orange>TONI STIGELL</color> (ARTISTA 3D)",
+        "credits_contributions5": "<color=orange>BEN MOIR</color> (PROGRAMADOR)",
+        "credits_contributions6": "<color=orange>LUCAS VARNEY</color> (PROGRAMADOR)",
+        "credits_contributions7": "<color=orange>EMANUIL \"CABALCROW\" CHIZHOV</color> (PROGRAMADOR)",
+        "credits_contributions8": "<color=orange>HECKTECK</color> (PROGRAMADOR)",
+        "credits_contributions9": "<color=orange>MEGANEKO</color> <size=18>(COMPOSITOR DEL OST DE RUTINA CIBERNETICA)</size>",
+
+        "credits_VATitle": "CON LA ACTUACIÓN DE VOZ DE:",
+        "credits_VA1": "<color=orange>GIANNI MATRAGRANO</color> (GABRIEL)",
+        "credits_VA2": "<color=orange> STEPHAN WEYTE </color> (MINOS PRIME)",
+        "credits_VA3": "<color=orange>MANDALORE HERRINGTON</color> (MDK)",
+        "credits_VA4": "<color=orange>JUST SHAMMY </color> (Y BUHO)",
+
+        "credits_QATitle": "Y GARANTIA DE CALIDAD POR:",
+        "credits_QA1": "<color=orange>CAMERON MARTIN</color> (CPP)",
+        "credits_QA2": "<color=orange>TUCKER WILKIN </color> (CCS)",
+        "credits_QA3": "<color=orange>SCOTT GURNEY </color> (CCT)",
+        "credits_QA4": "<color=orange>DALIA FIGUEROA </color> <size=20>(CC Y MATERIAL PROMOCIONAL)</size>"
+    },
     
     "style":{
         "style_airslam": "PISOTÓN AÉREO",
@@ -133,6 +171,8 @@
         "cybergrind_wavesTitle": "OLEADAS",
         "cybergrind_wavesDescription1": "Seleccione para iniciar oleada",
         "cybergrind_wavesDescription2": "(Para alcanzar oleadas más altas debe llegar por lo menos al doble de la oleada anterior)"
+
+        "cybergrind_noPatternsSelected": "NO HAY PATRONES SELECCIONADOS."
     },
     
     "books":{
@@ -298,6 +338,7 @@
         "mainmenu_christmas": "FELIZ NAVIDAD",
 		"mainmenu_play": "JUGAR",
 		"mainmenu_options": "OPCIONES",
+        "mainmenu_credits": "CREDITOS",
 		"mainmenu_quit": "SALIR",
 
 		"difficulty_title": "DIFICULTAD",
@@ -466,7 +507,6 @@
         "visualnovel_waitingResponseFirst2": "No podría importarme menos llegar tarde a la escuela.",
         "visualnovel_waitingResponseFirst3": "La escuela no importa de todos modos.",
         "visualnovel_waitingResponseFirst4": "Nada lo hace.",
-        "visualnovel_waitingResponseFirst5": "\nPARA ELIMINAR",
         
         "visualnovel_waitingResponseSecond1": "\nHah!",
         "visualnovel_waitingResponseSecond2": "No puedo rendirme si nunca lo intenté en primer lugar, y no tengo el hábito de intentarlo.",
@@ -716,6 +756,11 @@
 		"hud_railcannonMeter": "CARGA DE RAILCANNON",
 		"hud_styleMeter": "MEDIDOR DE ESTILO",
 		"hud_styleInfo": "INFO DE ESTILO",
+
+        "spawner_sandboxTools": "HERRAMIENTAS DE SANDBOX :^)",
+        "spawner_sandbox": "SANDBOX",
+        "spawner_enemies": "ENEMIGOS",
+        "spawner_items": "ELEMENTOS",
 
 		"crosshair_title": "AJUSTES DE PUNTERO",
 		"crosshair_type": "TIPO DE PUNTERO",
@@ -979,7 +1024,11 @@
         "shop_cybergrindDescription1": "La <color=red>Ciberutina</color> es un modo de supervivencia infinito.",
         "shop_cybergrindDescription2": "Un buen rendimiento da muchos <color=red>puntos</color>.",
         "shop_cybergrindDescription3": "<color=red>Se perderá el progreso de la misión actual.</color>",
+        "shop_cybergrindEnterTitle": "LA CIBER RUTINA",
         "shop_cybergrindEnter": "ENTRAR A CIBERUTINA",
+        "shop_cybergrindReturningTo": "Volviendo a:",
+        "shop_cybergrindExitTitle": "VOLVER A LA MISION",
+        "shop_cybergrindExit": "SALIR DE LA CIBER RUTINA",
 
         "shop_sandboxTitle": "SANDBOX",
         "shop_sandboxDescription1": "El <color=#4C99E6>Sandbox</color> Es un nivel vacío que se puede utilizar para practicar.",
@@ -1262,6 +1311,22 @@
         "cheats_navmeshOutdated2": "(Reconstruir la navegación en el menú de trucos)",
         
         "cheats_spawnerArmSlot": "Brazo de spawn en Slot 6"
+
+        "cheats_dupesTitle": "SANDBOX SAVES",
+        "cheats_dupesSaveNamePrompt": "Dale un nombre",
+        "cheats_dupesNewSave": "Nuevo Save",
+        "cheats_dupesOpenFolder": "ABRIR DIRECTORIO",
+        "cheats_dupesSave": "GUARDAR",
+        "cheats_dupesLoad": "CARGAR",
+        "cheats_dupesDelete": "ELEMINAR",
+
+        "cheats_categoryMeta": "META",
+        "cheats_categorySandbox": "SANDBOX",
+        "cheats_categoryGeneral": "GENERAL",
+        "cheats_categoryEnemies": "ENEMIGOS",
+        "cheats_categoryWeapons": "ARMAS",
+        "cheats_categoryItems": "OBJETOS",
+        "cheats_categorySpecial": "ESPECIAL"
     },
     
     "enemybios":{
@@ -1320,25 +1385,25 @@
         "enemyBios_idol_strategy1": "Aunque los ídolos son inmunes a los proyectiles, pueden ser destruidos por un ataque cuerpo a cuerpo de fuerza contundente, como un puñetazo o un pisotón.",
         "enemyBios_idol_strategy2": "Los enemigos bendecidos no pueden ser dañados por ataques, pero aún serán empujados por fuerzas físicas y pueden morir por peligros ambientales, como trituradoras o ventiladores.",
         "enemyBios_idol_strategy3": "Ni los ídolos ni los enemigos benditos pueden ser alcanzados con el Gancho.",
-        
+
         "enemyBios_leviathan_1": "A diferencia de la mayoría de los demonios, el leviatán no está formado por la masa genérica del infierno, sino por los cuerpos de los Sombríos, un nombre usado para aquellos en el Océano Estigia que han dejado de luchar por el aire y en su lugar yacían en el fondo del océano, ahogándose eternamente.",
         "enemyBios_leviathan_2": "Los Sullen, en su inmovilidad, finalmente fueron fusionados por la misma fuerza que creó a los otros demonios, convirtiéndose en el Leviatán bíblico, una abominación profetizada para el fin del mundo.",
         "enemyBios_leviathan_3": "El corazón, que alberga las almas de los Sullen en una angustia sin fin mientras su carne, venas y nervios escriben y mutan, intentó escapar de su cuerpo, pero Gabriel lo derribó con sus lanzas divinas y lo inmovilizó sobre su cabeza, incapaz de moverse.",
         "enemyBios_leviathan_4": "Aunque el mundo terminó, el Leviatán permanece atrapado en el Océano Estigia, creciendo cada vez más a medida que más pecadores de la ira se dan por vencidos y se hunden hasta el fondo.",
-        
+
         "enemyBios_leviathan_strategy1": "El corazón del Leviatán está expuesto en la parte superior de su cabeza, lo que lo convierte en un claro punto débil al que apuntar. Aunque generalmente no es visible, se puede ver después de los ataques del Leviatán, lo que abre una oportunidad para el daño directo o para aterrizar un imán.",
         "enemyBios_leviathan_strategy2": "Aunque es desaconsejable, es posible montarse en el Leviatán por un corto período de tiempo. Un salto en el momento oportuno permitirá esquivar el ataque de mordisco del Leviatán y aterrizar sobre su cabeza cerca de su corazón expuesto.",
         "enemyBios_leviathan_strategy3": "La cola se movera hacia arriba o hacia abajo, y la altura del del golpe puede determinarse por la dirección en la que gira la cola.",
-        
+
         "enemyBios_corpseOfKingMinos_1": "Una vez que el gran y amado rey de la capa Lujuria, Minos ahora se ha reducido a un cadáver simbólico.",
         "enemyBios_corpseOfKingMinos_2": "Debido a este increíble poder de voluntad y estado como un gobernante justo en vida recordado incluso milenios después de su muerte, la manifestación de su alma es la Cáscara más grande que jamás se haya registrado.",
         "enemyBios_corpseOfKingMinos_3": "Todavía se pueden detectar pequeños rastros del alma original en el cuerpo, pero el cadáver en sí está animado y controlado por completo por los parásitos con forma de serpiente que una vez comandó.",
         "enemyBios_corpseOfKingMinos_4": "A pesar de que una vez provocó el renacimiento de la capa Lujuria, su cadáver ahora solo busca pecadores para castigar.",
-        
+
         "enemyBios_corpseOfKingMinos_strategy1": "Debido a su gran estatura, puede ser bastante difícil recuperar sangre de él, pero sus manos generalmente se aferran a las paredes de la arena, que pueden usarse para recuperar sangre.",
         "enemyBios_corpseOfKingMinos_strategy2": "Cualquier arma funcionará contra un enemigo de este tamaño, pero reflejar los ataques cuerpo a cuerpo y proyectiles son una forma rápida de infligir daños graves.",
         "enemyBios_corpseOfKingMinos_strategy3": "Aunque se mueve lentamente, el Agujero Negro que invoca es extremadamente peligroso y no puede ser destruido.",
-        
+
         "enemyBios_stalker_1": "Como castigo de la capa de codicia, los Stalkers se han visto obligados a llevar rocas pesadas hasta los monumentos de la codicia de la humanidad por toda la eternidad.",
         "enemyBios_stalker_2": "Han llevado a cabo su castigo durante tanto tiempo que sus cuerpos han evolucionado, deformado y crecido para adaptarse mejor a él.",
         "enemyBios_stalker_3": "Sus extremidades se han retorcido para darles un mejor equilibrio mientras cargan rocas en sus espaldas y su piel y músculos se han secado por completo, lo que les permite sobrevivir al contacto directo con las dunas de polvo de oro que el sol de la codicia ha elevado a temperaturas insondablemente altas.",
@@ -1349,23 +1414,23 @@
         "enemyBios_stalker_strategy2": "Es aconsejable detonar a la fuerza un Stalker en lugar de permitir que uno se detone a sí mismo, ya que la última explosión tendrá un área de efecto más grande.",
         "enemyBios_stalker_strategy3": "Si un Stalker se acerca a su objetivo y ya no puede ser empujado, una ola del Pisotón puede lanzarlo fuera del alcance para que pueda detonarse de manera segura en el aire, ya que la explosión es principalmente de forma horizontal.",
         "enemyBios_stalker_strategy4": "Conectar imanes en un Stalker reducirá el radio de su detonación.",
-        
+
         "enemyBios_insurrectionist_1": "Los insurrectos de Sísifo eran un ejército de cáscaras reunidas y entrenadas por el rey Sísifo para derrocar el control del cielo sobre el infierno, liberando a los pecadores de su tormento eterno..",
         "enemyBios_insurrectionist_2": "Durante una era de caos en el Cielo, mientras la guardia angelical estaba ausente, Sísifo comenzó a poner en marcha su plan cuando su fuerza reclutó a todos los Cáscaras que eran lo suficientemente inteligentes como para ser útiles para su causa y comenzaron a atacar a los demonios que deambulaban por las dunas de la Codicia.",
         "enemyBios_insurrectionist_3": "Tras el establecimiento del Concilio y el posterior regreso de la paz al Cielo, Gabriel y un ejército de ángeles fueron enviados para aplastar la insurrección y subyugar al ejército de Sísifo.",
         "enemyBios_insurrectionist_4": "Aunque su batalla fue bien librada, el insurreccionalista sin experiencia no pudo igualar la estrategia educada de los ángeles, quienes rápidamente descendieron sobre el rey Sísifo con gran fuerza, eventualmente venciéndolo y matándolo, dejando a los insurrectos sin una cadena de mando.",
         "enemyBios_insurrectionist_5": "Dispersos y desorientados, los guerreros fueron eliminados fácilmente uno por uno, sus cuerpos cortados en pedazos, dejando atrás solo lo esencial para llevar a cabo su castigo eterno de transportar rocas pesadas hasta los monumentos de la arrogancia y la codicia de la humanidad.",
         "enemyBios_insurrectionist_6": "Aunque la sangre de sus enemigos todavía mancha sus cuerpos y sus garras todavía se clavan en sus enemigos caídos, su voluntad y furia feroz solo sirven como tormento mental al saber cuán cerca estuvieron de la libertad.",
-        
+
         "enemyBios_insurrectionist_strategy1": "Los Insurrectos de Sísifo empapan sus pies en la sangre de sus enemigos para protegerlos del calor de las dunas de la Codicia, pero el resto de su cuerpo sigue siendo piel y carne, que puede prenderse en llamas para debilitar enormemente sus defensas, aumentando el daño de cualquier ataque que ellos reciban.",
         "enemyBios_insurrectionist_strategy2": "Aunque tienen un alcance prácticamente ilimitado, cada uno de los golpes de los insurrectos tiene fortalezas y debilidades. Aprender la manera de esquivar para evitar cada ataque es vital.",
         "enemyBios_insurrectionist_strategy3": "El pisotón del Insurrecto es rápido y destructivo, por lo que es desaconsejable permanecer cerca por mucho tiempo.",
         "enemyBios_insurrectionist_strategy4": "La Cara Maliciosa que usan como arma no es parte de su cuerpo, por lo que golpearlo no causará daño a un insurreccionalista, pero esto también significa que todavía se puede usar para curar incluso si la sangre de su portador se ha convertido en arena.",
-        
+
         "enemyBios_swordsmachine_1": "Su forma original es irreconocible después de años de socabar entre chatarra y reconstruirse, pero entre los chatarreros, Swordmachine es bastante famoso debido a su destreza en el combate y su forma de autocontruirse a sí mismo , feo para la mayoría pero hermoso para los entusiastas, generando muchos imitadores. ",
         "enemyBios_swordsmachine_2": "Empuña una espada de fabricación propia con un motor que, cuando se acelera, calentará la hoja, cortando la mayor parte de la materia orgánica con facilidad. ",
         "enemyBios_swordsmachine_3": "Debido a su comportamiento posesivo de acaparamiento, es una de las pocas máquinas que aún es capaz de vocalizar, una habilidad que la mayoría ha descartado para una gestión de recursos más eficiente.",
-        
+
         "enemyBios_swordsmachine_strategy1": "A pesar de su excelente desempeño contra los habitantes del Infierno, su diseño no tiene en cuenta a los oponentes extremadamente móviles, por lo que la mejor manera de evitar su hoja es saltar fuera de su alcance vertical.",
         "enemyBios_swordsmachine_strategy2": "Su espada motorizada hace que los ataques sean predecibles, lo que convierte a Swordsmachine en un excelente objetivo para reflejarlos.",
         "enemyBios_swordsmachine_strategy3": "Aunque su uso de armas a distancia es primitivo en el mejor de los casos, sus lanzamientos de espada pueden ser inesperadamente precisos gracias a su dominio del arma.",
@@ -1385,24 +1450,24 @@
         "enemyBios_streetcleaner_strategy1": "Debido a su experiencia en combate, pueden ser difíciles de derribar con proyectiles o explosivos.",
         "enemyBios_streetcleaner_strategy2": "El tanque en su espalda es un punto débil importante que puede romperse con un disparo de precisión, como una moneda de Marksman que rebota desde atrás.",
         "enemyBios_streetcleaner_strategy3": "Los ataques a quemarropa también pueden ser muy eficientes, pero deben realizarse rápidamente para evitar el fuego de sus lanzallamas.",
-        
+
         "enemyBios_v2_1": "El modelo V fue construido para la guerra, el V1 con un nuevo tipo de revestimiento exterior, permitía reabastecerse de combustible a través del contacto con la sangre en lugar de un proceso de reabastecimiento de sangre por separado.",
         "enemyBios_v2_2": "Debido a su delgadez necesaria, es mucho menos duradero, pero la capacidad de repararse y reconstruir partes rotas sobre la marcha supera los aspectos negativos en un campo de batalla activo.",
         "enemyBios_v2_3": "Sin embargo, durante la fase de desarroyo de prototipos, se estableció la Nueva Paz y la guerra se volvió irrelevante.",
         "enemyBios_v2_4": "La producción planificada de V1 se canceló y en su lugar se desarrolló un modelo actualizado, V2, utilizando el revestimiento estandarizado, ya que la durabilidad era mucho más importante en tiempos de paz cuando no era necesario un derramamiento de sangre.",
         "enemyBios_v2_5": "Ninguno de los modelos alcanzó la producción en masa debido a que el final de las guerras agotó por completo cualquier demanda, por lo que es probable que solo quede un prototipo de cada modelo.",
-        
+
         "enemyBios_v2_strategy1": "V2 es experto en controlar el espacio y aprovechará esto para cambiar el flujo de la batalla y deshacerse de su oponente. Mantente demasiado cerca y se escapará. Mantente lejos y se acercará.",
         "enemyBios_v2_strategy2": "La alta movilidad de V2 lo convierte en un objetivo difícil de alcanzar y especialmente difícil de curar. Cuando necesite sangre y no puedas alcanzarlo, es recomendable mantenerse alejado de el y dejar que se acerque a tí.",
         "enemyBios_v2_strategy3": "V2 cambiará de arma dependiendo de la distancia de su objetivo, por lo que si una de sus armas es difícil de evitar, un cambio en la proximidad la bloqueará.",
         "enemyBios_v2_strategy4": "El conocimiento de las sinergias del propio arsenal puede permitirle volver las armas de V2 en su contra.",
-        
+
         "enemyBios_mindflayer_1": "Raro pero extremadamente peligroso, Mindflayer es una máquina que ha adaptado y dominado el uso de la Energia Infernal junto con su propia destreza tecnológica.",
         "enemyBios_mindflayer_2": "La máquina en sí es solo la parte superior de su cuerpo aparente, el resto del mismo es una carcasa de plástico con forma humana, que parece haber sido construida por ellos mismos.",
         "enemyBios_mindflayer_3": "El cuerpo de plástico no cumple ninguna función y es solo para fines estéticos.",
         "enemyBios_mindflayer_4": "A pesar de ser un desperdicio de recursos, los Mindflayers usará todo lo que esté a su alcance para proteger su cuerpo de plástico de cualquier daño, incluso si eso significa destruirse a sí mismo en el proceso.",
         "enemyBios_mindflayer_5": "Los Mindflayers parecen preferir una forma fisica femenina, aunque también se han registrado muy raras ocasiones sobre formas masculinas.",
-        
+
         "enemyBios_mindflayer_strategy1": "Al encontrarse con un Mindflayer, es imperativo realizar un seguimiento de sus acciones, ya sea a través de imágenes o audio.",
         "enemyBios_mindflayer_strategy2": "Debido a que sus proyectiles de rastreo se disparan en una ráfaga, un explosivo seguro como una onda expansiva Knuckleblaster es el más eficiente para desviarlos.",
         "enemyBios_mindflayer_strategy3": "Su teletransportación instantánea puede hacer que la ventaja posicional constante sea bastante difícil, pero un taladro del Destornillador evitará que se teletransporten temporalmente.",
@@ -1576,8 +1641,8 @@
 		"prelude_second_changeEquipped": "Para <color=orange>EQUIPAR</color> las variaciones toque",
 
 		"prelude_third_needShotgun": "<color=red>PODER DE FUEGO INSUFICIENTE</color>",
-		"prelude_third_shotgun1": "<color=cyan>ESCOPETA</color>: Pulsa el",
-		"prelude_third_shotgun2": "para lanzar una granada.",
+		"prelude_third_shotgun1": "<color=cyan>ESCOPETA</color>: Pulsa el ",
+		"prelude_third_shotgun2": " para lanzar una granada.",
 		"prelude_third_shotgun3": "Mantén presionado para cargarla a distancia.",
 		"prelude_third_shotgunPierce": "<color=cyan>ESCOPETA</color>: Fuego primario perfora enemigos más débiles",
 
@@ -1601,6 +1666,8 @@
 		"act1_limboFourth_alternateRevolver": "Las versiones <color=orange>ALTERNATIVAS</color> cambiarán el comportamiento base de un arma.\nPueden ser equipados en la <color=orange>TIENDA</color>.",
 		"act1_limboFourth_newArm": "Para <color=orange>EQUIPAR</color> los brazos presiona",
 
+        "act1_limboSecret_noclipSkip": "\"PARECE QUE ESTÁS EN EL LÍMITE DEL INGENIO\"$T.HAKITA",
+
 		"act1_lustFirst_knuckleblaster1": "<color=red>KNUCKLEBLASTER</color>: <color=orange>MANTEN</color>",
 		"act1_lustFirst_knuckleblaster2": "para crear una\n<color=orange>ONDA DE CHOQUE</color>\nEso empujará a los enemigos.",
 		"act1_lustFirst_dashjump": "<color=cyan>SALTO IMPULSADO</color>: Mientras te <color=cyan>IMPULSAS</color> <color=orange>SALTA</color> para darle mas impulso a ese salto.",
@@ -1616,6 +1683,7 @@
 	"act2":{
 		"act2_greedSecond_sand": "LOS ENEMIGOS CUBIERTOS DE ARENA <color=red>NO SANGRAN</color>",
 
+        "act2_greedThird_wallClip": "\"LA SUCIEDAD SE HA IDO, PERO EL RECUERDO PERMANECE.\"$T. HAKITA",
 		"act2_greedThird_troll1": "Algo malo viene en camino.",
 		"act2_greedThird_troll2": "Es broma :)",
         "act2_greedThird_tombOfKings": "TUMBA DE REYES",
@@ -1650,6 +1718,8 @@
         "act2_wrathThird_rocketLauncherMidair": "<color=cyan>LANZACOHETES</color>: los impactos directos sobre enemigos <color=orange>CAYENDO</color> provocarán una explosión <color=orange>MÁS FUERTE</color>.",
         "act2_wrathThird_soldierBlock": "Los soldados <color=orange>NO PUEDEN</color> bloquear explosiones mientras están en el <color=orange>AIRE</color>.\nDispara un cohete <color=orange>CERCA</color> de ellos para lanzarlos.",
         "act2_wrathThird_hank": "No pasa nada, pero estás seguro de que Hank Jr. y sus Hankcestros lo agradecerían... si no estuvieran muertos.",
+
+        "act2_heresyFirst_armboy": "P I B E  F A C H A !!!",
         
         "act2_secretNotReady": "SE SUPONE QUE NO DEBES ESTAR AQUI"
 	},
@@ -1659,24 +1729,27 @@
         "primeSanctum_first_secretText3": "<size=20>Las terminales de la sala de ascensores son una red interconectada avanzada construida con el propósito de transferir materiales y herramientas entre diferentes áreas. Son capaces de transferir material físico como información a través de una señal de radio, que otros terminales pueden recibir y utilizar para reconstruir el objeto enviado. El elemento original se pierde, ya que se transforma en la energía que se utiliza para transmitir la información material, y el proceso es bastante lento debido a la cantidad de información que contiene la materia física.</size>",
         "primeSanctum_first_secretText4": "<size=20>Una de las primeras pruebas de la precisión de la transferencia de materia fue un disco de vinilo de 78 rpm en perfecto estado, que se envió desde el laboratorio a todos los terminales conectados. El vinilo era un sencillo de la grabación de Russ Morgan Orchestra de la pieza Were You Foolin' (una de las favoritas de la CRO), aunque se eliminó la etiqueta para reducir la cantidad de material a transferir.</size>",
         "primeSanctum_first_secretText5": "<size=5><color=grey>[Nota: vete a la mierda tom, estoy jodidamente cansado de esta estúpida canción y de tener que escucharla todas las mañanas en tu intercomunicador de mierda]</color></size>",
-        "primeSanctum_first_secretText6": "<size=17>Poco después, se abandonó el proyecto de exploración y excavación del infierno y este disco de vinilo siguió siendo el único material que se transfirió con éxito antes de que se perdiera la conexión entre la superficie y las terminales.</size>",
+        "primeSanctum_first_secretText6": "\n<size=17>Poco después, se abandonó el proyecto de exploración y excavación del infierno y este disco de vinilo siguió siendo el único material que se transfirió con éxito antes de que se perdiera la conexión entre la superficie y las terminales.</size>",
         "primeSanctum_first_secretText7": "<size=17>Los terminales ahora usan el registro para atraer a las máquinas a una relación simbiótica (Para obtener más información, consulte TERMINAL 02: <color=red>[LINK BORRADO]</color>). Sin embargo, los terminales solo reproducen secciones instrumentales cortas del disco original por razones indeterminadas.</size>.",
         "primeSanctum_first_secretText8": "<size=17>Algunos investigadores han bromeado diciendo que quizás los terminales son simplemente \"demasiado tímidos para cantar\", aunque se han difundido rumores de mecánicos que, después de reparar una terminal defectuosa o rota, se dice que escuchó la terminal tocar una sección vocal cuando solo el mecánico estaba presente sin equipo de grabación, lo que hace que este sea un reclamo no verificable.",
         "primeSanctum_first_secretText9": "FIN DE LOS DATOS 01. Para más información , ver <color=red>[LINK BORRADO]</color> y <color=red>[LINK BORRADO]</color></size>."     
     },
     "secretLevels":{
         "secretLevels_prelude_somethingWicked": "Algo malo viene en camino.",
-        
+
+        "secretLevels_prelude_testamentTitle": "TESTAMENTO I",
         "secretLevels_prelude_testament1": "LA HUMANIDAD ES UN FRACASO.",
         "secretLevels_prelude_testament2": "EL LIBRE ALBEDRIO ES UN DEFECTO.",
         "secretLevels_prelude_testament3": "QUE LA MALDAD DE SUS PROPIOS LABIOS LOS CONSUMA.",
         "secretLevels_prelude_testament4": "ENTONCES VOLVERE A COMENZAR, CON MI PALABRA COMO LEY.",
         
+        "secretLevels_first_testamentTitle": "TESTAMENTO II",
         "secretLevels_first_testament1": "FRACASO TRAS FRACASO TRAS FRACASO TRAS FRACASO TRAS FRACASO TRAS FRACASO TRAS FRACASO TRAS FRACASO TRAS FRACASO",
         "secretLevels_first_testament2": "LOS RESULTADOS SE NIEGAN A ALTERAR",
         "secretLevels_first_testament3": "UNA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA Y OTRA VEZ",
         "secretLevels_first_testament4": "MI FE COMIENZA A DECAER",
         
+        "secretLevels_fourth_testamentTitle": "TESTAMENTO III",
         "secretLevels_fourth_testament1": "INCONTABLES CICLOS DE CREACION DESPERDICIADOS",
         "secretLevels_fourth_testament2": "INCONTABLES FORMULAS PARA UNA MENTE SIN LIBRE ALBEDRIO DESPERDICIADOS",
         "secretLevels_fourth_testament3": "MALDITO EL HOMBRE POR NO CUMPLIR MI REGLA, MI PALABRA, MI LEY",
@@ -1748,9 +1821,9 @@
         
         "subtitles_minosPrime_intro1": "Ahh...",
         "subtitles_minosPrime_intro2": "Libre al fin",
-        "subtitles_minosPrime_intro3": "Oh Gabriel",
+        "subtitles_minosPrime_intro3": "Oh Gabriel...",
         "subtitles_minosPrime_intro4": "Ahora amanece nuestro ajuste de cuentas",
-        "subtitles_minosPrime_intro5": "y tu sangre brillará ante las sienes del hombre",
+        "subtitles_minosPrime_intro5": "y tu sangre BRILLARÁ ante las sienes del hombre",
         "subtitles_minosPrime_intro6": "Criatura de acero...",
         "subtitles_minosPrime_intro7": "Mi gratitud hacia ti por mi libertad",
         "subtitles_minosPrime_intro8": "pero los crímenes que vuestra especie ha cometido contra la humanidad",
