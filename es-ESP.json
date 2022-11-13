@@ -5,7 +5,7 @@
 		"langVersion": "0.1",
 		"langDisplayName": "Español",
 
-		"minimumModVersion": "0.9.2"
+		"minimumModVersion": "1.0.0"
 	},
 
 	"body": {
@@ -1459,15 +1459,15 @@
         "enemyBios_mindflayer_strategy2": "Debido a que sus proyectiles de rastreo se disparan en una ráfaga, un explosivo seguro como una onda expansiva Knuckleblaster es el más eficiente para desviarlos.",
         "enemyBios_mindflayer_strategy3": "Su teletransportación instantánea puede hacer que la ventaja posicional constante sea bastante difícil, pero un taladro del Destornillador evitará que se teletransporten temporalmente.",
 
-		"enemyBios_sentry_1": "One of the many war machines created during the Final War. Although there were attempts to find new purpose for them during the New Peace, their streamlined design made them unable to be repurposed until the start of the Hell expeditions.",
-        "enemyBios_sentry_2": "Their extremely powerful legs and feet allow them to dig into the ground, making them immovable by most forces and allowing them to easily line up any shot without interruption.",
-        "enemyBios_sentry_3": "Despite their size, they were built to be extremely light, which when combined with the power of their legs, allows them to move at extremely fast speeds. Such power and lightness have made their legs one of the most sought after parts by scrapheads.",
-        "enemyBios_sentry_4": "Most machines will only render a simplified approximation of their visual surroundings for faster processing speed, but Sentries use full renders instead, giving them perfect accuracy even over extremely long distances.",
+		"enemyBios_sentry_1": "Una de las muchas máquinas de guerra creadas durante la Guerra Final. Aunque hubo intentos de encontrarles un nuevo propósito durante la Nueva Paz, su diseño aerodinámico hizo que no se pudieran reutilizar hasta el inicio de las expediciones al Infierno.",
+        "enemyBios_sentry_2": "Sus piernas y pies extremadamente poderosos les permiten clavarse en el suelo, lo que les hace inamovibles ante la mayoría de las fuerzas y les permite alinear fácilmente cualquier disparo sin interrupción.",
+        "enemyBios_sentry_3": "A pesar de su tamaño, fueron construidos para ser extremadamente ligeros, lo que, combinado con la potencia de sus patas, les permite moverse a velocidades extremadamente rápidas. Tal potencia y ligereza han hecho de sus patas una de las piezas más buscadas por los desguaces.",
+        "enemyBios_sentry_4": "La mayoría de las máquinas sólo renderizan una aproximación simplificada de su entorno visual para acelerar la velocidad de procesamiento, pero los Sentry utilizan renders completos, lo que les proporciona una precisión perfecta incluso a distancias extremadamente largas.",
 
-		"enemyBios_sentry_strategy1": "Due to their powerful legs, once they've dug into the ground to aim, they can no longer move.",
-        "enemyBios_sentry_strategy2": "Once dug in, the only ways to interrupt their attack are: Shooting them with the Electric Railcannon, hitting their antenna with the Revolver, launching them with the ground slam wave or punching them with the Knuckleblaster.",
-        "enemyBios_sentry_strategy3": "As long as they haven't dug in, their light weight makes them easy to launch and keep in the air where they are harmless.",
-        "enemyBios_sentry_strategy4": "A good way to disable a Sentry for a longer period of time is to shoot nails into them with the Nailgun and then placing a magnet in a nearby wall or ceiling, which will pull them once they've been knocked off balance.",
+		"enemyBios_sentry_strategy1": "Debido a sus poderosas patas, una vez que se han clavado en el suelo para apuntar, ya no pueden moverse.",
+        "enemyBios_sentry_strategy2": "Una vez atrincherado, las únicas formas de interrumpir su ataque son: Dispararles con el Railcannon Eléctrico, golpear su antena con el Revólver, lanzarlos con la onda de choque contra el suelo o golpearlos con el Knuckleblaster.",
+        "enemyBios_sentry_strategy3": "Mientras no se hayan atrincherado, su ligero peso hace que sean fáciles de lanzar y mantener en el aire, donde son inofensivos.",
+        "enemyBios_sentry_strategy4": "Una buena forma de inutilizar a un centinela durante un periodo de tiempo más largo es dispararles clavos con la pistola de clavos y luego colocar un imán en una pared o techo cercanos, que los arrastrará una vez que hayan perdido el equilibrio.",
 
 		"enemyBios_v2Second_1": "Tras su derrota y huida, V2 se adentró en el Infierno, matando a otras máquinas por su sangre para ayudar a su recuperación con la intención de vengarse de V1 y recuperar su brazo original.",
         "enemyBios_v2Second_2": "Después de encontrar un sustituto temporal de una de sus víctimas, V2 utilizó piezas de otras máquinas para transformar el nuevo brazo provisional en una herramienta de movilidad que le permitiera alcanzar el rápido descenso de V1 a las capas más profundas.",
@@ -1492,13 +1492,13 @@
         "enemyBios_cerberus_strategy2": "Son bastante hábiles en el combate a distancia lanzando su orbe, pero para evitar dañarse a sí mismos, no iniciarán un lanzamiento mientras su objetivo esté cerca, lo que puede ser usado para manipular su comportamiento, aunque una vez iniciado el lanzamiento, no puede detenerse.",
         "enemyBios_cerberus_strategy3": "Debido a la extrema concentración de sus orbes de energía, los lanzados explotan al impactar físicamente, por lo que permanecer cerca de superficies como el suelo o cualquier pared hará más difícil evitar los ataques a distancia.",
         
-        "enemyBios_hideousMass_1": "Hideous Masses are a rare occurrence, when an excessive amount of Hell Mass is poured into a single shell, causing it to overflow and burst at the seams.",
-        "enemyBios_hideousMass_2": "Due to the broken seams allowing for mobility without having to bend the exterior, the stone has hardened more than the shell of most demons, making it completely impervious to all currently known attacks.",
+        "enemyBios_hideousMass_1": "Las masas horrendas son un acontecimiento raro, cuando se vierte una cantidad excesiva de masa infernal en un solo caparazón, lo que hace que se desborde y reviente en las costuras.",
+        "enemyBios_hideousMass_2": "Debido a las costuras rotas que permiten la movilidad sin tener que doblar el exterior, la piedra se ha endurecido más que el caparazón de la mayoría de los demonios, haciéndola completamente impermeable a todos los ataques conocidos actualmente.",
         
-        "enemyBios_hideousMass_strategy1": "Although its stone exterior makes for an impenetrable defense, the Hideous Mass' belly and tail remain exposed and vulnerable.",
-        "enemyBios_hideousMass_strategy2": "While standing up, a quick burst of close range damage is the most effective way to hurt them, though this will most likely cause it to change formations, so being quick and decisive is the key.",
-        "enemyBios_hideousMass_strategy3": "When in its low formation, keeping a safe distance is recommended due to its melee capabilities and high speed tail harpoon, though the brave or suicidal may attempt to climb on its back to continue dealing close range damage to the tail.",
-        "enemyBios_hideousMass_strategy4": "When caught by the harpoon, it's recommendable to either punch the harpoon or damage the tail to remove it.",
+        "enemyBios_hideousMass_strategy1": "Aunque su exterior de piedra constituye una defensa impenetrable, el vientre y la cola de la Masa Horripilante permanecen expuestos y vulnerables.",
+        "enemyBios_hideousMass_strategy2": "Mientras está de pie, una rápida ráfaga de daño a corta distancia es la forma más efectiva de dañarlos, aunque esto muy probablemente hará que cambie de formación, por lo que ser rápido y decisivo es la clave.",
+        "enemyBios_hideousMass_strategy3": "Cuando está en su formación baja, se recomienda mantener una distancia de seguridad debido a sus capacidades de combate cuerpo a cuerpo y a su arpón de cola de alta velocidad, aunque los valientes o suicidas pueden intentar subirse a su espalda para seguir infligiendo daño a corta distancia a la cola.",
+        "enemyBios_hideousMass_strategy4": "Cuando es capturado por el arpón, es recomendable perforar el arpón o dañar la cola para retirarla.",
         
         "enemyBios_gabriel_1": "Uno de los arcángeles más respetados y temidos, Gabriel se ganó su reputación gracias a su poder y eficacia.",
         "enemyBios_gabriel_2": "Independientemente de la tarea encomendada, Gabriel siempre la realizaba con rapidez y de forma decisiva, lo que le valió el título de Juez del Infierno tras destronar a Minos y acabar con el renacimiento de la Lujuria.",
@@ -1516,14 +1516,14 @@
         "enemyBios_gabrielSecond_strategy2": "Aunque su lanzamiento de espada puede parecer imposible de esquivar, resultará un arma excelente si se le hace parry.",
         "enemyBios_gabrielSecond_strategy3": "Abrumado por la emoción, Gabriel se detendrá a veces para burlarse de su oponente, creando una ventana para la curación.",
         
-        "enemyBios_virtue_1": "The basis of a lesser angel's forming are quite similar to that of the Husks', wherein the physical manifestation of the soul is dependant on its value, though unlike for Husks, virtuousness also acts as a factor for angels.",
-        "enemyBios_virtue_2": "Lesser angels come from human souls, which are formed into abstract or animalistic shapes, making them distinct from the humanoid bodies of greater and supreme angels, who were created as such and are considered purer and placed higher on Heaven's societal hierarchy.",
-        "enemyBios_virtue_3": "Due to their past lives as humans, Virtues are often sent to complete tasks that greater angels deem below them or otherwise uninteresting, such as acting as wardens in Hell. There Virtues use heavenly fire to punish sinners who aren't acting out their punishment, in order to not waste Gabriel's time with minor offences and fluctuations.",
-        "enemyBios_virtue_4": "Virtues are normally known to have a multitude of eyes, though for unknown reasons, these eyes are hidden or removed for ones that become wardens in Hell. Some have speculated this may be related to why almost all husks lack eyes, with the only verified exception being the previous Judge of Hell, King Minos.",
-        "enemyBios_virtue_5": "Little is known about the specifics of angels, as Heaven is exclusionary and segregated due to wanting little to no direct contact with God's human experiment.",
+        "enemyBios_virtue_1": "La base de la formación de un ángel menor es bastante similar a la de los Husks, en la que la manifestación física del alma depende de su valor, aunque a diferencia de los Husks, la virtuosidad también actúa como factor para los ángeles.",
+        "enemyBios_virtue_2": "Los ángeles menores proceden de almas humanas, que están formadas en formas abstractas o animales, lo que las diferencia de los cuerpos humanoides de los ángeles mayores y supremos, que fueron creados como tales y se consideran más puros y se sitúan más arriba en la jerarquía social del Cielo.",
+        "enemyBios_virtue_3": "Debido a sus vidas pasadas como humanos, las Virtudes suelen ser enviadas a realizar tareas que los ángeles mayores consideran inferiores a ellos o poco interesantes, como actuar como guardianes en el Infierno. Allí las Virtudes utilizan el fuego celestial para castigar a los pecadores que no cumplen con su castigo, para no hacer perder el tiempo a Gabriel con ofensas y fluctuaciones menores.",
+        "enemyBios_virtue_4": "Normalmente se sabe que las Virtudes tienen multitud de ojos, aunque por razones desconocidas, estos ojos se ocultan o se quitan a los que se convierten en guardianes del Infierno. Algunos han especulado que esto puede estar relacionado con la razón por la que casi todas las cáscaras carecen de ojos, siendo la única excepción verificada el anterior Juez del Infierno, el Rey Minos.",
+        "enemyBios_virtue_5": "Poco se sabe sobre los detalles de los ángeles, ya que el Cielo es excluyente y está segregado debido a que desea poco o ningún contacto directo con el experimento humano de Dios.",
         
-        "enemyBios_virtue_strategy1": "Verticality and cover give little safety against the Virtue's light beams, so constant horizontal movement is encouraged, though retracing one's steps can be dangerous as the beams linger.",
-        "enemyBios_virtue_strategy2": "If ignored for too long, Virtues will enrage, making their light beams predict their target's movement. Although it's easy to avoid their attacks with enough space, leaving them unattended can quickly turn the tables in their favor",
+        "enemyBios_virtue_strategy1": "La verticalidad y la cobertura dan poca seguridad contra los rayos de luz de la Virtud, por lo que se fomenta el movimiento horizontal constante, aunque volver sobre los pasos puede ser peligroso, ya que los rayos persisten.",
+        "enemyBios_virtue_strategy2": "Si se ignoran durante demasiado tiempo, las Virtudes se enfurecen, haciendo que sus rayos de luz predigan el movimiento de su objetivo. Aunque es fácil evitar sus ataques con suficiente espacio, dejarlas desatendidas puede cambiar rápidamente las tornas a su favor.",
         
         "enemyBios_somethingWicked_1": "Se sabe muy poco sobre esta criatura.",
         "enemyBios_somethingWicked_2": "Algunos especulan que se trata de un Hueco, pero debido a su naturaleza extremadamente hostil, nadie ha podido confirmar la hipótesis.",
@@ -1532,24 +1532,24 @@
         "enemyBios_somethingWicked_strategy1": "Cualquier ataque hará que se reubique temporalmente, pero no se conocen formas de matarlo.",
         "enemyBios_somethingWicked_strategy2": "Su forma de atacar es desconocida, aparte de que se produce al contacto físico, pero ninguna protección ha salvado a ninguna de sus víctimas.",
         
-        "enemyBios_fleshPrison_1": "Flesh Prison is an uncategorized organism created by the angels to imprison Minos' soul after he was slain by Gabriel.",
-        "enemyBios_fleshPrison_2": "Although it is similar to Husks, it does not possess a soul or any amount of thought. All of its actions are purely predetermined reactions to stimulus, making it more of an organic machine than a living being.",
-        "enemyBios_fleshPrison_3": "In order to make it as impenetrable as possible, it was given both divine power and hell energy, which makes its attacks erratic and chaotic.",
+        "enemyBios_fleshPrison_1": "La Prisión de Carne es un organismo no categorizado creado por los ángeles para encarcelar el alma de Minos después de que fuera asesinado por Gabriel.",
+        "enemyBios_fleshPrison_2": "Aunque es similar a los Husks, no posee alma ni ningún tipo de pensamiento. Todas sus acciones son reacciones puramente predeterminadas a los estímulos, lo que la convierte más en una máquina orgánica que en un ser vivo.",
+        "enemyBios_fleshPrison_3": "Para hacerla lo más impenetrable posible, se le dio tanto poder divino como energía infernal, lo que hace que sus ataques sean erráticos y caóticos.",
         
-        "enemyBios_fleshPrison_strategy1": "Flesh Prison will use its spawn to heal its own wounds. The more spawn are left, the more likely it is for Flesh Prison to attempt to heal its wounds, so it's advisable to avoid damaging it until the spawn are dead.",
-        "enemyBios_fleshPrison_strategy2": "The long window of a delayed split shot timing makes for a great way to clear out multiple spawn at once. Throwing multiple coins high into the air and waiting for them to reach the delayed split shot state before shooting them is a strong opening move after Flesh Prison creates its spawn.",
+        "enemyBios_fleshPrison_strategy1": "La Prisión de Carne utilizará sus engendros para curar sus propias heridas. Cuantos más engendros queden, más probable será que la Prisión de Carne intente curar sus heridas, por lo que es aconsejable evitar dañarla hasta que los engendros estén muertos.",
+        "enemyBios_fleshPrison_strategy2": "La larga ventana de un tiro dividido retrasado es una gran manera de eliminar varios despojos a la vez. Lanzar varias monedas en el aire y esperar a que alcancen el estado de disparo diferido antes de dispararlas es un buen movimiento de apertura después de que la Prisión de Carne cree sus engendros.",
         
-        "enemyBios_minosPrime_1": "A prime soul is an incredibly rare occurrence in which a soul amasses so much power that it no longer requires a Husk as a vessel to manifest physically.",
-        "enemyBios_minosPrime_2": "As manifestations of pure will, prime souls are incredibly powerful, to the point that even the prideful angels see them as a threat and will use any means necessary to stop them from forming.",
-        "enemyBios_minosPrime_3": "King Minos felt that eternal suffering was an unfair and unreasonable punishment for those whose only sin was loving another. After the Disappearance of God, as angels were lost and Heaven was in chaos, Minos began his efforts to reform the Lust layer.",
-        "enemyBios_minosPrime_4": "The Lust renaissance was prosperous, as King Minos guided its inhabitants to come together and build a new civilization. The combined efforts of the countless who had been damned to the second layer bore great results as the grand city of Lust grew and grew.",
-        "enemyBios_minosPrime_5": "However, after the Council took control of Heaven and brought stability to it through their iron fist rule, they saw that Minos had gone against God's will by freeing sinners from the punishment that God had designed for them.",
-        "enemyBios_minosPrime_6": "Gabriel, the brightest of the angels, was sent to kill Minos. The king, rather than fight back, tried to reason with him, but Gabriel mercilessly struck him down without listening.",
-        "enemyBios_minosPrime_7": "As Minos' will was strong enough to attempt to stand up to Heaven's rule, the angels chose to imprison his soul in an attempt to stop it from forming into a prime soul and appointed Gabriel as the new Judge of Hell.",
-        "enemyBios_minosPrime_8": "From the prison inside his own body, Minos helplessly watched as his soulless corpse, now controlled by parasites, tore apart everything he had worked so hard to build, cursing his own weakness for failing to protect his people, vowing to take revenge...",
+        "enemyBios_minosPrime_1": "Un alma primordial es un acontecimiento increíblemente raro en el que un alma acumula tanto poder que ya no necesita un Husk como recipiente para manifestarse físicamente.",
+        "enemyBios_minosPrime_2": "Como manifestaciones de la voluntad pura, las almas primarias son increíblemente poderosas, hasta el punto de que incluso los ángeles orgullosos las ven como una amenaza y utilizarán cualquier medio necesario para impedir su formación.",
+        "enemyBios_minosPrime_3": "El rey Minos consideraba que el sufrimiento eterno era un castigo injusto e irrazonable para aquellos cuyo único pecado era amar a otro. Después de la Desaparición de Dios, cuando los ángeles se perdieron y el Cielo se sumió en el caos, Minos comenzó sus esfuerzos para reformar la capa de la Lujuria.",
+        "enemyBios_minosPrime_4": "El renacimiento de Lujuria fue próspero, ya que el rey Minos guió a sus habitantes para que se unieran y construyeran una nueva civilización. Los esfuerzos combinados de los innumerables condenados a la segunda capa dieron grandes resultados, ya que la gran ciudad de Lujuria creció y creció.",
+        "enemyBios_minosPrime_5": "Sin embargo, después de que el Consejo tomara el control del Cielo y le diera estabilidad a través de su gobierno de puño de hierro, vieron que Minos había ido en contra de la voluntad de Dios al liberar a los pecadores del castigo que Dios había diseñado para ellos.",
+        "enemyBios_minosPrime_6": "Gabriel, el más brillante de los ángeles, fue enviado a matar a Minos. El rey, en lugar de defenderse, intentó razonar con él, pero Gabriel lo abatió sin piedad y sin escucharlo.",
+        "enemyBios_minosPrime_7": "Como la voluntad de Minos era lo suficientemente fuerte como para intentar enfrentarse al gobierno del Cielo, los ángeles optaron por encarcelar su alma en un intento de impedir que se convirtiera en un alma principal y nombraron a Gabriel como nuevo Juez del Infierno.",
+        "enemyBios_minosPrime_8": "Desde la prisión dentro de su propio cuerpo, Minos observó impotente cómo su cadáver sin alma, ahora controlado por parásitos, destrozaba todo lo que tanto le había costado construir, maldiciendo su propia debilidad por no haber protegido a su pueblo, jurando vengarse...",
         
-        "enemyBios_minosPrime_strategy1": "It's rare for Minos Prime to give a window of opportunity to heal, so it's vital to learn what attacks leave him momentarily vulnerable and how to dodge them in a way that gives an advantageous position during those moments.",
-        "enemyBios_minosPrime_strategy2": "His snake projectiles can be parried using the Feedbacker for a full heal, even if the projectile doesn't hit Minos Prime."
+        "enemyBios_minosPrime_strategy1": "Es raro que Minos Prime dé una ventana de oportunidad para curarse, por lo que es vital aprender qué ataques le dejan momentáneamente vulnerable y cómo esquivarlos de forma que se obtenga una posición ventajosa durante esos momentos.",
+        "enemyBios_minosPrime_strategy2": "Sus proyectiles de serpiente pueden ser parados usando el Feedbacker para una curación completa, incluso si el proyectil no golpea a Minos Prime."
 	},
 
 	"tutorial": {
