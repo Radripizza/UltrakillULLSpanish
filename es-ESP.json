@@ -5,7 +5,7 @@
 		"langVersion": "0.1",
 		"langDisplayName": "Español",
 
-		"minimumModVersion": "1.0.0"
+		"minimumModVersion": "1.0.1"
 	},
 
 	"body": {
@@ -342,6 +342,8 @@
 		"mainmenu_options": "OPCIONES",
 		"mainmenu_credits": "CREDITOS",
 		"mainmenu_quit": "SALIR",
+        "mainmenu_mods": "MODS",
+		"mainmenu_restart": "REINICIAR",
 
 		"difficulty_title": "DIFICULTAD",
 		"difficulty_easy": "F<size=23>Á</size>CIL",
@@ -392,7 +394,7 @@
 		"level_challenge": "DESAFÍO",
 		"level_challengeCompleted": "COMPLETO",
 
-		"level_fullIntroPrompt": "INTRO\n  COMPLETA?",
+		"level_fullIntroPrompt": "INTRO\n COMPLETA?",
 		"level_fullIntroPromptYes": "SI",
 		"level_fullIntroPromptNo": "NO",
 		"level_fullIntroPromptCancel": "CANCELAR"
@@ -619,7 +621,7 @@
 		"category_controls": "CONTROLES",
 		"category_graphics": "GRÁFICOS",
 		"category_sound": "SONIDO",
-		"category_display": "PANTALLA",
+		"category_display": "HUD",
 		"category_assists": "AYUDA",
 		"category_colors": "COLORES",
 		"category_saves": "GUARDADOS",
@@ -838,6 +840,7 @@
 
 		"language_title": "IDIOMAS",
         "language_languages": "IDIOMAS"
+        "language_openLanguageFolder": "ABRIR CARPETA DE IDIOMAS"
 	},
 	"pauseMenu": {
 		"pause_title": "PAUSADO",
@@ -1203,6 +1206,7 @@
 		"enemyname_malFace": "CARA MALISIOSA",
 		"enemyname_cerberus": "CERBERO",
 		"enemyname_hideousMass": "MASA HORRIBLE",
+        "enemyname_leviathan": "LEVIATAN",
 		"enemyname_gabriel": "GABRIEL",
 		"enemyname_virtue": "VIRTUD",
 		"enemyname_somethingWicked": "ALGO MALO",
@@ -1310,6 +1314,7 @@
 		"cheats_categoryMeta": "META",
         "cheats_categorySandbox": "SANDBOX",
         "cheats_categoryGeneral": "GENERAL",
+        "cheats_categoryMovement": "MOVIMIENTO",
         "cheats_categoryEnemies": "ENEMIGOS",
         "cheats_categoryWeapons": "ARMAS",
         "cheats_categoryItems": "OBJETOS",
