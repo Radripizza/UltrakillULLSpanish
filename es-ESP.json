@@ -2,7 +2,7 @@
 	"metadata": {
 		"langName": "ES-es",
 		"langAuthor": "ESP Group",
-		"langVersion": "0.1",
+		"langVersion": "1.0",
 		"langDisplayName": "Español",
 
 		"minimumModVersion": "1.0.1"
@@ -12,7 +12,7 @@
 		"bodyName": "Ahora ULTRAKILL se puede disfrutar en español!"
 	},
 
-	"credits": {
+	"credits":{
 		"credits_title": "ULTRAKILL",
 		"credits_createdBy": "UN JUEGO CREADO POR <color=orange>ARSI \"HAKITA\" PATALA</color>",
 
@@ -49,7 +49,7 @@
 		"credits_QA4": "<color=orange>DALIA FIGUEROA </color> <size=20>(CC Y MATERIAL PROMOCIONAL)</size>"
 	},
 
-	"style": {
+	"style":{
 		"style_airslam": "PISOTÓN AÉREO",
 		"style_airshot": "DISPARO AÉREO",
 		"style_attraptor": "ATRACTIVO",
@@ -94,6 +94,8 @@
 		"style_splattered": "SALPICADERO",
 		"style_triplekill": "TRIPLE MUERTE",
 
+		"style_why": "¿Qué haces creando enemigos aquí?",
+
 		"style_conductor": "CONDUCTOR",
 		"style_crushed": "APLASTADO",
 		"style_fall": "CAÍDA",
@@ -101,9 +103,7 @@
 		"style_outofbounds": "FUERA DE LOS LÍMITES",
 		"style_shredded": "TRITURADO",
 		"style_zapped": "ELECTROCUTADO",
-
-		"style_why": "¿Qué haces creando enemigos aquí?",
-
+		
 		"style_d": "DESTRUCTIVO",
 		"style_c": "CAÓTICO",
 		"style_b": "BRUTAL",
@@ -121,7 +121,7 @@
 		"stylemeter_multiplier": "<size=28>MULTIPLICADOR</size>"
 	},
 
-	"cyberGrind": {
+	"cyberGrind":{
 		"cybergrind_currentWave": "OLEADA",
 		"cybergrind_enemiesRemaining": "ENEMIGOS RESTANTES",
 
@@ -175,8 +175,7 @@
 		"cybergrind_noPatternsSelected": "NO HAY PATRONES SELECCIONADOS."
 	},
 
-	"books": {
-
+	"books":{
 		"books_scanning": "ESCANEANDO...",
 		"books_pressToClose1": "PULSA",
 		"books_pressToClose2": "PARA CERRAR.",
@@ -215,7 +214,7 @@
 		"books_wrathSecond8": "Radiante es Gabriel, porque él es la luz en mi oscuridad.",
 		"books_wrathSecond9": "TEXTO RESTANTE: IRRELEVANTE."
 	},
-	"intermission": {
+	"intermission":{
 		"act1_intermission_first1": "Desgracia.",
 		"act1_intermission_first2": "Humillación.",
 		"act1_intermission_first3": "Indecoroso e inoportuno a los pies del Consejo.",
@@ -247,7 +246,6 @@
 		"act1_intermission_third3": "A través de las llamas del tormento se forjó un único odio ardiente.",
 		"act1_intermission_third4": "Si las máquinas buscan sangre, él la daría gratis;",
 		"act1_intermission_third5": "y con tal furia, hasta el metal sangrará.",
-
 
 		"act2_intermission_first1": "Silencio.",
 		"act2_intermission_first2": "Introspección.",
@@ -282,9 +280,9 @@
 		"act2_intermission_third3": "El último consejero, ahora apoyado contra una pared, busca las palabras entre respiraciones aterrorizadas mientras la muerte se acerca con pasos medidos.",
 		"act2_intermission_third4": "\"¡E-Espera!",
 		"act2_intermission_third5": "¡N-No puedes hacer esto! ¡Nuestro estatus lo prohíbe!",
-
 		"act2_intermission_third6": "¡Esto es traición, herejía, asesinato!",
 		"act2_intermission_third7": "¡Somos la autoridad suprema, nuestra ley te lo ordena!\"",
+		
 		"act2_intermission_third8": "\"Tú no ordenas nada.",
 		"act2_intermission_third9": "Tus palabras no tienen poder sobre mí ni sobre nadie más.",
 		"act2_intermission_third10": "Para que no creas realmente que puedes convencer a mi espada de que vuelva a su vaina.\"",
@@ -292,7 +290,6 @@
 		"act2_intermission_fourth1": "\"¡P-Pero la gente está de nuestro lado!",
 		"act2_intermission_fourth2": "¡Los ciudadanos del cielo saben que somos justos!\"",
 		"act2_intermission_fourth3": "\"Las masas solo te siguen por miedo y desesperación.",
-
 		"act2_intermission_fourth4": "Les mostraré que no hay nada que temer, porque no hay especie ni origen, rango investido o estatus sagrado que detenga el filo de una espada.",
 
 		"act2_intermission_fourth5": "Todos sangramos la misma sangre, y los cojines de vuestros tronos os han hecho débil e impotente.\"",
@@ -300,21 +297,22 @@
 		"act2_intermission_fourth6": "\"P-Por favor, Gabriel, ¡entra en razón!",
 		"act2_intermission_fourth7": "¡El consejo sigue la voluntad del Padre!",
 		"act2_intermission_fourth8": "Buscas ir en contra de nuestro creador-\"",
+		
 		"act2_intermission_fourth9": "\"Acéptalo, hermano.",
 		"act2_intermission_fourth10": "Dios ha muerto.",
 		"act2_intermission_fourth11": "El fuego se ha extinguido.",
 		"act2_intermission_fourth12": "Estás persiguiendo fantasmas.\"",
+		
 		"act2_intermission_fourth13": "La silueta de Gabriel ahora se eleva sobre el consejero, su sombra proyectada sobre un cadáver pronto sin vida.",
-
 
 		"act2_intermission_fifth1": "Levanta su espada para el corte final mientras el llanto del suelo tartamudea su débil argumento final.",
 
 		"act2_intermission_fifth2": "\"P-P-Pero la luz del Padre!",
 		"act2_intermission_fifth3": "Sin mí no puedes esperar volver a conectarte con él! S-S-Si me matas, estarás muerto en cuestión de horas!\"",
 		"act2_intermission_fifth4": "\"Lo sé.\"",
+		
 		"act2_intermission_fifth5": "Un corte limpio y silencioso se desliza por el cuello del consejero, cortando su columna vertebral con elegancia y facilidad.",
 		"act2_intermission_fifth6": "Su cabeza cae al suelo de mármol, el resto de su cuerpo lo sigue poco después.",
-
 
 		"act2_intermission_sixth1": "Desprovisto de estatus pero rebosante de propósito, Gabriel dio un mensaje final a los ángeles reunidos a las puertas del auditorio antes de dejar el Cielo por última vez.",
 
@@ -400,7 +398,6 @@
 		"level_fullIntroPromptCancel": "CANCELAR"
 	},
 	"visualnovel": {
-
 		"visualnovel_mirageName1": "SOLO ALGUIEN",
         "visualnovel_mirageName2": "LA CHICA MÁS BONITA DE LA CIUDAD",
         "visualnovel_mirageName3": "MIRAGE",
@@ -523,36 +520,51 @@
         "visualnovel_waitingResponseThird3": "Por más que lo intentes, eventualmente te convertirás en polvo olvidado en el viento como el resto de nosotros.",
 
 		"visualnovel_nihilism1": "\nQuiero decir, de verdad, tómate un momento para pensarlo.",
+		
 		"visualnovel_nihilism2": "\nLa mente humana, en toda su inmensidad, es capaz de reconocer su total impotencia e inutilidad frente a la inexistencia inevitable, pero es incapaz de aceptarla.",
+		
 		"visualnovel_nihilism3": "\nSolo podemos ignorarlo, escondernos o escapar temporalmente de ello, pero el hecho es que estamos atados al camino de todas las cosas.",
+		
 		"visualnovel_nihilism4": "\nLa muerte es inevitable, no solo para nosotros, sino para todo lo que existe o ha existido alguna vez.",
         "visualnovel_nihilism5": "Todo ser vivo finalmente se extinguirá.",
         "visualnovel_nihilism6": "Cada partícula de materia eventualmente se marchitará y se disipará en entropía.",
+		
 		"visualnovel_nihilism7": "\nNo importa si viviste una buena vida o si dejaste un legado.",
         "visualnovel_nihilism8": "No importa si la humanidad sobrevive mil años o se extingue mañana.",
         "visualnovel_nihilism9": "El resultado final es el mismo: la nada absoluta.",
+		
 		"visualnovel_nihilism10": "\nLa inteligencia humana está más avanzada que que la de otros animales, pero sería un error considerar eso como un regalo.",
         "visualnovel_nihilism11": "Todos los demás seres tienen el don de la ignorancia, de no entender lo que hacemos.",
+		
 		"visualnovel_nihilism12": "\nNuestra inteligencia no es un regalo. Es un defecto.",
+		
 		"visualnovel_nihilism13": "\nEs una extensión de la evolución.",
 		"visualnovel_nihilism14": "La inteligencia, que una vez fue una gran característica en eones pasados, continuó creciendo sin control ni filtros, y desde entonces ha superado un umbral en el que ya no es un beneficio, sino un peligro activo para su anfitrión.",
+		
 		"visualnovel_nihilism15": "\nAl igual que el alce irlandés, una especie de ciervo que, a través de incontables generaciones de evolución, desarrolló cuernos tan anchos y vastos que ya no podía huir de los depredadores, lo que eventualmente llevó a la extinción.",
+		
 		"visualnovel_nihilism16": "\nLa mente humana es una mala adaptación evolutiva causada por ir demasiado lejos en una dirección que alguna vez fue beneficiosa y que, tarde o temprano, conducirá a nuestra extinción.",
         "visualnovel_nihilism17": "\nA nivel individual, ya está sucediendo",
+		
 		"visualnovel_nihilism18": "\nEl temor existencial ya se está apoderando.",
         "visualnovel_nihilism19": "Estoy segura de que tú también lo has sentido.",
         "visualnovel_nihilism20": "El dolor y el miedo de no ser nada, de convertirse en nada.",
         "visualnovel_nihilism21": "El sufrimiento de entender eso.",
+		
 		"visualnovel_nihilism22": "\nNo podemos aceptarlo, por lo que nos escondemos de nuestra propia inteligencia.",
         "visualnovel_nihilism23": "Ponemos límites.",
         "visualnovel_nihilism24": "Nos abstenemos de pensar profundamente en lo que sucederá cuando muramos.",
+		
 		"visualnovel_nihilism25": "\nCreamos distracciones.",
         "visualnovel_nihilism26": "Mantenemos nuestras mentes ocupadas con actividades mundanas y entretenimiento para evitar tener que enfrentarnos cara a cara con la verdad.",
+		
 		"visualnovel_nihilism27": "\nLo sublimamos.",
         "visualnovel_nihilism28": "Transformamos nuestro sufrimiento autorreflexivo en otra forma, arte, para evitar que nos consuma. ",
         "visualnovel_nihilism29": "Cualquier cosa para evitar el pánico.",
+		
 		"visualnovel_nihilism30": "\nPero todas estas formas son simplemente temporales.",
         "visualnovel_nihilism31": "Solo están ahí para descorrer el inevitable velo de impotencia y desesperación que nos envolvería y arruinaría.",
+		
 		"visualnovel_nihilism32": "\nAl final, nada importa.",
         "visualnovel_nihilism33": "No tiene sentido tratar de encontrar alegría en la vida, porque la vida en sí misma es sufrimiento.",
 
@@ -583,9 +595,11 @@
 		"visualnovel_nihilism34": "\nHuh?",
         "visualnovel_nihilism35": "\n¿Cómo podría no estarlo?",
         "visualnovel_nihilism36": "\nPero aún así, en ese caso, la falta de sentido de nuestras acciones lleva a la misma conclusión. -- No hay razón para actuar, ya que cualquier acción es simplemente una fluctuación temporal que, sin embargo, conducirá a la misma conclusión.",
+		
 		"visualnovel_nihilism37": "\nEntiendo lo que quieres decir.",
         "visualnovel_nihilism38": "Sin embargo, eso no alivia mi miedo al final.", 
         "visualnovel_nihilism39": "Incluso si tratara de encontrar un propósito, todavía estaría paralizada por la idea de convertirme en nada.",
+		
 		"visualnovel_nihilism40": "\nYa veo.",
         "visualnovel_nihilism41": "Aunque por mucho que me gustaría abrazarlo, me golpea ese pánico existencial paralizante.",
         "visualnovel_nihilism42": "\nLo entiendo lógicamente, y sé que no hay razón para vivir en la apatía, pero mi lado emocional se niega a escuchar.",
@@ -594,19 +608,24 @@
 		"visualnovel_conclusion1": "\nBueno, seré condenada ",
         "visualnovel_conclusion2": "\nSupongo que tienes una buena cabeza sobre tus hombros después de todo.",
         "visualnovel_conclusion3": "Demonios, estoy impresionada.",
+		
 		"visualnovel_conclusion4": "\nHombre... ",
         "visualnovel_conclusion5": "Siento que me he quitado el peso del mundo de encima.",
         "visualnovel_conclusion6": "O mejor dicho, tú has hecho eso por mí..",
         "visualnovel_conclusion7": "Y honestamente, desde el fondo de mi corazón...",
+		
 		"visualnovel_conclusion8": "\nGracias.",
+		
 		"visualnovel_conclusion9": "\nMe has dado mucho en qué pensar, y aunque estoy segura de que tengo un camino largo y difícil por delante, soy optimista. ",
         "visualnovel_conclusion10": "Por primera vez en lo que parece una eternidad, soy optimista.",
+		
 		"visualnovel_conclusion11": "\nDime... Ya es demasiado tarde para la escuela y ya está bastante claro que nadie vendrá a guiarnos allí, entonces, ¿qué tal si tú y yo nos deshacemos de esa penitenciaría que drena la pasión y vamos a buscar algo para comer, eh?",
 
 		"visualnovel_conclusionPrompt1": "\"Sí, claro. No tengo nada mejor que hacer hoy. Pero tú estás pagando.\"",
         "visualnovel_conclusionPrompt2": "\"No, lo siento. Para ser honesto, todavía estoy un poco enojado contigo por lo grosera que fuiste conmigo.\"",
 
 		"visualnovel_conclusionResponseFirst1": "\nOh, bastardo astuto!",
+		
 		"visualnovel_conclusionResponseFirst2": "\nPero está bien.",
         "visualnovel_conclusionResponseFirst3": "De todos modos, te debo una, así que qué mejor momento para cobrar tu cupón de 'le hice algo bueno a una chica fuera de mi alcance' que ahora, ¿eh?",
 
@@ -839,7 +858,7 @@
 		"save_slotEmpty": "VACIO",
 
 		"language_title": "IDIOMAS",
-        "language_languages": "IDIOMAS"
+        "language_languages": "IDIOMAS",
         "language_openLanguageFolder": "ABRIR CARPETA DE IDIOMAS"
 	},
 	"pauseMenu": {
@@ -906,8 +925,9 @@
 		"levelName_primeSecond": "???",
 		"levelName_primeThird": "???"
 
+
 	},
-	"levelChallenges": {
+	"levelChallenges":{
 		"challenges_preludeFirst": "CONSIGUE 5 MUERTES ROMPIENDO UN SOLO PANEL DE VIDRIO",
 		"challenges_preludeSecond": "GANA EL ENCUENTRO SECRETO",
 		"challenges_preludeThird": "MATA SOLO A UN ENEMIGO",
@@ -941,7 +961,7 @@
 		"challenges_heresySecond": "GOLPEA A GABRIEL CONTRA EL TECHO"
 
 	},
-	"levelTips": {
+	"levelTips":{
 		"leveltips_preludeSecond1": "Las <color=orange>Armas Hitscan</color> como el Revólver hacen <color=orange>daño local.</color>.",
 		"leveltips_preludeSecond2": "Los <color=orange>HEADSHOTS</color> infligen <color=orange>2x</color> de daño y los <color=orange>disparo a los miembros</color> infligen <color=orange>1.5x</color> de daño.",
 
@@ -960,6 +980,7 @@
 
 		"leveltips_limboThird1": "Los enemigos <color=orange>pueden dañar</color> a otros tipos de enemigos.",
 		"leveltips_limboThird2": "Con pensamientos y posicionamientos rápidos, los enemigos poderosos pueden convertirse en armas poderosas.",
+		
 		"leveltips_limboFourth": "Los imanes del <color=cyan>ATTRACTOR NAILGUN</color> se pueden unir a los enemigos para que los objetivos móviles sean fáciles de golpear con clavos.",
 
 		"leveltips_lustFirst": "Los enemigos <color=orange>gritan</color> cuando caen desde una altura <color=orange>fatal</color>.",
@@ -974,6 +995,7 @@
 		"leveltips_lustFourth2": "Encadena los <color=orange>SALTOS DESLIZADOS</color> rápidos después de un <color=cyan>SALTO IMPULSADO</color> te dará una velocidad sostenida increíble.",
 
 		"leveltips_gluttonyFirst": "Los <color=orange>Peligros ambientales</color> Como los líquidos dañinos también lastimarán a los enemigos.",
+		
 		"leveltips_gluttonySecond1": "Si tienes problemas para mantenerte al día con un enemigo duro <color=orange>retrocede y observa</color>.",
 		"leveltips_gluttonySecond2": "Cada enemigo tiene su <color=orange>decir</color> y sus <color=orange>patrones</color> Y aprender eso puede ser la clave para la victoria.",
 
@@ -981,9 +1003,6 @@
 		"leveltips_greedSecond": "Los <color=orange>POWER-UPS</color> se pueden apilar.",
 		"leveltips_greedThird": "Golpear a un enemigo con solo el <color=orange>borde</color> de una <color=orange>explosión</color> lo lanzará sin causar mucho daño, lo que lo convierte en una herramienta arriesgada pero efectiva contra los <color=orange>Stalkers</color>.",
 		"leveltips_greedFourth": "Las <color=orange>monedas</color> aéreas se pueden disparar con cualquier arma <color=orange>hitscan</color>.",
-
-		"leveltips_primeFirst1": "Los <color=orange>Parries</color> se pueden utilizar como una poderosa herramienta de curación.",
-		"leveltips_primeFirst2": "Hacerle parry a cualquier proyectil o ataque cuerpo a cuerpo enemigo repondrá <color=red>completamente tu salud</color> hasta el límite de daño duro.",
 
 		"leveltips_wrathFirst": "La caída <color=orange>bajo el agua</color> es lenta, pero un <color=orange>PISOTÓN</color> permite volver rápidamente al suelo.",
         "leveltips_wrathSecond": "Al <color=orange>deslizarse</color> sobre el agua, <color=orange>se salta</color> sobre su superficie.",
@@ -995,12 +1014,15 @@
         "leveltips_heresyFirst2": "El uso del entorno para <color=orange>romper la línea de visión</color> con los enemigos permite un respiro y tiempo para considerar la <color=orange>priorización de objetivos</color>.",
         "leveltips_heresySecond1": "¡<color=orange>NO</color> DESPERDICIES LA ESTAMINA!",
         "leveltips_heresySecond2": "Impulsarte <color=orange>innecesariamente</color> mientras se lucha contra enemigos muy <color=orange>agresivos</color> hará que no quede nada cuando más se necesite.",
+		
+		"leveltips_primeFirst1": "Los <color=orange>Parries</color> se pueden utilizar como una poderosa herramienta de curación.",
+		"leveltips_primeFirst2": "Hacerle parry a cualquier proyectil o ataque cuerpo a cuerpo enemigo repondrá <color=red>completamente tu salud</color> hasta el límite de daño duro.",
 
 		"leveltips_cybergrind": "Si vuela demasiado lejos de la arena, la sobrecarga del <color=lime>PUMP CHARGE</color> es una buena forma de regresar.",
         "leveltips_sandbox1": "<color=orange>TRUCOS</color> se pueden habilitar en otros niveles ingresando:",
         "leveltips_sandbox2": "Habilitarlo trucos desactivará los rangos."
 	},
-	"shop": {
+	"shop":{
 		"shop_tipofthedayTitle": "CONSEJO DEL DIA",
         "shop_tipoftheday": "CONSEJO DEL DIA",
         "shop_weapons": "ARMAS",
@@ -1186,7 +1208,7 @@
 		"shop_colorsDone": "HECHO",
 		"shop_colorsCustomUnlockPrompt": "DESBLOQUEAR LOS COLORES PERSONALIZADOS PARA:"
 	},
-	"enemyNames": {
+	"enemyNames":{
 		"enemyname_filth": "FILTH",
 		"enemyname_stray": "STRAY",
 		"enemyname_schism": "SCHISM",
@@ -1251,7 +1273,7 @@
 
 	},
 
-	"cheats": {
+	"cheats":{
 		"cheats_disclaimer1": "Habilitar trucos significa que NO obtendrás un rango al completar un nivel y no se guardará una puntuación alta en la Ciber Rutina",
         "cheats_disclaimer2": "<color=green>Presiona <color=white>Ñ</color> o <color=white>Inicio</color> después de habilitar los trucos para ver el menú.</color>",
         "cheats_disclaimerYes": "ACTIVAR TRUCOS",
@@ -1321,7 +1343,7 @@
         "cheats_categorySpecial": "ESPECIAL"
 	},
 
-	"enemybios": {
+	"enemybios":{
 
 		"enemyBios_type": "TIPO",
         "enemyBios_data": "DATOS",
@@ -1557,7 +1579,7 @@
         "enemyBios_minosPrime_strategy2": "Sus proyectiles de serpiente pueden ser parados usando el Feedbacker para una curación completa, incluso si el proyectil no golpea a Minos Prime."
 	},
 
-	"tutorial": {
+	"tutorial":{
 		"tutorial_introStartup1": "SECUENCIA DE ARRANQUE",
 		"tutorial_introStartup2": "LISTA",
 		"tutorial_introVersion1": "FIRMWARE",
@@ -1614,7 +1636,7 @@
 		"tutorial_orb1": "La mayoría de los niveles tienen\n<color=cyan>ORBES DE ALMAS SECRETOS</color>.",
 		"tutorial_orb2": "Tócalos para obtener un <color=orange>BONO DE PUNTOS</color>."
 	},
-	"prelude": {
+	"prelude":{
 		"prelude_first_openingCredits1": "<color=orange>NEW BLOOD</color> PRESENTA",
 		"prelude_first_openingCredits2": "UN <color=orange>JUEGO</color> POR ARSI '<color=orange>HAKITA</color>' PATALA",
         "prelude_first_pipeClip": "\"EL CLIP DE TUBERIAS NUNCA MUERE.\"$T. HAKITA",
@@ -1640,7 +1662,7 @@
 
 		"prelude_secret_somethingWicked": "Algo malo viene en camino."
 	},
-	"act1": {
+	"act1":{
 		"act1_limboFirst_items1": "Toca",
 		"act1_limboFirst_items2": "para agarrar <color=orange>OBJETOS</color>",
 		"act1_limboFirst_nailgun1": "NAILGUN: dispara",
@@ -1672,7 +1694,7 @@
 
 		"act1_secret": "En algún lugar de las profundidades del Limbo, se pone en marcha un mecanismo."
 	},
-	"act2": {
+	"act2":{
 		"act2_greedSecond_sand": "LOS ENEMIGOS CUBIERTOS DE ARENA <color=red>NO SANGRAN</color>",
 
 		"act2_greedThird_wallClip": "\"LA SUCIEDAD SE HA IDO, PERO EL RECUERDO PERMANECE.\"$T. HAKITA",
@@ -1715,7 +1737,7 @@
 
 		"act2_secretNotReady": "SE SUPONE QUE NO DEBES ESTAR AQUI"
 	},
-	"primeSanctum": {
+	"primeSanctum":{
 		"primeSanctum_first_secretText1": "DATOS TERMINALES 01 <color=red>[ENCRIPTADO]</color>",
         "primeSanctum_first_secretText2": "INTRODUCCION A LOS TERMINALES (¡BORRADOR! ¡NO ENVIAR! // NOTA: AGREGAR FOTOS PARA QUE ESOS JODIDOS TRAJES NO SE DUERMAN COMO LA ULTIMA VEZ)",
         "primeSanctum_first_secretText3": "<size=20>Las terminales de la sala de ascensores son una red interconectada avanzada construida con el propósito de transferir materiales y herramientas entre diferentes áreas. Son capaces de transferir material físico como información a través de una señal de radio, que otros terminales pueden recibir y utilizar para reconstruir el objeto enviado. El elemento original se pierde, ya que se transforma en la energía que se utiliza para transmitir la información material, y el proceso es bastante lento debido a la cantidad de información que contiene la materia física.</size>",
@@ -1726,7 +1748,7 @@
         "primeSanctum_first_secretText8": "<size=17>Algunos investigadores han bromeado diciendo que quizás los terminales son simplemente \"demasiado tímidos para cantar\", aunque se han difundido rumores de mecánicos que, después de reparar una terminal defectuosa o rota, se dice que escuchó la terminal tocar una sección vocal cuando solo el mecánico estaba presente sin equipo de grabación, lo que hace que este sea un reclamo no verificable.",
         "primeSanctum_first_secretText9": "FIN DE LOS DATOS 01. Para más información , ver <color=red>[LINK BORRADO]</color> y <color=red>[LINK BORRADO]</color></size>."
 	},
-	"secretLevels": {
+	"secretLevels":{
 		"secretLevels_prelude_somethingWicked": "Algo malo viene en camino.",
 
 		"secretLevels_prelude_testamentTitle": "TESTAMENTO I",
@@ -1754,7 +1776,7 @@
         "secretLevels_complete2": "COMPLETADA"
 	},
 
-	"subtitles": {
+	"subtitles":{
 
 		"subtitles_gabriel_intro1": "Máquina",
         "subtitles_gabriel_intro2": "Da la vuelta ahora",
@@ -1831,7 +1853,6 @@
 
 		"subtitles_minosPrime_taunt1": "Inútil",
         "subtitles_minosPrime_phaseChange": "DÉBIL",
-
 
 		"subtitles_minosPrime_defeated1": "¡Aagh!",
         "subtitles_minosPrime_defeated2": "Perdonenme mis hijos",
@@ -1932,17 +1953,17 @@
 		"hellmap_wrath": "IRA",
 		"hellmap_heresy": "HEREJÍA",
 		"hellmap_prime": "PRIME",
-		"hellmap_act1crescendo": "ACTO I CRESCENDO",
-        "hellmap_act1climax": "ACTO I CLIMAX",
-        "hellmap_act2crescendo": "ACTO II CRESCENDO",
-        "hellmap_act2climax": "ACTO II CLIMAX",
 
 		"hellmap_first": "PRIMERO",
 		"hellmap_second": "SEGUNDO",
 		"hellmap_third": "TERCERO",
 		"hellmap_fourth": "CUARTO",
 		"hellmap_climax": "CLIMAX",
-
+		"hellmap_act1crescendo": "ACTO I CRESCENDO",
+        "hellmap_act1climax": "ACTO I CLIMAX",
+        "hellmap_act2crescendo": "ACTO II CRESCENDO",
+        "hellmap_act2climax": "ACTO II CLIMAX",
+		
 		"levelstats_time": "TIEMPO",
         "levelstats_kills": "MUERTES",
         "levelstats_style": "ESTILO",
