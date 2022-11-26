@@ -22,8 +22,8 @@
 		"credits_helpedBy3": "<color=orange>RYANN VICTORIA</color> <size=18>(ARTISTA 3D Y PROGRAMADOR DE SHADERS)</size>",
 		"credits_helpedBy4": "<color=orange>SAMUEL JAMES BRYAN</color> (ARTISTA 3D)",
 		"credits_helpedBy5": "<color=orange>BIGROCKBMP</color> (ARTISTA CONCEPTUAL)",
-		"credits_helpedBy6": "<color=orange>JERICHO_RUS</color> <size=18>(ILUSTRADOR, ARTISTA DE CONCEPTOS Y TEXTURAS)</size>",
-		"credits_helpedBy7": "<color=orange>FRANCIS XIE</color> (ARTISTA DE CONCEPTO Y TEXTURAS)",
+		"credits_helpedBy6": "<color=orange>JERICHO_RUS</color> <size=18>(ILUSTRADOR, ARTISTA CONCEPTUAL Y TEXTURAS)</size>",
+		"credits_helpedBy7": "<color=orange>FRANCIS XIE</color> (ARTISTA CONCEPTUAL Y TEXTURAS)",
 
 		"credits_contributionsTitle": "CON CONTRIBUCIONES ADICIONALES DE:",
 		"credits_contributions1": "<color=orange>MAXIMILIAN OVESSON</color> (ARTISTA DE LA UI)",
@@ -712,7 +712,7 @@
 		"graphics_dithering": "PIXELES",
 		"graphics_ditheringMinimum": "NINGUNO",
 		"graphics_textureWarping": "TEXTURA DEFORMADA",
-		"graphics_vertexWarping": "DEFORMADO DE VERTICE",
+		"graphics_vertexWarping": "DEFORMADO DE VÉRTICE",
 		"graphics_vertexWarpingNone": "NINGUNO",
 		"graphics_vertexWarpingLight": "LIGERO",
 		"graphics_vertexWarpingMedium": "MEDIANO",
@@ -792,7 +792,7 @@
 		"crosshair_sizeThick": "GRUESO",
 		"crosshair_sizeVeryThick": "DEMASIADO GRUESO",
 		"crosshair_hudFade": "ESCONDER MIRA",
-		"crosshair_powerupBar": "MEDIDOR DE POWERUP",
+		"crosshair_powerupBar": "MEDIDOR DE POTENCIADOR",
 
 		"assists_title": "AYUDA",
 		"assists_majorAssistsDisclaimer1": "Las Ayudas Mayores consiste en modificadores que cambian el juego y su equilibrio considerablemente.",
@@ -850,7 +850,7 @@
 		"save_select": "SELECCIONAR",
 		"save_selected": "SELECCIONADO",
 		"save_delete": "ELIMINAR",
-		"save_deleteWarning1": "Estás seguro que quieres ELIMINAR GUARDADO",
+		"save_deleteWarning1": "¿Estás seguro que quieres ELIMINAR GUARDADO",
 		"save_deleteWarning2": "?",
 		"save_deleteYes": "SÍ, ELIMINAR",
 		"save_deleteNo": "CANCELAR",
@@ -887,7 +887,7 @@
 		"levelName_preludeFirst": "EN EL FUEGO",
 		"levelName_preludeSecond": "LA PICADORA DE CARNE",
 		"levelName_preludeThird": "MÁS ABAJO",
-		"levelName_preludeFourth": "EJERCITO DE UNA MÁQUINA",
+		"levelName_preludeFourth": "EJÉRCITO DE UNA MÁQUINA",
 		"levelName_preludeFifth": "CERBERO",
 		"levelName_preludeSecret": "ALGO MALO",
 
@@ -901,7 +901,7 @@
 		"levelName_lustSecond": "MUERTE A 20,000 VOLTIOS",
 		"levelName_lustThird": "CERTERO ATAQUE AL CORAZÓN",
 		"levelName_lustFourth": "LA CORTE DEL REY CADÁVER",
-		"levelName_lustSecret": "CANCIÓN DE AMOR TOTALMENTE IMPERFECTA",
+		"levelName_lustSecret": "UNA CANCIÓN DE AMOR TOTALMENTE IMPERFECTA",
 
 		"levelName_gluttonyFirst": "EL VIENTRE DE LA BESTIA",
 		"levelName_gluttonySecond": "EN CARNE Y HUESO",
@@ -929,14 +929,14 @@
 	},
 	"levelChallenges":{
 		"challenges_preludeFirst": "CONSIGUE 5 MUERTES ROMPIENDO UN SOLO PANEL DE VIDRIO",
-		"challenges_preludeSecond": "GANA EL ENCUENTRO SECRETO",
-		"challenges_preludeThird": "MATA SOLO A UN ENEMIGO",
-		"challenges_preludeFourth": "DESLÍZATE ININTERRUMPIDO POR 17 SEGUNDOS",
+		"challenges_preludeSecond": "VENCE AL JEFE SECRETO",
+		"challenges_preludeThird": "MATA UN SOLO ENEMIGO",
+		"challenges_preludeFourth": "DESLÍZATE ININTERRUMPIDAMENTE POR 17 SEGUNDOS",
 		"challenges_preludeFifth": "NO INFLIJAS DAÑO FATAL A NINGUN ENEMIGO",
 
 		"challenges_limboFirst": "COMPLETA EL NIVEL EN MENOS DE 10 SEGUNDOS",
 		"challenges_limboSecond": "NO AGARRES NINGUN CRÁNEO",
-		"challenges_limboThird": "GANA EL ENCUENTRO SECRETO",
+		"challenges_limboThird": "VENCE AL JEFE SECRETO",
 		"challenges_limboFourth": "NO AGARRES NINGUN CRÁNEO",
 
 		"challenges_lustFirst": "NO ABRAS NINGUNA PUERTA",
@@ -957,60 +957,60 @@
 		"challenges_wrathThird": "NO TOQUES EL AGUA",
 		"challenges_wrathFourth": "LLEGA A LA SUPERFICIE EN MENOS DE 10 SEGUNDOS",
 
-		"challenges_heresyFirst": "GANA EL ENCUENTRO SECRETO",
+		"challenges_heresyFirst": "VENCE AL JEFE SECRETO",
 		"challenges_heresySecond": "GOLPEA A GABRIEL CONTRA EL TECHO"
 
 	},
 	"levelTips":{
 		"leveltips_preludeSecond1": "Las <color=orange>Armas Hitscan</color> como el Revólver hacen <color=orange>daño local.</color>.",
-		"leveltips_preludeSecond2": "Los <color=orange>HEADSHOTS</color> infligen <color=orange>2x</color> de daño y los <color=orange>disparo a los miembros</color> infligen <color=orange>1.5x</color> de daño.",
+		"leveltips_preludeSecond2": "Los <color=orange>HEADSHOTS</color> infligen <color=orange>2x</color> de daño y los <color=orange>disparo a las extremidades</color> infligen <color=orange>1.5x</color> de daño.",
 
 		"leveltips_preludeThird1": "<color=orange>Impulso</color>: Totalmente invencible, cuesta estamina.",
 		"leveltips_preludeThird2": "<color=orange>Deslizar</color>: Mayor distancia, sin invencibilidad.",
 		"leveltips_preludeThird3": "<color=orange>Salto</color>: Rápidamente fuera del alcance cuerpo a cuerpo, menos control.",
 
 		"leveltips_preludeFourth1": "<color=orange>Parry de Escopeta</color>:",
-		"leveltips_preludeFourth2": "Un disparo de escopeta a un <color=orange>Punto Blanco</color> en el <color=orange>torso</color> justo antes de que caiga un ataque enemigo infligirá daño masivo.",
+		"leveltips_preludeFourth2": "Un disparo de escopeta en el <color=orange>torso</color=orange> justo antes de que caiga un ataque enemigo infligirá daño masivo.",
 
 		"leveltips_preludeFifth": "Las <Color=orange>Señales de sonido de ataque</color> te permite realizar un seguimiento de los enemigos que están fuera de tu visión.",
 
-		"leveltips_limboFirst": "Algunos enemigos emiten <color=orange>sonidos inactivos</color> para facilitar su seguimiento.",
+		"leveltips_limboFirst": "Algunos enemigos emiten <color=orange>sonidos de inactividad</color> para facilitar su seguimiento.",
 
 		"leveltips_limboSecond": "Utiliza los imanes del <color=cyan>ATTRACTOR NAILGUN</color> para formar <color=orange>orbes</color> concentrados de clavos que pueden <color=orange>desplazarse</color> utilizando la fuerza de tracción <color=orange>de otros imanes</color>.",
 
 		"leveltips_limboThird1": "Los enemigos <color=orange>pueden dañar</color> a otros tipos de enemigos.",
-		"leveltips_limboThird2": "Con pensamientos y posicionamientos rápidos, los enemigos poderosos pueden convertirse en armas poderosas.",
+		"leveltips_limboThird2": "Pensamientos y posicionamientos rápidos pueden hacer de enemigos poderosos unas armas potentes.",
 		
 		"leveltips_limboFourth": "Los imanes del <color=cyan>ATTRACTOR NAILGUN</color> se pueden unir a los enemigos para que los objetivos móviles sean fáciles de golpear con clavos.",
 
-		"leveltips_lustFirst": "Los enemigos <color=orange>gritan</color> cuando caen desde una altura <color=orange>fatal</color>.",
+		"leveltips_lustFirst": "Los enemigos <color=orange>gritan</color> cuando caen desde una altura <color=orange>considerable</color>.",
 
 		"leveltips_lustSecond1": "<color=orange>REBOTE DE SLAM</color>:",
 		"leveltips_lustSecond2": "salta inmediatamente después de aterrizar de un <color=orange>PISOTÓN</color> para saltar más alto.",
-		"leveltips_lustSecond3": "Cuanto más largo sea el golpe en el suelo, mayor será el rebote.",
+		"leveltips_lustSecond3": "Cuanto más larga sea la caída en el suelo, mayor será el rebote.",
 
-		"leveltips_lustThird": "Todas las variaciones del <color=orange>RAILCANNON</color> comparten el mismo tiempo de reutilización. Elija sabiamente qué variación se adapta mejor a la situación.",
+		"leveltips_lustThird": "Todas las variaciones del <color=orange>RAILCANNON</color> comparten el mismo tiempo de recarga. Elija sabiamente qué variación se adapta mejor a la situación.",
 
-		"leveltips_lustFourth1": "<color=orange>DESLIZAR</color> conservará el impulso anterior durante un breve período de tiempo.",
-		"leveltips_lustFourth2": "Encadena los <color=orange>SALTOS DESLIZADOS</color> rápidos después de un <color=cyan>SALTO IMPULSADO</color> te dará una velocidad sostenida increíble.",
+		"leveltips_lustFourth1": "<color=orange>DESLIZARSE</color> conservará el impulso anterior durante un breve período de tiempo.",
+		"leveltips_lustFourth2": "Encadena los <color=orange>SALTOS DESLIZADOS</color> después de un <color=cyan>SALTO IMPULSADO</color> y mantendrás una velocidad increíble.",
 
-		"leveltips_gluttonyFirst": "Los <color=orange>Peligros ambientales</color> Como los líquidos dañinos también lastimarán a los enemigos.",
+		"leveltips_gluttonyFirst": "Los <color=orange>peligros ambientales</color> como líquidos dañinos también dañarán a los enemigos.",
 		
-		"leveltips_gluttonySecond1": "Si tienes problemas para mantenerte al día con un enemigo duro <color=orange>retrocede y observa</color>.",
-		"leveltips_gluttonySecond2": "Cada enemigo tiene su <color=orange>decir</color> y sus <color=orange>patrones</color> Y aprender eso puede ser la clave para la victoria.",
+		"leveltips_gluttonySecond1": "Si tienes problemas para luchar con un enemigo duro <color=orange>retrocede y observa</color>.",
+		"leveltips_gluttonySecond2": "Cada enemigo tiene sus <color=orange>patrones de ataque.</color> Aprenderlos puede ser la clave para la victoria.",
 
 		"leveltips_greedFirst": "Las armas <color=orange>HITSCAN</color> se pueden usar para disparar la <color=cyan>GRANADA</color> de la escopeta en el aire para aumentar su daño y radio de explosión.",
-		"leveltips_greedSecond": "Los <color=orange>POWER-UPS</color> se pueden apilar.",
+		"leveltips_greedSecond": "Los <color=orange>POTENCIADORES</color> se pueden apilar.",
 		"leveltips_greedThird": "Golpear a un enemigo con solo el <color=orange>borde</color> de una <color=orange>explosión</color> lo lanzará sin causar mucho daño, lo que lo convierte en una herramienta arriesgada pero efectiva contra los <color=orange>Stalkers</color>.",
 		"leveltips_greedFourth": "Las <color=orange>monedas</color> aéreas se pueden disparar con cualquier arma <color=orange>hitscan</color>.",
 
 		"leveltips_wrathFirst": "La caída <color=orange>bajo el agua</color> es lenta, pero un <color=orange>PISOTÓN</color> permite volver rápidamente al suelo.",
-        "leveltips_wrathSecond": "Al <color=orange>deslizarse</color> sobre el agua, <color=orange>se salta</color> sobre su superficie.",
+        "leveltips_wrathSecond": "Al <color=orange>deslizarse</color> sobre el agua, <color=orange>se rebota</color> sobre su superficie.",
         "leveltips_wrathThird": "Si un enemigo es <color=orange>bendecido</color> por un <color=orange>ídolo</color>, se forma una conexión visible directa entre ambos, lo que permite <color=orange>localizar</color> y destruir fácilmente al protector.",
         "leveltips_wrathFourth1": "Las <color=orange>explosiones</color> desvían <color=orange>proyectiles</color>.",
-        "leveltips_wrathFourth2": "Si una explosión se produce justo donde un enemigo dispara un proyectil, puede ser <color=orange>contraproducente</color> y <color=orange>golpealos</color> en su lugar.",
+        "leveltips_wrathFourth2": "Si una explosión se produce justo donde un enemigo dispara un proyectil, puede ser <color=orange>devolver el daño</color> en su lugar.",
 
-		"leveltips_heresyFirst1": "El espacio de un <color=orange>gran</color> estadio puede utilizarse en beneficio propio.",
+		"leveltips_heresyFirst1": "El espacio de una <color=orange>gran arena de combate</color> puede utilizarse en beneficio propio.",
         "leveltips_heresyFirst2": "El uso del entorno para <color=orange>romper la línea de visión</color> con los enemigos permite un respiro y tiempo para considerar la <color=orange>priorización de objetivos</color>.",
         "leveltips_heresySecond1": "¡<color=orange>NO</color> DESPERDICIES LA ESTAMINA!",
         "leveltips_heresySecond2": "Impulsarte <color=orange>innecesariamente</color> mientras se lucha contra enemigos muy <color=orange>agresivos</color> hará que no quede nada cuando más se necesite.",
@@ -1023,8 +1023,8 @@
         "leveltips_sandbox2": "Habilitarlo trucos desactivará los rangos."
 	},
 	"shop":{
-		"shop_tipofthedayTitle": "CONSEJO DEL DIA",
-        "shop_tipoftheday": "CONSEJO DEL DIA",
+		"shop_tipofthedayTitle": "CONSEJO DEL DÍA",
+        "shop_tipoftheday": "CONSEJO DEL DÍA",
         "shop_weapons": "ARMAS",
         "shop_monsters": "ENEMIGOS",
         "shop_cybergrind": "CIBER RUTINA",
@@ -1038,7 +1038,7 @@
         "shop_cybergrindEnterTitle": "LA CIBER RUTINA",
         "shop_cybergrindEnter": "ENTRAR A CIBERUTINA",
         "shop_cybergrindReturningTo": "Volviendo a:",
-        "shop_cybergrindExitTitle": "VOLVER A LA MISION",
+        "shop_cybergrindExitTitle": "VOLVER A LA MISIÓN",
         "shop_cybergrindExit": "SALIR DE LA CIBER RUTINA",
 
 		"shop_sandboxTitle": "SANDBOX",
@@ -1239,19 +1239,19 @@
         "enemyname_boss_cancerousRodent": "ROEDOR CANCERÍGENO",
         "enemyname_boss_veryCancerousRodent": "ROEDOR MUY CANCERÍGENO",
         "enemyname_boss_hideousMass": "MASA HORRIBLE",
-        "enemyname_boss_swordsmachineAgony": "MÁQUINA DE ESPADAS \"AGONIA\"",
+        "enemyname_boss_swordsmachineAgony": "MÁQUINA DE ESPADAS \"AGONÍA\"",
         "enemyname_boss_swordsmachineTundra": "MÁQUINA DE ESPADAS \"TUNDRA\"",
         "enemyname_boss_corpseOfKingMinos": "EL CADÁVER DEL REY MINOS",
         "enemyname_boss_gabriel": "GABRIEL, JUEZ DEL INFIERNO",
         "enemyname_boss_insurrectionist": "INSURGENTE DE SÍSIFO",
-        "enemyname_boss_mandalore": "MISTERIOSO CABALLERO DRUIDA (Y BUHO)",
+        "enemyname_boss_mandalore": "MISTERIOSO CABALLERO DRUIDA (Y BÚHO)",
         "enemyname_boss_v2": "V2",
         "enemyname_boss_v2Second": "V2",
         "enemyname_boss_ferryman": "EL BARQUERO",
         "enemyname_boss_leviathan": "LEVIATÁN",
-        "enemyname_boss_insurrectionistAngry": "INSURGENTE \"ENFADADO\"",
-        "enemyname_boss_insurrectionistRude": "INSURGENTE \"RUDO\"",
-        "enemyname_boss_gabrielSecond": "GABRIEL, APOSTATA DEL ODIO",
+        "enemyname_boss_insurrectionistAngry": "INSURGENTE \"ANGIE\"",
+        "enemyname_boss_insurrectionistRude": "INSURGENTE \"RUDA\"",
+        "enemyname_boss_gabrielSecond": "GABRIEL, APÓSTATA DEL ODIO",
 
 		"enemyname_type_lesserHusk": "TIPO: CÁSCARA MENOR",
         "enemyname_type_greaterHusk": "TIPO: CÁSCARA MAYOR",
@@ -1290,7 +1290,7 @@
         "cheats_flight": "Volar",
         "cheats_infiniteWallJumps": "Saltos de pared infinitos",
         "cheats_noWeaponCooldown": "No hay cooldown",
-        "cheats_infinitePowerUps": "Power-ups ∞",
+        "cheats_infinitePowerUps": "Potenciadores ∞",
         "cheats_blindEnemies": "Enemigos ciegos",
         "cheats_disableEnemySpawns": "Quitar spawn",
         "cheats_invincibleEnemies": "Rival inmortal",
