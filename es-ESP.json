@@ -338,7 +338,7 @@
 		"mainmenu_christmas": "FELIZ NAVIDAD",
 		"mainmenu_play": "JUGAR",
 		"mainmenu_options": "OPCIONES",
-		"mainmenu_credits": "CREDITOS",
+		"mainmenu_credits": "CRÉDITOS",
 		"mainmenu_quit": "SALIR",
         "mainmenu_mods": "MODS",
 		"mainmenu_restart": "REINICIAR",
@@ -1588,7 +1588,7 @@
 		"tutorial_introCalibration2": "RECIENTEMENTE ACTUALIZADA",
         "tutorial_recalibrationPrompt": "¿REALIZAR RECALIBRACIÓN?",
         "tutorial_calibrationAudio": "AUDIO",
-        "tutorial_calibrationVideo": "VIDEO",
+        "tutorial_calibrationVideo": "VÍDEO",
         "tutorial_calibrationMechanics": "MECÁNICAS",
         "tutorial_calibrationComplete1": "CALIBRACIÓN COMPLETA",
         "tutorial_calibrationComplete2": "AJUSTES PRIMARIOS ACTUALIZADOS",
@@ -1618,7 +1618,7 @@
 
 		"tutorial_controllerCalibrationTitle": "MANDO DETECTADO",
         "tutorial_controllerCalibrationSubtitle": "<color=#4C99E6>APUNTE AUTOMÁTICO</color> RECOMENDADO",
-        "tutorial_controllerCalibrationTooltip": "EL APUNTE AUTOMÁTICO TAMBIÉN SE PUEDE MODIFICAR EN EL MENÚ DE <color=#4C99E6>AYUDA</color>",
+        "tutorial_controllerCalibrationTooltip": "EL APUNTE AUTOMÁTICO TAMBIÉN SE PUEDE MODIFICAR EN EL MENÚ DE <color=#4C99E6>AYUDAS</color>",
 
 		"tutorial_punch1": "Presiona",
 		"tutorial_punch2": "para <color=orange>GOLPEAR</color>.",
@@ -1628,18 +1628,18 @@
 		"tutorial_dash2": "para <color=#00DFFF>IMPULSARTE</color>.\n(Consume <color=#00DFFF>ESTAMINA</color>)",
 		"tutorial_dash3": "Se puede hacer en el aire.",
 		"tutorial_health1": "Haz daño a corta distancia para empaparte de \n<color=red>SANGRE FRESCA</color>.",
-		"tutorial_health2": "<color=red>ESTA ES LA ÚNICA FORMA DE RECUPERAR LA SALUD</color>.",
+		"tutorial_health2": "<color=red>ESTA ES LA ÚNICA FORMA DE RECUPERAR SALUD</color>.",
 		"tutorial_walljump": "<color=orange>SALTA</color> cerca de una <color=orange>PARED</color> para hacer un <color=orange>SALTO DE PARED</color>.\n(Max. 3 veces)",
 		"tutorial_shockwave1": "Presiona",
 		"tutorial_shockwave2": "en el aire para hacer un <color=orange>PISOTÓN</color>.",
 		"tutorial_shockwave3": "Mantén para hacer una <color=orange>ONDA DE CHOQUE</color>. (Consume <color=#00DFFF>2 DE ESTAMINA</color>)",
 		"tutorial_orb1": "La mayoría de los niveles tienen\n<color=cyan>ORBES DE ALMAS SECRETOS</color>.",
-		"tutorial_orb2": "Tócalos para obtener un <color=orange>BONO DE PUNTOS</color>."
+		"tutorial_orb2": "Tócalos para obtener un <color=orange>BONUS DE PUNTOS</color>."
 	},
 	"prelude":{
 		"prelude_first_openingCredits1": "<color=orange>NEW BLOOD</color> PRESENTA",
 		"prelude_first_openingCredits2": "UN <color=orange>JUEGO</color> POR ARSI '<color=orange>HAKITA</color>' PATALA",
-        "prelude_first_pipeClip": "\"EL CLIP DE TUBERIAS NUNCA MUERE.\"$T. HAKITA",
+        "prelude_first_pipeClip": "\"EL CLIP DE TUBERÍAS NUNCA MUERE.\"$T. HAKITA",
 		"prelude_first_revolverPierce1": "<color=cyan>REVOLVER</color>: Mantén",
 		"prelude_first_revolverPierce2": "esto carga un disparo <color=orange>PERFORADOR</color>.",
 		"prelude_first_parry": "<color=orange>GOLPEA</color> un <color=orange>PROYECTIL</color> en el tiempo preciso para <color=orange>DEVOLVERLO</color>.",
@@ -1651,7 +1651,7 @@
 		"prelude_first_groundSlam2": "inflige daño con un golpe directo.",
 
 		"prelude_second_shop": "Usa tus <color=orange>PUNTOS</color> en la <color=orange>TIENDA</color> al inicio de cada nivel para nuevas armas.",
-        "prelude_second_doorClip": "\"¿QUE HAY ARRIBA?\"$T. HAKITA",
+        "prelude_second_doorClip": "\"¿QUÉ HAY ARRIBA?\"$T. HAKITA",
 		"prelude_second_changeEquipped": "Para <color=orange>EQUIPAR</color> las variaciones toque",
 
 		"prelude_third_needShotgun": "<color=red>PODER DE FUEGO INSUFICIENTE</color>",
@@ -1666,12 +1666,12 @@
 		"act1_limboFirst_items1": "Toca",
 		"act1_limboFirst_items2": "para agarrar <color=orange>OBJETOS</color>",
 		"act1_limboFirst_nailgun1": "NAILGUN: dispara",
-		"act1_limboFirst_nailgun2": "<color=orange>IMAN DE CLAVOS</color>.",
+		"act1_limboFirst_nailgun2": "<color=orange>IMÁN DE CLAVOS</color>.",
 		"act1_limboFirst_nailgun3": "Puedes usarlos en los escenarios para hacer trampas.",
 
 		"act1_limboSecond_blueAttack": "Con un <color=cyan>FLASH AZUL</color> el <color=cyan>PARRY</color> no sirve.",
 
-		"act1_limboThird_splitDoor1": "<color=red>PUERTAS</color> de distintos <color=cyan>COLORES</color>, solo requieren <color=red>UN</color> <color=cyan>CRANEO</color>.",
+		"act1_limboThird_splitDoor1": "<color=red>PUERTAS</color> de distintos <color=cyan>COLORES</color>, solo requieren <color=red>UN</color> <color=cyan>CRÁNEO</color>.",
 		"act1_limboThird_splitDoor2": "Si no buscas dificultades, quédate adentro.",
 
 		"act1_limboFourth_book": "<color=orange>AGARRA</color> PARA LEER.",
@@ -1735,11 +1735,11 @@
 
 		"act2_heresyFirst_armboy": "P I B E  F A C H A !!!",
 
-		"act2_secretNotReady": "SE SUPONE QUE NO DEBES ESTAR AQUI"
+		"act2_secretNotReady": "SE SUPONE QUE NO DEBES ESTAR AQUÍ"
 	},
 	"primeSanctum":{
 		"primeSanctum_first_secretText1": "DATOS TERMINALES 01 <color=red>[ENCRIPTADO]</color>",
-        "primeSanctum_first_secretText2": "INTRODUCCION A LOS TERMINALES (¡BORRADOR! ¡NO ENVIAR! // NOTA: AGREGAR FOTOS PARA QUE ESOS JODIDOS TRAJES NO SE DUERMAN COMO LA ULTIMA VEZ)",
+        "primeSanctum_first_secretText2": "INTRODUCCIÓN A LOS TERMINALES (¡BORRADOR! ¡NO ENVIAR! // NOTA: AGREGAR FOTOS PARA QUE ESOS JODIDOS TRAJES NO SE DUERMAN COMO LA ÚLTIMA VEZ)",
         "primeSanctum_first_secretText3": "<size=20>Las terminales de la sala de ascensores son una red interconectada avanzada construida con el propósito de transferir materiales y herramientas entre diferentes áreas. Son capaces de transferir material físico como información a través de una señal de radio, que otros terminales pueden recibir y utilizar para reconstruir el objeto enviado. El elemento original se pierde, ya que se transforma en la energía que se utiliza para transmitir la información material, y el proceso es bastante lento debido a la cantidad de información que contiene la materia física.</size>",
         "primeSanctum_first_secretText4": "<size=20>Una de las primeras pruebas de la precisión de la transferencia de materia fue un disco de vinilo de 78 rpm en perfecto estado, que se envió desde el laboratorio a todos los terminales conectados. El vinilo era un sencillo de la grabación de Russ Morgan Orchestra de la pieza Were You Foolin' (una de las favoritas de la CRO), aunque se eliminó la etiqueta para reducir la cantidad de material a transferir.</size>",
         "primeSanctum_first_secretText5": "<size=5><color=grey>[Nota: vete a la mierda tom, estoy jodidamente cansado de esta estúpida canción y de tener que escucharla todas las mañanas en tu intercomunicador de mierda]</color></size>",
@@ -1753,9 +1753,9 @@
 
 		"secretLevels_prelude_testamentTitle": "TESTAMENTO I",
         "secretLevels_prelude_testament1": "LA HUMANIDAD ES UN FRACASO.",
-        "secretLevels_prelude_testament2": "EL LIBRE ALBEDRIO ES UN DEFECTO.",
+        "secretLevels_prelude_testament2": "EL LIBRE ALBEDRÍO ES UN DEFECTO.",
         "secretLevels_prelude_testament3": "QUE LA MALDAD DE SUS PROPIOS LABIOS LOS CONSUMA.",
-        "secretLevels_prelude_testament4": "ENTONCES VOLVERE A COMENZAR, CON MI PALABRA COMO LEY.",
+        "secretLevels_prelude_testament4": "ENTONCES VOLVERÉ A COMENZAR, CON MI PALABRA POR LEY.",
 
 		"secretLevels_first_testamentTitle": "TESTAMENTO II",
         "secretLevels_first_testament1": "FRACASO TRAS FRACASO TRAS FRACASO TRAS FRACASO TRAS FRACASO TRAS FRACASO TRAS FRACASO TRAS FRACASO TRAS FRACASO",
@@ -1764,8 +1764,8 @@
         "secretLevels_first_testament4": "MI FE COMIENZA A DECAER",
 
 		"secretLevels_fourth_testamentTitle": "TESTAMENTO III",
-        "secretLevels_fourth_testament1": "INCONTABLES CICLOS DE CREACION DESPERDICIADOS",
-        "secretLevels_fourth_testament2": "INCONTABLES FORMULAS PARA UNA MENTE SIN LIBRE ALBEDRIO DESPERDICIADOS",
+        "secretLevels_fourth_testament1": "INCONTABLES CICLOS DE CREACIÓN DESPERDICIADOS",
+        "secretLevels_fourth_testament2": "INCONTABLES FÓRMULAS PARA UNA MENTE SIN LIBRE ALBEDRÍO DESPERDICIADOS",
         "secretLevels_fourth_testament3": "MALDITO EL HOMBRE POR NO CUMPLIR MI REGLA, MI PALABRA, MI LEY",
         "secretLevels_fourth_testament4": "CONDENADO A UNA ETERNIDAD DE TORTURA Y SUFRIMIENTO,",
         "secretLevels_fourth_testament5": "EL LAMENTO Y EL CRUJIMIENTO DE DIENTES",
@@ -1780,7 +1780,7 @@
 
 		"subtitles_gabriel_intro1": "Máquina",
         "subtitles_gabriel_intro2": "Da la vuelta ahora",
-        "subtitles_gabriel_intro3": "Los círculos de este palacio no son para los de tu tipo",
+        "subtitles_gabriel_intro3": "Los círculos de este palacio no son para los de tu clase",
         "subtitles_gabriel_intro4": "Vuelve atrás o estarás desafiando la voluntad de Dios",
         "subtitles_gabriel_intro5": "Tu elección está hecha",
         "subtitles_gabriel_intro6": "Como la justa mano del padre",
@@ -1803,7 +1803,7 @@
 
 		"subtitles_gabriel_phaseChange": "¡Suficiente!",
 
-		"subtitles_gabriel_defeated1": "Qué..?",
+		"subtitles_gabriel_defeated1": "¿Qué..?",
         "subtitles_gabriel_defeated2": "¿Cómo es posible?",
         "subtitles_gabriel_defeated3": "Superado por esta...",
         "subtitles_gabriel_defeated4": "esta cosa..?",
@@ -1899,7 +1899,7 @@
         "subtitles_gabrielSecondTaunt2": "¡Ven a por un poco de SANGRE!",
         "subtitles_gabrielSecondTaunt3": "¿Qué es esta SENSACIÓN?",
         "subtitles_gabrielSecondTaunt4": "¡NADA MÁS QUE CHATARRA!",
-        "subtitles_gabrielSecondTaunt5": "¡TE ESTAS OXIDANDO MÁQUINA!",
+        "subtitles_gabrielSecondTaunt5": "¡TE ESTÁS OXIDANDO MÁQUINA!",
         "subtitles_gabrielSecondTaunt6": "¿¡PERDÍ CONTRA ESTO!?",
         "subtitles_gabrielSecondTaunt7": "¡HORA DE CORREGIR MI ERROR!",
         "subtitles_gabrielSecondTaunt8": "¡ARREGLEMOS ESTO!",
@@ -1927,13 +1927,13 @@
 	"misc": {
 		"hud_noArm1": "<color=red>NO PUEDO GOLPEAR SI NO TENGO EL BRAZO, IDIOTA</color>",
         "hud_noArm2": "Los brazos se pueden reequipar en la tienda",
-        "hud_majorAssists": "<color=#4C99E6>LAS AYUDAS MAYORES ESTAN HABILITADAS</color>",
+        "hud_majorAssists": "<color=#4C99E6>LAS AYUDAS MAYORES ESTÁN HABILITADAS</color>",
         "hud_overhealOrb1": "Los <color=red>ORDES DE ALMAS ROJOS</color> dan <color=lime>200 DE VIDA</color>",
         "hud_overhealOrb2": "Esta sobrecarga no puede regenerarse con sangre",
         "hud_itemGrabError": "<color=red>ERROR: LA PUERTA DE BLOQUEO SE CERRARÍA</color>",
-        "hud_levelStats1": "Mantén presionada la tecla TAB para ver las estadísticas actuales al REPRODUCIR un nivel.",
-        "hud_levelStats2": "DOBLE TAP para mantenerlo abierto.",
-        "hud_outOfBounds": "Whoops, lo siento por eso.",
+        "hud_levelStats1": "Mantén presionada la tecla TAB para ver las estadísticas actuales al JUGAR un nivel.",
+        "hud_levelStats2": "DOBLE TAB para mantenerlo abierto.",
+        "hud_outOfBounds": "Ups, lo siento por eso.",
         "hud_clashMode": "\"<color=orange>MODO CLASH</color>\" TRUCO DESBLOQUEADO",
         "hud_weaponVariation": "Para <color=orange>EQUIPAR</color> las variaciones de las armas toque",
 
@@ -1958,11 +1958,11 @@
 		"hellmap_second": "SEGUNDO",
 		"hellmap_third": "TERCERO",
 		"hellmap_fourth": "CUARTO",
-		"hellmap_climax": "CLIMAX",
+		"hellmap_climax": "CLÍMAX",
 		"hellmap_act1crescendo": "ACTO I CRESCENDO",
-        "hellmap_act1climax": "ACTO I CLIMAX",
+        "hellmap_act1climax": "ACTO I CLÍMAX",
         "hellmap_act2crescendo": "ACTO II CRESCENDO",
-        "hellmap_act2climax": "ACTO II CLIMAX",
+        "hellmap_act2climax": "ACTO II CLÍMAX",
 		
 		"levelstats_time": "TIEMPO",
         "levelstats_kills": "MUERTES",
@@ -1974,11 +1974,11 @@
 
 		"state_activated": "ACTIVADO",
         "state_deactivated": "DESACTIVADO",
-        "state_yes": "SI",
+        "state_yes": "SÍ",
         "state_no": "NO",
 
 		"controls_leftClick": "CLICK IZQUIERDO",
-        "controls_middleClick": "CLICK DEL MEDIO",
+        "controls_middleClick": "CLICK CENTRAL",
         "controls_rightClick": "CLICK DERECHO",
 
 		"endStats_cheatsUsed": "TRUCOS USADOS",
@@ -1993,7 +1993,7 @@
 
 		"pressToSkip": "Toca <color=orange>ESC</color> para omitir",
 
-		"youDied1": "[ESTAS MUERTO]",
+		"youDied1": "[ESTÁS MUERTO]",
         "youDied2": "PRESIONA [R] PARA REINICIAR",
 
 		"classicHud_health": "SALUD",
