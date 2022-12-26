@@ -1050,7 +1050,7 @@
         "shop_weaponInfo": "INFO",
         "shop_weaponColors": "COLOR",
 
-		"shop_weaponsRevolver": "REVOLVER",
+		"shop_weaponsRevolver": "REVÓLVER",
         "shop_weaponsShotgun": "ESCOPETA",
         "shop_weaponsNailgun": "NAILGUN",
         "shop_weaponsRailcannon": "RAILCANNON",
@@ -1058,12 +1058,12 @@
         "shop_weaponsArms": "BRAZOS",
 
 		"shop_revolverPiercer": "PIERCER",
-        "shop_revolverPiercerDescription1": "<color=orange>Mantén</color> Fuego Alt para cargar un <color=orange>Un rayo de 3 golpes</color>.",
-        "shop_revolverPiercerDescription2": "Requiere <color=orange>enfriarse</color>.",
+        "shop_revolverPiercerDescription1": "<color=orange>Mantén</color> Fuego Alt para cargar un <color=orange>un rayo de 3 golpes</color>.",
+        "shop_revolverPiercerDescription2": "Necesita <color=orange>enfriarse</color>.",
 
 		"shop_revolverMarksman": "MARKSMAN",
         "shop_revolverMarksmanDescription1": "Toque Fuego Alt para tirar una <color=orange>moneda</color>.",
-        "shop_revolverMarksmanDescription2": "Golpea en el <color=orange>aire</color> la moneda para <color=orange>dirigir</color> el disparo al enemigo mas cercano en su <color=orange>punto debil</color>.",
+        "shop_revolverMarksmanDescription2": "Golpea en el <color=orange>aire</color> la moneda para <color=orange>dirigir</color> el disparo al enemigo más cercano en su <color=orange>punto débil</color>.",
         "shop_revolverMarksmanDescription3": "Estas pueden <color=orange>encadenarse</color>.",
 
 		"shop_shotgunCoreEject": "CORE EJECT",
@@ -1072,45 +1072,45 @@
         "shop_shotgunCoreEjectDescription3": "<color=orange>Explota</color> en el impacto.",
 
 		"shop_shotgunPumpCharge": "PUMP CHARGE",
-        "shop_shotgunPumpChargeDescription1": "Presiona Fuego Alt para cargar una <color=orange>bomba</color> en tu escopeta, incrementa el <color=orange>poder</color> y disminuye la <color=orange>precisión</color> de tu <color=orange>siguiente disparo</color>.",
-        "shop_shotgunPumpChargeDescription2": "Demasiadas cargas causaran una <color=orange>explosion</color> cuando se dispare.",
+        "shop_shotgunPumpChargeDescription1": "Presiona Fuego Alt para cargar una <color=orange>bomba</color> en tu escopeta, incrementando el <color=orange>poder</color> y disminuyendo la <color=orange>precisión</color> de tu <color=orange>siguiente disparo</color>.",
+        "shop_shotgunPumpChargeDescription2": "Demasiadas cargas causarán una <color=orange>explosión</color> cuando se dispare.",
 
 		"shop_nailgunMagnet": "ATTRACTOR",
-        "shop_nailgunMagnetDescription1": "Toque Fuego Alt para disparar un <color=orange>iman</color> que tira todos los <color=orange>clavos</color> cerca hacia el iman.",
+        "shop_nailgunMagnetDescription1": "Toque Fuego Alt para disparar un <color=orange>imán</color> que tira de todos los <color=orange>clavos</color> cercanos hacia el imán.",
         "shop_nailgunMagnetDescription2": "Los imanes se pegan en <color=orange>superficies</color> y <color=orange>enemigos</color> y se puede romper con <color=orange>disparos</color> de armas.",
 
 		"shop_nailgunOverheat": "OVERHEAT",
-        "shop_nailgunOverheatDescription1": "Toque Fuego Alt mientras se dispara el <color=orange>overheat</color> para una rafaga rapida de alto daño al costo de vaciar el <color=orange>disipador de calor</color>.",
+        "shop_nailgunOverheatDescription1": "Toque Fuego Alt mientras se dispara el <color=orange>overheat</color> para una ráfaga rápida de alto daño a coste de vaciar el <color=orange>disipador de calor</color>.",
         "shop_nailgunOverheatDescription2": "Estos se recargan.",
 
 		"shop_railcannonElectric": "ELECTRIC",
-        "shop_railcannonElectricDescription1": "Una perforacion poderosa e instantanea",
-        "shop_railcannonElectricDescription2": "<color=orange>Perfora</color> <color=orange>todos</color> los enemigos. Presta atencion a tu <color=orange>posision</color> para aumentar la destruccion.",
+        "shop_railcannonElectricDescription1": "Una perforación poderosa e instantánea",
+        "shop_railcannonElectricDescription2": "<color=orange>Perfora a</color> <color=orange>todos</color> los enemigos. Presta atención a tu <color=orange>posisión</color> para aumentar la destrucción.",
         "shop_railcannonElectricDescription3": "No lo uses en el agua.",
 
 		"shop_railcannonScrewdriver": "SCREWDRIVER",
-        "shop_railcannonScrewdriverDescription1": "Dispara un poderoso taladro y <color=orange>palos</color> a un enemigo e inflinge daño por un <color=orange>tiempo extraordinario</color>.",
+        "shop_railcannonScrewdriverDescription1": "Dispara un poderoso taladro que <color=orange>se pega</color> a un enemigo e inflinge daño por un <color=orange>tiempo extraordinario</color>.",
         "shop_railcannonScrewdriverDescription2": "El taladro hace que los enemigos sangren continuamente.",
 
 		"shop_railcannonMalicious": "MALICIOUS",
-        "shop_railcannonMaliciousDescription1": "Dispara un rayo instantáneo que provoca una <color=orange>explosion larga</color>, similar a cierta cara familiar.",
-        "shop_railcannonMaliciousDescription2": "Limpia los grupos de enemigos debiles con facilidad.",
+        "shop_railcannonMaliciousDescription1": "Dispara un rayo instantáneo que provoca una <color=orange>gran explosión</color>, similar a cierta cara familiar.",
+        "shop_railcannonMaliciousDescription2": "Limpia los grupos de enemigos débiles con facilidad.",
 
 		"shop_rocketLauncherFreeze": "FREEZEFRAME",
         "shop_rocketLauncherFreezeDescription1": "Presiona Fuego Alt para <color=orange>congelar</color> los cohetes.",
         "shop_rocketLauncherFreezeDescription2": "Los cohetes congelados tienen un radio de explosión mayor y <color=orange>permanecerán congelados</color> incluso cuando cambies de arma.",
 
 		"shop_armFeedbacker": "FEEDBACKER",
-        "shop_armFeedbackerDescription1": "Puño rapido con un daño decente.",
-        "shop_armFeedbackerDescription2": "Puedes hacer <color=orange>parry</color> a proyectiles, incluyendo <color=orange>Disparos de escopeta</color> y <color=orange>monedas</color>.",
+        "shop_armFeedbackerDescription1": "Puño rápido con un daño decente.",
+        "shop_armFeedbackerDescription2": "Puedes hacer <color=orange>parry</color> a proyectiles, incluyendo <color=orange>disparos de escopeta</color> y <color=orange>monedas</color>.",
 
 		"shop_armKnuckleblaster": "KNUCKLEBLASTER",
         "shop_armKnuckleblasterDescription1": "Puño lento con alto daño y retroceso.",
-        "shop_armKnuckleblasterDescription2": "<color=orange>Mantén el puño</color> para hacer estallar proyectiles dentro de los nudillos, causando una <color=orange>onda de choque</color> que empuja a los enemigos.",
+        "shop_armKnuckleblasterDescription2": "<color=orange>Mantén pulsado el puño</color> para hacer estallar proyectiles dentro de los nudillos, causando una <color=orange>onda de choque</color> que empuja a los enemigos.",
 
 		"shop_armWhiplash": "GANCHO",
         "shop_armWhiplashDescription1": "Un cabrestante con lanza.",
-        "shop_armWhiplashDescription2": "<color=orange>Mantén</color> para tirarlo, <color=orange>suéltalo</color> para jalarlo.\n\nPuedes tirar de los enemigos y articulos de la luz, iras hacia los enemigos pesados.",
+        "shop_armWhiplashDescription2": "<color=orange>Mantén</color> para tirarlo, <color=orange>suéltalo</color> para tirar.\n\nPuedes tirar de objetos y enemigos ligeros, te llevará hacia los enemigos más pesados.",
 
 		"shop_data": "DATOS",
         "shop_strategy": "ESTRATEGIA",
@@ -1138,15 +1138,15 @@
         "shop_loreShotgun8": "El núcleo de la variación Core Eject se puede disparar desde el aire a través de un arma hitscan como el Revolver para aumentar el radio y el daño de su explosión. Un hitscan ya explosivo aumentará aún más su radio.",
         "shop_loreShotgun9": "La lentitud de los proyectiles de calor condensado puede parecer un detrimento al principio, pero esto significa que un golpe bien sincronizado con el brazo Feedbacker puede golpearlos, potenciando el propio disparo para mayor precisión, velocidad y daño.",
 
-		"shop_loreNailgun1": "Una combinación de piezas de una pistola de clavos industrial y una vieja pistola de balas. Lo más probable es que haya sido diseñado por una máquina construida para trabajos de construcción, ya que todas las máquinas, incluso las que no se construyeron para la guerra, tuvieron que aprender a valerse por sí mismas después de la extinción de la humanidad.",
+		"shop_loreNailgun1": "Una combinación de piezas de una ametralladora de clavos industrial y una vieja pistola de balas. Lo más probable es que haya sido diseñado por una máquina construida para trabajos de construcción, ya que todas las máquinas, incluso las que no se construyeron para la guerra, tuvieron que aprender a valerse por sí mismas después de la extinción de la humanidad.",
         "shop_loreNailgun2": "Las pistolas de bala se abandonaron en gran medida después de la invención de sistemas de munición como armas eléctricas y armas térmicas, en gran parte debido a lo mucho más barato que se vuelve el no tener que comprar munición para ejércitos a gran escala con el paso del tiempo.",
-        "shop_loreNailgun3": "Aunque el sistema de munición original lo hizo inútil y en gran parte abandonado, esta arma aún estaba excelentemente diseñada y construido, por lo que con algunas modificaciones de piezas de una pistola de clavos industrial, se ha convertido en un arma de proyectiles de fuego rápido con munición de metal prácticamente infinita.",
+        "shop_loreNailgun3": "Aunque el sistema de munición original lo hizo inútil y en gran parte abandonado, esta arma aún estaba excelentemente diseñada y construido, por lo que con algunas modificaciones de piezas de una ametralladora de clavos industrial, se ha convertido en un arma de proyectiles de fuego rápido con munición de metal prácticamente infinita.",
         "shop_loreNailgun4": "Sin embargo, como es de esperar de un arma improvisada, su diseño está lejos de ser perfecto. Como el sistema de regeneración de clavos no fue diseñado para funcionar a una velocidad tan alta, es probable que se sobrecaliente si no se establece un límite de velocidad estricto, aunque algunas variantes han optado por disipadores de calor incorporados.",
-        "shop_loreNailgun5": "Debido a la naturaleza de su munición limitada, la pistola de clavos se usa mejor en ráfagas cortas en lugar de períodos prolongados de tiempo.",
-        "shop_loreNailgun6": "Los imanes de la variación Imán también afectarán a los clavos de otras variaciones de pistola de clavos, lo que permite pasar por alto otros factores limitantes como el estallido de la variación Overheat que tiene poca precisión.",
-        "shop_loreNailgun7": "Algunos enemigos, como Cara Malisiosa, son generalmente débiles para los clavos y, en particular, los clavos de mayor calidad de la variación Imán limitada diezmarán a la mayoría de los enemigos débiles.",
+        "shop_loreNailgun5": "Debido a la naturaleza de su munición limitada, la ametralladora de clavos se usa mejor en ráfagas cortas en lugar de períodos prolongados de tiempo.",
+        "shop_loreNailgun6": "Los imanes de la variación Imán también afectarán a los clavos de las otras variaciones de la ametralladora de clavos, lo que permite pasar por alto otros factores limitantes como la poca precisión de la variación Overheat.",
+        "shop_loreNailgun7": "Algunos enemigos, como la Cara Malisiosa, son generalmente débiles a los clavos y, en particular, los clavos de mayor calidad de la variación Imán, que diezmarán a la mayoría de enemigos débiles.",
         "shop_loreNailgun8": "Los clavos se incrustan en los enemigos, provocando algunos efectos especiales. Las armas eléctricas recibirán un aumento de daño al golpear a un enemigo que tenga clavos, y con suficientes clavos, los enemigos ligeros se magnetizarán y serán atraídos por los imanes de la variación Imán, lo que permitirá desactivar temporalmente a los enemigos ligeros duraderos.",
-        "shop_loreNailgun9": "El la velocidad de giro de los cañones se transfiere entre las variaciones, lo que significa que disparar incluso una vez con la variación Imán proporciona el máximo calor para la variación Overheat, lo que permite una ráfaga instantánea de sobrecalentamiento completo.",
+        "shop_loreNailgun9": "La velocidad de giro de las ametralladoras se transfiere entre las variaciones, lo que significa que disparar incluso una vez con la variación Imán proporciona el máximo calor para la variación Overheat, lo que permite una ráfaga instantánea de sobrecalentamiento completo.",
 
 		"shop_loreRailcannon1": "Esta herramienta industrial fue uno de los primeros usos de la tecnología que eventualmente se convirtió en pistolas eléctricas.",
         "shop_loreRailcannon2": "Originalmente se pensó como un generador de mano, lo que permitía generar electricidad de manera fácil para reubicaciones temporales, como campamentos durante guerras o expediciones.",
@@ -1174,31 +1174,31 @@
 
 		"shop_revolverPreset1": "ESTÁNDAR",
         "shop_revolverPreset2": "MAGNUM",
-        "shop_revolverPreset3": "ROMPEHIELO",
+        "shop_revolverPreset3": "ROMPEHIELOS",
         "shop_revolverPreset4": "CALIENTE Y LISTA",
-        "shop_revolverPreset5": "OPTIMISTA",
+        "shop_revolverPreset5": "SANGUÍNEO",
 
 		"shop_shotgunPreset1": "ESTÁNDAR",
         "shop_shotgunPreset2": "CLÁSICO",
         "shop_shotgunPreset3": "PALACIO",
         "shop_shotgunPreset4": "CARAMELO",
-        "shop_shotgunPreset5": "LUJO",
+        "shop_shotgunPreset5": "LUJOSO",
 
 		"shop_nailgunPreset1": "ESTÁNDAR",
-        "shop_nailgunPreset2": "ACIDO",
+        "shop_nailgunPreset2": "ÁCIDO",
         "shop_nailgunPreset3": "CIELO LIMPIO",
-        "shop_nailgunPreset4": "LEOPARDO DE NIEVE",
+        "shop_nailgunPreset4": "LEOPARDO NEVADO",
         "shop_nailgunPreset5": "VAMPIRO",
 
 		"shop_railcannonPreset1": "ESTÁNDAR",
         "shop_railcannonPreset2": "INVERSO",
-        "shop_railcannonPreset3": "AMOR Y REGALIZ",
+        "shop_railcannonPreset3": "AMOR Y CANDOR",
         "shop_railcannonPreset4": "STATUE VEIN",
         "shop_railcannonPreset5": "INDUSTRIAL",
 
 		"shop_rocketlauncherPreset1": "ESTÁNDAR",
         "shop_rocketlauncherPreset2": "RÚSTICO",
-        "shop_rocketlauncherPreset3": "LAPIZ LABIAL",
+        "shop_rocketlauncherPreset3": "LÁPIZ LABIAL",
         "shop_rocketlauncherPreset4": "BERENJENA",
         "shop_rocketlauncherPreset5": "AMATISTA NOCTURNA",
 
@@ -1350,18 +1350,18 @@
         "enemyBios_strategy": "ESTRATEGIAS",
 
 		"enemyBios_filth_1": "Los Husks son manifestaciones físicas de las almas de los condenados.",
-        "enemyBios_filth_2": "Su forma física esta basada en el valor de su alma original, el cual es determinado por la fuerza de su voluntad y su prevalencia ante la conciencia pública: las almas vivientes que los recuerdan.",
+        "enemyBios_filth_2": "Su forma física está basada en el valor de su alma original, el cual es determinado por la fuerza de su voluntad y su prevalencia ante la conciencia pública: las almas vivientes que los recuerdan.",
         "enemyBios_filth_3": "Los Filth son los Husks más débiles, cuyas almas fueron tan endebles e insignificantes como para formar un cuerpo físico completo.",
         "enemyBios_filth_4": "Incluso entre los Husks, estos son los menos inteligentes, motivados solamente por el hambre.",
 
-		"enemyBios_filth_strategy1": "La mayoría de las armas son capaces de fácilmente acabar con los Filth, pero sus poderosas mandíbulas y grandes números pueden abrumar a un objetivo rápidamente si los subestiman.",
+		"enemyBios_filth_strategy1": "La mayoría de las armas son capaces de fácilmente acabar con los Filth, pero sus poderosas mandíbulas y grandes grupos pueden abrumar a un objetivo rápidamente si los subestiman.",
         "enemyBios_filth_strategy2": "Los explosivos son la mejor forma de lidiar con aglomeraciones, pero cualquier arma que pueda darle a más de un objetivo será eficiente.",
 
 		"enemyBios_stray_1": "Aunque su alta estatura pueda ser algo intimidante, los Strays le tienen miedo al peligro y tratarán de ubicarse a una distancia segura, atacando solo con proyectiles formados por Energía Infernal.",
         "enemyBios_stray_2": "Pese a que controlar y manifestar esta energía es una tarea difícil, los Strays tienen una muy baja inteligencia y solo pueden hacerlo mediante puro instinto.",
         "enemyBios_stray_3": "No obstante, los humanos no fueron capaces de replicar este nivel de precisión y control, particularmente la habilidad del Stray de causar que los orbes de energía ignoren selectivamente a otros Husks.",
 
-		"enemyBios_stray_strategy1": "Muchas armas son efectivas contra ellos, pero un headshot de revolver es la forma más rápida y segura de eliminar a un Stray.",
+		"enemyBios_stray_strategy1": "Muchas armas son efectivas contra ellos, pero un headshot de revólver es la forma más rápida y segura de eliminar a un Stray.",
         "enemyBios_stray_strategy2": "Debido a su naturaleza estática y baja cadencia de ataque, son un excelente blanco para deflectar proyectiles.",
 
 		"enemyBios_schism_1": "El resultado de dos almas intentando manifestarse en un mismo espacio, causando una amalgama de dos cuerpos físicos.",
@@ -1566,14 +1566,14 @@
         "enemyBios_fleshPrison_strategy1": "La Prisión de Carne utilizará sus engendros para curar sus propias heridas. Cuantos más engendros queden, más probable será que la Prisión de Carne intente curar sus heridas, por lo que es aconsejable evitar dañarla hasta que los engendros estén muertos.",
         "enemyBios_fleshPrison_strategy2": "La larga ventana de un tiro dividido retrasado es una gran manera de eliminar varios despojos a la vez. Lanzar varias monedas en el aire y esperar a que alcancen el estado de disparo diferido antes de dispararlas es un buen movimiento de apertura después de que la Prisión de Carne cree sus engendros.",
         
-        "enemyBios_minosPrime_1": "Un alma primordial es un acontecimiento increíblemente raro en el que un alma acumula tanto poder que ya no necesita un Husk como recipiente para manifestarse físicamente.",
-        "enemyBios_minosPrime_2": "Como manifestaciones de la voluntad pura, las almas primarias son increíblemente poderosas, hasta el punto de que incluso los ángeles orgullosos las ven como una amenaza y utilizarán cualquier medio necesario para impedir su formación.",
+        "enemyBios_minosPrime_1": "Un alma Prime es un acontecimiento increíblemente raro en el que un alma acumula tanto poder que ya no necesita un Husk como recipiente para manifestarse físicamente.",
+        "enemyBios_minosPrime_2": "Como manifestaciones de la voluntad pura, las almas Prime son increíblemente poderosas, hasta el punto de que incluso los ángeles orgullosos las ven como una amenaza y utilizarán cualquier medio necesario para impedir su formación.",
         "enemyBios_minosPrime_3": "El rey Minos consideraba que el sufrimiento eterno era un castigo injusto e irrazonable para aquellos cuyo único pecado era amar a otro. Después de la Desaparición de Dios, cuando los ángeles se perdieron y el Cielo se sumió en el caos, Minos comenzó sus esfuerzos para reformar la capa de la Lujuria.",
-        "enemyBios_minosPrime_4": "El renacimiento de Lujuria fue próspero, ya que el rey Minos guió a sus habitantes para que se unieran y construyeran una nueva civilización. Los esfuerzos combinados de los innumerables condenados a la segunda capa dieron grandes resultados, ya que la gran ciudad de Lujuria creció y creció.",
+        "enemyBios_minosPrime_4": "El renacimiento de Lujuria fue próspero, ya que el rey Minos guió a sus habitantes para que se unieran y construyeran una nueva civilización. Los esfuerzos combinados de los innumerables condenados a la segunda capa dieron grandes resultados por lo que la gran ciudad de Lujuria creció y creció.",
         "enemyBios_minosPrime_5": "Sin embargo, después de que el Consejo tomara el control del Cielo y le diera estabilidad a través de su gobierno de puño de hierro, vieron que Minos había ido en contra de la voluntad de Dios al liberar a los pecadores del castigo que Dios había diseñado para ellos.",
         "enemyBios_minosPrime_6": "Gabriel, el más brillante de los ángeles, fue enviado a matar a Minos. El rey, en lugar de defenderse, intentó razonar con él, pero Gabriel lo abatió sin piedad y sin escucharlo.",
-        "enemyBios_minosPrime_7": "Como la voluntad de Minos era lo suficientemente fuerte como para intentar enfrentarse al gobierno del Cielo, los ángeles optaron por encarcelar su alma en un intento de impedir que se convirtiera en un alma principal y nombraron a Gabriel como nuevo Juez del Infierno.",
-        "enemyBios_minosPrime_8": "Desde la prisión dentro de su propio cuerpo, Minos observó impotente cómo su cadáver sin alma, ahora controlado por parásitos, destrozaba todo lo que tanto le había costado construir, maldiciendo su propia debilidad por no haber protegido a su pueblo, jurando vengarse...",
+        "enemyBios_minosPrime_7": "Como la voluntad de Minos era lo suficientemente fuerte como para confrontar al consejo del Cielo, los ángeles optaron por encarcelar su alma en un intento de impedir que se convirtiera en un alma Prime y nombraron a Gabriel como el nuevo Juez del Infierno.",
+        "enemyBios_minosPrime_8": "Desde la prisión dentro de su propio cuerpo, Minos observó impotente cómo su cadáver sin alma, ahora controlado por parásitos, destrozaba todo lo que tanto le había costado construir, maldiciendo su propia debilidad de no haber protegido a su pueblo, jurando vengarse...",
         
         "enemyBios_minosPrime_strategy1": "Es raro que Minos Prime dé una ventana de oportunidad para curarse, por lo que es vital aprender qué ataques le dejan momentáneamente vulnerable y cómo esquivarlos de forma que se obtenga una posición ventajosa durante esos momentos.",
         "enemyBios_minosPrime_strategy2": "Sus proyectiles de serpiente pueden ser parados usando el Feedbacker para una curación completa, incluso si el proyectil no golpea a Minos Prime."
