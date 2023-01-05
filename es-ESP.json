@@ -222,7 +222,7 @@
 		"act1_intermission_first5": "¿Ha abandonado éste el camino de nuestro creador?",
 		"act1_intermission_first6": "Es indigno de la Luz Sagrada.",
 		"act1_intermission_first7": "La Luz del Padre es indomable.",
-		"act1_intermission_first8": "Éste considera oportuno despilfarrarlo.",
+		"act1_intermission_first8": "Éste considera oportuno despilfarrarla.",
 		"act1_intermission_first9": "Sus palabras resonaron en los miembros de Gabriel, recorriendo como un rayo sobre un cable, un silbido abrasador que dejaría sordos y ciegos a los menores.",
 		"act1_intermission_first10": "La Luz Sagrada dentro de él, una tormenta imparable de furia divina.",
 		"act1_intermission_first11": "Insuperable para meros objetos.",
@@ -235,7 +235,7 @@
 		"act1_intermission_second5": "\"Inexplicable.\"",
 		"act1_intermission_second6": "\"Silencio.\"",
 		"act1_intermission_second7": "\"Tu traición no será tolerada. Como castigo, La Luz del Padre será separada de tu cuerpo.",
-		"act1_intermission_second8": "Tienes 24 horas antes de que el último de sus miembros muera.",
+		"act1_intermission_second8": "Tienes 24 horas antes de que se apague el último de sus rescoldos.",
 		"act1_intermission_second9": "Y tú con ellos.",
 		"act1_intermission_second10": "Demuestra tu lealtad.",
 		"act1_intermission_second11": "Deshazte de tus errores.\"",
@@ -533,7 +533,7 @@
         "visualnovel_nihilism8": "No importa si la humanidad sobrevive mil años o se extingue mañana.",
         "visualnovel_nihilism9": "El resultado final es el mismo: la nada absoluta.",
 		
-		"visualnovel_nihilism10": "\nLa inteligencia humana está más avanzada que que la de otros animales, pero sería un error considerar eso como un regalo.",
+		"visualnovel_nihilism10": "\nLa inteligencia humana está más avanzada que la de otros animales, pero sería un error considerar eso como un regalo.",
         "visualnovel_nihilism11": "Todos los demás seres tienen el don de la ignorancia, de no entender lo que hacemos.",
 		
 		"visualnovel_nihilism12": "\nNuestra inteligencia no es un regalo. Es un defecto.",
@@ -1383,7 +1383,7 @@
         "enemyBios_ferryman_2": "El Cielo les ha dado a cada uno un paño sagrado como símbolo de su devoción al orden de Dios, que usan sobre sus cuerpos para ocultar la forma humana que han llegado a despreciar como un recordatorio de sus pecados en la vida deteniéndolos de convertirse en ángeles.",
         "enemyBios_ferryman_3": "Debido al poder sagrado que emana de la tela, los cuerpos esqueléticos de los Ferryman se han coloreado lentamente de forma brillante y radiante, y sus cráneos tienen suficiente energía latente para abrir puertas que, de otro modo, impedirían que los Husk salgan de sus lugares de tormento.",
         "enemyBios_ferryman_4": "Cada Ferry solo puede tener un Ferryman a la vez, por lo que cuando se forme un nuevo Ferryman, luchará a muerte con otro para tomar su lugar y heredar su tela. El cráneo del perdedor se toma como trofeo y se usa para otorgar al ganador el paso a través de los pisos para transportar las almas de los condenados a sus destinos.",
-        "enemyBios_ferryman_5": "Los Ferryman a menudo usarán el conocimiento de su vida pasada para mejorar sus barcos, superando la necesidad de remos, que ahora los Ferryman usan solo como arma.",
+        "enemyBios_ferryman_5": "Los barqueros a menudo usarán el conocimiento de su vida pasada para mejorar sus barcos, superando la necesidad de remos, que ahora los barqueros usan solo como armas.",
         "enemyBios_ferryman_6": "Como la afluencia de almas ha terminado junto con la muerte de la humanidad, los Ferryman han perdido su propósito y ahora vagan sin rumbo, esperando que los ángeles les concedan el paso al cielo, a pesar de que Gabriel es el único que se preocupa por sus esfuerzos.",
 
 		"enemyBios_ferryman_strategy1": "Los Ferryman eligen sus ataques en función de las acciones de su oponente. Cuando se acercan, se mueven a un lugar seguro y cuando se retiran, aplicarán presión a través de ataques con mayor alcance.",
@@ -1553,7 +1553,7 @@
         "enemyBios_virtue_strategy2": "Si se ignoran durante demasiado tiempo, las Virtudes se enfurecen, haciendo que sus rayos de luz predigan el movimiento de su objetivo. Aunque es fácil evitar sus ataques con suficiente espacio, dejarlas desatendidas puede cambiar rápidamente las tornas a su favor.",
         
         "enemyBios_somethingWicked_1": "Se sabe muy poco sobre esta criatura.",
-        "enemyBios_somethingWicked_2": "Algunos especulan que se trata de un Hueco, pero debido a su naturaleza extremadamente hostil, nadie ha podido confirmar la hipótesis.",
+        "enemyBios_somethingWicked_2": "Algunos especulan que se trata de un Husk, pero debido a su naturaleza extremadamente hostil, nadie ha podido confirmar la hipótesis.",
         "enemyBios_somethingWicked_3": "Sólo se ha observado uno y nunca se le ha visto salir de la sección de la Boca del Infierno en la que reside actualmente.",
         
         "enemyBios_somethingWicked_strategy1": "Cualquier ataque hará que se reubique temporalmente, pero no se conocen formas de matarlo.",
