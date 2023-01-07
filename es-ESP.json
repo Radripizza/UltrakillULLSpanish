@@ -2,10 +2,11 @@
 	"metadata": {
 		"langName": "ES-es",
 		"langAuthor": "ESP Group",
-		"langVersion": "1.0",
+		"langVersion": "2.2",
 		"langDisplayName": "Español",
-
-		"minimumModVersion": "1.0.2"
+        "langRTL": "false",
+		
+		"minimumModVersion": "1.1.1"
 	},
 
 	"body": {
@@ -239,7 +240,6 @@
 		"act1_intermission_second9": "Y tú con ellos.",
 		"act1_intermission_second10": "Demuestra tu lealtad.",
 		"act1_intermission_second11": "Deshazte de tus errores.\"",
-		"act1_intermission_second12": "PARA ELIMINAR",
 
 		"act1_intermission_third1": "Mientras la Luz era arrancada de su ser, los gritos de Gabriel se silenciaron en el silbido del evangelio en alabanza a Dios.",
 		"act1_intermission_third2": "Una angustia hirviente a la que ni siquiera los fuegos del infierno podrían compararse.",
@@ -506,6 +506,7 @@
         "visualnovel_waitingPromptFirst2": "\"Cualquiera que conozca el camino ya habrá ido allí. Me parece que solo estás buscando una excusa para rendirte.\"",
 
 		"visualnovel_waitingResponseFirst1": "\nHaz lo que quieras. Me quedaré aquí hasta la muerte por el calor del universo si eso significa que no tengo que correr de un lado a otro buscando alguna cosa mágica en el suelo que desencadene la memoria.",
+		
         "visualnovel_waitingResponseFirst2": "No podría importarme menos llegar tarde a la escuela.",
         "visualnovel_waitingResponseFirst3": "La escuela no importa de todos modos.",
         "visualnovel_waitingResponseFirst4": "Nada lo hace.",
@@ -684,7 +685,7 @@
 		"controls_slot2": "RANURA 2",
 		"controls_slot3": "RANURA 3",
 		"controls_slot4": "RANURA 4",
-        	"controls_slot5": "RANURA 5",
+        "controls_slot5": "RANURA 5",
 		"controls_scrollType": "DESPLAZARSE A TRAVÉS DEL TIPO DE",
 		"controls_scrollTypeWeapons": "ARMAS",
 		"controls_scrollTypeVariations": "VARIACIONES",
@@ -719,8 +720,8 @@
 		"graphics_vertexWarpingStrong": "PESADO",
 		"graphics_vertexWarpingVeryStrong": "MUY PESADO",
 		"graphics_vertexWarpingAbsurd": "ARTE MODERNO",
-        	"graphics_customColorPalette": "PALETA DE COLORES PERSONALIZADA",
-        	"graphics_customColorPaletteSelect": "SELECCIONAR",
+        "graphics_customColorPalette": "PALETA DE COLORES PERSONALIZADA",
+        "graphics_customColorPaletteSelect": "SELECCIONAR",
 		"graphics_colorCompression": "COMPRESIÓN DE COLOR",
 		"graphics_colorCompressionNone": "NINGUNO",
 		"graphics_colorCompressionLight": "LIGERO",
@@ -745,6 +746,7 @@
 		"audio_subtitles": "SUBTÍTULOS",
 		"audio_globalVolume": "VOLUMEN PRINCIPAL",
 		"audio_musicVolume": "VOLUMEN DE LA MÚSICA",
+		"audio_dubbing": "DOBLAJE",
 
 		"hud_title": "HUD",
 		"hud_type": "TIPO DE HUD",
