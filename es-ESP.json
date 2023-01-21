@@ -381,58 +381,58 @@
 		"chapter_secretMission": "MISIÓN SECRETA",
 
 		"layer_prelude": "OBERTURA: LA BOCA DEL INFIERNO",
-		"layer_limbo": "CIRCULO 1: LIMBO",
-		"layer_lust": "CIRCULO 2: LUJURIA",
-		"layer_gluttony": "CIRCULO 3: GULA",
-		"layer_greed": "CIRCULO 4: CODICIA",
-		"layer_wrath": "CIRCULO 5: IRA",
-		"layer_heresy": "CIRCULO 6: HEREJÍA",
+		"layer_limbo": "CÍñRCULO 1: LIMBO",
+		"layer_lust": "CÍRCULO 2: LUJURIA",
+		"layer_gluttony": "CÍRCULO 3: GULA",
+		"layer_greed": "CÍRCULO 4: CODICIA",
+		"layer_wrath": "CÍRCULO 5: IRA",
+		"layer_heresy": "CÍRCULO 6: HEREJÍA",
 		"layer_prime": "SANTUARIOS PRIME",
 
 		"level_challenge": "DESAFÍO",
 		"level_challengeCompleted": "COMPLETO",
 
 		"level_fullIntroPrompt": "INTRO\n COMPLETA?",
-		"level_fullIntroPromptYes": "SI",
+		"level_fullIntroPromptYes": "SÍ",
 		"level_fullIntroPromptNo": "NO",
 		"level_fullIntroPromptCancel": "CANCELAR"
 	},
 	"visualnovel": {
-		"visualnovel_mirageName1": "SOLO ALGUIEN",
-        "visualnovel_mirageName2": "LA CHICA MÁS BONITA DE LA CIUDAD",
+		"visualnovel_mirageName1": "ALGUIEN",
+        "visualnovel_mirageName2": "LA CHICA MÁS GUAPA DE LA CIUDAD",
         "visualnovel_mirageName3": "MIRAGE",
 
 		"visualnovel_introFirst1": "Pasos pesados, respiración irregular.",
         "visualnovel_introFirst2": "No queda mucho tiempo.",
         "visualnovel_introFirst3": "Puede que ya sea demasiado tarde.",
 
-		"visualnovel_introFirst4": "Los caminos laberínticos de giros bruscos arbitrarios parecían más y más extraños a medida que el pánico borraba los recuerdos profundamente arraigados que solían guiarme.",
+		"visualnovel_introFirst4": "Los laberínticos caminos de giros bruscos y arbitrarios parecían más y más extraños a medida que el pánico borraba los recuerdos profundamente arraigados que solían guiarme.",
 
         "visualnovel_introFirst5": "Cada rincón se sentía extraño. ",
         "visualnovel_introFirst6": "Cada línea recta demasiado larga.",
 
-        "visualnovel_introFirst7": "Las campanas suenan por mí.",
+        "visualnovel_introFirst7": "Las campanas me llaman.",
 
 		"visualnovel_introSecond1": "Mordí con más fuerza la última de mis raciones, sostenida solo por la piel de mis dientes.",
         "visualnovel_introSecond2": "Apenas aguanto mientras seguía mirando frenéticamente a mi alrededor, esperando que los pocos fragmentos de mi ardiente memoria encuentren una vista familiar que me lleve a la salvación.",
         "visualnovel_introSecond3": "Las puertas deben estar cerrándose ahora.",
         "visualnovel_introSecond4": "Los últimos apenas lo logran.",
-        "visualnovel_introSecond5": "El resto nunca tuvo oportunidad.",
+        "visualnovel_introSecond5": "El resto nunca tuvo una oportunidad.",
 
-		"visualnovel_introSecond6": "De repente, desde un punto ciego, una figura me golpeó.",
-        "visualnovel_introSecond7": "No tuve tiempo de reaccionar antes de que me estrellara contra el suelo frío y duro.",
-        "visualnovel_introSecond8": "Luché por recuperar mis sentidos para al menos ver qué destino me ocurriría en mis momentos finales, pero incluso en este abismo de terror sin fin, mi mente nunca podría haber imaginado el horror que presencié.",
+		"visualnovel_introSecond6": "Pero de repente y desde un punto ciego, una figura me golpeó.",
+        "visualnovel_introSecond7": "No tuve tiempo de reaccionar antes de que me derribase contra el frío y duro suelo.",
+        "visualnovel_introSecond8": "Intenté recuperar mis sentidos para al menos ver qué destino tendría en mis momentos finales, pero incluso en este abismo de terror sin fin, mi mente nunca pudo haber imaginado el horror que presencié.",
 
 		"visualnovel_fallen1": "\nUf, ay, eso apesta ",
 
 		"visualnovel_fallenPromptFirst1": "\"¿Quién eres tú?\"",
         "visualnovel_fallenPromptFirst2": "\"¿Estás bien?\"",
-        "visualnovel_fallenPromptFirst3": "*Agitarse nerviosamente y sudar profusamente*",
+        "visualnovel_fallenPromptFirst3": "*Sentir escalofríos y sudar profundamente*",
 
 		"visualnovel_fallenResponseFirst": "\nSolo soy alguien que fue golpeada por un imbécil que ni siquiera tiene la decencia de preguntarme si estoy bien o de disculparse antes de iniciar un interrogatorio.",
         "visualnovel_fallenResponseSecond": "\nBueno, me acaba de golpear un idiota ciego por elección, que le dio a mi falda una capa de suciedad decorativa, así que en general fantástica, aunque preferiría no estar en el suelo en este momento.",
         "visualnovel_fallenResponseThird1": "\nOh genial, me golpeó una fuente vibrante, solo mi suerte.",
-        "visualnovel_fallenResponseThird2": "Al menos podrías ayudarme a levantarme antes de que el resto de ti sea derretido por el sol o se hunda en el manto de la tierra.",
+        "visualnovel_fallenResponseThird2": "Al menos podrías ayudarme a levantarme antes de que tus restos sean derretido por el sol o se hunda en el manto de la tierra.",
 
 
 		"visualnovel_fallenPromptSecond1": "Ayudarla a subir",
@@ -446,7 +446,7 @@
 		"visualnovel_kindFirst1": "\n*Suspiro*",
         "visualnovel_kindFirst2": "Oye, perdón por ser tan grosera, estoy realmente frustrada porque no solo llegué tarde a la escuela, sino que también logré perderme en el camino.",
 
-		"visualnovel_kindSecond": "\nAunque, por lo que parece, estás más o menos en el mismo barco, y por un golpe de suerte único en la vida te encontraste con la ~chica más bonita de la ciudad~.",
+		"visualnovel_kindSecond": "\nAunque, por lo que parece, estás más o menos en el mismo barco, y por un golpe de suerte único en la vida te encontraste con la ~chica más guapa de la ciudad~.",
         "visualnovel_kindThird": "\nEntonces, ¿qué tal si lideras el camino y nos sacas a los dos de este aprieto?",
 
 		"visualnovel_rudeFirst1": "\nEscucha, imbécil.",
@@ -465,7 +465,7 @@
         "visualnovel_middleResponseFirst5": "\nSoy Mirage.",
         "visualnovel_middleResponseFirst6": "Sin embargo, no te molestes en decirme tu nombre, realmente no me importa.",
 
-		"visualnovel_middleResponseSecond1": "\nQUE?",
+		"visualnovel_middleResponseSecond1": "\n¿QUÉ?",
         "visualnovel_middleResponseSecond2": "QUE MIERDA QUIERES DECIR CON 'NO QUIERO'?",
         "visualnovel_middleResponseSecond3": "\n¡Si NO me muestras el camino, entonces TÚ tampoco llegarás nunca!",
         "visualnovel_middleResponseSecond4": "¿O ese pensamiento ni siquiera cruzó tu cavidad cerebral alimentada con crayones? ",
