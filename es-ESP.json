@@ -20,7 +20,7 @@
 		"credits_helpedByTitle": "CON LA AYUDA DE:",
 		"credits_helpedBy1": "<color=orange>DAVE OSHRY</color> (PRODUCTOR EJECUTIVO)",
 		"credits_helpedBy2": "<color=orange>PITR</color> (PROGRAMADOR)",
-		"credits_helpedBy3": "<color=orange>RYANN VICTORIA</color> <size=18>(ARTISTA 3D Y PROGRAMADOR DE SHADERS)</size>",
+		"credits_helpedBy3": "<color=orange>RYAN VICTORIA</color> <size=18>(ARTISTA 3D Y PROGRAMADOR DE SHADERS)</size>",
 		"credits_helpedBy4": "<color=orange>SAMUEL JAMES BRYAN</color> (ARTISTA 3D)",
 		"credits_helpedBy5": "<color=orange>BIGROCKBMP</color> (ARTISTA CONCEPTUAL)",
 		"credits_helpedBy6": "<color=orange>JERICHO_RUS</color> <size=18>(ILUSTRADOR, ARTISTA CONCEPTUAL Y TEXTURAS)</size>",
@@ -366,7 +366,7 @@
 		"difficulty_standardDescription1": "Enemigos normales y alto daño.",
 		"difficulty_standardDescription2": "Los ataques son fáciles de evitar, pero un descuido resultará en una muerte rápida.",
 		"difficulty_standardDescription3": "Recomendado para jugadores nuevos.",
-		"difficulty_violentDescription1": "Enemigos rápidos, agresivos y un alto daño.",
+		"difficulty_violentDescription1": "Enemigos rápidos, agresivos y con un alto daño.",
 		"difficulty_violentDescription2": "Pensar rápido, aprovechar la movilidad y ser consciente de la situación es esencial.",
 		"difficulty_violentDescription3": "Recomendado para jugadores que ya se han acostumbrado al ritmo y las mecánicas del juego.",
 
@@ -414,9 +414,9 @@
         "visualnovel_introFirst7": "Las campanas me llaman.",
 
 		"visualnovel_introSecond1": "Mordí con más fuerza la última de mis raciones, sostenida solo por la piel de mis dientes.",
-        "visualnovel_introSecond2": "Apenas aguanto mientras seguía mirando frenéticamente a mi alrededor, esperando que los pocos fragmentos de mi ardiente memoria encuentren una vista familiar que me lleve a la salvación.",
+        "visualnovel_introSecond2": "Apenas aguanto mientras seguía mirando desesperadamente a mi alrededor, esperando que los pocos fragmentos de mi ardiente memoria encontrasen una vista familiar que me lleve a la salvación.",
         "visualnovel_introSecond3": "Las puertas deben estar cerrándose ahora.",
-        "visualnovel_introSecond4": "Los últimos apenas lo logran.",
+        "visualnovel_introSecond4": "Los últimos apenas logran llegar.",
         "visualnovel_introSecond5": "El resto nunca tuvo una oportunidad.",
 
 		"visualnovel_introSecond6": "Pero de repente y desde un punto ciego, una figura me golpeó.",
@@ -459,18 +459,18 @@
         "visualnovel_middlePrompt3": "\"No voy a la escuela.\"",
 
 		"visualnovel_middleResponseFirst1": "\n¡UGH! Estas cosas solo me pasan a mí.",
-        "visualnovel_middleResponseFirst2": "\nAunque en retrospectiva, supongo que no estarías aquí conmigo ahora mismo si no estuvieras perdido también...",
-        "visualnovel_middleResponseFirst3": "\nBueno, no tiene sentido llorar sobre sangre derramada.",
+        "visualnovel_middleResponseFirst2": "\nAunque pensándolo bien, supongo que no estarías conmigo ahora mismo si hubieses encontrado el camino...",
+        "visualnovel_middleResponseFirst3": "\nBueno, no tiene sentido llorar sobre la sangre derramada.",
         "visualnovel_middleResponseFirst4": "También podríamos esperar a que venga otro estudiante y seguirlo.",
         "visualnovel_middleResponseFirst5": "\nSoy Mirage.",
-        "visualnovel_middleResponseFirst6": "Sin embargo, no te molestes en decirme tu nombre, realmente no me importa.",
+        "visualnovel_middleResponseFirst6": "Sin embargo, no te molestes en decirme tu nombre, la verdad es que me da igual.",
 
 		"visualnovel_middleResponseSecond1": "\n¿QUÉ?",
         "visualnovel_middleResponseSecond2": "¡¿QUÉ MIERDA QUIERES DECIR CON QUE NO QUIERES?!",
         "visualnovel_middleResponseSecond3": "\n¡Si NO me muestras el camino, entonces TÚ tampoco llegarás nunca!",
         "visualnovel_middleResponseSecond4": "¿O es que ese pensamiento ni siquiera ha entrado en esa cabeza hueca? ",
 
-		"visualnovel_middleResponseThird1": "\nY una mierda!",
+		"visualnovel_middleResponseThird1": "\n¡Y una mierda!",
         "visualnovel_middleResponseThird2": "Déjate de tonterías, puedo ver ese asqueroso uniforme y ninguna persona viva se atrevería a salir luciendo como una bolsa de basura por elección propia.",
         "visualnovel_middleResponseThird3": "\nAunque teniendo en cuenta los estímulos que hay dentro de tu cerebro, estaría dispuesta a admitir que no pareces haber ido nunca a la escuela.",
 
@@ -606,8 +606,8 @@
         "visualnovel_nihilism42": "\nLo entiendo lógicamente, y sé que no hay razón para vivir en la apatía, pero mi lado emocional se niega a escuchar.",
         "visualnovel_nihilism43": "El miedo persiste y no puedo motivarme para buscar un propósito, a pesar de saber que debo hacerlo.",
 
-		"visualnovel_conclusion1": "\nBueno, seré condenada ",
-        "visualnovel_conclusion2": "\nSupongo que tienes una buena cabeza sobre tus hombros después de todo.",
+		"visualnovel_conclusion1": "\nBueno, quién lo diría.",
+        "visualnovel_conclusion2": "\nSupongo que sí tienes una buena cabeza sobre esos hombros.",
         "visualnovel_conclusion3": "Demonios, estoy impresionada.",
 		
 		"visualnovel_conclusion4": "\nLa verdad... ",
@@ -623,9 +623,9 @@
 		"visualnovel_conclusion11": "\nSinceramente... Ya es demasiado tarde para ir a la escuela y está bastante claro que nadie vendrá a guiarnos allí, entonces, ¿qué tal si tú y yo nos deshacemos de esa penitencia que drena la pasión y vamos a buscar algo para comer, eh?",
 
 		"visualnovel_conclusionPrompt1": "\"Sí, claro. No tengo nada mejor que hacer hoy. Pero tú pagas.\"",
-        "visualnovel_conclusionPrompt2": "\"No, lo siento. Para ser honesto, todavía estoy un poco enojado contigo por lo bruta que fuiste conmigo.\"",
+        "visualnovel_conclusionPrompt2": "\"No, lo siento. Para ser honesto, todavía estoy un poco molesto contigo por lo bruta que fuiste conmigo.\"",
 
-		"visualnovel_conclusionResponseFirst1": "\nOh, bastardo astuto!",
+		"visualnovel_conclusionResponseFirst1": "\n¡Oh, bastardo astuto!",
 		
 		"visualnovel_conclusionResponseFirst2": "\nPero está bien.",
         "visualnovel_conclusionResponseFirst3": "De todos modos, te debo una, así que qué mejor momento para cobrar tu cupón de 'le hice algo bueno a una chica fuera de mi alcance' que ahora, ¿eh?",
@@ -728,7 +728,7 @@
 		"graphics_colorCompressionMedium": "MEDIANO",
 		"graphics_colorCompressionStrong": "PESADO",
 		"graphics_colorCompressionVeryStrong": "MUY PESADO",
-		"graphics_colorCompressionAbsurd": "JUEGO DE ARTE INDIE",
+		"graphics_colorCompressionAbsurd": "ARTE INDIE",
 		"graphics_performance": "CONFIGURACIÓN DE RENDIMIENTO",
 		"graphics_performanceSimpleExplosions": "EXPLOSIONES SIMPLES",
 		"graphics_performanceSimpleFire": "FUEGO SIMPLE",
@@ -787,12 +787,12 @@
 		"crosshair_colorCyan": "CIAN",
 		"crosshair_colorYellow": "AMARILLO",
 		"crosshair_colorMagenta": "MAGENTA",
-		"crosshair_size": "TAMAÑO DEL HUD DE LA MIRA",
+		"crosshair_size": "TAMAÑO DEL LA MIRA",
 		"crosshair_sizeNone": "NINGUNO",
 		"crosshair_sizeThin": "DELGADA",
 		"crosshair_sizeMedium": "MEDIANA",
-		"crosshair_sizeThick": "GRUESO",
-		"crosshair_sizeVeryThick": "DEMASIADO GRUESO",
+		"crosshair_sizeThick": "GRUESA",
+		"crosshair_sizeVeryThick": "DEMASIADO GRUESA",
 		"crosshair_hudFade": "ESCONDER MIRA",
 		"crosshair_powerupBar": "MEDIDOR DE POTENCIADOR",
 
@@ -801,7 +801,7 @@
 		"assists_majorAssistsDisclaimer2": "Si las \"Ayudas Mayores\" están habilitadas en cualquier momento durante una misión, el rango obtenido al completarla tendrá un fondo azul. Este fondo se puede eliminar logrando el mismo rango o superior con las \"Ayudas Mayores\" deshabilitadas durante toda la misión.",
 		"assists_majorAssistsDisclaimer3": "Los rangos Perfecto y los puntajes altos de Ciber Rutina no se pueden lograr con las \"Ayudas Mayores\" habilitadas.",
 		"assists_majorAssistsDisclaimerConfirm": "¿HABILITAR AYUDAS MAYORES?",
-		"assists_majorAssistsDisclaimerConfirmYes": "SI",
+		"assists_majorAssistsDisclaimerConfirmYes": "SÍ",
 		"assists_majorAssistsDisclaimerConfirmNo": "NO",
 		"assists_minorAssistsTitle": "AYUDAS MENORES",
 		"assists_minor": "AYUDAS MENORES",
@@ -810,10 +810,10 @@
 		"assists_autoAimPercentMinimum": "NINGUNO",
 		"assists_autoAimPercentMaximum": "PANTALLA COMPLETA",
 		"assists_enemySilhouettes": "SILUETAS ENEMIGAS",
-		"assists_enemySilhouettesOutlines": "SOLO CONTORNO",
+		"assists_enemySilhouettesOutlines": "CONTORNO",
 		"assists_enemySilhouettesDistance": "DISTANCIA DE ACTIVACIÓN",
 		"assists_enemySilhouettesDistanceMinimum": "SIEMPRE",
-		"assists_enemySilhouettesOutlinesOnly": "SOLO ESQUEMA",
+		"assists_enemySilhouettesOutlinesOnly": "SOLO CONTORNOS",
 		"assists_major": "AYUDAS MAYORES",
 		"assists_majorActivate": "HABILITAR",
 		"assists_gameSpeed": "VELOCIDAD DEL JUEGO",
@@ -871,8 +871,8 @@
 		"pause_options": "OPCIONES",
 		"pause_quit": "SALIR DE LA MISIÓN",
 
-		"pause_restartConfirm": "¿Estás seguro que quieres REINICIAR esta misión?",
-        "pause_quitConfirm": "¿Estás seguro que quieres SALIR de esta misión?",
+		"pause_restartConfirm": "¿Estás seguro de que quieres REINICIAR esta misión?",
+        "pause_quitConfirm": "¿Estás seguro de que quieres SALIR de esta misión?",
         "pause_quitConfirmYes": "SÍ",
         "pause_quitConfirmNo": "CANCELAR",
         "pause_restartConfirmYes": "REINICIAR",
@@ -924,7 +924,7 @@
 		"levelName_heresySecond": "ESTÉTICAS DEL ODIO",
 
 		"levelName_primeFirst": "ESPÍRITU DE SUPERVIVIENTE",
-		"levelName_primeSecond": "???",
+		"levelName_primeSecond": "LA ESPERA DEL MUNDO",
 		"levelName_primeThird": "???"
 
 
