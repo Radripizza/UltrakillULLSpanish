@@ -930,23 +930,23 @@
 
 	},
 	"levelChallenges":{
-		"challenges_preludeFirst": "CONSIGUE 5 MUERTES ROMPIENDO UN SOLO PANEL DE VIDRIO",
+		"challenges_preludeFirst": "CONSIGUE 5 MUERTES ROMPIENDO UN SOLO CRISTAL",
 		"challenges_preludeSecond": "VENCE AL JEFE SECRETO",
 		"challenges_preludeThird": "MATA UN SOLO ENEMIGO",
-		"challenges_preludeFourth": "DESLÍZATE ININTERRUMPIDAMENTE POR 17 SEGUNDOS",
-		"challenges_preludeFifth": "NO INFLIJAS DAÑO FATAL A NINGUN ENEMIGO",
+		"challenges_preludeFourth": "DESLÍZATE ININTERRUMPIDAMENTE DURANTE 17 SEGUNDOS",
+		"challenges_preludeFifth": "NO INFLIJAS DAÑO MORTAL A NINGÚN ENEMIGO",
 
 		"challenges_limboFirst": "COMPLETA EL NIVEL EN MENOS DE 10 SEGUNDOS",
-		"challenges_limboSecond": "NO AGARRES NINGUN CRÁNEO",
+		"challenges_limboSecond": "NO AGARRES NINGÚN CRÁNEO",
 		"challenges_limboThird": "VENCE AL JEFE SECRETO",
-		"challenges_limboFourth": "NO AGARRES NINGUN CRÁNEO",
+		"challenges_limboFourth": "NO AGARRES NINGÚN CRÁNEO",
 
 		"challenges_lustFirst": "NO ABRAS NINGUNA PUERTA",
 		"challenges_lustSecond": "COMPLETA EL NIVEL EN MENOS DE 60 SEGUNDOS",
 		"challenges_lustThird": "NO TOQUES EL AGUA",
 		"challenges_lustFourth": "DESVÍA UN GOLPE",
 
-		"challenges_gluttonyFirst": "MATA A UN MINDFLAYER CON ÁCIDO",
+		"challenges_gluttonyFirst": "MATA UN MINDFLAYER CON ÁCIDO",
 		"challenges_gluttonySecond": "TIRA A GABRIEL AL FOSO",
 
 		"challenges_greedFirst": "NO ACTIVES NINGÚN ENEMIGO",
@@ -1227,7 +1227,7 @@
 		"enemyname_v2": "V2",
         "enemyname_v2Second": "V2 (2do)",
 		"enemyname_mindFlayer": "MINDFLAYER",
-		"enemyname_malFace": "CARA MALISIOSA",
+		"enemyname_malFace": "CARA MALICIOSA",
 		"enemyname_cerberus": "CERBERO",
 		"enemyname_hideousMass": "MASA HORRIBLE",
         "enemyname_leviathan": "LEVIATÁN",
@@ -1327,9 +1327,9 @@
 
 		"cheats_spawnerArmSlot": "Brazo de spawn en Slot 6",
 
-		"cheats_dupesTitle": "SANDBOX SAVES",
+		"cheats_dupesTitle": "GUARDADOS DE SANDBOX",
         "cheats_dupesSaveNamePrompt": "Dale un nombre",
-        "cheats_dupesNewSave": "Nuevo Save",
+        "cheats_dupesNewSave": "Nuevo Guardado",
         "cheats_dupesOpenFolder": "ABRIR DIRECTORIO",
         "cheats_dupesSave": "GUARDAR",
         "cheats_dupesLoad": "CARGAR",
@@ -1614,7 +1614,7 @@
         "tutorial_audioCalibrationWarningPromptYes": "CONTINUAR SIN SONIDO",
         "tutorial_audioCalibrationWarningPromptNo": "CANCELAR",
 
-		"tutorial_videoCalibrationTitle": "CALIBRACIÓN MANUAL DE VIDEO",
+		"tutorial_videoCalibrationTitle": "CALIBRACIÓN MANUAL DE VÍDEO",
         "tutorial_videoCalibrationPcDescription": "SUAVE, CLARO, FÁCIL DE LEER",
         "tutorial_videoCalibrationPsxDescription": "ÁSPERO, PIXELADO, DEFORMADO",
 
