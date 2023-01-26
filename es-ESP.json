@@ -1315,7 +1315,7 @@
         "cheats_static": "ESTÁTICA",
         "cheats_dynamic": "DINÁMICA",
         "cheats_rebuild": "RECONSTRUIR",
-        "cheats_rebuilding": "REARMANDO...",
+        "cheats_rebuilding": "RECONSTRUYENDO...",
 
 		"cheats_activated": "ACTIVADO",
         "cheats_deactivated": "DESACTIVADO",
@@ -1333,7 +1333,7 @@
         "cheats_dupesOpenFolder": "ABRIR DIRECTORIO",
         "cheats_dupesSave": "GUARDAR",
         "cheats_dupesLoad": "CARGAR",
-        "cheats_dupesDelete": "ELEMINAR",
+        "cheats_dupesDelete": "ELIMINAR",
 
 		"cheats_categoryMeta": "META",
         "cheats_categorySandbox": "SANDBOX",
@@ -1585,7 +1585,7 @@
 		"tutorial_introStartup1": "SECUENCIA DE ARRANQUE",
 		"tutorial_introStartup2": "LISTA",
 		"tutorial_introVersion1": "FIRMWARE",
-		"tutorial_introVersion2": "ULTIMA VERSIÓN (2112.08.06)",
+		"tutorial_introVersion2": "úLTIMA VERSIÓN (2112.08.06)",
 		"tutorial_introCalibration1": "CALIBRACIÓN",
 		"tutorial_introCalibration2": "RECIENTEMENTE ACTUALIZADA",
         "tutorial_recalibrationPrompt": "¿REALIZAR RECALIBRACIÓN?",
@@ -1665,7 +1665,7 @@
 		"prelude_secret_somethingWicked": "Algo malo viene en camino."
 	},
 	"act1":{
-		"act1_limboFirst_items1": "Toca",
+		"act1_limboFirst_items1": "Presiona",
 		"act1_limboFirst_items2": "para agarrar <color=orange>OBJETOS</color>",
 		"act1_limboFirst_nailgun1": "NAILGUN: dispara",
 		"act1_limboFirst_nailgun2": "<color=orange>IMÁN DE CLAVOS</color>.",
@@ -1678,13 +1678,13 @@
 
 		"act1_limboFourth_book": "<color=orange>AGARRA</color> PARA LEER.",
 		"act1_limboFourth_hank1": "No pasa nada, pero sientes una extraña satisfacción.",
-		"act1_limboFourth_hank2": "decides nombrarlo Hank.",
+		"act1_limboFourth_hank2": "Decides llamarlo Hank.",
 		"act1_limboFourth_alternateRevolver": "Las versiones <color=orange>ALTERNATIVAS</color> cambiarán el comportamiento base de un arma.\nPueden ser equipados en la <color=orange>TIENDA</color>.",
 		"act1_limboFourth_newArm": "Para <color=orange>EQUIPAR</color> los brazos presiona",
 
-		"act1_limboSecret_noclipSkip": "\"PARECE QUE ESTÁS EN EL LÍMITE DEL INGENIO\"$T.HAKITA",
+		"act1_limboSecret_noclipSkip": "\"PARECE QUE ESTÁS AL LÍMITE DE TU INGENIO\"$T.HAKITA",
 
-		"act1_lustFirst_knuckleblaster1": "<color=red>KNUCKLEBLASTER</color>: <color=orange>MANTEN</color>",
+		"act1_lustFirst_knuckleblaster1": "<color=red>KNUCKLEBLASTER</color>: <color=orange>MANTÉN</color>",
 		"act1_lustFirst_knuckleblaster2": "para crear una\n<color=orange>ONDA DE CHOQUE</color>\nEso empujará a los enemigos.",
 		"act1_lustFirst_dashjump": "<color=cyan>SALTO IMPULSADO</color>: Mientras te <color=cyan>IMPULSAS</color> <color=orange>SALTA</color> para darle mas impulso a ese salto.",
 
@@ -1699,7 +1699,7 @@
 	"act2":{
 		"act2_greedSecond_sand": "LOS ENEMIGOS CUBIERTOS DE ARENA <color=red>NO SANGRAN</color>",
 
-		"act2_greedThird_wallClip": "\"LA SUCIEDAD SE HA IDO, PERO EL RECUERDO PERMANECE.\"$T. HAKITA",
+		"act2_greedThird_wallClip": "\"YA NO HAY SUCIEDAD, PERO EL RECUERDO PERMANECE.\"$T. HAKITA",
 		"act2_greedThird_troll1": "Algo malo viene en camino.",
 		"act2_greedThird_troll2": "Es broma :)",
         "act2_greedThird_tombOfKings": "TUMBA DE REYES",
@@ -1712,15 +1712,15 @@
 		"act2_greedFourth_whiplashHardDamage1": "<size=23><color=lime>GANCHO</color>: Acumula la <color=silver>CICATRIZ</color> cuando se usa en <color=orange>ENEMIGOS</color>.</size>",
 		"act2_greedFourth_whiplashHardDamage2": "<size=23><color=orange>NO PUEDE REDUCIR HP</color>, pero es arriesgado de usar con poca salud.</size>",
 
-		"act2_greedSecret_holdToJump1": "MANTENGA PULSADO",
+		"act2_greedSecret_holdToJump1": "MANTÉN PULSADO",
         "act2_greedSecret_holdToJump2": "PARA REBOTAR MÁS ALTO",
         "act2_greedSecret_transactionComplete1": "TRANSACCIÓN COMPLETA:",
         "act2_greedSecret_transactionComplete2": "MONEDAS",
 
 		"act2_greed_secretDoor": "Un ojo se abre.",
 
-		"act2_wrathFirst_slingshot": "Los <color=cyan>PUNTOS DE ENGANCHE AZULES</color> actúan como tirachinas",
-        "act2_wrathFirst_whiplashUnderwater": "<color=lime>GANCHO</color>:<color=orange>NO</color> acumula <color=grey>CICATRIZ</color> mientras estás <color=orange>BAJO EL AGUA</color>.\nVuelvete loco, que te diviertas.",
+		"act2_wrathFirst_slingshot": "Los <color=cyan>PUNTOS DE ENGANCHE AZULES</color> actúan como un tirachinas",
+        "act2_wrathFirst_whiplashUnderwater": "<color=lime>GANCHO</color>:<color=orange>NO</color> acumula <color=grey>CICATRIZ</color> mientras estás <color=orange>BAJO EL AGUA</color>.\nVuélvete loco y que te diviertas.",
         "act2_wrathFirst_waterDrained": "El agua ha sido drenada",
         "act2_wrathFirst_sentry": "<color=lime>INTERRUMPE AL CENTINELA</color>: Knuckleblaster (Brazo Rojo) // Railcannon // Onda de choque del pisotón // Disparar a la antena",
 
@@ -1730,7 +1730,7 @@
         "act2_wrathSecond_jakito2": "<color=red>NO. DEBE SER CARNE INOCENTE.</color>",
         "act2_wrathSecond_jakito3": "<color=red>GRACIAS. AHORA DESTRUIRÉ ESTE MUNDO.</color>",
 
-		"act2_wrathThird_rocketLauncher": "<color=cyan>LANZACOHETES</color>: Golpes <color=orange>DIRECTOS</color> causan <color=orange>EXPLOCIONES</color>.\nLos golpes indirectos lanzarán enemigos.",
+		"act2_wrathThird_rocketLauncher": "<color=cyan>LANZACOHETES</color>: Golpes <color=orange>DIRECTOS</color> causan <color=orange>EXPLOSIONES</color>.\nLos golpes indirectos lanzarán enemigos.",
         "act2_wrathThird_rocketLauncherMidair": "<color=cyan>LANZACOHETES</color>: los impactos directos sobre enemigos <color=orange>CAYENDO</color> provocarán una explosión <color=orange>MÁS FUERTE</color>.",
         "act2_wrathThird_soldierBlock": "Los soldados <color=orange>NO PUEDEN</color> bloquear explosiones mientras están en el <color=orange>AIRE</color>.\nDispara un cohete <color=orange>CERCA</color> de ellos para lanzarlos.",
         "act2_wrathThird_hank": "No pasa nada, pero estás seguro de que Hank Jr. y sus Hankcestros lo agradecerían... si no estuvieran muertos.",
@@ -1807,7 +1807,7 @@
 
 		"subtitles_gabriel_defeated1": "¿Qué..?",
         "subtitles_gabriel_defeated2": "¿Cómo es posible?",
-        "subtitles_gabriel_defeated3": "Superado por esta...",
+        "subtitles_gabriel_defeated3": "¿Superado por esta...",
         "subtitles_gabriel_defeated4": "esta cosa..?",
         "subtitles_gabriel_defeated5": "¡Tú chatarra de MIERDA insignificante!",
         "subtitles_gabriel_defeated6": "¡ESTO NO HA TERMINADO!",
