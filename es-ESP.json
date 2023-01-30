@@ -256,14 +256,14 @@
 
 		"act2_intermission_first7": "Dos derrotas a manos de la máquina habían cambiado a Gabriel.",
 		"act2_intermission_first8": "El mundo de la una vez supuesta Voluntad de Dios ahora estaba hecho añicos y solo quedaba él para volver a juntar las piezas.",
-		"act2_intermission_first9": "Se reunieron ante la luz de un fuego moribundo que el combustible nuevo no podía sostener, esta nueva luz le mostró la verdad a Gabriel:",
+		"act2_intermission_first9": "Se reunieron ante la luz de un fuego moribundo que el nuevo combustible no podía sostener, esta nueva luz le mostró la verdad a Gabriel:",
 
 		"act2_intermission_first10": "Para empezar, las piezas nunca encajaron.",
 
 		"act2_intermission_second1": "El supuesto Consejo de \"el pueblo\" que se jactaba de un Dios que no estaba.",
 		"act2_intermission_second2": "Desaparecido.",
 		"act2_intermission_second3": "Desvanecido.",
-		"act2_intermission_second4": "El Consejo todavía persiguió la luz del fuego de Dios, su memoria de sus palabras y voluntad creció torcida y torcida, y el resto de las masas sin rumbo del Cielo siguen sus pasos.",
+		"act2_intermission_second4": "El Consejo todavía persiguió la luz del fuego de Dios, la memoria de sus palabras y voluntad creció torcida y deformada, y el resto de las masas sin rumbo del Cielo siguen sus pasos.",
 		"act2_intermission_second5": "Los ángeles aún actúan en el nombre del Padre, pero su reino ha cambiado.",
 
 		"act2_intermission_second6": "Ahora el fuego se estaba extinguiendo, chisporroteando mientras el calor no lograba apoderarse de él.",
@@ -275,7 +275,7 @@
 		"act2_intermission_second11": "Eligió hacer algo drástico.",
 
 		"act2_intermission_third1": "La muerte tiñe el auditorio.",
-		"act2_intermission_third2": "Los cadáveres esparcidos del alguna vez poderoso consejo ahora yacen contra sus superficies, sus últimos respiros de vida goteando por la hoja disidente de la espada de Gabriel.",
+		"act2_intermission_third2": "Los cadáveres esparcidos del alguna vez poderoso consejo ahora yacen sobre sus superficies, con los últimos jadeos de vida goteando por la hoja disidente de la espada de Gabriel.",
 
 		"act2_intermission_third3": "El último consejero, ahora apoyado contra una pared, busca las palabras entre respiraciones aterrorizadas mientras la muerte se acerca con pasos medidos.",
 		"act2_intermission_third4": "\"¡E-Espera!",
@@ -285,12 +285,12 @@
 		
 		"act2_intermission_third8": "\"Tú no ordenas nada.",
 		"act2_intermission_third9": "Tus palabras no tienen poder sobre mí ni sobre nadie más.",
-		"act2_intermission_third10": "Para que no creas realmente que puedes convencer a mi espada de que vuelva a su vaina.\"",
+		"act2_intermission_third10": "Como si creyeras que realmente que puedes convencer a mi espada de que vuelva a su vaina.\"",
 
 		"act2_intermission_fourth1": "\"¡P-Pero la gente está de nuestro lado!",
 		"act2_intermission_fourth2": "¡Los ciudadanos del cielo saben que somos justos!\"",
 		"act2_intermission_fourth3": "\"Las masas solo te siguen por miedo y desesperación.",
-		"act2_intermission_fourth4": "Les mostraré que no hay nada que temer, porque no hay especie ni origen, rango investido o estatus sagrado que detenga el filo de una espada.",
+		"act2_intermission_fourth4": "Les mostraré que no hay nada que temer, porque no hay especie ni origen, rango o estatus sagrado que detenga el filo de una espada.",
 
 		"act2_intermission_fourth5": "Todos sangramos la misma sangre, y los cojines de vuestros tronos os han hecho débiles e impotentes.\"",
 
@@ -314,9 +314,9 @@
 		"act2_intermission_fifth5": "Un corte limpio y silencioso se desliza por el cuello del consejero, cortando su columna vertebral con elegancia y facilidad.",
 		"act2_intermission_fifth6": "Su cabeza cae al suelo de mármol, el resto de su cuerpo lo sigue poco después.",
 
-		"act2_intermission_sixth1": "Desprovisto de estatus pero rebosante de propósito, Gabriel dio un mensaje final a los ángeles reunidos a las puertas del auditorio antes de dejar el Cielo por última vez.",
+		"act2_intermission_sixth1": "Desprovisto de su estatus pero rebosante de propósito, Gabriel dio un mensaje final a los ángeles reunidos a las puertas del auditorio antes de dejar el Cielo por última vez.",
 
-		"act2_intermission_sixth2": "Su brazo extendido, sin una palabra, la gente vio.",
+		"act2_intermission_sixth2": "Su brazo extendido, sin mediar palabra, la gente vio.",
 		"act2_intermission_sixth3": "En el silencio, el mensaje resonó hasta los confines del cosmos.",
 
 		"act1_intermission_tobecontinued": "CONTINUARÁ EN... <color=red>ACTO II: ODIO IMPERFECTO</color>",
@@ -833,7 +833,7 @@
 		"colors_hudHealthNumber": "PORCENTAJE DE SALUD",
 		"colors_hudDamage": "DAÑO SUAVE",
 		"colors_hudHardDamage": "CICATRIZ",
-		"colors_hudOverheal": "OVERHEAL",
+		"colors_hudOverheal": "SALUD EXTRA",
 		"colors_hudEnergyFull": "ESTAMINA (LLENA)",
 		"colors_hudEnergyPartial": "ESTAMINA (CARGANDO)",
 		"colors_hudEnergyEmpty": "ESTAMINA (VACÍA)",
@@ -1931,7 +1931,7 @@
         "hud_noArm2": "Los brazos se pueden reequipar en la tienda",
         "hud_majorAssists": "<color=#4C99E6>LAS AYUDAS MAYORES ESTÁN HABILITADAS</color>",
         "hud_overhealOrb1": "Los <color=red>ORDES DE ALMAS ROJOS</color> dan <color=lime>200 DE VIDA</color>",
-        "hud_overhealOrb2": "Esta sobrecarga no puede regenerarse con sangre",
+        "hud_overhealOrb2": "Esta Sauld Extra no puede regenerarse con sangre",
         "hud_itemGrabError": "<color=red>ERROR: LA PUERTA DE BLOQUEO SE CERRARÍA</color>",
         "hud_levelStats1": "Mantén presionada la tecla TAB para ver las estadísticas actuales al JUGAR un nivel.",
         "hud_levelStats2": "DOBLE TAB para mantenerlo abierto.",
