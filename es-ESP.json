@@ -1255,24 +1255,23 @@
         "enemyname_boss_insurrectionistRude": "INSURGENTE \"RUDA\"",
         "enemyname_boss_gabrielSecond": "GABRIEL, APÓSTATA DEL ODIO",
 
-		"enemyname_type_lesserHusk": "TIPO: CÁSCARA MENOR",
-        "enemyname_type_greaterHusk": "TIPO: CÁSCARA MAYOR",
-        "enemyname_type_supremeHusk": "TIPO: CÁSCARA SUPREMA",
+		"enemyname_type_lesserHusk": "CÁSCARA MENOR",
+        "enemyname_type_greaterHusk": "CÁSCARA MAYOR",
+        "enemyname_type_supremeHusk": "CÁSCARA SUPREMA",
 
-		"enemyname_type_lesserDemon": "TIPO: DEMONIO MENOR",
-        "enemyname_type_greaterDemon": "TIPO: DEMONIO MAYOR",
-        "enemyname_type_supremeDemon": "TIPO: DEMONIO SUPREMO",
+		"enemyname_type_lesserDemon": "DEMONIO MENOR",
+        "enemyname_type_greaterDemon": "DEMONIO MAYOR",
+        "enemyname_type_supremeDemon": "DEMONIO SUPREMO",
 
-		"enemyname_type_lesserMachine": "TIPO: MÁQUINA MENOR",
-        "enemyname_type_greaterMachine": "TIPO: MÁQUINA MAYOR",
-        "enemyname_type_supremeMachine": "TIPO: MÁQUINA SUPREMA",
+		"enemyname_type_lesserMachine": "MÁQUINA MENOR",
+        "enemyname_type_greaterMachine": "MÁQUINA MAYOR",
+        "enemyname_type_supremeMachine": "MÁQUINA SUPREMA",
 
-		"enemyname_type_lesserAngel": "TIPO: ÁNGEL MENOR",
-        "enemyname_type_greaterAngel": "TIPO: ÁNGEL MAYOR",
-        "enemyname_type_supremeAngel": "TIPO: ÁNGEL SUPREMO",
+		"enemyname_type_lesserAngel": "ÁNGEL MENOR",
+        "enemyname_type_greaterAngel": "ÁNGEL MAYOR",
+        "enemyname_type_supremeAngel": "ÁNGEL SUPREMO",
 
-		"enemyname_type_primeSoul": "TIPO: ALMA PRIME"
-
+		"enemyname_type_primeSoul": "ALMA PRIME"
 	},
 
 	"cheats":{
