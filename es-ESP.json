@@ -392,7 +392,7 @@
 		"level_challenge": "DESAFÍO",
 		"level_challengeCompleted": "COMPLETO",
 
-		"level_fullIntroPrompt": "INTRO\n COMPLETA?",
+		"level_fullIntroPrompt": "<size=45>INTRO COMPLETA?</size>",
 		"level_fullIntroPromptYes": "SÍ",
 		"level_fullIntroPromptNo": "NO",
 		"level_fullIntroPromptCancel": "CANCELAR"
@@ -1850,7 +1850,7 @@
         "subtitles_minosPrime_attack2": "¡Tu final está aquí!",
         "subtitles_minosPrime_attack3": "¡Muere!",
         "subtitles_minosPrime_attack4": "¡Te aplastaré!",
-        "subtitles_minosPrime_attack5": "¡Justicia!",
+        "subtitles_minosPrime_attack5": "¡Juicio!",
 
 		"subtitles_minosPrime_taunt1": "Inútil",
         "subtitles_minosPrime_phaseChange": "DÉBIL",
