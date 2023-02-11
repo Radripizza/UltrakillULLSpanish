@@ -1859,11 +1859,11 @@
         "subtitles_minosPrime_defeated3": "porque no pude salvarlos",
         "subtitles_minosPrime_defeated4": "de este frío y impuesto país",
 
-		"subtitles_gabrielBoat1": "No temas, bostero",
-        "subtitles_gabrielBoat2": "Tu devoción al Diego muestra lo hincha en ti.",
+		"subtitles_gabrielBoat1": "No temas campeón",
+        "subtitles_gabrielBoat2": "Tu devoción a la selección es enorme.",
         "subtitles_gabrielBoat3": "Abundante de hecho",
-        "subtitles_gabrielBoat4": "El corazón está dispuesto, pero la plata no dá",
-        "subtitles_gabrielBoat5": "Para que no desperdicies una de las creaciones del Señor",
+        "subtitles_gabrielBoat4": "La plata no dá, pero la alegría sí",
+        "subtitles_gabrielBoat5": "Pará que no mandés a la mierda las cosas del Señor",
 
 		"subtitles_gabrielHeresy1": "Compu, sé que estás aquí",
         "subtitles_gabrielHeresy2": "Puedo oler el hedor insolente de tu bolsillo lleno de carteras",
@@ -1993,8 +1993,8 @@
 
 		"pressToSkip": "Toca <color=orange>ESC</color> para omitir",
 
-		"youDied1": "[ESTÁS MUERTO]",
-        "youDied2": "PRESIONA [R] PARA REINICIAR",
+		"youDied1": "[TE ROBARON]",
+        "youDied2": "PRESIONA [R] PARA IR A LA VILLA",
 
 		"classicHud_health": "SALUD",
         "classicHud_stamina": "ESTAMINA",
