@@ -971,8 +971,8 @@
 		"leveltips_preludeThird2": "<color=orange>Deslizar</color>: Mayor distancia, sin invencibilidad.",
 		"leveltips_preludeThird3": "<color=orange>Salto</color>: Rápidamente fuera del alcance cuerpo a cuerpo, menos control.",
 
-		"leveltips_preludeFourth1": "<color=orange>Parry de Escopeta</color>:",
-		"leveltips_preludeFourth2": "Un disparo de escopeta en el <color=orange>torso</color=orange> justo antes de que caiga un ataque enemigo infligirá daño masivo.",
+		"leveltips_preludeFourth1": "<color=orange>Parry de Escopeta:</color>",
+		"leveltips_preludeFourth2": "Un disparo de escopeta en el <color=orange>torso</color> justo antes de que caiga un ataque enemigo infligirá daño masivo.",
 
 		"leveltips_preludeFifth": "Las <Color=orange>Señales de sonido de ataque</color> te permite realizar un seguimiento de los enemigos que están fuera de tu visión.",
 
