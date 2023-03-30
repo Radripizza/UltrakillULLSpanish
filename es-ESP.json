@@ -6,7 +6,7 @@
 		"langDisplayName": "Español",
         "langRTL": "false",
 		
-		"minimumModVersion": "1.1.1"
+		"minimumModVersion": "1.1.2"
 	},
 
 	"body": {
@@ -918,14 +918,14 @@
 		"levelName_wrathSecond": "OLAS DE UN MAR SIN ESTRELLAS",
 		"levelName_wrathThird": "BARCO DE NECIOS",
 		"levelName_wrathFourth": "LEVIATÁN",
-		"levelName_wrathSecret": "???",
+		"levelName_wrathSecret": "SÓLO DIGO MAÑANA",
 
 		"levelName_heresyFirst": "LLANTO DEL LLORÓN",
 		"levelName_heresySecond": "ESTÉTICAS DEL ODIO",
 
 		"levelName_primeFirst": "ESPÍRITU DE SUPERVIVIENTE",
 		"levelName_primeSecond": "EL ESPERAR DEL MUNDO",
-		"levelName_primeThird": "???"
+		"levelName_primeThird": "EL ESPERAR DEL MUNDO"
 
 
 	},
@@ -1813,24 +1813,24 @@
         "subtitles_gabriel_defeated7": "Que tus males sean muchos",
         "subtitles_gabriel_defeated8": "y tus días pocos",
 
-		"subtitles_mandalore_intro1": "<color=#FFC49E>Finalmente, hemos resuelto el puzzle de esperar.</color>",
+		"subtitles_mandalore_intro1": "<color=#FFC49E>Finalmente, hemos resuelto el puzzle de estar esperando.</color>",
         "subtitles_mandalore_intro2": "<color=#9EE6FF>¿Qué?</color>",
 
 		"subtitles_mandalore_taunt1": "<color=#9EE6FF>Voy a envenenarte joder</color>",
         "subtitles_mandalore_taunt2": "<color=#9EE6FF>Te voy a disparar con un arma</color>",
-        "subtitles_mandalore_taunt3": "<color=#FFC49E>Ni te imaginas a lo que te enfrentarás aquí</color>",
-        "subtitles_mandalore_taunt4": "<color=#FFC49E>Mantén la calma</color>",
+        "subtitles_mandalore_taunt3": "<color=#FFC49E>Ni te imaginas lo que te enfrentarás aquí</color>",
+        "subtitles_mandalore_taunt4": "<color=#FFC49E>Quieto</color>",
         "subtitles_mandalore_taunt5": "<color=#9EE6FF>¿Por qué estamos en el pasado?</color>",
 
-		"subtitles_mandalore_attack1": "Automático Completo",
-        "subtitles_mandalore_attack2": "Atomáticamente Completo",
+		"subtitles_mandalore_attack1": "Automático",
+        "subtitles_mandalore_attack2": "Más Automático",
 
 		"subtitles_mandalore_phaseChangeFirst1": "<color=#FFC49E>¡Por la magia de los druidas, aumento mi velocidad!</color>",
-        "subtitles_mandalore_phaseChangeFirst2": "<color=#9EE6FF>Golpéalo y ya</color>",
+        "subtitles_mandalore_phaseChangeFirst2": "<color=#9EE6FF>Ya golpéalo</color>",
         "subtitles_mandalore_phaseChangeSecond1": "<color=#FFC49E>¡Siente mi máxima velocidad!</color>",
         "subtitles_mandalore_phaseChangeSecond2": "<color=#9EE6FF>Más despacio</color>",
-        "subtitles_mandalore_phaseChangeThird1": "<color=#9EE6FF>¡Usa la arena!</color>",
-        "subtitles_mandalore_phaseChangeThird2": "<color=#FFC49E>¡Estoy llegando!</color>",
+        "subtitles_mandalore_phaseChangeThird1": "<color=#9EE6FF>¡Usa la Sal!</color>",
+        "subtitles_mandalore_phaseChangeThird2": "<color=#FFC49E>¡Ya casi!</color>",
 
 		"subtitles_mandalore_defeated": "<color=#9EE6FF>Oh genial, hemos perdimos, fantástico</color>",
 
@@ -1856,7 +1856,7 @@
         "subtitles_minosPrime_phaseChange": "DÉBIL",
 
 		"subtitles_minosPrime_defeated1": "¡Aagh!",
-        "subtitles_minosPrime_defeated2": "Perdonenme mis hijos",
+        "subtitles_minosPrime_defeated2": "Perdonadme hijos míos",
         "subtitles_minosPrime_defeated3": "por haber fallado en traerles la salvación",
         "subtitles_minosPrime_defeated4": "de este frío y oscuro mundo",
 
