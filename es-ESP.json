@@ -2174,7 +2174,7 @@
 			"primeSanctum_first_secretText8": "<size=17>Algunos investigadores han bromeado diciendo que quizás los terminales son simplemente \"demasiado tímidos para cantar\", aunque se han difundido rumores de mecánicos que, después de reparar una terminal defectuosa o rota, se dice que escuchó la terminal tocar una sección vocal cuando solo el mecánico estaba presente sin equipo de grabación, lo que hace que este sea un reclamo no verificable.",
 			"primeSanctum_first_secretText9": "FIN DE LOS DATOS 01. Para más información, ver <color=red>[LINK BORRADO]</color> y <color=red>[LINK BORRADO]</color></size>.",
 			
-		    "primeSanctum_second_lockFirstLocked": "<size=12>BLOQUEO [A]</size>",
+			"primeSanctum_second_lockFirstLocked": "<size=12>BLOQUEO [A]</size>",
 			"primeSanctum_second_lockSecondLocked": "<size=12>BLOQUEO [B]</size>",
 			"primeSanctum_second_lockThirdLocked": "<size=12>BLOQUEO [C]</size>",
 			"primeSanctum_second_lockUnlocked": "<size=8>DESBLOQUEADO</size>",
@@ -2201,7 +2201,7 @@
 			"primeSanctum_second_secretText10": "Parece que esta relación se ha arraigado tanto en la existencia de los terminales que han desarrollado una jerarquía social, en la que aquellos que recopilan los datos de batalla más entretenidos son considerados en mayor estima que aquellos cuyos hallazgos son de peor calidad.",
 			"primeSanctum_second_secretText11": "Más recientemente, los terminales también han recopilado datos suficientes para crear un espacio de simulación al que dejan conectarse a las máquinas llamado \"Ciber Rutina\", que permite a las máquinas simular batallas en un entorno seguro sin la amenaza de ser destruidas, que los terminales observan en tiempo real como una especie de entretenimiento en vivo.",
 			"primeSanctum_second_secretText12": "Estos hallazgos son realmente extraordinarios y, aunque a nosotros también nos cueste creerlo, toda la información que conseguimos reunir valida estas afirmaciones. Si podemos demostrarlo con certeza <color=grey>[Y SI ESTE BORRADOR NO SE FILTRA OTRA VEZ...]</color>, esto provocará un cambio de paradigma que obligará a reevaluar todo lo que creíamos saber sobre la maquinaria que funciona con sangre.",
-			"primeSanctum_second_secretText13": "FIN DE LOS DATOS 02 Para más información sobre el proyecto cancelado de exploración y excavación de Hell, consulte DATOS 00: <color=red>[LINK BORRADO]</color>"
+			"primeSanctum_second_secretText13": "FIN DE LOS DATOS 02. Para más información sobre el proyecto cancelado de exploración y excavación de Hell, consulte DATOS 00: <color=red>[LINK BORRADO]</color>."
 		},
 		"secretLevels": {
 			"secretLevels_prelude_somethingWicked": "Algo malo viene en camino.",
